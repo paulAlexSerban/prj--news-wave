@@ -1,4 +1,7 @@
 # Java-Software-Engineering
 
 ## Data Structures and Algorithms Workbook
-*  [Java Workbook](https://github.com/paulAlexSerban/Java-Workbook)
+* [Java Algorithms anbd Data Structures]()
+
+## Certificates
+* [Java Programming Masterclass](https://www.udemy.com/certificate/UC-0708e5aa-bde7-4e09-b59d-0ebd3b8cd988)
