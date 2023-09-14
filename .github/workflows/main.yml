@@ -6,7 +6,7 @@ on:
   schedule:
       - cron: "0 7 * * *"
 jobs:
-  build-and-deploy:
+  fetch-news:
     runs-on: ubuntu-latest
     env:
       NODE_VERSION: 18.17.1
@@ -48,7 +48,6 @@ jobs:
       - name: "📰 Build News Page"
         run: |
           cp -r ./cache ./dist/feed
-          npm run build
   
       - name: Deploy to GhPages 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v4

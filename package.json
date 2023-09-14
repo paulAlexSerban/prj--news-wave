@@ -6,10 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "fetch:tech": "node source/fetch.js tech",
-    "fetch:ukraine": "node source/fetch.js ukraine",
-    "fetch:covid": "node source/fetch.js covid",
-    "fetch:web": "node source/fetch.js web",
-    "fetch:romania": "node source/fetch.js romania",
+    "fetch:web-dev": "node source/fetch.js web-dev",
     "fetch": "npm-run-all --parallel fetch:*",
     "build": "node source/build.js",
     "serve": "serve dist"
