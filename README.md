@@ -49,19 +49,13 @@ NewsWave is an automated RSS news feed aggregator that fetches, parses, and disp
 
 ## Usage
 
-1. Add your RSS feed URLs in the `index.js` file
-
-    ```javascript
-    const url = 'https://your-rss-feed-url.com';
-    ```
-
-2. Run the script locally (optional)
+Run the locally (optional)
 
     ```bash
-    node index.js
+    npm run fetch
+    npm run build
     ```
-
-3. Push your changes to GitHub to trigger the GitHub Actions workflow.
+Push your changes to GitHub to trigger the GitHub Actions workflow.
 
 ## Contributing
 
