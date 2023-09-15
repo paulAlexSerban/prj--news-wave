@@ -48,6 +48,7 @@ jobs:
       - name: "📰 Build News Page"
         run: |
           cp -r ./cache ./dist
+          npm run build
   
       - name: Deploy to GhPages 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v4

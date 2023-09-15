@@ -6,19 +6,6 @@
 
 NewsWave is an automated RSS news feed aggregator that fetches, parses, and displays articles from various RSS feed sources. The application is built using Node.js, Axios, and RSS-Parser. It's designed to be completely automated via GitHub Actions, which fetch the latest articles and deploy them to GitHub Pages.
 
-## Table of Contents
-
-- [NewsWave (RSS News Feed Application)](#newswave-rss-news-feed-application)
-  - [Table of Contents](#table-of-contents)
-  - [Features](#features)
-  - [Getting Started](#getting-started)
-    - [Prerequisites](#prerequisites)
-    - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [License](#license)
-  - [Acknowledgements](#acknowledgements)
-
 ## Features
 
 -   **Automated Fetching**: Fetches the latest articles from your specified RSS feed sources.
@@ -57,17 +44,8 @@ Run the locally (optional)
     ```
 Push your changes to GitHub to trigger the GitHub Actions workflow.
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgements
 
--   [Axios](https://github.com/axios/axios) for fetching RSS feeds.
 -   [RSS-Parser](https://github.com/rbren/rss-parser) for parsing RSS feeds.
 -   [GitHub Actions](https://github.com/features/actions) for automating the entire process.
 -   [GitHub Pages](https://pages.github.com/) for hosting the generated HTML.
