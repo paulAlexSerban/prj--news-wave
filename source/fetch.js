@@ -31,7 +31,7 @@ const sortItems = (feed) => {
             const bDate = new Date(b.lastBuildDate || b.pubDate || b.isoDate);
             return bDate - aDate;
         });
-    })
+    });
 
     return feed;
 };
@@ -42,18 +42,23 @@ const init = async () => {
     sections.forEach((section) => {
         const { items } = section;
         items.forEach((item) => {
-            promises.push(fetchRSS(item.url).then((feed) => ({ [item.title]: feed  })));
+            promises.push(
+                fetchRSS(item.url).then((feed) => {
+                    console.log(`[ info ] Fetched ${item.title}`);
+                    console.log(`[ info ] ${feed.title} has ${feed.items.length} items`);
+                    return { [item.title]: feed };
+                })
+            );
         });
     });
 
     Promise.all(promises).then((feeds) => {
         feeds.forEach((feed) => {
-
             cache.type = sections[0].title;
             cache.feed = {
                 ...cache.feed,
                 ...sortItems(feed),
-            }
+            };
 
             const cacheString = JSON.stringify(cache, null, 2);
             createFile(cachePath, cacheString);
