@@ -1,28 +1,31 @@
 {
-  "name": "prj--news-wave",
-  "version": "1.0.0",
-  "description": "> The application is designed to fetch, parse, and display news feeds from various RSS sources in an HTML format. The entire process is automated via GitHub Actions, enabling seamless updates and deployments.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\"",
-    "fetch:tech": "node source/fetch.js tech",
-    "fetch:web-dev": "node source/fetch.js web-dev",
-    "fetch": "npm-run-all --parallel fetch:*",
-    "build": "node source/build.js",
-    "serve": "serve dist"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/paulAlexSerban/prj--news-wave.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/paulAlexSerban/prj--news-wave/issues"
-  },
-  "homepage": "https://github.com/paulAlexSerban/prj--news-wave#readme",
-  "dependencies": {
-    "npm-run-all": "^4.1.5",
-    "rss-parser": "^3.13.0"
-  }
+    "name": "prj--news-wave",
+    "version": "1.0.0",
+    "description": "> The application is designed to fetch, parse, and display news feeds from various RSS sources in an HTML format. The entire process is automated via GitHub Actions, enabling seamless updates and deployments.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\"",
+        "fetch:tech": "node source/fetch.js tech",
+        "fetch:web-dev": "node source/fetch.js web-dev",
+        "fetch:front-end": "node source/fetch.js front-end",
+        "fetch:javascript": "node source/fetch.js javascript",
+        "fetch:programming": "node source/fetch.js programming",
+        "fetch": "npm-run-all --parallel fetch:*",
+        "build": "node source/build.js",
+        "serve": "serve dist"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/paulAlexSerban/prj--news-wave.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/paulAlexSerban/prj--news-wave/issues"
+    },
+    "homepage": "https://github.com/paulAlexSerban/prj--news-wave#readme",
+    "dependencies": {
+        "npm-run-all": "^4.1.5",
+        "rss-parser": "^3.13.0"
+    }
 }

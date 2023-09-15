@@ -3,10 +3,8 @@ const path = require('path');
 const template = require('./templates');
 const utils = require('./utils');
 const config = require('./config.js');
-const { get } = require('http');
+
 const { createFile, getDate } = utils;
-const dist = path.resolve(__dirname, '..', 'dist');
-const date = getDate();
 
 const {
     documentMarkup,
@@ -15,31 +13,59 @@ const {
     footerMarkup,
     mainMarkup,
     sectionMarkup,
-    accordionMarkup,
-    accordionItemMarkup,
-    itemMarkup,
     tabbedContainerMarkup,
-    panelMarkup,
 } = template;
 
+const dist = path.resolve(__dirname, '..', 'dist');
 const cachePath = path.resolve(__dirname, '..', 'cache');
-const cacheFiles = fs.readdirSync(cachePath);
+const date = getDate();
 
-const cacheFilesJson = cacheFiles.map((file) => {
-    const filePath = path.resolve(cachePath, file);
-    const fileContent = fs.readFileSync(filePath, 'utf-8');
-    return JSON.parse(fileContent);
-});
+const readCacheFiles = () => {
+    return new Promise(async (resolve, reject) => {
+      let allData = [];
+      try {
+        const files = await fs.promises.readdir(cachePath);
+        const readStreamPromises = files.map((file) => {
+          return new Promise((res, rej) => {
+            const filePath = path.resolve(cachePath, file);
+            const readStream = fs.createReadStream(filePath, 'utf-8');
+            let fileContent = "";
+  
+            readStream.on('data', (chunk) => {
+              fileContent += chunk;
+            });
+  
+            readStream.on('end', () => {
+              console.log(`[ info ] Parsing ${file}`);
+              console.log(`[ info ] ${fileContent.length} bytes`);
+              if(fileContent.length < 10) {
+                return res([]);
+              }
+              res(JSON.parse(fileContent));
+            });
+  
+            readStream.on('error', (error) => {
+              rej(error);
+            });
+          });
+        });
+  
+        allData = await Promise.all(readStreamPromises);
+      } catch (error) {
+        reject(error);
+      }
+  
+      resolve(allData);
+    });
+  };
 
-const getPanelsData = (data) => {
-    return data;
-};
-
-const generateHTML = (data = []) => {
+const generateHTML = async (data = []) => {
+    console.log(`[ info ] Generating HTML`);
+    console.log(`[ info ] ${data.length} panels`);
     const head = headMarkup(config.title);
     const header = headerMarkup(config.title, config.repo);
-    const panels = getPanelsData(data);
-    const tabbedContainer = tabbedContainerMarkup(panels);
+    const tabbedContainer = tabbedContainerMarkup(data);
+
     const section = sectionMarkup(tabbedContainer);
     const main = mainMarkup(section);
     const footer = footerMarkup(date, config.author);
@@ -47,4 +73,13 @@ const generateHTML = (data = []) => {
     createFile(path.resolve(dist, 'index.html'), document);
 };
 
-generateHTML(cacheFilesJson);
+const mainFunction = async () => {
+    try {
+        const cacheFilesJson = await readCacheFiles();
+        await generateHTML(cacheFilesJson);
+    } catch (error) {
+        console.error(`[ error ] ${error}`);
+    }
+};
+
+mainFunction();

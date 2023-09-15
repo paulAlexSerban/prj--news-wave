@@ -26,10 +26,11 @@ const accordionMarkup = (type, feedObj) => {
     Object.keys(feedObj).forEach((key) => {
         const { items } = feedObj[key];
         const accItem = accordionItemMarkup(key, slugify(type), items.map(itemMarkup).join(''));
+        console.log(`[ info ] ${key} has ${items.length} items`);
         accordionItems.push(accItem);
     });
 
-    return `  <div class="accordion" id="accordion-${slugify(type)}">
+    return `<div class="accordion" id="accordion-${slugify(type)}">
     ${accordionItems.join('')}
     </div>`;
 };
@@ -157,6 +158,7 @@ const tabbedContainerMarkup = (panelsData = []) => {
 
     const panels = panelsData.map((panel, index) => {
         const { type, feed } = panel;
+
         return `<div class="tab-pane fade ${index === 0 ? 'show active' : ''}"
                id="nav-${slugify(type)}"
                role="tabpanel"
@@ -169,11 +171,11 @@ const tabbedContainerMarkup = (panelsData = []) => {
 
     return `<nav>
       <div class="nav nav-tabs" id="nav-tab" role="tablist">
-        ${tabs.length != 0 ? tabs.join('') : ''}
+        ${tabs.join('') }
       </div>
     </nav>
       <div class="tab-content" id="nav-tabContent">
-        ${panels.length != 0 ? panels.join('') : ''}
+        ${panels.join('')}
     </div>
   `;
 };

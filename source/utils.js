@@ -10,7 +10,11 @@ const slugify = (text) => {
 };
 
 function createFile(fileName, data) {
-  fs.writeFileSync(fileName, data);
+  try {
+    fs.writeFileSync(fileName, data);
+  } catch (err) {
+    console.error('Error writing file:', err);
+  }
 }
 
 const getDate = () => {
