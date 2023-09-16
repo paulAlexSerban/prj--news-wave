@@ -424,7 +424,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2023, Smashing Media AG",
-      "lastBuildDate": "Sat, 16 Sep 2023 06:35:24 GMT",
+      "lastBuildDate": "Sat, 16 Sep 2023 21:05:50 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -529,6 +529,34 @@
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Lipsa Das",
+          "title": "Automated Testing: The Missing Piece of Your CI/CD Puzzle",
+          "link": "https://dzone.com/articles/automated-testing-the-missing-piece-of-your-cicd-p",
+          "pubDate": "Sat, 16 Sep 2023 20:32:26 GMT",
+          "dc:creator": "Lipsa Das",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3383620",
+          "isoDate": "2023-09-16T20:32:26.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Otavio Santana",
+          "title": "Unraveling Lombok's Code Design Pitfalls: Exploring Encapsulation Issues",
+          "link": "https://dzone.com/articles/unraveling-lomboks-code-design-pitfalls-exploring",
+          "pubDate": "Sat, 16 Sep 2023 18:59:07 GMT",
+          "dc:creator": "Otavio Santana",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3383775",
+          "isoDate": "2023-09-16T18:59:07.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Shelly Bhardwaj",
           "title": "How To Repair Failed Installations of Exchange Cumulative and Security Updates",
@@ -640,34 +668,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Tushar Chugh",
-          "title": "Beyond the Prompt: Unmasking Prompt Injections in Large Language Models",
-          "link": "https://dzone.com/articles/beyond-the-prompt-unmasking-prompt-injections-in-l-1",
-          "pubDate": "Fri, 15 Sep 2023 18:44:18 GMT",
-          "dc:creator": "Tushar Chugh",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3383769",
-          "isoDate": "2023-09-15T18:44:18.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Shoham Roditi Elimelech",
-          "title": "REST vs. Message Brokers: Choosing the Right Communication",
-          "link": "https://dzone.com/articles/rest-vs-message-brokers-choosing-the-right-communi",
-          "pubDate": "Fri, 15 Sep 2023 18:32:18 GMT",
-          "dc:creator": "Shoham Roditi Elimelech",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3383782",
-          "isoDate": "2023-09-15T18:32:18.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -680,6 +680,26 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Arseny Zinchenko (setevoy)",
+          "title": "Terraform: building EKS, part 3 - Karpenter installation",
+          "link": "https://itnext.io/terraform-building-eks-part-3-karpenter-installation-124b4ced729f?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 16 Sep 2023 13:47:11 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Arseny Zinchenko (setevoy)",
+          "guid": "https://medium.com/p/124b4ced729f",
+          "categories": [
+            "aws",
+            "kubernetes",
+            "devops",
+            "terraform"
+          ],
+          "isoDate": "2023-09-16T13:47:11.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Kenneth Reilly",
           "title": "Build a Server in Node From Scratch",
@@ -867,27 +887,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Homayoon Alimohammadi",
-          "title": "Golang: Ensuring Data Integrity with Access Proxies",
-          "link": "https://itnext.io/golang-ensuring-data-integrity-with-access-proxies-eb60a2453f3c?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 13 Sep 2023 08:25:40 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Homayoon Alimohammadi",
-          "guid": "https://medium.com/p/eb60a2453f3c",
-          "categories": [
-            "go",
-            "golang",
-            "software-development",
-            "data",
-            "clean-code"
-          ],
-          "isoDate": "2023-09-13T08:25:40.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -904,193 +903,206 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sat, 16 Sep 2023 07:02:14 GMT"
+      "lastBuildDate": "Sat, 16 Sep 2023 21:40:56 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Sloan the DEV Moderator",
-          "title": "How Would You Plan Your Office Redesign?",
-          "link": "https://dev.to/codenewbieteam/how-would-you-plan-your-office-redesign-2inc",
-          "pubDate": "Sat, 16 Sep 2023 07:00:00 +0000",
-          "dc:creator": "Sloan the DEV Moderator",
+          "creator": "Noobiz Developer",
+          "title": "Top 5 Parallax Effects Source Code",
+          "link": "https://dev.to/noobizdev/top-5-parallax-effects-source-code-5j5",
+          "pubDate": "Sat, 16 Sep 2023 21:33:35 +0000",
+          "dc:creator": "Noobiz Developer",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/codenewbieteam/how-would-you-plan-your-office-redesign-2inc",
+          "guid": "https://dev.to/noobizdev/top-5-parallax-effects-source-code-5j5",
           "categories": [
-            "discuss",
-            "beginners",
-            "codenewbie"
+            "css",
+            "web3",
+            "webdev",
+            "programming"
           ],
-          "isoDate": "2023-09-16T07:00:00.000Z",
+          "isoDate": "2023-09-16T21:33:35.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "dev.to staff",
-          "title": "It's Not Me, Is It?",
-          "link": "https://dev.to/devteam/its-not-me-is-it-598o",
-          "pubDate": "Sat, 16 Sep 2023 07:00:00 +0000",
-          "dc:creator": "dev.to staff",
+          "creator": "antonmak1",
+          "title": "How to create a website using the Cample.js framework?",
+          "link": "https://dev.to/antonmak1/how-to-create-a-website-using-the-camplejs-framework-5f2a",
+          "pubDate": "Sat, 16 Sep 2023 18:08:09 +0000",
+          "dc:creator": "antonmak1",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devteam/its-not-me-is-it-598o",
-          "categories": [
-            "discuss"
-          ],
-          "isoDate": "2023-09-16T07:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ajay Prakash",
-          "title": "🚀Mastering Performance Optimisation in React Applications🚀",
-          "link": "https://dev.to/ajayprakash/mastering-performance-optimisation-in-react-applications-1421",
-          "pubDate": "Sat, 16 Sep 2023 06:33:24 +0000",
-          "dc:creator": "Ajay Prakash",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/ajayprakash/mastering-performance-optimisation-in-react-applications-1421",
+          "guid": "https://dev.to/antonmak1/how-to-create-a-website-using-the-camplejs-framework-5f2a",
           "categories": [
             "webdev",
-            "react",
+            "javascript",
+            "programming",
+            "tutorial"
+          ],
+          "isoDate": "2023-09-16T18:08:09.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Yuba El Oualidi",
+          "title": "Send Form Data With Ajax",
+          "link": "https://dev.to/yubaeloualidi/send-form-data-with-ajax-1d78",
+          "pubDate": "Sat, 16 Sep 2023 18:07:32 +0000",
+          "dc:creator": "Yuba El Oualidi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/yubaeloualidi/send-form-data-with-ajax-1d78",
+          "categories": [
+            "javascript",
+            "webdev",
+            "jquery",
+            "ajax"
+          ],
+          "isoDate": "2023-09-16T18:07:32.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Brian Ndickers",
+          "title": "Building shopping cart with html,tailwindcss and Javascript",
+          "link": "https://dev.to/ndickers/building-shopping-cart-with-htmltailwindcss-and-javascript-1i5p",
+          "pubDate": "Sat, 16 Sep 2023 18:04:34 +0000",
+          "dc:creator": "Brian Ndickers",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/ndickers/building-shopping-cart-with-htmltailwindcss-and-javascript-1i5p",
+          "categories": [
+            "webdev",
+            "tutorial",
+            "javascript",
+            "showdev"
+          ],
+          "isoDate": "2023-09-16T18:04:34.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Pauline Oraro",
+          "title": "Mastering Javascript: Building An Interactive Shopping List App.",
+          "link": "https://dev.to/paulineoraro/mastering-javascript-building-an-interactive-shopping-list-app-3j4f",
+          "pubDate": "Sat, 16 Sep 2023 15:57:57 +0000",
+          "dc:creator": "Pauline Oraro",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/paulineoraro/mastering-javascript-building-an-interactive-shopping-list-app-3j4f",
+          "categories": [
+            "javascript",
+            "tutorial",
+            "webdev",
+            "programming"
+          ],
+          "isoDate": "2023-09-16T15:57:57.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "raman04-byte",
+          "title": "Elevate Your Flutter App with Advanced Animations: A Deep Dive into AnimationController and Tween 🚀",
+          "link": "https://dev.to/raman04byte/elevate-your-flutter-app-with-advanced-animations-a-deep-dive-into-animationcontroller-and-tween-367n",
+          "pubDate": "Sat, 16 Sep 2023 15:30:00 +0000",
+          "dc:creator": "raman04-byte",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/raman04byte/elevate-your-flutter-app-with-advanced-animations-a-deep-dive-into-animationcontroller-and-tween-367n",
+          "categories": [
+            "flutter",
+            "animation",
             "beginners",
+            "programming"
+          ],
+          "isoDate": "2023-09-16T15:30:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Max",
+          "title": "How to integrate sentry to Nextjs application",
+          "link": "https://dev.to/max24816/how-to-integrate-sentry-to-nextjs-application-52a0",
+          "pubDate": "Sat, 16 Sep 2023 15:25:48 +0000",
+          "dc:creator": "Max",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/max24816/how-to-integrate-sentry-to-nextjs-application-52a0",
+          "categories": [
+            "nextjs",
+            "programming",
+            "webdev",
             "javascript"
           ],
-          "isoDate": "2023-09-16T06:33:24.000Z",
+          "isoDate": "2023-09-16T15:25:48.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Leetcode",
-          "title": "Solving \"All Nodes Distance K in Binary Tree\" Leet code Question",
-          "link": "https://dev.to/leetcode/solving-all-nodes-distance-k-in-binary-tree-leet-code-question-30if",
-          "pubDate": "Sat, 16 Sep 2023 06:00:00 +0000",
-          "dc:creator": "Leetcode",
+          "creator": "Donald Sebastian Leung",
+          "title": "Configuring an IPsec VPN connection with OpenIKED",
+          "link": "https://dev.to/donaldsebleung/configuring-an-ipsec-vpn-connection-with-openiked-4o9",
+          "pubDate": "Sat, 16 Sep 2023 14:44:40 +0000",
+          "dc:creator": "Donald Sebastian Leung",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/leetcode/solving-all-nodes-distance-k-in-binary-tree-leet-code-question-30if",
+          "guid": "https://dev.to/donaldsebleung/configuring-an-ipsec-vpn-connection-with-openiked-4o9",
           "categories": [
-            "beginners",
-            "java",
-            "programming",
-            "tutorial"
+            "openbsd",
+            "linux",
+            "networking",
+            "security"
           ],
-          "isoDate": "2023-09-16T06:00:00.000Z",
+          "isoDate": "2023-09-16T14:44:40.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "HRmemon",
-          "title": "Migrating from MongoDB to PostgrеSQL: An Advancеd Guidе",
-          "link": "https://dev.to/hassanrehan/migrating-from-mongodb-to-postgriesql-an-advancied-guidie-3akj",
-          "pubDate": "Sat, 16 Sep 2023 05:01:22 +0000",
-          "dc:creator": "HRmemon",
+          "creator": "Kliton",
+          "title": "Build a Full Stack ReminderApp with React, NextJs, Typescript, ServerAction, Zod, Hook-form, Prisma, and Tailwind",
+          "link": "https://dev.to/kliton/build-a-full-stack-reminderapp-with-react-nextjs-typescript-serveraction-zod-hook-form-prisma-and-tailwind-27nb",
+          "pubDate": "Sat, 16 Sep 2023 14:04:24 +0000",
+          "dc:creator": "Kliton",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/hassanrehan/migrating-from-mongodb-to-postgriesql-an-advancied-guidie-3akj",
-          "isoDate": "2023-09-16T05:01:22.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "TimJ",
-          "title": "The Best ESLint Rules for React Projects",
-          "link": "https://dev.to/timwjames/the-best-eslint-rules-for-react-projects-30i8",
-          "pubDate": "Sat, 16 Sep 2023 03:56:47 +0000",
-          "dc:creator": "TimJ",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/timwjames/the-best-eslint-rules-for-react-projects-30i8",
+          "guid": "https://dev.to/kliton/build-a-full-stack-reminderapp-with-react-nextjs-typescript-serveraction-zod-hook-form-prisma-and-tailwind-27nb",
           "categories": [
-            "react",
-            "eslint",
+            "webdev",
             "typescript",
-            "jsdoc"
+            "tutorial",
+            "react"
           ],
-          "isoDate": "2023-09-16T03:56:47.000Z",
+          "isoDate": "2023-09-16T14:04:24.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Roy jemee",
-          "title": "How To Change WordPress Dashboard Footer Copyright Text?",
-          "link": "https://dev.to/jemeeroy/change-wordpress-dashboard-footer-copyright-text-h5m",
-          "pubDate": "Sat, 16 Sep 2023 03:15:58 +0000",
-          "dc:creator": "Roy jemee",
+          "creator": "Yeom suyun",
+          "title": "Throw away the \"Script\" from \"Type\"\"Script\".",
+          "link": "https://dev.to/artxe2/throw-away-the-script-from-typescript-mn5",
+          "pubDate": "Sat, 16 Sep 2023 14:03:01 +0000",
+          "dc:creator": "Yeom suyun",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/jemeeroy/change-wordpress-dashboard-footer-copyright-text-h5m",
-          "categories": [
-            "beginners",
-            "programming",
-            "wordpress",
-            "code"
-          ],
-          "isoDate": "2023-09-16T03:15:58.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Volodymyr Yepishev",
-          "title": "Deep Readonly Generic in Typescript",
-          "link": "https://dev.to/bwca/deep-readonly-generic-in-typescript-4b04",
-          "pubDate": "Sat, 16 Sep 2023 03:07:08 +0000",
-          "dc:creator": "Volodymyr Yepishev",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/bwca/deep-readonly-generic-in-typescript-4b04",
+          "guid": "https://dev.to/artxe2/throw-away-the-script-from-typescript-mn5",
           "categories": [
             "typescript",
-            "tutorial"
-          ],
-          "isoDate": "2023-09-16T03:07:08.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Muhammad Zeeshan",
-          "title": "Types of Cybersecurity",
-          "link": "https://dev.to/zeeshanmcp12/types-of-cybersecurity-4mod",
-          "pubDate": "Sat, 16 Sep 2023 03:04:05 +0000",
-          "dc:creator": "Muhammad Zeeshan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/zeeshanmcp12/types-of-cybersecurity-4mod",
-          "categories": [
-            "cybersecurity",
-            "cloudcomputing",
-            "beginners"
-          ],
-          "isoDate": "2023-09-16T03:04:05.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "The Jared Wilcurt",
-          "title": "Bun hype. How we learned nothing from Yarn",
-          "link": "https://dev.to/thejaredwilcurt/bun-hype-how-we-learned-nothing-from-yarn-2n3j",
-          "pubDate": "Sat, 16 Sep 2023 02:10:39 +0000",
-          "dc:creator": "The Jared Wilcurt",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/thejaredwilcurt/bun-hype-how-we-learned-nothing-from-yarn-2n3j",
-          "categories": [
-            "bunjs",
             "javascript",
-            "node",
-            "npm"
+            "webdev",
+            "discuss"
           ],
-          "isoDate": "2023-09-16T02:10:39.000Z",
+          "isoDate": "2023-09-16T14:03:01.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1177,6 +1189,74 @@
       "feedUrl": "https://www.digitalocean.com/blog/rss",
       "title": "The DigitalOcean Blog",
       "lastBuildDate": "2023-09-14T22:32:07.413Z"
+    },
+    "Julia Evans": {
+      "items": [
+        {
+          "title": "In a git repository, where do your files live?",
+          "link": "https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/",
+          "pubDate": "2023-09-14T11:53:00.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "id": "https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/",
+          "isoDate": "2023-09-14T11:53:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Notes on using a single-person Mastodon server",
+          "link": "https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/",
+          "pubDate": "2023-08-11T08:13:16.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "id": "https://jvns.ca/blog/2023/08/11/some-notes-on-mastodon/",
+          "isoDate": "2023-08-11T08:13:16.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "What helps people get comfortable on the command line?",
+          "link": "https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/",
+          "pubDate": "2023-08-08T08:30:40.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "id": "https://jvns.ca/blog/2023/08/08/what-helps-people-get-comfortable-on-the-command-line-/",
+          "isoDate": "2023-08-08T08:30:40.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Some tactics for writing in public",
+          "link": "https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/",
+          "pubDate": "2023-08-07T05:48:45.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "id": "https://jvns.ca/blog/2023/08/07/tactics-for-writing-in-public/",
+          "isoDate": "2023-08-07T05:48:45.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Behind \"Hello World\" on Linux",
+          "link": "https://jvns.ca/blog/2023/08/03/behind--hello-world/",
+          "pubDate": "2023-08-04T11:17:25.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "id": "https://jvns.ca/blog/2023/08/03/behind--hello-world/",
+          "isoDate": "2023-08-04T11:17:25.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        }
+      ],
+      "link": "http://jvns.ca/atom.xml",
+      "feedUrl": "http://jvns.ca/atom.xml",
+      "title": "Julia Evans",
+      "lastBuildDate": "2023-09-14T11:53:00+00:00"
     }
   }
 }
