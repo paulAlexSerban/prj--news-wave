@@ -103,7 +103,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Fri, 15 Sep 2023 16:12:11 GMT"
+      "lastBuildDate": "Mon, 18 Sep 2023 06:36:32 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -424,7 +424,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2023, Smashing Media AG",
-      "lastBuildDate": "Sun, 17 Sep 2023 06:35:13 GMT",
+      "lastBuildDate": "Mon, 18 Sep 2023 06:35:43 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -529,6 +529,34 @@
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Akmal Chaudhri",
+          "title": "Analyzing Stock Tick Data in SingleStoreDB Using LangChain and OpenAI's Whisper",
+          "link": "https://dzone.com/articles/analysing-stock-tick-data-in-singlestoredb-using-l",
+          "pubDate": "Sun, 17 Sep 2023 20:00:27 GMT",
+          "dc:creator": "Akmal Chaudhri",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3383836",
+          "isoDate": "2023-09-17T20:00:27.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Aditya Bhuyan",
+          "title": "Harnessing the Power of In-Memory Databases: Unleashing Real-Time Data Processing",
+          "link": "https://dzone.com/articles/iharnessing-the-power-of-in-memory-databases-unlea",
+          "pubDate": "Sun, 17 Sep 2023 19:28:38 GMT",
+          "dc:creator": "Aditya Bhuyan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3339198",
+          "isoDate": "2023-09-17T19:28:38.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Brian O'Neill",
           "title": "How To Validate Archives and Identify Invalid Documents in Java",
@@ -640,34 +668,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Atul Naithani",
-          "title": "Next.js vs. Gatsby: A Comprehensive Comparison",
-          "link": "https://dzone.com/articles/nextjs-vs-gatsby-a-comprehensive-comparison",
-          "pubDate": "Fri, 15 Sep 2023 19:47:21 GMT",
-          "dc:creator": "Atul Naithani",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3383809",
-          "isoDate": "2023-09-15T19:47:21.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Rishi Patel",
-          "title": "Difference Between High-Level and Low-Level Programming Languages",
-          "link": "https://dzone.com/articles/difference-between-high-level-and-low-level-progra",
-          "pubDate": "Fri, 15 Sep 2023 19:39:38 GMT",
-          "dc:creator": "Rishi Patel",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3383595",
-          "isoDate": "2023-09-15T19:39:38.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -680,6 +680,47 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Saeed Zarinfam",
+          "title": "How to config Spring Boot Actuator readiness probe for dependency between two services in K8s",
+          "link": "https://itnext.io/how-to-config-spring-boot-actuator-readiness-probe-for-dependency-between-two-services-in-k8s-1ee35fb7736f?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 17 Sep 2023 19:05:56 GMT",
+          "dc:creator": "Saeed Zarinfam",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/1ee35fb7736f",
+          "categories": [
+            "readiness",
+            "actuator",
+            "spring-boot",
+            "kubernetes",
+            "skaffold"
+          ],
+          "isoDate": "2023-09-17T19:05:56.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Arseny Zinchenko (setevoy)",
+          "title": "Terraform: building EKS, part 4 - installing controllers",
+          "link": "https://itnext.io/terraform-building-eks-part-4-installing-controllers-9bac64784691?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 17 Sep 2023 09:03:12 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Arseny Zinchenko (setevoy)",
+          "guid": "https://medium.com/p/9bac64784691",
+          "categories": [
+            "kubernetes",
+            "aws",
+            "terraform",
+            "devops"
+          ],
+          "isoDate": "2023-09-17T09:03:12.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Arseny Zinchenko (setevoy)",
           "title": "Terraform: building EKS, part 3 - Karpenter installation",
@@ -845,48 +886,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Vitalii Shevchuk",
-          "title": " Why Bun Js is the Best for Serverless Functions?",
-          "link": "https://itnext.io/why-bun-js-is-the-best-for-serverless-functions-65bcefeee4fa?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 13 Sep 2023 08:29:51 GMT",
-          "dc:creator": "Vitalii Shevchuk",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/65bcefeee4fa",
-          "categories": [
-            "software-development",
-            "web-development",
-            "technology",
-            "programming",
-            "javascript"
-          ],
-          "isoDate": "2023-09-13T08:29:51.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ben \"The Hosk\" Hosking",
-          "title": "Supply and Demand of Software Developers",
-          "link": "https://itnext.io/supply-and-demand-of-software-developers-3da940b63dce?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 13 Sep 2023 08:28:13 GMT",
-          "dc:creator": "Ben \"The Hosk\" Hosking",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/3da940b63dce",
-          "categories": [
-            "development",
-            "technology",
-            "software-engineering",
-            "software-development",
-            "programming"
-          ],
-          "isoDate": "2023-09-13T08:28:13.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -903,191 +902,198 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sun, 17 Sep 2023 07:00:13 GMT"
+      "lastBuildDate": "Mon, 18 Sep 2023 06:59:52 GMT"
     },
     "DEV Community": {
       "items": [
         {
+          "creator": "Peter Kim Frank",
+          "title": "Weekly AI News and Discussion Thread",
+          "link": "https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-309n",
+          "pubDate": "Mon, 18 Sep 2023 07:00:00 +0000",
+          "dc:creator": "Peter Kim Frank",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/ai-pulse/weekly-ai-news-and-discussion-thread-309n",
+          "categories": [
+            "discuss",
+            "ai",
+            "news"
+          ],
+          "isoDate": "2023-09-18T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sloan the DEV Moderator",
+          "title": "Is Coding Sans Comments Always A Mistake?",
+          "link": "https://dev.to/codenewbieteam/is-coding-sans-comments-always-a-mistake-262c",
+          "pubDate": "Mon, 18 Sep 2023 07:00:00 +0000",
+          "dc:creator": "Sloan the DEV Moderator",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/codenewbieteam/is-coding-sans-comments-always-a-mistake-262c",
+          "categories": [
+            "discuss",
+            "codenewbie",
+            "beginners"
+          ],
+          "isoDate": "2023-09-18T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "dev.to staff",
-          "title": "How Do You Find Balance? 🍵🌊",
-          "link": "https://dev.to/devteam/how-do-you-find-balance-3m65",
-          "pubDate": "Sun, 17 Sep 2023 07:00:00 +0000",
+          "title": "What's Your Ideal Coding Environment?",
+          "link": "https://dev.to/devteam/whats-your-ideal-coding-environment-414i",
+          "pubDate": "Mon, 18 Sep 2023 07:00:00 +0000",
           "dc:creator": "dev.to staff",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devteam/how-do-you-find-balance-3m65",
+          "guid": "https://dev.to/devteam/whats-your-ideal-coding-environment-414i",
           "categories": [
             "discuss"
           ],
-          "isoDate": "2023-09-17T07:00:00.000Z",
+          "isoDate": "2023-09-18T07:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Samuel I. G.",
-          "title": "The Ultimate Guide to Building an Efficient CI/CD Pipeline",
-          "link": "https://dev.to/ismailg/the-ultimate-guide-to-building-an-efficient-cicd-pipeline-23pg",
-          "pubDate": "Sun, 17 Sep 2023 06:35:21 +0000",
-          "dc:creator": "Samuel I. G.",
+          "creator": "Sarthak Raval",
+          "title": "Basics of Git",
+          "link": "https://dev.to/gitwithsarthak/basics-of-git-2h7h",
+          "pubDate": "Mon, 18 Sep 2023 04:42:46 +0000",
+          "dc:creator": "Sarthak Raval",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ismailg/the-ultimate-guide-to-building-an-efficient-cicd-pipeline-23pg",
-          "isoDate": "2023-09-17T06:35:21.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Hasan Elsherbiny",
-          "title": "The hassle of Frontend frameworks",
-          "link": "https://dev.to/hasanelsherbiny/the-hassle-of-frontend-frameworks-2459",
-          "pubDate": "Sun, 17 Sep 2023 06:24:00 +0000",
-          "dc:creator": "Hasan Elsherbiny",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/hasanelsherbiny/the-hassle-of-frontend-frameworks-2459",
+          "guid": "https://dev.to/gitwithsarthak/basics-of-git-2h7h",
           "categories": [
-            "webdev",
-            "beginners",
-            "newbie",
-            "hasanelsherbiny"
+            "git",
+            "beginners"
           ],
-          "isoDate": "2023-09-17T06:24:00.000Z",
+          "isoDate": "2023-09-18T04:42:46.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ajay Prakash",
-          "title": "🌀 Unraveling React Fiber: A Dive into React's Reconciliation Algorithm🌀",
-          "link": "https://dev.to/ajayprakash/unraveling-react-fiber-a-dive-into-reacts-reconciliation-algorithm-4g29",
-          "pubDate": "Sun, 17 Sep 2023 05:26:56 +0000",
-          "dc:creator": "Ajay Prakash",
+          "creator": "Marcos Costa",
+          "title": "Criando uma console application com esteróides com o pacote System.CommandLine",
+          "link": "https://dev.to/marcoscostadev/criando-uma-console-application-com-esteroides-com-o-pacote-systemcommandline-9fp",
+          "pubDate": "Mon, 18 Sep 2023 03:31:39 +0000",
+          "dc:creator": "Marcos Costa",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ajayprakash/unraveling-react-fiber-a-dive-into-reacts-reconciliation-algorithm-4g29",
+          "guid": "https://dev.to/marcoscostadev/criando-uma-console-application-com-esteroides-com-o-pacote-systemcommandline-9fp",
           "categories": [
+            "dotnet",
+            "dotnetcore",
+            "dotnetframework",
+            "consoleapplication"
+          ],
+          "isoDate": "2023-09-18T03:31:39.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Eduardo Julião",
+          "title": "Loop audio Godot",
+          "link": "https://dev.to/eduardojuliao/loop-audio-godot-5h42",
+          "pubDate": "Mon, 18 Sep 2023 03:31:25 +0000",
+          "dc:creator": "Eduardo Julião",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/eduardojuliao/loop-audio-godot-5h42",
+          "categories": [
+            "gamedev",
+            "godot",
+            "beginners",
+            "audio"
+          ],
+          "isoDate": "2023-09-18T03:31:25.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "olasperu",
+          "title": "How to Create a Discussion Forum Using PHP and MySQL?",
+          "link": "https://dev.to/puratabla/how-to-create-a-discussion-forum-using-php-and-mysql-33dm",
+          "pubDate": "Mon, 18 Sep 2023 02:36:24 +0000",
+          "dc:creator": "olasperu",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/puratabla/how-to-create-a-discussion-forum-using-php-and-mysql-33dm",
+          "categories": [
+            "php",
+            "mysql",
+            "programming",
+            "tutorial"
+          ],
+          "isoDate": "2023-09-18T02:36:24.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Yeom suyun",
+          "title": "JSDoc in TS and JS",
+          "link": "https://dev.to/artxe2/jsdoc-in-ts-and-js-1p6j",
+          "pubDate": "Mon, 18 Sep 2023 01:08:37 +0000",
+          "dc:creator": "Yeom suyun",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/artxe2/jsdoc-in-ts-and-js-1p6j",
+          "categories": [
+            "typescript",
+            "javascript",
+            "webdev",
+            "discuss"
+          ],
+          "isoDate": "2023-09-18T01:08:37.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "dailson-igo",
+          "title": "Ready System with a Modern Stack and Many Features Using Ruby 3.2, Rails 7.0 and Avo 2",
+          "link": "https://dev.to/dailsonigo/ready-system-with-a-modern-stack-and-many-features-using-ruby-32-rails-70-and-avo-2-ni4",
+          "pubDate": "Mon, 18 Sep 2023 00:50:59 +0000",
+          "dc:creator": "dailson-igo",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/dailsonigo/ready-system-with-a-modern-stack-and-many-features-using-ruby-32-rails-70-and-avo-2-ni4",
+          "categories": [
+            "ruby",
+            "rails",
+            "avo",
+            "tailwindcss"
+          ],
+          "isoDate": "2023-09-18T00:50:59.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Salah Eddine Lalami",
+          "title": "React Js Developers ⭐ Create a Email Editor with React-Quill",
+          "link": "https://dev.to/idurar/react-js-developers-create-a-email-editor-with-react-quill-1edl",
+          "pubDate": "Mon, 18 Sep 2023 00:41:43 +0000",
+          "dc:creator": "Salah Eddine Lalami",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/idurar/react-js-developers-create-a-email-editor-with-react-quill-1edl",
+          "categories": [
+            "javascript",
             "react",
-            "beginners",
-            "javascript",
-            "frontend"
+            "opensource"
           ],
-          "isoDate": "2023-09-17T05:26:56.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sean Overton",
-          "title": "10 quick tips to instantly improve API design",
-          "link": "https://dev.to/s3an_0vert0n/10-quick-tips-to-instantly-improve-api-design-59mc",
-          "pubDate": "Sun, 17 Sep 2023 05:14:13 +0000",
-          "dc:creator": "Sean Overton",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/s3an_0vert0n/10-quick-tips-to-instantly-improve-api-design-59mc",
-          "categories": [
-            "api",
-            "webdev",
-            "programming",
-            "restapi"
-          ],
-          "isoDate": "2023-09-17T05:14:13.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "stungnet",
-          "title": "Why Every Coder Should Consider the Linux & Neovim Leap",
-          "link": "https://dev.to/stungnet/why-every-coder-should-consider-the-linux-neovim-leap-no3",
-          "pubDate": "Sun, 17 Sep 2023 04:42:04 +0000",
-          "dc:creator": "stungnet",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/stungnet/why-every-coder-should-consider-the-linux-neovim-leap-no3",
-          "categories": [
-            "tutorial",
-            "beginners",
-            "opensource",
-            "productivity"
-          ],
-          "isoDate": "2023-09-17T04:42:04.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "izam-mohammed",
-          "title": "7 Data Visualization Techniques That Will Boost your Data Science Journey",
-          "link": "https://dev.to/izammohammed/7-data-visualization-techniques-that-will-boost-your-data-science-journey-2g6h",
-          "pubDate": "Sun, 17 Sep 2023 04:24:01 +0000",
-          "dc:creator": "izam-mohammed",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/izammohammed/7-data-visualization-techniques-that-will-boost-your-data-science-journey-2g6h",
-          "categories": [
-            "datascience",
-            "developer",
-            "data",
-            "analytics"
-          ],
-          "isoDate": "2023-09-17T04:24:01.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Taylor Hunt",
-          "title": "Why not React?",
-          "link": "https://dev.to/tigt/why-not-react-2f8l",
-          "pubDate": "Sun, 17 Sep 2023 04:22:50 +0000",
-          "dc:creator": "Taylor Hunt",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/tigt/why-not-react-2f8l",
-          "categories": [
-            "webdev",
-            "javascript",
-            "performance",
-            "react"
-          ],
-          "isoDate": "2023-09-17T04:22:50.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "izam-mohammed",
-          "title": "100 Machine Learning Projects",
-          "link": "https://dev.to/izammohammed/100-machine-learning-projects-3ene",
-          "pubDate": "Sun, 17 Sep 2023 03:56:03 +0000",
-          "dc:creator": "izam-mohammed",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/izammohammed/100-machine-learning-projects-3ene",
-          "isoDate": "2023-09-17T03:56:03.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nenba Jonathan",
-          "title": "Node(20.6.0) now supports built-in .env files",
-          "link": "https://dev.to/nejos97/node2060-now-supports-built-in-env-files-48ah",
-          "pubDate": "Sun, 17 Sep 2023 03:38:00 +0000",
-          "dc:creator": "Nenba Jonathan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/nejos97/node2060-now-supports-built-in-env-files-48ah",
-          "categories": [
-            "node",
-            "env",
-            "programming",
-            "javascript"
-          ],
-          "isoDate": "2023-09-17T03:38:00.000Z",
+          "isoDate": "2023-09-18T00:41:43.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
