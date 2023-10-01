@@ -359,6 +359,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Cosima Mielke)",
+          "title": "Dancing Leaves And Spooky Fellows (October 2023 Wallpapers Edition)",
+          "link": "https://smashingmagazine.com/2023/09/desktop-wallpaper-calendars-october-2023/",
+          "pubDate": "Sat, 30 Sep 2023 08:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2023/oct-23-autumns-splendor-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2023/09/desktop-wallpaper-calendars-october-2023/",
+          "isoDate": "2023-09-30T08:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Temani Afif)",
           "title": "Re-Creating The Pop-Out Hover Effect With Modern CSS (Part 1)",
           "link": "https://smashingmagazine.com/2023/09/re-creating-pop-out-hover-effect-css-part1/",
@@ -469,7 +488,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2023, Smashing Media AG",
-      "lastBuildDate": "Sat, 30 Sep 2023 06:34:58 GMT",
+      "lastBuildDate": "Sun, 01 Oct 2023 06:34:56 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -585,6 +604,20 @@
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Gaurav Gaur",
+          "title": "Choreography Pattern: Optimizing Communication in Distributed Systems",
+          "link": "https://dzone.com/articles/choreography-pattern-optimizing-communication-in-d",
+          "pubDate": "Sat, 30 Sep 2023 15:54:56 GMT",
+          "dc:creator": "Gaurav Gaur",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3389173",
+          "isoDate": "2023-09-30T15:54:56.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "SM AK",
           "title": "Enhancing ASP.NET Core Web API Responses With Consistent and Predictable Wrapper Classes",
@@ -710,20 +743,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Nicolas Duminil",
-          "title": "Micro Frontends for Quarkus Microservices",
-          "link": "https://dzone.com/articles/micro-frontends-for-quarkus-microservices",
-          "pubDate": "Fri, 29 Sep 2023 18:45:23 GMT",
-          "dc:creator": "Nicolas Duminil",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3387203",
-          "isoDate": "2023-09-29T18:45:23.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -736,6 +755,85 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Danny Moerkerke",
+          "title": "View Transitions For Multi-Page Apps",
+          "link": "https://itnext.io/view-transitions-for-multi-page-apps-7b54a667316d?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 30 Sep 2023 20:16:42 GMT",
+          "dc:creator": "Danny Moerkerke",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/7b54a667316d",
+          "categories": [
+            "progressive-web-app",
+            "javascript",
+            "web-development",
+            "front-end-development"
+          ],
+          "isoDate": "2023-09-30T20:16:42.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Miha Šušteršič",
+          "title": "Automatically testing web applications",
+          "link": "https://itnext.io/automatically-testing-web-applications-71ab3a0bc8a0?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 30 Sep 2023 20:15:13 GMT",
+          "dc:creator": "Miha Šušteršič",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/71ab3a0bc8a0",
+          "categories": [
+            "software-engineering",
+            "software-testing",
+            "software-development",
+            "coding",
+            "programming"
+          ],
+          "isoDate": "2023-09-30T20:15:13.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Arseny Zinchenko (setevoy)",
+          "title": "GitHub Actions: deploying Dev/Prod environments with Terraform",
+          "link": "https://itnext.io/github-actions-deploying-dev-prod-environments-with-terraform-b80f4468760d?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 30 Sep 2023 18:53:16 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Arseny Zinchenko (setevoy)",
+          "guid": "https://medium.com/p/b80f4468760d",
+          "categories": [
+            "terraform",
+            "github",
+            "github-actions",
+            "devops"
+          ],
+          "isoDate": "2023-09-30T18:53:16.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Stefan Weber",
+          "title": "Get Started with OutSystems and Amazon Bedrock",
+          "link": "https://itnext.io/get-started-with-outsystems-and-amazon-bedrock-80cef32a79ea?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 30 Sep 2023 07:21:57 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Stefan Weber",
+          "guid": "https://medium.com/p/80cef32a79ea",
+          "categories": [
+            "outsystems",
+            "aws"
+          ],
+          "isoDate": "2023-09-30T07:21:57.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Krzysztof Pranczk",
           "title": "A Practical Approach to SBOM in CI/CD Part II — Deploying Dependency-Track",
@@ -858,90 +956,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Dwen",
-          "title": "Database Indexes: Demystifying Their Function and Purpose — Part 1",
-          "link": "https://itnext.io/database-indexes-demystifying-their-function-and-purpose-part-1-c3420d3d470a?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 28 Sep 2023 08:44:05 GMT",
-          "dc:creator": "Dwen",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/c3420d3d470a",
-          "categories": [
-            "web-development",
-            "mysql",
-            "programming",
-            "software-development",
-            "database"
-          ],
-          "isoDate": "2023-09-28T08:44:05.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Hossein Yousefi",
-          "title": "Clean Kubernetes Resources with a Pruner Script (based on retention period and label)",
-          "link": "https://itnext.io/clean-kubernetes-resources-with-a-pruner-script-based-on-retention-period-and-label-1d671d7185e3?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 28 Sep 2023 08:42:31 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Hossein Yousefi",
-          "guid": "https://medium.com/p/1d671d7185e3",
-          "categories": [
-            "jenkins",
-            "tekton",
-            "cicd",
-            "automation",
-            "kubernetes"
-          ],
-          "isoDate": "2023-09-28T08:42:31.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Michael Guarino",
-          "title": "What you need to know about Self-Hosting Large Language Models (LLMs)",
-          "link": "https://itnext.io/what-you-need-to-know-about-self-hosting-large-language-models-llms-d4b29b62f533?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 27 Sep 2023 22:24:09 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Michael Guarino",
-          "guid": "https://medium.com/p/d4b29b62f533",
-          "categories": [
-            "chatgpt",
-            "llm",
-            "ai",
-            "selfhost",
-            "artificial-intelligence"
-          ],
-          "isoDate": "2023-09-27T22:24:09.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Cawin Chan",
-          "title": "Data Leakage in Pandas: The Perils of Forward and Back Fills",
-          "link": "https://itnext.io/data-leakage-in-pandas-the-perils-of-forward-and-back-fills-3ad96e7cc825?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 27 Sep 2023 21:14:33 GMT",
-          "dc:creator": "Cawin Chan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/3ad96e7cc825",
-          "categories": [
-            "data-science",
-            "pandas",
-            "data",
-            "technology",
-            "big-data"
-          ],
-          "isoDate": "2023-09-27T21:14:33.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -958,196 +972,198 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sat, 30 Sep 2023 06:51:41 GMT"
+      "lastBuildDate": "Sun, 01 Oct 2023 07:01:46 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Nevo David",
-          "title": "Do GitHub stars ⭐️ = Money 💰?",
-          "link": "https://dev.to/github20k/do-github-stars-money--348a",
-          "pubDate": "Sat, 30 Sep 2023 06:52:55 +0000",
-          "dc:creator": "Nevo David",
+          "creator": "dev.to staff",
+          "title": "💻🎃 Hacktoberfest 2023 is Here!",
+          "link": "https://dev.to/devteam/hacktoberfest-2023-is-here-58bo",
+          "pubDate": "Sun, 01 Oct 2023 07:00:00 +0000",
+          "dc:creator": "dev.to staff",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/github20k/do-github-stars-money--348a",
+          "guid": "https://dev.to/devteam/hacktoberfest-2023-is-here-58bo",
+          "categories": [
+            "hacktoberfest23",
+            "meta"
+          ],
+          "isoDate": "2023-10-01T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Nilesh Raut",
+          "title": "LeetCode 557. Reverse Words in a String III (easy)",
+          "link": "https://dev.to/speaklouder/leetcode-557-reverse-words-in-a-string-iii-easy-523",
+          "pubDate": "Sun, 01 Oct 2023 06:12:33 +0000",
+          "dc:creator": "Nilesh Raut",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/speaklouder/leetcode-557-reverse-words-in-a-string-iii-easy-523",
+          "categories": [
+            "100dayschallengeleet",
+            "c",
+            "leetcode",
+            "leetcodesolution"
+          ],
+          "isoDate": "2023-10-01T06:12:33.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "shrey vijayvargiya",
+          "title": "Job Automation Process",
+          "link": "https://dev.to/shreyvijayvargiya/job-automation-process-1ljp",
+          "pubDate": "Sun, 01 Oct 2023 05:43:13 +0000",
+          "dc:creator": "shrey vijayvargiya",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/shreyvijayvargiya/job-automation-process-1ljp",
           "categories": [
             "webdev",
             "programming",
-            "tutorial",
-            "discuss"
+            "api",
+            "job"
           ],
-          "isoDate": "2023-09-30T06:52:55.000Z",
+          "isoDate": "2023-10-01T05:43:13.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "SAIFULLAH🇮🇳",
-          "title": "All about Hactoberfest'23",
-          "link": "https://dev.to/er_saifullah/all-about-hactoberfest23-2bb2",
-          "pubDate": "Sat, 30 Sep 2023 06:00:35 +0000",
-          "dc:creator": "SAIFULLAH🇮🇳",
+          "creator": "Antonio Rogers",
+          "title": "Optimizing Image Loading for Lightning-Fast Performance in NEXT.js",
+          "link": "https://dev.to/devantoniorogers/optimizing-image-loading-for-lightning-fast-performance-in-nextjs-533i",
+          "pubDate": "Sun, 01 Oct 2023 05:26:17 +0000",
+          "dc:creator": "Antonio Rogers",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/er_saifullah/all-about-hactoberfest23-2bb2",
+          "guid": "https://dev.to/devantoniorogers/optimizing-image-loading-for-lightning-fast-performance-in-nextjs-533i",
           "categories": [
-            "hacktoberfest23",
-            "opensource",
-            "contributorswanted",
-            "developers"
-          ],
-          "isoDate": "2023-09-30T06:00:35.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Mariano Álvarez 🇨🇷",
-          "title": "Lo que necesitas para iniciar con Gen AI utilizando PaLM 2 y MakeSuite",
-          "link": "https://dev.to/marianocodes/lo-que-necesitas-para-iniciar-con-gen-ai-utilizando-palm-2-y-makesuite-3alc",
-          "pubDate": "Sat, 30 Sep 2023 02:21:22 +0000",
-          "dc:creator": "Mariano Álvarez 🇨🇷",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/marianocodes/lo-que-necesitas-para-iniciar-con-gen-ai-utilizando-palm-2-y-makesuite-3alc",
-          "categories": [
-            "ai",
-            "machinelearning",
-            "gen",
-            "beginners"
-          ],
-          "isoDate": "2023-09-30T02:21:22.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "ZeeshanMustfai",
-          "title": "Top 5 form validation libraries in React JS and Next JS",
-          "link": "https://dev.to/zeeshanmustfai/top-5-form-validation-libraries-in-react-js-and-next-js-2i50",
-          "pubDate": "Sat, 30 Sep 2023 00:11:32 +0000",
-          "dc:creator": "ZeeshanMustfai",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/zeeshanmustfai/top-5-form-validation-libraries-in-react-js-and-next-js-2i50",
-          "categories": [
-            "formik",
             "react",
             "nextjs",
-            "yup"
+            "javascript",
+            "webdev"
           ],
-          "isoDate": "2023-09-30T00:11:32.000Z",
+          "isoDate": "2023-10-01T05:26:17.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "NathLowe",
+          "title": "Next.js 13: A Comprehensive Guide",
+          "link": "https://dev.to/nathlowe/nextjs-13-a-comprehensive-guide-4cja",
+          "pubDate": "Sun, 01 Oct 2023 04:24:29 +0000",
+          "dc:creator": "NathLowe",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/nathlowe/nextjs-13-a-comprehensive-guide-4cja",
+          "categories": [
+            "nextjs",
+            "react",
+            "webdev"
+          ],
+          "isoDate": "2023-10-01T04:24:29.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "hungle00",
+          "title": "Ruby's main object",
+          "link": "https://dev.to/hungle00/rubys-main-object-5hni",
+          "pubDate": "Sun, 01 Oct 2023 03:20:19 +0000",
+          "dc:creator": "hungle00",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/hungle00/rubys-main-object-5hni",
+          "categories": [
+            "ruby",
+            "oop"
+          ],
+          "isoDate": "2023-10-01T03:20:19.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Armando C. Santisbon",
+          "title": "Finding the right macOS `defaults` command",
+          "link": "https://dev.to/santisbon/finding-the-right-macos-defaults-command-4186",
+          "pubDate": "Sun, 01 Oct 2023 01:40:25 +0000",
+          "dc:creator": "Armando C. Santisbon",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/santisbon/finding-the-right-macos-defaults-command-4186",
+          "categories": [
+            "macos",
+            "shell",
+            "productivity",
+            "terminal"
+          ],
+          "isoDate": "2023-10-01T01:40:25.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
           "creator": "dev.to staff",
-          "title": "Blockchain Dev Decline: Advice for Specialists?",
-          "link": "https://dev.to/devteam/blockchain-dev-decline-advice-for-specialists-2fpe",
-          "pubDate": "Sat, 30 Sep 2023 00:00:00 +0000",
+          "title": "Low-Code Challenges: What's Next",
+          "link": "https://dev.to/devteam/low-code-challenges-whats-next-5a9d",
+          "pubDate": "Sun, 01 Oct 2023 00:00:00 +0000",
           "dc:creator": "dev.to staff",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devteam/blockchain-dev-decline-advice-for-specialists-2fpe",
+          "guid": "https://dev.to/devteam/low-code-challenges-whats-next-5a9d",
           "categories": [
             "discuss"
           ],
-          "isoDate": "2023-09-30T00:00:00.000Z",
+          "isoDate": "2023-10-01T00:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Noobiz Developer",
-          "title": "Migrating Your WordPress Website to Another Host",
-          "link": "https://dev.to/noobizdev/migrating-your-wordpress-website-to-another-host-1ohc",
-          "pubDate": "Fri, 29 Sep 2023 23:05:29 +0000",
-          "dc:creator": "Noobiz Developer",
+          "creator": "effrim",
+          "title": "HOW YOU CAN GET A 100% FREE AWS CERTIFICATION VOUCHER",
+          "link": "https://dev.to/aws-builders/how-you-can-get-a-100-free-aws-certification-voucher-2p5a",
+          "pubDate": "Sat, 30 Sep 2023 23:44:03 +0000",
+          "dc:creator": "effrim",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/noobizdev/migrating-your-wordpress-website-to-another-host-1ohc",
+          "guid": "https://dev.to/aws-builders/how-you-can-get-a-100-free-aws-certification-voucher-2p5a",
           "categories": [
-            "wordpress",
-            "beginners",
-            "web3",
-            "webdev"
+            "cloudcomputing",
+            "aws",
+            "awscommunity",
+            "examvouchers"
           ],
-          "isoDate": "2023-09-29T23:05:29.000Z",
+          "isoDate": "2023-09-30T23:44:03.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Paschal Ogu",
-          "title": "How I Deployed my Website as a Docker Container",
-          "link": "https://dev.to/paschalogu/how-i-deployed-my-website-as-a-container-3fje",
-          "pubDate": "Fri, 29 Sep 2023 21:17:00 +0000",
-          "dc:creator": "Paschal Ogu",
+          "creator": "Richard Kovacs",
+          "title": "Coding and ADHD should be best friends",
+          "link": "https://dev.to/mhmxs/coding-and-adhd-should-be-best-friends-15ml",
+          "pubDate": "Sat, 30 Sep 2023 23:13:58 +0000",
+          "dc:creator": "Richard Kovacs",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/paschalogu/how-i-deployed-my-website-as-a-container-3fje",
+          "guid": "https://dev.to/mhmxs/coding-and-adhd-should-be-best-friends-15ml",
           "categories": [
-            "docker",
-            "container",
-            "devops"
+            "discuss",
+            "programmers",
+            "productivity",
+            "learning"
           ],
-          "isoDate": "2023-09-29T21:17:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Luke",
-          "title": "Data Science for Beginners: 2023 - 2024 Complete Roadmap",
-          "link": "https://dev.to/kevoluke/data-science-for-beginners-2023-2024-complete-roadmap-2b7b",
-          "pubDate": "Fri, 29 Sep 2023 21:06:04 +0000",
-          "dc:creator": "Luke",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/kevoluke/data-science-for-beginners-2023-2024-complete-roadmap-2b7b",
-          "isoDate": "2023-09-29T21:06:04.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Vincent A. Cicirello",
-          "title": "gnu-on-alpine 3.18.4 and alpine-plus-plus 3.18.4 Released",
-          "link": "https://dev.to/cicirello/gnu-on-alpine-3184-and-alpine-plus-plus-3184-released-4gng",
-          "pubDate": "Fri, 29 Sep 2023 21:03:53 +0000",
-          "dc:creator": "Vincent A. Cicirello",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/cicirello/gnu-on-alpine-3184-and-alpine-plus-plus-3184-released-4gng",
-          "categories": [
-            "docker",
-            "linux",
-            "github",
-            "showdev"
-          ],
-          "isoDate": "2023-09-29T21:03:53.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Augusto Valdivia",
-          "title": "Lee esto antes de Implementar VPC Endpoints y S3 con Terraform",
-          "link": "https://dev.to/aws-espanol/lee-esto-antes-de-implementar-vpc-endpoints-y-s3-con-terraform-47bp",
-          "pubDate": "Fri, 29 Sep 2023 21:00:41 +0000",
-          "dc:creator": "Augusto Valdivia",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/aws-espanol/lee-esto-antes-de-implementar-vpc-endpoints-y-s3-con-terraform-47bp",
-          "categories": [
-            "awsespañol",
-            "awss3",
-            "terraform",
-            "awsvpcendpoints"
-          ],
-          "isoDate": "2023-09-29T21:00:41.000Z",
+          "isoDate": "2023-09-30T23:13:58.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
