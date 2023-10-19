@@ -4,6 +4,41 @@
     "SitePoint": {
       "items": [
         {
+          "creator": "Peter De Tender",
+          "title": "Azure DevOps vs GitHub: Which DevOps Tool Should You Choose?",
+          "link": "https://www.sitepoint.com/azure-devops-vs-github/?utm_source=rss",
+          "pubDate": "Tue, 17 Oct 2023 20:00:37 GMT",
+          "dc:creator": "Peter De Tender",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "/?p=281489",
+          "categories": [
+            "Web"
+          ],
+          "isoDate": "2023-10-17T20:00:37.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Boris Dzhingarov",
+          "title": "How Does Kubernetes Benefit Developers?",
+          "link": "https://www.sitepoint.com/kubernetes-developer-benefits/?utm_source=rss",
+          "pubDate": "Tue, 17 Oct 2023 19:00:01 GMT",
+          "dc:creator": "Boris Dzhingarov",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "/?p=281514",
+          "categories": [
+            "Programming",
+            "Web"
+          ],
+          "isoDate": "2023-10-17T19:00:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "James Charlesworth",
           "title": "How to Build a Simple Spellchecker with ChatGPT",
           "link": "https://www.sitepoint.com/chatgpt-build-simple-spellchecker/?utm_source=rss",
@@ -58,41 +93,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Neil Jordan",
-          "title": "WooCommerce vs Shopify: Which Is the Better Choice for You?",
-          "link": "https://www.sitepoint.com/woocommerce-vs-shopify-which-is-the-better-choice-for-you/?utm_source=rss",
-          "pubDate": "Wed, 11 Oct 2023 03:00:03 GMT",
-          "dc:creator": "Neil Jordan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "/?p=281333",
-          "categories": [
-            "Business",
-            "Web"
-          ],
-          "isoDate": "2023-10-11T03:00:03.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Emmanuel Onyeyaforo",
-          "title": "Designing for All: The Basic Principles of Web Accessibility",
-          "link": "https://www.sitepoint.com/designing-for-all-the-basics-principles-of-web-accessibility/?utm_source=rss",
-          "pubDate": "Tue, 10 Oct 2023 19:00:17 GMT",
-          "dc:creator": "Emmanuel Onyeyaforo",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "/?p=281302",
-          "categories": [
-            "Web"
-          ],
-          "isoDate": "2023-10-10T19:00:17.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.sitepoint.com/sitepoint.rss",
@@ -103,7 +103,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Wed, 18 Oct 2023 05:04:12 GMT"
+      "lastBuildDate": "Thu, 19 Oct 2023 05:04:12 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -234,44 +234,6 @@
           ],
           "isoDate": "2023-10-12T15:00:04.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Jakub Oleksy",
-          "title": "GitHub Availability Report: September 2023",
-          "link": "https://github.blog/2023-10-11-github-availability-report-september-2023/",
-          "pubDate": "Wed, 11 Oct 2023 19:47:46 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Jakub Oleksy",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=74719",
-          "categories": [
-            "Engineering",
-            "GitHub Availability Report"
-          ],
-          "isoDate": "2023-10-11T19:47:46.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "Tony Camp",
-          "title": "Enforcing code reliability by requiring workflows with GitHub Repository Rules",
-          "link": "https://github.blog/2023-10-11-enforcing-code-reliability-by-requiring-workflows-with-github-repository-rules/",
-          "pubDate": "Wed, 11 Oct 2023 15:00:42 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Tony Camp",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=74681",
-          "categories": [
-            "Enterprise",
-            "developer experience",
-            "GitHub Actions",
-            "GitHub Enterprise Cloud"
-          ],
-          "isoDate": "2023-10-11T15:00:42.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://github.blog/feed/",
@@ -290,7 +252,7 @@
       "generator": "https://wordpress.org/?v=6.3.2",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Tue, 17 Oct 2023 19:03:02 +0000"
+      "lastBuildDate": "Wed, 18 Oct 2023 17:36:08 +0000"
     },
     "GitHub Blog Atom": {
       "items": [
@@ -381,6 +343,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Preethi Sam)",
+          "title": "How To Animate Along A Path In CSS",
+          "link": "https://smashingmagazine.com/2023/10/animate-along-path-css/",
+          "pubDate": "Wed, 18 Oct 2023 12:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Preethi Sam)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/animate-along-path-css/animate-along-path-css.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2023/10/animate-along-path-css/",
+          "isoDate": "2023-10-18T12:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Drew McLellan)",
           "title": "Smashing Podcast Episode 66 With Ethan Marcotte: What Is A Tech Union?",
           "link": "https://smashingmagazine.com/2023/10/smashing-podcast-episode-66/",
@@ -455,25 +436,6 @@
           "guid": "https://smashingmagazine.com/2023/10/ux-research-learn-from-lt-columbo/",
           "isoDate": "2023-10-12T08:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Joas Pambou)",
-          "title": "A High-Level Overview Of Large Language Model Concepts, Use Cases, And Tools",
-          "link": "https://smashingmagazine.com/2023/10/overview-large-language-model-concepts-use-cases-tools/",
-          "pubDate": "Tue, 10 Oct 2023 13:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Joas Pambou)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/overview-large-language-model-concepts-use-cases-tools/overview-large-language-model-concepts-use-cases-tools.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2023/10/overview-large-language-model-concepts-use-cases-tools/",
-          "isoDate": "2023-10-10T13:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -491,11 +453,35 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2023, Smashing Media AG",
-      "lastBuildDate": "Wed, 18 Oct 2023 09:35:04 GMT",
+      "lastBuildDate": "Thu, 19 Oct 2023 07:01:36 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "Ideas for Image Motion Trail Animations",
+          "link": "https://tympanus.net/codrops/2023/10/18/ideas-for-image-motion-trail-animations/",
+          "pubDate": "Wed, 18 Oct 2023 10:36:49 +0000",
+          "enclosure": {
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2023/10/spin_opti.mp4?x86483",
+            "length": "527993",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=74079",
+          "categories": [
+            "Playground",
+            "clip-path",
+            "motion-trail"
+          ],
+          "isoDate": "2023-10-18T10:36:49.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Manoela Ilic",
           "title": "Collective #786",
@@ -575,20 +561,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "Collective #784",
-          "link": "https://tympanus.net/codrops/collective/collective-784/",
-          "pubDate": "Fri, 29 Sep 2023 11:11:11 +0000",
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?post_type=collective&p=73835",
-          "isoDate": "2023-09-29T11:11:11.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -600,10 +572,122 @@
       "generator": "https://wordpress.org/?v=6.3.2",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Thu, 12 Oct 2023 21:01:22 +0000"
+      "lastBuildDate": "Wed, 18 Oct 2023 10:46:05 +0000"
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Derric Gilling",
+          "title": "A Technical Deep Dive on Meltdown and Does It Work?",
+          "link": "https://dzone.com/articles/a-technical-deep-dive-on-meltdown-and-does-it-work",
+          "pubDate": "Thu, 19 Oct 2023 00:58:11 GMT",
+          "dc:creator": "Derric Gilling",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3393341",
+          "isoDate": "2023-10-19T00:58:11.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Zac Amos",
+          "title": "How to Design Software to Reduce Breaches Caused by Human Error",
+          "link": "https://dzone.com/articles/how-to-design-software-to-reduce-breaches-caused-b",
+          "pubDate": "Thu, 19 Oct 2023 00:23:40 GMT",
+          "dc:creator": "Zac Amos",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3393478",
+          "isoDate": "2023-10-19T00:23:40.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Dwayne McDaniel",
+          "title": "DEF CON 31: A Hot Time in the Las Vegas Heat and Some Cool Days in AppSec Village",
+          "link": "https://dzone.com/articles/def-con-31-a-hot-time-in-the-las-vegas-heat-and-so",
+          "pubDate": "Wed, 18 Oct 2023 18:29:00 GMT",
+          "dc:creator": "Dwayne McDaniel",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3380559",
+          "isoDate": "2023-10-18T18:29:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Enrique A Decoss",
+          "title": "Cypress Testing Library: Getting Started Tutorial",
+          "link": "https://dzone.com/articles/cypress-testing-library-getting-started-tutorial",
+          "pubDate": "Wed, 18 Oct 2023 17:25:09 GMT",
+          "dc:creator": "Enrique A Decoss",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3388316",
+          "isoDate": "2023-10-18T17:25:09.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Masudul Herry",
+          "title": "How To Learn Cyber Security Step-by-Step",
+          "link": "https://dzone.com/articles/how-to-learn-cyber-security-step-by-step",
+          "pubDate": "Wed, 18 Oct 2023 16:14:02 GMT",
+          "dc:creator": "Masudul Herry",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3391492",
+          "isoDate": "2023-10-18T16:14:02.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Shaunak Jagtap",
+          "title": "Packaging Libraries in iOS: A Comprehensive Guide",
+          "link": "https://dzone.com/articles/packaging-libraries-in-ios-a-comprehensive-guide",
+          "pubDate": "Wed, 18 Oct 2023 15:06:14 GMT",
+          "dc:creator": "Shaunak Jagtap",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3390192",
+          "isoDate": "2023-10-18T15:06:14.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Andrii Bidochko",
+          "title": "Training ChatGPT on Your Own Data: A Guide for Software Developers",
+          "link": "https://dzone.com/articles/training-chatgpt-on-your-own-data-a-guide-for-soft",
+          "pubDate": "Wed, 18 Oct 2023 13:16:17 GMT",
+          "dc:creator": "Andrii Bidochko",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3392516",
+          "isoDate": "2023-10-18T13:16:17.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Elsie Tyler",
+          "title": "Demystifying API-Driven Application Integration: A Pragmatic Approach",
+          "link": "https://dzone.com/articles/demystifying-api-driven-application-integration-a",
+          "pubDate": "Wed, 18 Oct 2023 11:03:10 GMT",
+          "dc:creator": "Elsie Tyler",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3390035",
+          "isoDate": "2023-10-18T11:03:10.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Aditya Bhuyan",
           "title": "Streamlining Success: The Crucial Role of Web Services Testing",
@@ -631,118 +715,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Atul Naithani",
-          "title": "Impact of React on Logistics and Supply Chain: Revolutionizing Efficiency and Innovation",
-          "link": "https://dzone.com/articles/impact-of-react-on-logistics-and-supply-chain-revo",
-          "pubDate": "Tue, 17 Oct 2023 20:23:23 GMT",
-          "dc:creator": "Atul Naithani",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3390458",
-          "isoDate": "2023-10-17T20:23:23.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Jonathan Hall",
-          "title": "Avoid Merge Conflicts, Don't Manage Them",
-          "link": "https://dzone.com/articles/avoid-merge-conflicts-dont-manage-them",
-          "pubDate": "Tue, 17 Oct 2023 20:03:00 GMT",
-          "dc:creator": "Jonathan Hall",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3387112",
-          "isoDate": "2023-10-17T20:03:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Aditya Bhuyan",
-          "title": "Exploring Network Flow Algorithms: Efficiently Channeling Information",
-          "link": "https://dzone.com/articles/exploring-network-flow-algorithms-efficiently-chan",
-          "pubDate": "Tue, 17 Oct 2023 18:26:19 GMT",
-          "dc:creator": "Aditya Bhuyan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3348585",
-          "isoDate": "2023-10-17T18:26:19.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Arun Pandey",
-          "title": "Mastering Backpressure in Java: Concepts, Real-World Examples, and Implementation",
-          "link": "https://dzone.com/articles/mastering-backpressure-in-java-concepts-real-world",
-          "pubDate": "Tue, 17 Oct 2023 16:40:23 GMT",
-          "dc:creator": "Arun Pandey",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3392490",
-          "isoDate": "2023-10-17T16:40:23.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Rich Jordan",
-          "title": "The 3 Stages of an Effective Test Data Strategy",
-          "link": "https://dzone.com/articles/the-3-stages-of-an-effective-test-data-strategy",
-          "pubDate": "Tue, 17 Oct 2023 16:37:32 GMT",
-          "dc:creator": "Rich Jordan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3391324",
-          "isoDate": "2023-10-17T16:37:32.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Tyler Band",
-          "title": "Kafka Event Streaming AI and Automation",
-          "link": "https://dzone.com/articles/event-streaming-ai-amp-automation",
-          "pubDate": "Tue, 17 Oct 2023 16:19:27 GMT",
-          "dc:creator": "Tyler Band",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3388152",
-          "isoDate": "2023-10-17T16:19:27.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Dwayne McDaniel",
-          "title": "BSidesLV: The Big Event Before the Biggest Security Event in Las Vegas",
-          "link": "https://dzone.com/articles/bsideslv-the-big-event-before-the-biggest-security",
-          "pubDate": "Tue, 17 Oct 2023 15:49:13 GMT",
-          "dc:creator": "Dwayne McDaniel",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3380346",
-          "isoDate": "2023-10-17T15:49:13.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Raghava Dittakavi",
-          "title": "Enhanced Security for Your Secrets With AWS Secrets Manager",
-          "link": "https://dzone.com/articles/enhanced-security-for-your-secrets-with-aws-secret",
-          "pubDate": "Tue, 17 Oct 2023 14:43:25 GMT",
-          "dc:creator": "Raghava Dittakavi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3390481",
-          "isoDate": "2023-10-17T14:43:25.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -755,6 +727,48 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Andras Gerlits",
+          "title": "How the microservice vs. monolith debate became meaningless",
+          "link": "https://itnext.io/how-the-microservice-vs-monolith-debate-became-meaningless-7e90678c5a29?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 19 Oct 2023 06:55:22 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Andras Gerlits",
+          "guid": "https://medium.com/p/7e90678c5a29",
+          "categories": [
+            "programming",
+            "microservices",
+            "distributed-systems",
+            "enterprise-technology",
+            "software-development"
+          ],
+          "isoDate": "2023-10-19T06:55:22.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Andras Gerlits",
+          "title": "How to federate independent applications with omniledger.io",
+          "link": "https://itnext.io/how-to-federate-independent-applications-with-omniledger-io-1eb4c65cc415?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 18 Oct 2023 22:18:45 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Andras Gerlits",
+          "guid": "https://medium.com/p/1eb4c65cc415",
+          "categories": [
+            "spring-boot",
+            "distributed-systems",
+            "programming",
+            "microservices",
+            "database"
+          ],
+          "isoDate": "2023-10-18T22:18:45.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Dwen",
           "title": "Common Pitfalls in Programming: The Differences between “==” and “equals()” in Java",
@@ -920,46 +934,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Santosh Pai",
-          "title": "Port Binding — 12-factor Microservices",
-          "link": "https://itnext.io/port-binding-12-factor-microservices-102e95d5614b?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 17 Oct 2023 07:31:14 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Santosh Pai",
-          "guid": "https://medium.com/p/102e95d5614b",
-          "categories": [
-            "architecture",
-            "12-factor",
-            "microservices",
-            "kubernetes",
-            "cloud-native"
-          ],
-          "isoDate": "2023-10-17T07:31:14.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Gergely Szerovay",
-          "title": "New Angular 17 feature: deferred loading",
-          "link": "https://itnext.io/new-angular-17-feature-deferred-loading-156d472b008b?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 17 Oct 2023 07:11:39 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Gergely Szerovay",
-          "guid": "https://medium.com/p/156d472b008b",
-          "categories": [
-            "angular",
-            "typescript",
-            "javascript"
-          ],
-          "isoDate": "2023-10-17T07:11:39.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -976,195 +950,198 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Wed, 18 Oct 2023 09:52:10 GMT"
+      "lastBuildDate": "Thu, 19 Oct 2023 07:19:48 GMT"
     },
     "DEV Community": {
       "items": [
         {
+          "creator": "Avinash Dalvi",
+          "title": "Seekable OCI - Lazy Loading Container Images on ECS and Fargate",
+          "link": "https://dev.to/aws-builders/seekable-oci-lazy-loading-container-images-on-ecs-and-fargate-8dp",
+          "pubDate": "Thu, 19 Oct 2023 05:27:33 +0000",
+          "dc:creator": "Avinash Dalvi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/aws-builders/seekable-oci-lazy-loading-container-images-on-ecs-and-fargate-8dp",
+          "categories": [
+            "aws",
+            "fargate",
+            "ecs",
+            "soci"
+          ],
+          "isoDate": "2023-10-19T05:27:33.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Scofield Idehen",
+          "title": "Took A Break, I AM BACK!!!",
+          "link": "https://dev.to/scofieldidehen/took-a-break-i-am-back-1l1d",
+          "pubDate": "Thu, 19 Oct 2023 05:22:00 +0000",
+          "dc:creator": "Scofield Idehen",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/scofieldidehen/took-a-break-i-am-back-1l1d",
+          "categories": [
+            "learning",
+            "beginners",
+            "programming",
+            "discuss"
+          ],
+          "isoDate": "2023-10-19T05:22:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mariana Caldas",
+          "title": "Making Your LinkedIn Profile Shine in the Tech World",
+          "link": "https://dev.to/wdp/making-your-linkedin-profile-shine-in-the-tech-world-3ek5",
+          "pubDate": "Thu, 19 Oct 2023 04:23:37 +0000",
+          "dc:creator": "Mariana Caldas",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/wdp/making-your-linkedin-profile-shine-in-the-tech-world-3ek5",
+          "categories": [
+            "linkedinprofileoptimization",
+            "techcareertips",
+            "techjobs"
+          ],
+          "isoDate": "2023-10-19T04:23:37.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "DIWAKARKASHYAP",
+          "title": "What is Private field in JS (JavaScript)",
+          "link": "https://dev.to/diwakarkashyap/what-is-private-field-in-js-javascript-4ma0",
+          "pubDate": "Thu, 19 Oct 2023 04:20:55 +0000",
+          "dc:creator": "DIWAKARKASHYAP",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/diwakarkashyap/what-is-private-field-in-js-javascript-4ma0",
+          "categories": [
+            "webdev",
+            "javascript",
+            "programming",
+            "typescript"
+          ],
+          "isoDate": "2023-10-19T04:20:55.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Swastik Yadav",
+          "title": "From dropout to developer.",
+          "link": "https://dev.to/swastikyadav/from-dropout-to-developer-ieo",
+          "pubDate": "Thu, 19 Oct 2023 04:13:53 +0000",
+          "dc:creator": "Swastik Yadav",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/swastikyadav/from-dropout-to-developer-ieo",
+          "categories": [
+            "webdev",
+            "motivation",
+            "discuss",
+            "career"
+          ],
+          "isoDate": "2023-10-19T04:13:53.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "jasonchan",
+          "title": "Como simular APIs online sem configurar um servidor",
+          "link": "https://dev.to/jasonchan/como-simular-apis-online-sem-configurar-um-servidor-1kho",
+          "pubDate": "Thu, 19 Oct 2023 03:39:13 +0000",
+          "dc:creator": "jasonchan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/jasonchan/como-simular-apis-online-sem-configurar-um-servidor-1kho",
+          "categories": [
+            "webdev",
+            "api",
+            "braziliandevs",
+            "ptbr"
+          ],
+          "isoDate": "2023-10-19T03:39:13.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "API Maker®",
-          "title": "🚀 API Maker - Call external APIs",
-          "link": "https://dev.to/apimaker/api-maker-call-external-apis-3ekd",
-          "pubDate": "Wed, 18 Oct 2023 09:43:15 +0000",
+          "title": "🚀 API Maker - Database migration",
+          "link": "https://dev.to/apimaker/api-maker-database-migration-3co8",
+          "pubDate": "Thu, 19 Oct 2023 03:15:54 +0000",
           "dc:creator": "API Maker®",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/apimaker/api-maker-call-external-apis-3ekd",
-          "isoDate": "2023-10-18T09:43:15.000Z",
+          "guid": "https://dev.to/apimaker/api-maker-database-migration-3co8",
+          "isoDate": "2023-10-19T03:15:54.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sloan the DEV Moderator",
-          "title": "Welcome Thread - v247",
-          "link": "https://dev.to/devteam/welcome-thread-v247-11p4",
-          "pubDate": "Wed, 18 Oct 2023 09:30:00 +0000",
-          "dc:creator": "Sloan the DEV Moderator",
+          "creator": "Lasantha Sanjeewa Silva",
+          "title": "Amazon S3 Event Notifications",
+          "link": "https://dev.to/aws-builders/amazon-s3-event-notifications-13d3",
+          "pubDate": "Thu, 19 Oct 2023 03:03:06 +0000",
+          "dc:creator": "Lasantha Sanjeewa Silva",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devteam/welcome-thread-v247-11p4",
-          "categories": [
-            "welcome"
-          ],
-          "isoDate": "2023-10-18T09:30:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Christian",
-          "title": "ZenGPT: a simple ChapGPT alternative frontend",
-          "link": "https://dev.to/christianfei/zengpt-a-simple-chapgpt-alternative-frontend-2kln",
-          "pubDate": "Wed, 18 Oct 2023 09:21:47 +0000",
-          "dc:creator": "Christian",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/christianfei/zengpt-a-simple-chapgpt-alternative-frontend-2kln",
-          "categories": [
-            "chatgpt",
-            "javascript",
-            "htmx",
-            "alpine"
-          ],
-          "isoDate": "2023-10-18T09:21:47.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Vicente G. Reyes",
-          "title": "What shiny new object is good to learn now?",
-          "link": "https://dev.to/highcenburg/whats-shiny-new-object-is-good-to-learn-now-2i9i",
-          "pubDate": "Wed, 18 Oct 2023 09:21:46 +0000",
-          "dc:creator": "Vicente G. Reyes",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/highcenburg/whats-shiny-new-object-is-good-to-learn-now-2i9i",
-          "categories": [
-            "discuss",
-            "watercooler"
-          ],
-          "isoDate": "2023-10-18T09:21:46.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Pawel Zubkiewicz",
-          "title": "How to prepare for re:Invent in Las Vegas?",
-          "link": "https://dev.to/aws-heroes/how-to-prepare-for-reinvent-in-las-vegas-4hj1",
-          "pubDate": "Wed, 18 Oct 2023 08:43:48 +0000",
-          "dc:creator": "Pawel Zubkiewicz",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/aws-heroes/how-to-prepare-for-reinvent-in-las-vegas-4hj1",
+          "guid": "https://dev.to/aws-builders/amazon-s3-event-notifications-13d3",
           "categories": [
             "aws",
-            "reinvent",
-            "conference",
-            "lasvegas"
+            "s3",
+            "cloudcomputing",
+            "cloudskills"
           ],
-          "isoDate": "2023-10-18T08:43:48.000Z",
+          "isoDate": "2023-10-19T03:03:06.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "ByteHide",
-          "title": ".NET 8 is on the Way! 7 Features that will blow your mind 🤯",
-          "link": "https://dev.to/bytehide/net-8-is-on-the-way-7-features-that-will-blow-your-mind-32gh",
-          "pubDate": "Wed, 18 Oct 2023 08:22:10 +0000",
-          "dc:creator": "ByteHide",
+          "creator": "Tien Nguyen",
+          "title": "Dockerize Nodejs and Postgres example",
+          "link": "https://dev.to/tienbku/dockerize-nodejs-and-postgres-example-4k2j",
+          "pubDate": "Thu, 19 Oct 2023 02:35:36 +0000",
+          "dc:creator": "Tien Nguyen",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/bytehide/net-8-is-on-the-way-7-features-that-will-blow-your-mind-32gh",
+          "guid": "https://dev.to/tienbku/dockerize-nodejs-and-postgres-example-4k2j",
           "categories": [
-            "csharp",
-            "dotnet",
-            "news",
-            "programming"
-          ],
-          "isoDate": "2023-10-18T08:22:10.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Keff",
-          "title": "Routing is FUN - the Web is weird, but fun",
-          "link": "https://dev.to/nombrekeff/routing-is-fun-the-web-is-weird-but-fun-iap",
-          "pubDate": "Wed, 18 Oct 2023 07:55:53 +0000",
-          "dc:creator": "Keff",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/nombrekeff/routing-is-fun-the-web-is-weird-but-fun-iap",
-          "categories": [
-            "showdev",
             "javascript",
+            "devops",
             "webdev",
-            "cardboard"
+            "docker"
           ],
-          "isoDate": "2023-10-18T07:55:53.000Z",
+          "isoDate": "2023-10-19T02:35:36.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Aswin Barath",
-          "title": "SSH 101: Junior to Senior Web Dev Roadmap",
-          "link": "https://dev.to/aswin2001barath/ssh-101-junior-to-senior-web-dev-roadmap-2l31",
-          "pubDate": "Wed, 18 Oct 2023 07:27:40 +0000",
-          "dc:creator": "Aswin Barath",
+          "creator": "Khalid ElGazzar",
+          "title": "AWS Well Architected Framework",
+          "link": "https://dev.to/aws-builders/aws-well-architected-framework-1l7n",
+          "pubDate": "Thu, 19 Oct 2023 02:27:00 +0000",
+          "dc:creator": "Khalid ElGazzar",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/aswin2001barath/ssh-101-junior-to-senior-web-dev-roadmap-2l31",
+          "guid": "https://dev.to/aws-builders/aws-well-architected-framework-1l7n",
           "categories": [
-            "webdev",
+            "aws",
             "beginners",
-            "programming",
-            "tutorial"
+            "framework"
           ],
-          "isoDate": "2023-10-18T07:27:40.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "yogini16",
-          "title": "10 Bad Practices to Avoid in ASP.NET Core API Controllers",
-          "link": "https://dev.to/yogini16/10-bad-practices-to-avoid-in-aspnet-core-api-controllers-2pba",
-          "pubDate": "Wed, 18 Oct 2023 07:24:09 +0000",
-          "dc:creator": "yogini16",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/yogini16/10-bad-practices-to-avoid-in-aspnet-core-api-controllers-2pba",
-          "categories": [
-            "dotnetcore",
-            "csharp",
-            "programming",
-            "bestofdev"
-          ],
-          "isoDate": "2023-10-18T07:24:09.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Kevin Mutua",
-          "title": "Email Marketing Best Practices for Developers: A Guide to Effective Campaigns",
-          "link": "https://dev.to/kevinmutua/email-marketing-best-practices-for-developers-a-guide-to-effective-campaigns-12b0",
-          "pubDate": "Wed, 18 Oct 2023 07:08:38 +0000",
-          "dc:creator": "Kevin Mutua",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/kevinmutua/email-marketing-best-practices-for-developers-a-guide-to-effective-campaigns-12b0",
-          "categories": [
-            "emailmarketing",
-            "codenewbie",
-            "developer",
-            "marketing"
-          ],
-          "isoDate": "2023-10-18T07:08:38.000Z",
+          "isoDate": "2023-10-19T02:27:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1250,7 +1227,7 @@
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog/rss",
       "title": "The DigitalOcean Blog",
-      "lastBuildDate": "2023-10-16T20:03:24.179Z"
+      "lastBuildDate": "2023-10-18T23:25:48.562Z"
     },
     "Julia Evans": {
       "items": [
