@@ -4,6 +4,43 @@
     "SitePoint": {
       "items": [
         {
+          "creator": "Dianne Pena",
+          "title": "Quick Tip: Install Node.js on Ubuntu",
+          "link": "https://www.sitepoint.com/install-node-js-on-ubuntu/?utm_source=rss",
+          "pubDate": "Sun, 22 Oct 2023 04:09:28 GMT",
+          "dc:creator": "Dianne Pena",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "/?p=281470",
+          "categories": [
+            "JavaScript",
+            "Node.js"
+          ],
+          "isoDate": "2023-10-22T04:09:28.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Dianne Pena",
+          "title": "Node.js vs .NET Core: What to Choose in 2023?",
+          "link": "https://www.sitepoint.com/node-js-vs-net-core-what-to-choose/?utm_source=rss",
+          "pubDate": "Sat, 21 Oct 2023 03:17:47 GMT",
+          "dc:creator": "Dianne Pena",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "/?p=281588",
+          "categories": [
+            "ASP.NET",
+            "JavaScript",
+            "Node.js"
+          ],
+          "isoDate": "2023-10-21T03:17:47.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Peter De Tender",
           "title": "Azure DevOps vs GitHub: Which DevOps Tool Should You Choose?",
           "link": "https://www.sitepoint.com/azure-devops-vs-github/?utm_source=rss",
@@ -56,43 +93,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Steve Kinney",
-          "title": "Quick Tip: Creating Polymorphic Components in TypeScript",
-          "link": "https://www.sitepoint.com/typescript-polymorpic-components/?utm_source=rss",
-          "pubDate": "Wed, 11 Oct 2023 19:00:44 GMT",
-          "dc:creator": "Steve Kinney",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "/?p=281314",
-          "categories": [
-            "JavaScript"
-          ],
-          "isoDate": "2023-10-11T19:00:44.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Amber Leigh Turner",
-          "title": "How to Remove a Background in Photoshop: 7 Quick & Easy Methods",
-          "link": "https://www.sitepoint.com/remove-background-photoshop/?utm_source=rss",
-          "pubDate": "Wed, 11 Oct 2023 14:30:00 GMT",
-          "dc:creator": "Amber Leigh Turner",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "http://www.sitepoint.com/blogs/?p=15218",
-          "categories": [
-            "Design",
-            "Design & UX",
-            "Photography & Imagery",
-            "Photoshop"
-          ],
-          "isoDate": "2023-10-11T14:30:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.sitepoint.com/sitepoint.rss",
@@ -103,7 +103,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sat, 21 Oct 2023 05:04:12 GMT"
+      "lastBuildDate": "Mon, 23 Oct 2023 05:04:13 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -318,6 +318,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Geoff Graham)",
+          "title": "A Roundup Of WCAG 2.2 Explainers",
+          "link": "https://smashingmagazine.com/2023/10/roundup-wcag-explainers/",
+          "pubDate": "Sat, 21 Oct 2023 09:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/roundup-wcag-explainers/roundup-wcag-explainers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2023/10/roundup-wcag-explainers/",
+          "isoDate": "2023-10-21T09:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Daria Karpenko)",
           "title": "How To Choose Typefaces For Fintech Products: Best Practices Guide (Part 2)",
           "link": "https://smashingmagazine.com/2023/10/choose-typefaces-fintech-products-best-practices-guide-part2/",
@@ -392,25 +411,6 @@
           "guid": "https://smashingmagazine.com/2023/10/gatsby-headaches-working-media-part2/",
           "isoDate": "2023-10-16T13:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Daria Karpenko)",
-          "title": "How To Choose Typefaces For Fintech Products: Our Best Practices Guide (Part 1)",
-          "link": "https://smashingmagazine.com/2023/10/choose-typefaces-fintech-products-guide-part1/",
-          "pubDate": "Fri, 13 Oct 2023 11:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Daria Karpenko)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/choose-typefaces-fintech-products-guide-part1/choose-typefaces-fintech-products-guide.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2023/10/choose-typefaces-fintech-products-guide-part1/",
-          "isoDate": "2023-10-13T11:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -428,7 +428,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2023, Smashing Media AG",
-      "lastBuildDate": "Sat, 21 Oct 2023 06:34:55 GMT",
+      "lastBuildDate": "Mon, 23 Oct 2023 07:07:48 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -545,6 +545,48 @@
     "DZone": {
       "items": [
         {
+          "creator": "Aditya Bhuyan",
+          "title": "Canary Release: A Strategy for Seamless Software Deployments",
+          "link": "https://dzone.com/articles/canary-release-a-strategy-for-seamless-software-de",
+          "pubDate": "Sat, 21 Oct 2023 20:53:46 GMT",
+          "dc:creator": "Aditya Bhuyan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3350583",
+          "isoDate": "2023-10-21T20:53:46.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Devin Partida",
+          "title": "How Can DevSecOps Improve Agility and Security in Manufacturing Operations?",
+          "link": "https://dzone.com/articles/how-can-devsecops-improve-agility-and-security-in",
+          "pubDate": "Sat, 21 Oct 2023 20:25:33 GMT",
+          "dc:creator": "Devin Partida",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3393484",
+          "isoDate": "2023-10-21T20:25:33.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Hiren Dhaduk",
+          "title": "Applications of AIoT Being Used Today",
+          "link": "https://dzone.com/articles/applications-of-aiot-being-used-today",
+          "pubDate": "Sat, 21 Oct 2023 20:13:36 GMT",
+          "dc:creator": "Hiren Dhaduk",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3393280",
+          "isoDate": "2023-10-21T20:13:36.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Gal Cohen",
           "title": "Kubernetes Today",
           "link": "https://dzone.com/articles/kubernetes-today",
@@ -641,48 +683,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Zdravko Kolev",
-          "title": "5 Must-Have Angular Grid Row Features and How To Use Them",
-          "link": "https://dzone.com/articles/5-must-have-angular-grid-row-features-amp-how-to-u",
-          "pubDate": "Fri, 20 Oct 2023 10:18:20 GMT",
-          "dc:creator": "Zdravko Kolev",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3380287",
-          "isoDate": "2023-10-20T10:18:20.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Yitaek Hwang",
-          "title": "The State of Kubernetes: Self-Managed vs. Managed Platforms",
-          "link": "https://dzone.com/articles/the-state-of-kubernetes-self-managed-vs-managed-pl",
-          "pubDate": "Fri, 20 Oct 2023 01:24:30 GMT",
-          "dc:creator": "Yitaek Hwang",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3393318",
-          "isoDate": "2023-10-20T01:24:30.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nicolas Fränkel",
-          "title": "Python “Magic” Methods: Part 1",
-          "link": "https://dzone.com/articles/python-magic-methods-part-1",
-          "pubDate": "Thu, 19 Oct 2023 17:52:54 GMT",
-          "dc:creator": "Nicolas Fränkel",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3392463",
-          "isoDate": "2023-10-19T17:52:54.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -695,6 +695,131 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Alexandre Olive",
+          "title": "Run asynchronous tasks in a new Kubernetes pod with NodeJS.",
+          "link": "https://itnext.io/run-asynchronous-tasks-in-a-new-kubernetes-pod-with-nodejs-9a80bb1f649e?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 22 Oct 2023 23:06:04 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Alexandre Olive",
+          "guid": "https://medium.com/p/9a80bb1f649e",
+          "categories": [
+            "programming",
+            "software-engineering",
+            "kubernetes",
+            "docker",
+            "nodejs"
+          ],
+          "isoDate": "2023-10-22T23:06:04.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Samuel Abada",
+          "title": "Unit Testing In Flutter & Dart: Guide On How To Write Unit Tests",
+          "link": "https://itnext.io/unit-testing-in-flutter-and-dart-guide-44bd3d965450?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 22 Oct 2023 21:32:01 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Samuel Abada",
+          "guid": "https://medium.com/p/44bd3d965450",
+          "categories": [
+            "dart",
+            "programming",
+            "testing",
+            "flutter",
+            "test"
+          ],
+          "isoDate": "2023-10-22T21:32:01.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Tom Nijhof",
+          "title": "Pigging in CI/CD pipelines",
+          "link": "https://itnext.io/pigging-in-ci-cd-pipelines-48129200c695?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 22 Oct 2023 12:59:47 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Tom Nijhof",
+          "guid": "https://medium.com/p/48129200c695",
+          "categories": [
+            "continuous-delivery",
+            "ci-cd-pipeline",
+            "pipeline",
+            "continuous-integration",
+            "pigging"
+          ],
+          "isoDate": "2023-10-22T12:59:47.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Aziz Nal",
+          "title": "Choosing Your Backend: Onsite vs Cloud vs Serverless vs Edge",
+          "link": "https://itnext.io/choosing-your-backend-onsite-vs-cloud-vs-serverless-vs-edge-6d801a573a72?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 22 Oct 2023 12:01:34 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Aziz Nal",
+          "guid": "https://medium.com/p/6d801a573a72",
+          "categories": [
+            "servers",
+            "backend",
+            "edge-computing",
+            "cloud-computing",
+            "serverless"
+          ],
+          "isoDate": "2023-10-22T12:01:34.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Markus Stoll",
+          "title": "Fine-tuning image classification models from image search",
+          "link": "https://itnext.io/image-classification-in-2023-8ab7dc552115?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 21 Oct 2023 22:41:24 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Markus Stoll",
+          "guid": "https://medium.com/p/8ab7dc552115",
+          "categories": [
+            "data-science",
+            "python",
+            "data-visualization",
+            "startup",
+            "machine-learning"
+          ],
+          "isoDate": "2023-10-21T22:41:24.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Matthew Duong",
+          "title": "What Protocol Should You Use For Your NAS?",
+          "link": "https://itnext.io/choosing-the-right-protocol-for-your-nas-afp-vs-smb-vs-nfs-vs-iscsi-5fab64a66448?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 21 Oct 2023 08:33:11 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Matthew Duong",
+          "guid": "https://medium.com/p/5fab64a66448",
+          "categories": [
+            "nas",
+            "smb",
+            "afp",
+            "nfs-server"
+          ],
+          "isoDate": "2023-10-21T08:33:11.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Sotiris Kaniras",
           "title": "How to Share a Video from your app on TikTok Using Swift",
@@ -774,132 +899,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Erxk",
-          "title": "Angular Signals: Effective Effects",
-          "link": "https://itnext.io/angular-signals-effective-effects-185fcd9cc306?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 20 Oct 2023 06:58:19 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Erxk",
-          "guid": "https://medium.com/p/185fcd9cc306",
-          "categories": [
-            "javascript",
-            "programming",
-            "web-development",
-            "angular",
-            "technology"
-          ],
-          "isoDate": "2023-10-20T06:58:19.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Saeed Zarinfam",
-          "title": "Using WebClient synchronously in Spring Web MVC stack",
-          "link": "https://itnext.io/using-webclient-synchronously-in-spring-web-mvc-stack-8c5057eae008?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 19 Oct 2023 09:25:14 GMT",
-          "dc:creator": "Saeed Zarinfam",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/8c5057eae008",
-          "categories": [
-            "spring-mvc",
-            "webflux",
-            "webclient",
-            "non-blocking",
-            "spring-boot"
-          ],
-          "isoDate": "2023-10-19T09:25:14.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Dwen",
-          "title": "Mastering Error Handling in Golang: Best Practices and Tips",
-          "link": "https://itnext.io/mastering-error-handling-in-golang-best-practices-and-tips-f6dbfbd66cdd?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 19 Oct 2023 09:24:11 GMT",
-          "dc:creator": "Dwen",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/f6dbfbd66cdd",
-          "categories": [
-            "web-development",
-            "golang-tutorial",
-            "programming",
-            "go",
-            "golang"
-          ],
-          "isoDate": "2023-10-19T09:24:11.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Andras Gerlits",
-          "title": "How the microservice vs. monolith debate became meaningless",
-          "link": "https://itnext.io/how-the-microservice-vs-monolith-debate-became-meaningless-7e90678c5a29?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 19 Oct 2023 06:55:22 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Andras Gerlits",
-          "guid": "https://medium.com/p/7e90678c5a29",
-          "categories": [
-            "programming",
-            "microservices",
-            "distributed-systems",
-            "enterprise-technology",
-            "software-development"
-          ],
-          "isoDate": "2023-10-19T06:55:22.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Andras Gerlits",
-          "title": "How to federate independent applications with omniledger.io",
-          "link": "https://itnext.io/how-to-federate-independent-applications-with-omniledger-io-1eb4c65cc415?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 18 Oct 2023 22:18:45 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Andras Gerlits",
-          "guid": "https://medium.com/p/1eb4c65cc415",
-          "categories": [
-            "spring-boot",
-            "distributed-systems",
-            "programming",
-            "microservices",
-            "database"
-          ],
-          "isoDate": "2023-10-18T22:18:45.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Dwen",
-          "title": "Common Pitfalls in Programming: The Differences between “==” and “equals()” in Java",
-          "link": "https://itnext.io/common-pitfalls-in-programming-the-differences-between-and-equals-in-java-f9227cc2fb2e?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 18 Oct 2023 06:55:31 GMT",
-          "dc:creator": "Dwen",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/f9227cc2fb2e",
-          "categories": [
-            "web-development",
-            "programming",
-            "web",
-            "java",
-            "development"
-          ],
-          "isoDate": "2023-10-18T06:55:31.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -916,194 +915,192 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sat, 21 Oct 2023 06:56:30 GMT"
+      "lastBuildDate": "Mon, 23 Oct 2023 07:19:41 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "karleeov",
-          "title": "Create your own Azure Openai Platform",
-          "link": "https://dev.to/karleeov/create-your-own-azure-openai-platform-3ld5",
-          "pubDate": "Sat, 21 Oct 2023 01:45:55 +0000",
-          "dc:creator": "karleeov",
+          "creator": "Hakeem Abbas",
+          "title": "Stress Relief and Focus: Mindfulness Techniques for Developers",
+          "link": "https://dev.to/codingcrafts/stress-relief-and-focus-mindfulness-techniques-for-developers-4ff",
+          "pubDate": "Mon, 23 Oct 2023 06:39:00 +0000",
+          "dc:creator": "Hakeem Abbas",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/karleeov/create-your-own-azure-openai-platform-3ld5",
+          "guid": "https://dev.to/codingcrafts/stress-relief-and-focus-mindfulness-techniques-for-developers-4ff",
           "categories": [
-            "azure",
-            "aoai",
-            "chatgpt"
-          ],
-          "isoDate": "2023-10-21T01:45:55.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Chris Churilo",
-          "title": "Milvus Adventures",
-          "link": "https://dev.to/chrischurilo/milvus-adventures-8fo",
-          "pubDate": "Sat, 21 Oct 2023 01:29:40 +0000",
-          "dc:creator": "Chris Churilo",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/chrischurilo/milvus-adventures-8fo",
-          "categories": [
-            "opensource",
-            "vectordatabase",
-            "rust",
-            "milvus"
-          ],
-          "isoDate": "2023-10-21T01:29:40.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "dev.to staff",
-          "title": "Unveil Your App Secrets!",
-          "link": "https://dev.to/devteam/unveil-your-app-secrets-lll",
-          "pubDate": "Sat, 21 Oct 2023 00:00:00 +0000",
-          "dc:creator": "dev.to staff",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/devteam/unveil-your-app-secrets-lll",
-          "categories": [
-            "discuss"
-          ],
-          "isoDate": "2023-10-21T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sloan the DEV Moderator",
-          "title": "What's Your Frog Today? Eat It and Tell Us About It!",
-          "link": "https://dev.to/codenewbieteam/whats-your-frog-today-eat-it-and-tell-us-about-it-59bh",
-          "pubDate": "Sat, 21 Oct 2023 00:00:00 +0000",
-          "dc:creator": "Sloan the DEV Moderator",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/codenewbieteam/whats-your-frog-today-eat-it-and-tell-us-about-it-59bh",
-          "categories": [
-            "discuss",
-            "codenewbie",
-            "beginner"
-          ],
-          "isoDate": "2023-10-21T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "chryzcode",
-          "title": "How to Create a Django Project and Application.",
-          "link": "https://dev.to/chryzcode/how-to-create-a-django-project-and-application-2j3j",
-          "pubDate": "Fri, 20 Oct 2023 23:29:53 +0000",
-          "dc:creator": "chryzcode",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/chryzcode/how-to-create-a-django-project-and-application-2j3j",
-          "categories": [
+            "developers",
+            "techtalks",
             "webdev",
-            "beginners",
-            "django",
-            "python"
+            "career"
           ],
-          "isoDate": "2023-10-20T23:29:53.000Z",
+          "isoDate": "2023-10-23T06:39:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Patrick Lisiecki",
-          "title": "Optimizing Web Performance: PNG Compression⚡",
-          "link": "https://dev.to/patricklisiecki/optimizing-web-performance-png-compression-4ldo",
-          "pubDate": "Fri, 20 Oct 2023 23:13:09 +0000",
-          "dc:creator": "Patrick Lisiecki",
+          "creator": "Nicolas B.",
+          "title": "Unlocking JavaScript Design Patterns: Mastering Singleton for Ultimate Code Efficiency",
+          "link": "https://dev.to/brdnicolas/unlocking-javascript-design-patterns-mastering-singleton-for-ultimate-code-efficiency-4ne0",
+          "pubDate": "Mon, 23 Oct 2023 06:30:00 +0000",
+          "dc:creator": "Nicolas B.",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/patricklisiecki/optimizing-web-performance-png-compression-4ldo",
+          "guid": "https://dev.to/brdnicolas/unlocking-javascript-design-patterns-mastering-singleton-for-ultimate-code-efficiency-4ne0",
           "categories": [
-            "webdev",
-            "frontend",
-            "react",
-            "codenewbie"
-          ],
-          "isoDate": "2023-10-20T23:13:09.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Marcos Mendes",
-          "title": "How Java works ?",
-          "link": "https://dev.to/iamdevmarcos/how-java-works--44i6",
-          "pubDate": "Fri, 20 Oct 2023 22:57:50 +0000",
-          "dc:creator": "Marcos Mendes",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/iamdevmarcos/how-java-works--44i6",
-          "categories": [
-            "java",
-            "backend",
-            "webdev",
-            "learning"
-          ],
-          "isoDate": "2023-10-20T22:57:50.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Jayson DeLancey",
-          "title": "How-to Setup and Use Python with OBS on a Mac",
-          "link": "https://dev.to/j12y/how-to-setup-and-use-python-with-obs-on-a-mac-1055",
-          "pubDate": "Fri, 20 Oct 2023 22:24:06 +0000",
-          "dc:creator": "Jayson DeLancey",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/j12y/how-to-setup-and-use-python-with-obs-on-a-mac-1055",
-          "categories": [
-            "obs",
-            "python",
-            "media"
-          ],
-          "isoDate": "2023-10-20T22:24:06.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "alakkadshaw",
-          "title": "CSV files with Node and PapaParse: The Complete Guide",
-          "link": "https://dev.to/alakkadshaw/csv-files-with-node-and-papaparse-the-complete-guide-13h1",
-          "pubDate": "Fri, 20 Oct 2023 22:02:25 +0000",
-          "dc:creator": "alakkadshaw",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/alakkadshaw/csv-files-with-node-and-papaparse-the-complete-guide-13h1",
-          "categories": [
-            "node",
-            "webdev",
             "javascript",
+            "designpatterns",
+            "programming",
             "tutorial"
           ],
-          "isoDate": "2023-10-20T22:02:25.000Z",
+          "isoDate": "2023-10-23T06:30:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Juan Rodrigo de Oliveira Pinheiro",
-          "title": "Creating REST APIs with Node.js",
-          "link": "https://dev.to/juanpinheirx/creating-rest-apis-with-nodejs-3o8o",
-          "pubDate": "Fri, 20 Oct 2023 21:30:15 +0000",
-          "dc:creator": "Juan Rodrigo de Oliveira Pinheiro",
+          "creator": "Necati Özmen",
+          "title": "💅 Creating Polished Content with React Markdown",
+          "link": "https://dev.to/refine/creating-polished-content-with-react-markdown-3h65",
+          "pubDate": "Mon, 23 Oct 2023 06:15:11 +0000",
+          "dc:creator": "Necati Özmen",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/juanpinheirx/creating-rest-apis-with-nodejs-3o8o",
-          "isoDate": "2023-10-20T21:30:15.000Z",
+          "guid": "https://dev.to/refine/creating-polished-content-with-react-markdown-3h65",
+          "categories": [
+            "react",
+            "javascript",
+            "webdev",
+            "beginners"
+          ],
+          "isoDate": "2023-10-23T06:15:11.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Safvan P",
+          "title": "Java Messaging Service ( JMS )",
+          "link": "https://dev.to/safvan_8/java-messaging-service-jms--2aeb",
+          "pubDate": "Mon, 23 Oct 2023 05:56:06 +0000",
+          "dc:creator": "Safvan P",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/safvan_8/java-messaging-service-jms--2aeb",
+          "isoDate": "2023-10-23T05:56:06.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Lakshmanan Arumugam",
+          "title": "Updated: Build a PWA with Next.js with achieve 100% score in lighthouse",
+          "link": "https://dev.to/lakshmananarumugam/updated-build-a-pwa-with-nextjs-with-achieve-100-score-in-lighthouse-j74",
+          "pubDate": "Mon, 23 Oct 2023 04:23:00 +0000",
+          "dc:creator": "Lakshmanan Arumugam",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/lakshmananarumugam/updated-build-a-pwa-with-nextjs-with-achieve-100-score-in-lighthouse-j74",
+          "categories": [
+            "nextjs",
+            "pwa",
+            "beginners",
+            "webdev"
+          ],
+          "isoDate": "2023-10-23T04:23:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "AnyISalIn",
+          "title": "5 lines of Python code to change the posture of photography",
+          "link": "https://dev.to/anyisalin/5-lines-of-python-code-to-change-the-posture-of-photography-2e70",
+          "pubDate": "Mon, 23 Oct 2023 04:01:38 +0000",
+          "dc:creator": "AnyISalIn",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/anyisalin/5-lines-of-python-code-to-change-the-posture-of-photography-2e70",
+          "categories": [
+            "stablediffusion",
+            "ai",
+            "api",
+            "sdk"
+          ],
+          "isoDate": "2023-10-23T04:01:38.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "API Maker®",
+          "title": "🚀 API Maker - i18n Internationalization",
+          "link": "https://dev.to/apimaker/api-maker-i18n-internationalization-10c0",
+          "pubDate": "Mon, 23 Oct 2023 03:31:45 +0000",
+          "dc:creator": "API Maker®",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/apimaker/api-maker-i18n-internationalization-10c0",
+          "isoDate": "2023-10-23T03:31:45.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "mi1an",
+          "title": "Mastering JavaScript: A Comprehensive Interview Guide for Students",
+          "link": "https://dev.to/mi1an/mastering-javascript-a-comprehensive-interview-guide-for-students-37l2",
+          "pubDate": "Mon, 23 Oct 2023 02:42:55 +0000",
+          "dc:creator": "mi1an",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/mi1an/mastering-javascript-a-comprehensive-interview-guide-for-students-37l2",
+          "categories": [
+            "javascript",
+            "interview",
+            "qna"
+          ],
+          "isoDate": "2023-10-23T02:42:55.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Shunsuke Suzuki",
+          "title": "Secure GitHub Actions by pull_request_target",
+          "link": "https://dev.to/suzukishunsuke/secure-github-actions-by-pullrequesttarget-641",
+          "pubDate": "Mon, 23 Oct 2023 01:34:11 +0000",
+          "dc:creator": "Shunsuke Suzuki",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/suzukishunsuke/secure-github-actions-by-pullrequesttarget-641",
+          "categories": [
+            "security",
+            "githubactions",
+            "cicd",
+            "devops"
+          ],
+          "isoDate": "2023-10-23T01:34:11.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Calvin McLean",
+          "title": "The Magic of Interfaces in Go",
+          "link": "https://dev.to/calvinmclean/the-magic-of-interfaces-in-go-5gga",
+          "pubDate": "Mon, 23 Oct 2023 00:17:21 +0000",
+          "dc:creator": "Calvin McLean",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/calvinmclean/the-magic-of-interfaces-in-go-5gga",
+          "categories": [
+            "programming",
+            "go",
+            "learning"
+          ],
+          "isoDate": "2023-10-23T00:17:21.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
