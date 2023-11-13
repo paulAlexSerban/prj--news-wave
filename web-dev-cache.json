@@ -98,7 +98,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Mon, 13 Nov 2023 05:04:38 GMT"
+      "lastBuildDate": "Mon, 13 Nov 2023 10:04:29 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -421,7 +421,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2023, Smashing Media AG",
-      "lastBuildDate": "Mon, 13 Nov 2023 06:35:04 GMT",
+      "lastBuildDate": "Mon, 13 Nov 2023 10:05:54 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -693,6 +693,68 @@
     "itnext": {
       "items": [
         {
+          "creator": "Tom Nijhof",
+          "title": "SQL and PostgreSQL for Advanced Full-Text Search",
+          "link": "https://itnext.io/sql-and-postgresql-for-advanced-full-text-search-ecb98a974e8b?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 13 Nov 2023 09:06:47 GMT",
+          "dc:creator": "Tom Nijhof",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/ecb98a974e8b",
+          "categories": [
+            "full-text-search",
+            "postgres",
+            "indexing",
+            "postgresql",
+            "sql"
+          ],
+          "isoDate": "2023-11-13T09:06:47.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Remco Dekkinga",
+          "title": "External Logic in ODC",
+          "link": "https://itnext.io/external-logic-in-odc-318fd77d2de8?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 13 Nov 2023 08:03:05 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Remco Dekkinga",
+          "guid": "https://medium.com/p/318fd77d2de8",
+          "categories": [
+            "outsystems",
+            "low-code",
+            "odc",
+            "custom-code"
+          ],
+          "isoDate": "2023-11-13T08:03:05.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Akriotis Kyriakos",
+          "title": "Build an MS-DOS games emulator on Kubernetes",
+          "link": "https://itnext.io/build-an-ms-dos-games-emulator-on-kubernetes-146ba6f142d9?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 13 Nov 2023 07:59:49 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Akriotis Kyriakos",
+          "guid": "https://medium.com/p/146ba6f142d9",
+          "categories": [
+            "kubernetes",
+            "golang",
+            "kubernetes-controller",
+            "gaming",
+            "retro-gaming"
+          ],
+          "isoDate": "2023-11-13T07:59:49.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Vitalii Shevchuk",
           "title": " Using Partial Prerendering to Boost Performance and UX in Next.js 14",
           "link": "https://itnext.io/using-partial-prerendering-to-boost-performance-and-ux-in-next-js-14-ef6dae7566eb?source=rss----5b301f10ddcd---4",
@@ -832,68 +894,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Dwen",
-          "title": "Mastering Concurrency: How Golang’s Select Mechanism Enhances Performance",
-          "link": "https://itnext.io/mastering-concurrency-how-golangs-select-mechanism-enhances-performance-3b3ab243eb39?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 10 Nov 2023 08:07:47 GMT",
-          "dc:creator": "Dwen",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/3b3ab243eb39",
-          "categories": [
-            "golang",
-            "web-development",
-            "go",
-            "programming",
-            "development"
-          ],
-          "isoDate": "2023-11-10T08:07:47.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Abhishek Gupta",
-          "title": "Building LangChain applications with Amazon Bedrock and Go — An introduction",
-          "link": "https://itnext.io/building-langchain-applications-with-amazon-bedrock-and-go-an-introduction-d8bea1f3af2e?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 10 Nov 2023 08:04:35 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Abhishek Gupta",
-          "guid": "https://medium.com/p/d8bea1f3af2e",
-          "categories": [
-            "aws",
-            "go",
-            "ai",
-            "langchain",
-            "programming"
-          ],
-          "isoDate": "2023-11-10T08:04:35.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Yua Mikanana",
-          "title": "Windows Malware in C# — Using Github as C2",
-          "link": "https://itnext.io/windows-malware-in-c-using-github-as-c2-7ae95dfe37bd?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 09 Nov 2023 22:59:49 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Yua Mikanana",
-          "guid": "https://medium.com/p/7ae95dfe37bd",
-          "categories": [
-            "cybersecurity",
-            "malware",
-            "hacking",
-            "red-team"
-          ],
-          "isoDate": "2023-11-09T22:59:49.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -910,10 +910,188 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Mon, 13 Nov 2023 07:01:09 GMT"
+      "lastBuildDate": "Mon, 13 Nov 2023 10:17:36 GMT"
     },
     "DEV Community": {
       "items": [
+        {
+          "creator": "Salmen Hichri",
+          "title": "Chatbot Dreams & Markdown Streams: Creating React JS ChatGPT Bots in Minutes",
+          "link": "https://dev.to/salmenus/chatbot-dreams-markdown-streams-creating-react-js-chatgpt-bots-in-minutes-1nig",
+          "pubDate": "Mon, 13 Nov 2023 08:35:42 +0000",
+          "dc:creator": "Salmen Hichri",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/salmenus/chatbot-dreams-markdown-streams-creating-react-js-chatgpt-bots-in-minutes-1nig",
+          "categories": [
+            "showdev",
+            "react",
+            "ai",
+            "javascript"
+          ],
+          "isoDate": "2023-11-13T08:35:42.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Nevo David",
+          "title": "How Giskard got their first 1,200 stars!",
+          "link": "https://dev.to/github20k/how-giskard-got-their-first-1200-stars-b8k",
+          "pubDate": "Mon, 13 Nov 2023 08:14:22 +0000",
+          "dc:creator": "Nevo David",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/github20k/how-giskard-got-their-first-1200-stars-b8k",
+          "categories": [
+            "webdev",
+            "programming",
+            "opensource",
+            "tutorial"
+          ],
+          "isoDate": "2023-11-13T08:14:22.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mitch Chimwemwe Chanza",
+          "title": "Modern API Development (Part 3) : Add GraphQL",
+          "link": "https://dev.to/mitch1009/modern-api-development-part-3-add-graphql-3don",
+          "pubDate": "Mon, 13 Nov 2023 08:11:55 +0000",
+          "dc:creator": "Mitch Chimwemwe Chanza",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/mitch1009/modern-api-development-part-3-add-graphql-3don",
+          "categories": [
+            "graphql",
+            "apolloserver",
+            "express",
+            "api"
+          ],
+          "isoDate": "2023-11-13T08:11:55.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Jakub Andrzejewski",
+          "title": "Security in modern Web Applications -> Owasp to the rescue!",
+          "link": "https://dev.to/jacobandrewsky/security-in-modern-web-applications-owasp-to-the-rescue-52k9",
+          "pubDate": "Mon, 13 Nov 2023 08:07:23 +0000",
+          "dc:creator": "Jakub Andrzejewski",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/jacobandrewsky/security-in-modern-web-applications-owasp-to-the-rescue-52k9",
+          "categories": [
+            "security",
+            "node",
+            "javascript",
+            "webdev"
+          ],
+          "isoDate": "2023-11-13T08:07:23.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "DbVisualizer",
+          "title": "NULLs Are Not The Same – A Guide",
+          "link": "https://dev.to/dbvismarketing/nulls-are-not-the-same-a-guide-i73",
+          "pubDate": "Mon, 13 Nov 2023 08:00:00 +0000",
+          "dc:creator": "DbVisualizer",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/dbvismarketing/nulls-are-not-the-same-a-guide-i73",
+          "categories": [
+            "mysql",
+            "null"
+          ],
+          "isoDate": "2023-11-13T08:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Bala Madhusoodhanan",
+          "title": "A Tale of Two Heroes: Azure Form Recognizer vs. AI Builder",
+          "link": "https://dev.to/balagmadhu/a-tale-of-two-heroes-azure-form-recognizer-vs-ai-builder-18dm",
+          "pubDate": "Mon, 13 Nov 2023 07:53:06 +0000",
+          "dc:creator": "Bala Madhusoodhanan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/balagmadhu/a-tale-of-two-heroes-azure-form-recognizer-vs-ai-builder-18dm",
+          "categories": [
+            "powerfuldevs",
+            "azure",
+            "powerplatform",
+            "ai"
+          ],
+          "isoDate": "2023-11-13T07:53:06.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Nicolas B.",
+          "title": "Revolutionize Your React App with useReducer: Mastering State Management",
+          "link": "https://dev.to/brdnicolas/revolutionize-your-react-app-with-usereducer-mastering-state-management-naa",
+          "pubDate": "Mon, 13 Nov 2023 07:30:00 +0000",
+          "dc:creator": "Nicolas B.",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/brdnicolas/revolutionize-your-react-app-with-usereducer-mastering-state-management-naa",
+          "categories": [
+            "webdev",
+            "javascript",
+            "react",
+            "tutorial"
+          ],
+          "isoDate": "2023-11-13T07:30:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Barry Michael Doyle",
+          "title": "How to Build a Custom React Hook to Listen for Keyboard Events",
+          "link": "https://dev.to/barrymichaeldoyle/how-to-build-a-custom-react-hook-to-listen-for-keyboard-events-32b4",
+          "pubDate": "Mon, 13 Nov 2023 07:14:20 +0000",
+          "dc:creator": "Barry Michael Doyle",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/barrymichaeldoyle/how-to-build-a-custom-react-hook-to-listen-for-keyboard-events-32b4",
+          "categories": [
+            "javascript",
+            "a11y",
+            "react",
+            "frontend"
+          ],
+          "isoDate": "2023-11-13T07:14:20.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "david wyatt",
+          "title": "How to use a Workqueue in Power Automate",
+          "link": "https://dev.to/wyattdave/how-to-use-a-workqueue-in-power-automate-1o9a",
+          "pubDate": "Mon, 13 Nov 2023 07:08:56 +0000",
+          "dc:creator": "david wyatt",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/wyattdave/how-to-use-a-workqueue-in-power-automate-1o9a",
+          "categories": [
+            "powerautomate",
+            "powerplatform",
+            "lowcode",
+            "rpa"
+          ],
+          "isoDate": "2023-11-13T07:08:56.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Emanuele Bartolesi",
           "title": "Why I love Monaspace font for coding",
@@ -929,177 +1107,6 @@
             "productivity"
           ],
           "isoDate": "2023-11-13T06:37:15.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ricardo Sueiras",
-          "title": "AWS open source newsletter, #179",
-          "link": "https://dev.to/aws/aws-open-source-newsletter-179-4pje",
-          "pubDate": "Mon, 13 Nov 2023 06:06:15 +0000",
-          "dc:creator": "Ricardo Sueiras",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/aws/aws-open-source-newsletter-179-4pje",
-          "categories": [
-            "opensource",
-            "aws"
-          ],
-          "isoDate": "2023-11-13T06:06:15.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ujjwal Tyagi ",
-          "title": "Spring JDBC: Where Java Meets the Database, with a Dash of Humor!",
-          "link": "https://dev.to/tyagi_data_wizard/spring-jdbc-where-java-meets-the-database-with-a-dash-of-humor-3kk3",
-          "pubDate": "Mon, 13 Nov 2023 05:45:01 +0000",
-          "dc:creator": "Ujjwal Tyagi ",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/tyagi_data_wizard/spring-jdbc-where-java-meets-the-database-with-a-dash-of-humor-3kk3",
-          "categories": [
-            "tutorial",
-            "springboot",
-            "database",
-            "java"
-          ],
-          "isoDate": "2023-11-13T05:45:01.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Danial Habib",
-          "title": "Create A Netflix Login Page in HTML and CSS | Learn With Danial",
-          "link": "https://dev.to/codingcss/create-a-netflix-login-page-in-html-and-css-learn-with-danial-1cll",
-          "pubDate": "Mon, 13 Nov 2023 03:37:30 +0000",
-          "dc:creator": "Danial Habib",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/codingcss/create-a-netflix-login-page-in-html-and-css-learn-with-danial-1cll",
-          "categories": [
-            "webdev",
-            "css",
-            "frontend",
-            "html"
-          ],
-          "isoDate": "2023-11-13T03:37:30.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Mohammad Hasibur Rahman",
-          "title": "Microsoft Azure: Cloud concepts and the shared responsibility model",
-          "link": "https://dev.to/mohammad10/microsoft-azure-cloud-concepts-and-the-shared-responsibility-model-4l9p",
-          "pubDate": "Mon, 13 Nov 2023 01:08:15 +0000",
-          "dc:creator": "Mohammad Hasibur Rahman",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/mohammad10/microsoft-azure-cloud-concepts-and-the-shared-responsibility-model-4l9p",
-          "isoDate": "2023-11-13T01:08:15.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Calvin McLean",
-          "title": "How I Learned Generics in Go",
-          "link": "https://dev.to/calvinmclean/how-i-learned-generics-in-go-3nc6",
-          "pubDate": "Sun, 12 Nov 2023 22:52:32 +0000",
-          "dc:creator": "Calvin McLean",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/calvinmclean/how-i-learned-generics-in-go-3nc6",
-          "categories": [
-            "go",
-            "programming",
-            "learning"
-          ],
-          "isoDate": "2023-11-12T22:52:32.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "ishrat",
-          "title": "Useful GitHub tricks and tips",
-          "link": "https://dev.to/pinky057/useful-github-tricks-and-tips-1n6f",
-          "pubDate": "Sun, 12 Nov 2023 22:24:06 +0000",
-          "dc:creator": "ishrat",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/pinky057/useful-github-tricks-and-tips-1n6f",
-          "categories": [
-            "webdev",
-            "git",
-            "github",
-            "tutorial"
-          ],
-          "isoDate": "2023-11-12T22:24:06.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Joshua Amaju",
-          "title": "🚀 Mastering Website Previews: A Step by Step Guide to Playwright and Chromium! ✨",
-          "link": "https://dev.to/joshuaamaju/mastering-website-previews-a-step-by-step-guide-to-playwright-and-chromium-2a8p",
-          "pubDate": "Sun, 12 Nov 2023 22:06:23 +0000",
-          "dc:creator": "Joshua Amaju",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/joshuaamaju/mastering-website-previews-a-step-by-step-guide-to-playwright-and-chromium-2a8p",
-          "categories": [
-            "webdev",
-            "node",
-            "playwright",
-            "javascript"
-          ],
-          "isoDate": "2023-11-12T22:06:23.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Jessica Wang",
-          "title": "Explaining Kubernetes To My Uber Driver",
-          "link": "https://dev.to/therubberduckiee/explaining-kubernetes-to-my-uber-driver-4f60",
-          "pubDate": "Sun, 12 Nov 2023 22:04:36 +0000",
-          "dc:creator": "Jessica Wang",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/therubberduckiee/explaining-kubernetes-to-my-uber-driver-4f60",
-          "categories": [
-            "kubernetes",
-            "beginners",
-            "architecture",
-            "devops"
-          ],
-          "isoDate": "2023-11-12T22:04:36.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Gervais Yao Amoah",
-          "title": "Mastering ES2019: A Deep Dive into Five Key JavaScript Features",
-          "link": "https://dev.to/gervaisamoah/mastering-es2019-a-deep-dive-into-five-key-javascript-features-f4p",
-          "pubDate": "Sun, 12 Nov 2023 21:48:04 +0000",
-          "dc:creator": "Gervais Yao Amoah",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/gervaisamoah/mastering-es2019-a-deep-dive-into-five-key-javascript-features-f4p",
-          "categories": [
-            "javascript",
-            "beginners",
-            "programming",
-            "tutorial"
-          ],
-          "isoDate": "2023-11-12T21:48:04.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
