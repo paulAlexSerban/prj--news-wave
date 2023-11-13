@@ -74,6 +74,9 @@ const generateHTML = async (data = []) => {
 };
 
 const mainFunction = async () => {
+    if (!fs.existsSync(dist)) {
+        fs.mkdirSync(dist);
+    }
     try {
         const cacheFilesJson = await readCacheFiles();
         await generateHTML(cacheFilesJson);
