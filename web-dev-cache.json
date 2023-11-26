@@ -98,7 +98,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sat, 25 Nov 2023 05:02:02 GMT"
+      "lastBuildDate": "Sun, 26 Nov 2023 05:02:17 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -306,6 +306,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Geoff Graham)",
+          "title": "A Few Ways CSS Is Easier To Write In 2023",
+          "link": "https://smashingmagazine.com/2023/11/few-ways-css-easier-write-2023/",
+          "pubDate": "Fri, 24 Nov 2023 08:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/few-ways-css-easier-write-2023/few-ways-css-easier-write-2023.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2023/11/few-ways-css-easier-write-2023/",
+          "isoDate": "2023-11-24T08:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Facundo Giuliani)",
           "title": "An Introduction To Full Stack Composability",
           "link": "https://smashingmagazine.com/2023/11/introduction-full-stack-composability/",
@@ -380,25 +399,6 @@
           "guid": "https://smashingmagazine.com/2023/11/design-to-code-handoff-process-uno-platform-figma/",
           "isoDate": "2023-11-17T10:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Temani Afif)",
-          "title": "CSS Responsive Multi-Line Ribbon Shapes (Part 1)",
-          "link": "https://smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part1/",
-          "pubDate": "Wed, 15 Nov 2023 10:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Temani Afif)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/css-responsive-multi-line-ribbon-shapes-part1/css-responsive-multi-line-ribbon-shapes-part1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2023/11/css-responsive-multi-line-ribbon-shapes-part1/",
-          "isoDate": "2023-11-15T10:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -416,7 +416,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2023, Smashing Media AG",
-      "lastBuildDate": "Fri, 24 Nov 2023 06:35:02 GMT",
+      "lastBuildDate": "Sun, 26 Nov 2023 06:34:42 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -529,6 +529,76 @@
     "DZone": {
       "items": [
         {
+          "creator": "Alfonso Valdes",
+          "title": "Kubernetes vs. Amazon ECS: Container Orchestration Comparison",
+          "link": "https://dzone.com/articles/kubernetes-vs-amazon-ecs-container-orchestration-c",
+          "pubDate": "Sat, 25 Nov 2023 16:38:15 GMT",
+          "dc:creator": "Alfonso Valdes",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3402145",
+          "isoDate": "2023-11-25T16:38:15.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Rahul Pandey",
+          "title": "Web Accessibility Testing: A Necessity for Digital Equality",
+          "link": "https://dzone.com/articles/web-accessibility-testing-a-necessity-for-digital",
+          "pubDate": "Sat, 25 Nov 2023 16:26:32 GMT",
+          "dc:creator": "Rahul Pandey",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3400222",
+          "isoDate": "2023-11-25T16:26:32.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Daria Kulikova",
+          "title": "GitHub Shared Responsibility Model and Source Code Protection",
+          "link": "https://dzone.com/articles/github-shared-responsibility-model-and-source-code",
+          "pubDate": "Sat, 25 Nov 2023 16:06:38 GMT",
+          "dc:creator": "Daria Kulikova",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3400248",
+          "isoDate": "2023-11-25T16:06:38.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Yvonne Parks",
+          "title": "Transforming Business Outcomes Through Strategic NoSQL Database Selection",
+          "link": "https://dzone.com/articles/transforming-business-outcomes-through-strategic-n",
+          "pubDate": "Sat, 25 Nov 2023 15:50:34 GMT",
+          "dc:creator": "Yvonne Parks",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3396618",
+          "isoDate": "2023-11-25T15:50:34.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Aditya Bhuyan",
+          "title": "Docker Swarm: Simplifying Container Orchestration at Scale",
+          "link": "https://dzone.com/articles/docker-swarm-simplifying-container-orchestration-a",
+          "pubDate": "Sat, 25 Nov 2023 15:29:06 GMT",
+          "dc:creator": "Aditya Bhuyan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3354630",
+          "isoDate": "2023-11-25T15:29:06.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Peter Schrammel",
           "title": "Does AI-Generated Code Need To Be Tested Even More?",
           "link": "https://dzone.com/articles/does-ai-generated-code-need-to-be-tested-even-more",
@@ -597,76 +667,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Shawn Scarlata",
-          "title": "Remote Video Security Surveillance",
-          "link": "https://dzone.com/articles/remote-video-security-surveillance",
-          "pubDate": "Fri, 24 Nov 2023 15:49:48 GMT",
-          "dc:creator": "Shawn Scarlata",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3399924",
-          "isoDate": "2023-11-24T15:49:48.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Fengyi Li",
-          "title": "ID vs. Multimodal Recommender System: Perspective on Transfer Learning",
-          "link": "https://dzone.com/articles/id-vs-multimodal-recommender-system-perspective-on",
-          "pubDate": "Fri, 24 Nov 2023 15:42:15 GMT",
-          "dc:creator": "Fengyi Li",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3400082",
-          "isoDate": "2023-11-24T15:42:15.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sergio Carracedo",
-          "title": "The Advantage of Using Cache to Decouple the Frontend Code",
-          "link": "https://dzone.com/articles/the-advantage-of-using-cache-to-decouple-the-front",
-          "pubDate": "Fri, 24 Nov 2023 15:41:38 GMT",
-          "dc:creator": "Sergio Carracedo",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3399922",
-          "isoDate": "2023-11-24T15:41:38.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Fangrui Liu",
-          "title": "Bring Your Knowledge Base Into OpenAI’s GPTs With MyScale",
-          "link": "https://dzone.com/articles/bring-your-knowledge-base-into-openais-gpts-with-m",
-          "pubDate": "Fri, 24 Nov 2023 15:17:36 GMT",
-          "dc:creator": "Fangrui Liu",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3400083",
-          "isoDate": "2023-11-24T15:17:36.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Bilal Aslam",
-          "title": "AI/ML Tools and Frameworks: A Comprehensive Comparison Guide",
-          "link": "https://dzone.com/articles/aiml-tools-and-frameworks-a-comprehensive-comparis",
-          "pubDate": "Fri, 24 Nov 2023 15:03:45 GMT",
-          "dc:creator": "Bilal Aslam",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3399929",
-          "isoDate": "2023-11-24T15:03:45.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -679,6 +679,24 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Arseny Zinchenko (setevoy)",
+          "title": "Kubernetes: ensuring High Availability for Pods",
+          "link": "https://itnext.io/kubernetes-ensuring-high-availability-for-pods-fa192f4b5f61?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 25 Nov 2023 19:59:20 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Arseny Zinchenko (setevoy)",
+          "guid": "https://medium.com/p/fa192f4b5f61",
+          "categories": [
+            "kubernetes",
+            "devops"
+          ],
+          "isoDate": "2023-11-25T19:59:20.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Artem Lajko",
           "title": "Different Kinds of Managed Kubernetes",
@@ -862,24 +880,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Danny Blue",
-          "title": "Stream-able Web Components and their parent/child relationship",
-          "link": "https://itnext.io/stream-able-web-components-and-their-parent-child-relationship-911122f48d50?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 21 Nov 2023 22:58:43 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Danny Blue",
-          "guid": "https://medium.com/p/911122f48d50",
-          "categories": [
-            "javascript",
-            "web-components"
-          ],
-          "isoDate": "2023-11-21T22:58:43.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -896,196 +896,199 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sat, 25 Nov 2023 07:02:18 GMT"
+      "lastBuildDate": "Sun, 26 Nov 2023 07:01:15 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Kelvin Onuchukwu",
-          "title": "Getting Kinetic With Amazon Kinesis: The Ultimate Guide",
-          "link": "https://dev.to/kelvinskell/getting-kinetic-with-amazon-kinesis-the-ultimate-guide-41d8",
-          "pubDate": "Sat, 25 Nov 2023 03:17:53 +0000",
-          "dc:creator": "Kelvin Onuchukwu",
+          "creator": "Yogesh Chavan",
+          "title": "Introduction to TypeScript with React",
+          "link": "https://dev.to/myogeshchavan97/introduction-to-typescript-with-react-508p",
+          "pubDate": "Sun, 26 Nov 2023 06:03:08 +0000",
+          "dc:creator": "Yogesh Chavan",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/kelvinskell/getting-kinetic-with-amazon-kinesis-the-ultimate-guide-41d8",
+          "guid": "https://dev.to/myogeshchavan97/introduction-to-typescript-with-react-508p",
           "categories": [
-            "aws",
-            "data",
-            "cloud",
+            "javascript",
+            "react",
+            "typescript"
+          ],
+          "isoDate": "2023-11-26T06:03:08.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Lakshmanan Arumugam",
+          "title": "🚀 Fastest way to build transparent login page HTML/CSS",
+          "link": "https://dev.to/lakshmananarumugam/fastest-way-to-build-transparent-login-page-17m8",
+          "pubDate": "Sun, 26 Nov 2023 06:00:00 +0000",
+          "dc:creator": "Lakshmanan Arumugam",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/lakshmananarumugam/fastest-way-to-build-transparent-login-page-17m8",
+          "categories": [
+            "webdev",
+            "showdev",
+            "css",
+            "beginners"
+          ],
+          "isoDate": "2023-11-26T06:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mukesh Kuiry",
+          "title": "Scalable web applications | HTTP | REST API | N-tier Applications | Beginner",
+          "link": "https://dev.to/mukeshkuiry/scalable-web-applications-http-rest-api-n-tier-applications-beginner-515b",
+          "pubDate": "Sun, 26 Nov 2023 05:32:16 +0000",
+          "dc:creator": "Mukesh Kuiry",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/mukeshkuiry/scalable-web-applications-http-rest-api-n-tier-applications-beginner-515b",
+          "categories": [
+            "programming",
+            "beginners",
+            "tutorial",
             "devops"
           ],
-          "isoDate": "2023-11-25T03:17:53.000Z",
+          "isoDate": "2023-11-26T05:32:16.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sahil Upadhyay",
-          "title": "6 TOP JAVASCRIPT TRICKS FOR CLEANER CODE",
-          "link": "https://dev.to/big_smoke/6-top-javascript-tricks-for-cleaner-code-1mck",
-          "pubDate": "Sat, 25 Nov 2023 02:34:53 +0000",
-          "dc:creator": "Sahil Upadhyay",
+          "creator": "Pawel Kadluczka",
+          "title": "Write clean diffs to accelerate your dev career",
+          "link": "https://dev.to/moozzyk/write-clean-diffs-to-accelerate-your-dev-career-2eic",
+          "pubDate": "Sun, 26 Nov 2023 02:31:33 +0000",
+          "dc:creator": "Pawel Kadluczka",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/big_smoke/6-top-javascript-tricks-for-cleaner-code-1mck",
+          "guid": "https://dev.to/moozzyk/write-clean-diffs-to-accelerate-your-dev-career-2eic",
           "categories": [
-            "javascript",
-            "tutorial",
-            "programming",
-            "learning"
-          ],
-          "isoDate": "2023-11-25T02:34:53.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Kazuhiro \"Kaz\" Sera",
-          "title": "Slack's remote functions on Cloudflare Workers",
-          "link": "https://dev.to/seratch/slacks-remote-functions-on-cloudflare-workers-1dg0",
-          "pubDate": "Sat, 25 Nov 2023 02:25:28 +0000",
-          "dc:creator": "Kazuhiro \"Kaz\" Sera",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/seratch/slacks-remote-functions-on-cloudflare-workers-1dg0",
-          "categories": [
-            "slack",
-            "typescript",
-            "cloudflare",
-            "programming"
-          ],
-          "isoDate": "2023-11-25T02:25:28.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Lucas Nobre Barbosa",
-          "title": "PostgreSQL: Tipos de Dados",
-          "link": "https://dev.to/nobrelucas/postgresql-tipos-de-dados-1la3",
-          "pubDate": "Sat, 25 Nov 2023 02:12:39 +0000",
-          "dc:creator": "Lucas Nobre Barbosa",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/nobrelucas/postgresql-tipos-de-dados-1la3",
-          "isoDate": "2023-11-25T02:12:39.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "alakkadshaw",
-          "title": "What is a TURN Server?",
-          "link": "https://dev.to/alakkadshaw/what-is-a-turn-server-3ome",
-          "pubDate": "Sat, 25 Nov 2023 01:58:50 +0000",
-          "dc:creator": "alakkadshaw",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/alakkadshaw/what-is-a-turn-server-3ome",
-          "categories": [
-            "webdev",
-            "javascript",
-            "webrtc",
-            "programming"
-          ],
-          "isoDate": "2023-11-25T01:58:50.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Adem Kouki",
-          "title": "📜 RepoList - A tool to generate wordlists based on GitHub repositories",
-          "link": "https://dev.to/ademking/repolist-a-tool-to-generate-wordlists-based-on-github-repositories-219",
-          "pubDate": "Sat, 25 Nov 2023 01:39:30 +0000",
-          "dc:creator": "Adem Kouki",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/ademking/repolist-a-tool-to-generate-wordlists-based-on-github-repositories-219",
-          "categories": [
-            "security",
-            "cybersecurity",
-            "opensource",
-            "python"
-          ],
-          "isoDate": "2023-11-25T01:39:30.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Angelo Belchior",
-          "title": ".NET 8, JIT e AOT",
-          "link": "https://dev.to/angelobelchior/net-8-jit-e-aot-25lk",
-          "pubDate": "Sat, 25 Nov 2023 01:19:04 +0000",
-          "dc:creator": "Angelo Belchior",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/angelobelchior/net-8-jit-e-aot-25lk",
-          "categories": [
-            "dotnet",
-            "csharp",
-            "jit",
-            "aot"
-          ],
-          "isoDate": "2023-11-25T01:19:04.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Serif COLAKEL",
-          "title": "Mastering useState: A Guide to Avoiding Common Pitfalls in React Development",
-          "link": "https://dev.to/serifcolakel/mastering-usestate-a-guide-to-avoiding-common-pitfalls-in-react-development-ibp",
-          "pubDate": "Sat, 25 Nov 2023 00:07:54 +0000",
-          "dc:creator": "Serif COLAKEL",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/serifcolakel/mastering-usestate-a-guide-to-avoiding-common-pitfalls-in-react-development-ibp",
-          "categories": [
-            "webdev",
-            "react",
-            "javascript",
+            "softwareengineering",
+            "career",
+            "codereview",
             "productivity"
           ],
-          "isoDate": "2023-11-25T00:07:54.000Z",
+          "isoDate": "2023-11-26T02:31:33.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Kosuke ENOMOTO",
-          "title": "Build a R&R app with PartyRock and Bedrock!",
-          "link": "https://dev.to/aws-builders/build-a-rr-app-with-partyrock-and-bedrock-3658",
-          "pubDate": "Sat, 25 Nov 2023 00:02:39 +0000",
-          "dc:creator": "Kosuke ENOMOTO",
+          "creator": "JV conseil 👨‍💻",
+          "title": "Jekyll Docker",
+          "link": "https://dev.to/jvconseil/jekyll-docker-43a5",
+          "pubDate": "Sun, 26 Nov 2023 02:08:34 +0000",
+          "dc:creator": "JV conseil 👨‍💻",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/aws-builders/build-a-rr-app-with-partyrock-and-bedrock-3658",
+          "guid": "https://dev.to/jvconseil/jekyll-docker-43a5",
           "categories": [
-            "aws",
-            "cloud",
-            "ai"
+            "docker",
+            "jekyll",
+            "githubpages"
           ],
-          "isoDate": "2023-11-25T00:02:39.000Z",
+          "isoDate": "2023-11-26T02:08:34.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Vequan Clark",
+          "title": "Ownership: 5 ways to Amplify Your Software Engineering Success",
+          "link": "https://dev.to/vequan_clark/ownership-5-ways-to-amplify-your-software-engineering-success-4d18",
+          "pubDate": "Sun, 26 Nov 2023 02:07:14 +0000",
+          "dc:creator": "Vequan Clark",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/vequan_clark/ownership-5-ways-to-amplify-your-software-engineering-success-4d18",
+          "categories": [
+            "webdev",
+            "coding",
+            "career",
+            "programming"
+          ],
+          "isoDate": "2023-11-26T02:07:14.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ersin Buckley",
+          "title": "Should I learn golang in 2023",
+          "link": "https://dev.to/ebuckley/should-i-learn-golang-in-2023-25p",
+          "pubDate": "Sun, 26 Nov 2023 01:16:44 +0000",
+          "dc:creator": "Ersin Buckley",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/ebuckley/should-i-learn-golang-in-2023-25p",
+          "categories": [
+            "career",
+            "beginners",
+            "programming",
+            "go"
+          ],
+          "isoDate": "2023-11-26T01:16:44.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ayako yk",
+          "title": "Understanding React useContext",
+          "link": "https://dev.to/ayako_yk/understanding-react-usecontext-2bch",
+          "pubDate": "Sun, 26 Nov 2023 00:11:02 +0000",
+          "dc:creator": "Ayako yk",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/ayako_yk/understanding-react-usecontext-2bch",
+          "categories": [
+            "javascript",
+            "react",
+            "codenewbie"
+          ],
+          "isoDate": "2023-11-26T00:11:02.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
           "creator": "dev.to staff",
-          "title": "How to Develop Assertive Communication Skills?",
-          "link": "https://dev.to/devteam/how-to-develop-assertive-communication-skills-4528",
-          "pubDate": "Sat, 25 Nov 2023 00:00:00 +0000",
+          "title": "Have You Explored Any New Career Opportunities in 2023?",
+          "link": "https://dev.to/devteam/have-you-explored-any-new-career-opportunities-in-2023-23eg",
+          "pubDate": "Sun, 26 Nov 2023 00:00:00 +0000",
           "dc:creator": "dev.to staff",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devteam/how-to-develop-assertive-communication-skills-4528",
+          "guid": "https://dev.to/devteam/have-you-explored-any-new-career-opportunities-in-2023-23eg",
           "categories": [
             "discuss"
           ],
-          "isoDate": "2023-11-25T00:00:00.000Z",
+          "isoDate": "2023-11-26T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sloan the DEV Moderator",
+          "title": "Which Soft Skills Should You Highlight in Interviews?",
+          "link": "https://dev.to/codenewbieteam/which-soft-skills-should-you-highlight-in-interviews-kfj",
+          "pubDate": "Sun, 26 Nov 2023 00:00:00 +0000",
+          "dc:creator": "Sloan the DEV Moderator",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/codenewbieteam/which-soft-skills-should-you-highlight-in-interviews-kfj",
+          "categories": [
+            "discuss",
+            "codenewbie",
+            "beginner"
+          ],
+          "isoDate": "2023-11-26T00:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
