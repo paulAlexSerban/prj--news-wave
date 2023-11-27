@@ -98,7 +98,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sun, 26 Nov 2023 05:02:17 GMT"
+      "lastBuildDate": "Mon, 27 Nov 2023 05:02:02 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -416,7 +416,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2023, Smashing Media AG",
-      "lastBuildDate": "Sun, 26 Nov 2023 06:34:42 GMT",
+      "lastBuildDate": "Mon, 27 Nov 2023 06:35:07 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -529,6 +529,34 @@
     "DZone": {
       "items": [
         {
+          "creator": "Alex Chen",
+          "title": "How to Deploy GitLab on AWS EC2 With Walrus",
+          "link": "https://dzone.com/articles/how-to-deploy-gitlab-on-aws-ec2-with-walrus",
+          "pubDate": "Sun, 26 Nov 2023 17:45:38 GMT",
+          "dc:creator": "Alex Chen",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3402178",
+          "isoDate": "2023-11-26T17:45:38.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Constantin Kwiatkowski",
+          "title": "Emulating the History Command Within a Bash Script",
+          "link": "https://dzone.com/articles/simulating-command-history-with-bash-script",
+          "pubDate": "Sun, 26 Nov 2023 17:27:07 GMT",
+          "dc:creator": "Constantin Kwiatkowski",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3394621",
+          "isoDate": "2023-11-26T17:27:07.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Alfonso Valdes",
           "title": "Kubernetes vs. Amazon ECS: Container Orchestration Comparison",
           "link": "https://dzone.com/articles/kubernetes-vs-amazon-ecs-container-orchestration-c",
@@ -639,34 +667,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Peter Verhas",
-          "title": "Cloud Solutions Are Expensive, or Are They?",
-          "link": "https://dzone.com/articles/cloud-solutions-are-expensive-or-are-they",
-          "pubDate": "Fri, 24 Nov 2023 18:26:57 GMT",
-          "dc:creator": "Peter Verhas",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3401220",
-          "isoDate": "2023-11-24T18:26:57.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sreekanth Iyer",
-          "title": "Accelerate Innovation by Shifting Left FinOps, Part 2",
-          "link": "https://dzone.com/articles/accelerate-innovation-by-shifting-left-finops-2",
-          "pubDate": "Fri, 24 Nov 2023 16:28:21 GMT",
-          "dc:creator": "Sreekanth Iyer",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3401152",
-          "isoDate": "2023-11-24T16:28:21.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -679,6 +679,86 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Saeed Zarinfam",
+          "title": "Monitoring Spring Boot using Skaffold and Prometheus Operator",
+          "link": "https://itnext.io/monitoring-spring-boot-using-skaffold-and-prometheus-operator-eb9aabb441a0?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 26 Nov 2023 12:29:14 GMT",
+          "dc:creator": "Saeed Zarinfam",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/eb9aabb441a0",
+          "categories": [
+            "grafana",
+            "monitoring",
+            "prometheus",
+            "skaffold",
+            "spring-boot"
+          ],
+          "isoDate": "2023-11-26T12:29:14.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Arseny Zinchenko (setevoy)",
+          "title": "Grafana Loki: collecting AWS LoadBalancer logs from S3 with Promtail Lambda",
+          "link": "https://itnext.io/grafana-loki-collecting-aws-loadbalancer-logs-from-s3-with-promtail-lambda-dc813cb9c182?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 26 Nov 2023 09:42:37 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Arseny Zinchenko (setevoy)",
+          "guid": "https://medium.com/p/dc813cb9c182",
+          "categories": [
+            "aws",
+            "monitoring",
+            "devops"
+          ],
+          "isoDate": "2023-11-26T09:42:37.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Adnan Siddiqi",
+          "title": "Using the RSI Indicator to Generate Trading Signals in Python with Ta-Lib",
+          "link": "https://itnext.io/using-the-rsi-indicator-to-generate-trading-signals-in-python-with-ta-lib-3328d4566c6e?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 26 Nov 2023 09:41:38 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Adnan Siddiqi",
+          "guid": "https://medium.com/p/3328d4566c6e",
+          "categories": [
+            "rsi-indicator",
+            "algorithmic-trading",
+            "tutorial",
+            "python",
+            "trading-bot"
+          ],
+          "isoDate": "2023-11-26T09:41:38.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Hantsy",
+          "title": "An introduction to Jakarta Faces 4.0 by Examples",
+          "link": "https://itnext.io/an-introduction-to-jakarta-faces-4-0-by-examples-d949a7093236?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 26 Nov 2023 09:36:46 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Hantsy",
+          "guid": "https://medium.com/p/d949a7093236",
+          "categories": [
+            "glassfish",
+            "jakarta-ee",
+            "jsf"
+          ],
+          "isoDate": "2023-11-26T09:36:46.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Arseny Zinchenko (setevoy)",
           "title": "Kubernetes: ensuring High Availability for Pods",
@@ -799,87 +879,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Mahdi Mallaki",
-          "title": "Jenkins Shared Library Guidance",
-          "link": "https://itnext.io/jenkins-shared-library-guidance-ee747ed39f95?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 22 Nov 2023 08:03:23 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Mahdi Mallaki",
-          "guid": "https://medium.com/p/ee747ed39f95",
-          "categories": [
-            "cicd",
-            "jenkins",
-            "devops"
-          ],
-          "isoDate": "2023-11-22T08:03:23.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Mirco on Tech",
-          "title": "A Deep Dive into Sealed Classes — Wednesday’s Kotlin Kuppa #3",
-          "link": "https://itnext.io/a-deep-dive-into-sealed-classes-wednesdays-kotlin-kuppa-3-9197cdec371c?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 22 Nov 2023 08:01:55 GMT",
-          "dc:creator": "Mirco on Tech",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/9197cdec371c",
-          "categories": [
-            "programming",
-            "software-development",
-            "coding",
-            "kotlin",
-            "technology"
-          ],
-          "isoDate": "2023-11-22T08:01:55.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Anthony Critelli",
-          "title": "Controlling Kubernetes Traffic with Topology Aware Routing",
-          "link": "https://itnext.io/controlling-kubernetes-traffic-with-topology-aware-routing-9b1d51a43bd7?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 22 Nov 2023 08:00:20 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Anthony Critelli",
-          "guid": "https://medium.com/p/9b1d51a43bd7",
-          "categories": [
-            "kubernetes",
-            "devops",
-            "platform-engineering",
-            "networking"
-          ],
-          "isoDate": "2023-11-22T08:00:20.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Michael Guarino",
-          "title": "Stop using Jenkins for Continuous Deployment (CD)",
-          "link": "https://itnext.io/stop-using-jenkins-for-continuous-deployment-cd-fdf5818d1cd7?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 22 Nov 2023 07:58:29 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Michael Guarino",
-          "guid": "https://medium.com/p/fdf5818d1cd7",
-          "categories": [
-            "continuous-deployment",
-            "jenkins-pipeline",
-            "jenkins",
-            "devops",
-            "kubernetes"
-          ],
-          "isoDate": "2023-11-22T07:58:29.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -896,199 +895,205 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sun, 26 Nov 2023 07:01:15 GMT"
+      "lastBuildDate": "Mon, 27 Nov 2023 06:54:35 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Yogesh Chavan",
-          "title": "Introduction to TypeScript with React",
-          "link": "https://dev.to/myogeshchavan97/introduction-to-typescript-with-react-508p",
-          "pubDate": "Sun, 26 Nov 2023 06:03:08 +0000",
-          "dc:creator": "Yogesh Chavan",
+          "creator": "Pierre Bouillon",
+          "title": "Client Side Caching With Interceptors",
+          "link": "https://dev.to/this-is-angular/client-side-caching-with-interceptors-ii",
+          "pubDate": "Mon, 27 Nov 2023 05:52:04 +0000",
+          "dc:creator": "Pierre Bouillon",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/myogeshchavan97/introduction-to-typescript-with-react-508p",
+          "guid": "https://dev.to/this-is-angular/client-side-caching-with-interceptors-ii",
           "categories": [
+            "angular",
+            "webdev",
             "javascript",
-            "react",
-            "typescript"
+            "beginners"
           ],
-          "isoDate": "2023-11-26T06:03:08.000Z",
+          "isoDate": "2023-11-27T05:52:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "yatendra2001",
+          "title": "Flutter University: Best Flutter Handbook Out There",
+          "link": "https://dev.to/yatendra2001/flutter-university-best-flutter-handbook-out-there-40bh",
+          "pubDate": "Mon, 27 Nov 2023 04:34:10 +0000",
+          "dc:creator": "yatendra2001",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/yatendra2001/flutter-university-best-flutter-handbook-out-there-40bh",
+          "categories": [
+            "flutter",
+            "mobile",
+            "beginners",
+            "tutorial"
+          ],
+          "isoDate": "2023-11-27T04:34:10.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "ghubrakesh",
+          "title": "Regular Expressions in Python",
+          "link": "https://dev.to/ghubrakesh/regular-expressions-in-python-593e",
+          "pubDate": "Mon, 27 Nov 2023 04:30:00 +0000",
+          "dc:creator": "ghubrakesh",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/ghubrakesh/regular-expressions-in-python-593e",
+          "categories": [
+            "python",
+            "regex",
+            "webdev",
+            "tutorial"
+          ],
+          "isoDate": "2023-11-27T04:30:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Corina: Web is for Everyone",
+          "title": "Testing for Accessibility with Playwright",
+          "link": "https://dev.to/corinamurg/testing-for-accessibility-with-playwright-9o",
+          "pubDate": "Mon, 27 Nov 2023 04:18:11 +0000",
+          "dc:creator": "Corina: Web is for Everyone",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/corinamurg/testing-for-accessibility-with-playwright-9o",
+          "categories": [
+            "playwright",
+            "testing",
+            "javascript"
+          ],
+          "isoDate": "2023-11-27T04:18:11.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
           "creator": "Lakshmanan Arumugam",
-          "title": "🚀 Fastest way to build transparent login page HTML/CSS",
-          "link": "https://dev.to/lakshmananarumugam/fastest-way-to-build-transparent-login-page-17m8",
-          "pubDate": "Sun, 26 Nov 2023 06:00:00 +0000",
+          "title": "🪄 CSS Animation: Card hover animation 💫",
+          "link": "https://dev.to/lakshmananarumugam/css-animation-card-hover-animation-1f7a",
+          "pubDate": "Mon, 27 Nov 2023 03:00:00 +0000",
           "dc:creator": "Lakshmanan Arumugam",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/lakshmananarumugam/fastest-way-to-build-transparent-login-page-17m8",
+          "guid": "https://dev.to/lakshmananarumugam/css-animation-card-hover-animation-1f7a",
           "categories": [
-            "webdev",
             "showdev",
-            "css",
-            "beginners"
-          ],
-          "isoDate": "2023-11-26T06:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Mukesh Kuiry",
-          "title": "Scalable web applications | HTTP | REST API | N-tier Applications | Beginner",
-          "link": "https://dev.to/mukeshkuiry/scalable-web-applications-http-rest-api-n-tier-applications-beginner-515b",
-          "pubDate": "Sun, 26 Nov 2023 05:32:16 +0000",
-          "dc:creator": "Mukesh Kuiry",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/mukeshkuiry/scalable-web-applications-http-rest-api-n-tier-applications-beginner-515b",
-          "categories": [
-            "programming",
-            "beginners",
-            "tutorial",
-            "devops"
-          ],
-          "isoDate": "2023-11-26T05:32:16.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Pawel Kadluczka",
-          "title": "Write clean diffs to accelerate your dev career",
-          "link": "https://dev.to/moozzyk/write-clean-diffs-to-accelerate-your-dev-career-2eic",
-          "pubDate": "Sun, 26 Nov 2023 02:31:33 +0000",
-          "dc:creator": "Pawel Kadluczka",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/moozzyk/write-clean-diffs-to-accelerate-your-dev-career-2eic",
-          "categories": [
-            "softwareengineering",
-            "career",
-            "codereview",
-            "productivity"
-          ],
-          "isoDate": "2023-11-26T02:31:33.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "JV conseil 👨‍💻",
-          "title": "Jekyll Docker",
-          "link": "https://dev.to/jvconseil/jekyll-docker-43a5",
-          "pubDate": "Sun, 26 Nov 2023 02:08:34 +0000",
-          "dc:creator": "JV conseil 👨‍💻",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/jvconseil/jekyll-docker-43a5",
-          "categories": [
-            "docker",
-            "jekyll",
-            "githubpages"
-          ],
-          "isoDate": "2023-11-26T02:08:34.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Vequan Clark",
-          "title": "Ownership: 5 ways to Amplify Your Software Engineering Success",
-          "link": "https://dev.to/vequan_clark/ownership-5-ways-to-amplify-your-software-engineering-success-4d18",
-          "pubDate": "Sun, 26 Nov 2023 02:07:14 +0000",
-          "dc:creator": "Vequan Clark",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/vequan_clark/ownership-5-ways-to-amplify-your-software-engineering-success-4d18",
-          "categories": [
             "webdev",
-            "coding",
-            "career",
+            "css",
+            "tailwindcss"
+          ],
+          "isoDate": "2023-11-27T03:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Amnish Singh Arora",
+          "title": "Releasing my Python Project",
+          "link": "https://dev.to/amnish04/releasing-my-python-project-2569",
+          "pubDate": "Mon, 27 Nov 2023 02:25:23 +0000",
+          "dc:creator": "Amnish Singh Arora",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/amnish04/releasing-my-python-project-2569",
+          "categories": [
+            "python",
+            "pypi",
+            "opensource",
             "programming"
           ],
-          "isoDate": "2023-11-26T02:07:14.000Z",
+          "isoDate": "2023-11-27T02:25:23.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ersin Buckley",
-          "title": "Should I learn golang in 2023",
-          "link": "https://dev.to/ebuckley/should-i-learn-golang-in-2023-25p",
-          "pubDate": "Sun, 26 Nov 2023 01:16:44 +0000",
-          "dc:creator": "Ersin Buckley",
+          "creator": "teamradhq",
+          "title": "Utility Type: WithPrefix",
+          "link": "https://dev.to/teamradhq/utility-type-withprefix-eje",
+          "pubDate": "Mon, 27 Nov 2023 00:53:21 +0000",
+          "dc:creator": "teamradhq",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ebuckley/should-i-learn-golang-in-2023-25p",
+          "guid": "https://dev.to/teamradhq/utility-type-withprefix-eje",
           "categories": [
-            "career",
-            "beginners",
-            "programming",
-            "go"
-          ],
-          "isoDate": "2023-11-26T01:16:44.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ayako yk",
-          "title": "Understanding React useContext",
-          "link": "https://dev.to/ayako_yk/understanding-react-usecontext-2bch",
-          "pubDate": "Sun, 26 Nov 2023 00:11:02 +0000",
-          "dc:creator": "Ayako yk",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/ayako_yk/understanding-react-usecontext-2bch",
-          "categories": [
+            "typescript",
             "javascript",
+            "express",
+            "programming"
+          ],
+          "isoDate": "2023-11-27T00:53:21.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Vincent",
+          "title": "Replace Your Authentication System with Face Recognition using FACEIO's fio.js, & Tailwind.css",
+          "link": "https://dev.to/pixlab/replace-your-authentication-system-with-face-recognition-using-faceios-fiojs-tailwindcss-4985",
+          "pubDate": "Mon, 27 Nov 2023 00:40:04 +0000",
+          "dc:creator": "Vincent",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/pixlab/replace-your-authentication-system-with-face-recognition-using-faceios-fiojs-tailwindcss-4985",
+          "categories": [
+            "webdev",
+            "tutorials",
             "react",
-            "codenewbie"
+            "tailwindcss"
           ],
-          "isoDate": "2023-11-26T00:11:02.000Z",
+          "isoDate": "2023-11-27T00:40:04.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "dev.to staff",
-          "title": "Have You Explored Any New Career Opportunities in 2023?",
-          "link": "https://dev.to/devteam/have-you-explored-any-new-career-opportunities-in-2023-23eg",
-          "pubDate": "Sun, 26 Nov 2023 00:00:00 +0000",
-          "dc:creator": "dev.to staff",
+          "creator": "Kevin Toshihiro Uehara",
+          "title": "Typescript: Discriminated Type Union Pattern",
+          "link": "https://dev.to/kevin-uehara/typescript-discriminated-type-union-pattern-4dbi",
+          "pubDate": "Mon, 27 Nov 2023 00:35:26 +0000",
+          "dc:creator": "Kevin Toshihiro Uehara",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devteam/have-you-explored-any-new-career-opportunities-in-2023-23eg",
+          "guid": "https://dev.to/kevin-uehara/typescript-discriminated-type-union-pattern-4dbi",
           "categories": [
-            "discuss"
+            "typescript",
+            "javascript",
+            "pattern",
+            "beginners"
           ],
-          "isoDate": "2023-11-26T00:00:00.000Z",
+          "isoDate": "2023-11-27T00:35:26.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sloan the DEV Moderator",
-          "title": "Which Soft Skills Should You Highlight in Interviews?",
-          "link": "https://dev.to/codenewbieteam/which-soft-skills-should-you-highlight-in-interviews-kfj",
-          "pubDate": "Sun, 26 Nov 2023 00:00:00 +0000",
-          "dc:creator": "Sloan the DEV Moderator",
+          "creator": "WavePlay Staff",
+          "title": "Introducing the Moderation Tools Plugin for Robo.js",
+          "link": "https://dev.to/waveplay/introducing-the-moderation-tools-plugin-for-robojs-59mn",
+          "pubDate": "Mon, 27 Nov 2023 00:10:42 +0000",
+          "dc:creator": "WavePlay Staff",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/codenewbieteam/which-soft-skills-should-you-highlight-in-interviews-kfj",
+          "guid": "https://dev.to/waveplay/introducing-the-moderation-tools-plugin-for-robojs-59mn",
           "categories": [
-            "discuss",
-            "codenewbie",
-            "beginner"
+            "discord",
+            "node",
+            "javascript",
+            "programming"
           ],
-          "isoDate": "2023-11-26T00:00:00.000Z",
+          "isoDate": "2023-11-27T00:10:42.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
