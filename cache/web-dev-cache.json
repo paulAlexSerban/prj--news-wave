@@ -104,7 +104,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sat, 02 Dec 2023 05:02:02 GMT"
+      "lastBuildDate": "Sun, 03 Dec 2023 05:02:02 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -420,11 +420,36 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2023, Smashing Media AG",
-      "lastBuildDate": "Sat, 02 Dec 2023 06:44:16 GMT",
+      "lastBuildDate": "Sun, 03 Dec 2023 06:35:15 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "Frontend Rewind 2023 – Day 02",
+          "link": "https://tympanus.net/codrops/2023/12/02/frontend-rewind-2023-day-02/",
+          "pubDate": "Sat, 02 Dec 2023 12:01:00 +0000",
+          "enclosure": {
+            "url": "https://cdn.dribbble.com/users/1792215/screenshots/20524850/media/47eaf1c0fdc6bf622c7bbb4727b8c4eb.mp4",
+            "length": "4818146",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=74659",
+          "categories": [
+            "Articles",
+            "advent-calendar",
+            "inspiration",
+            "roundup"
+          ],
+          "isoDate": "2023-12-02T12:01:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Manoela Ilic",
           "title": "Collective #795",
@@ -503,20 +528,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "Collective #793",
-          "link": "https://tympanus.net/codrops/collective/collective-793/",
-          "pubDate": "Fri, 24 Nov 2023 12:00:00 +0000",
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?post_type=collective&p=74380",
-          "isoDate": "2023-11-24T12:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -528,10 +539,80 @@
       "generator": "https://wordpress.org/?v=6.3.2",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Fri, 01 Dec 2023 10:58:43 +0000"
+      "lastBuildDate": "Fri, 01 Dec 2023 17:19:01 +0000"
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Lior Gavish",
+          "title": "Data Observability: Reliability in the AI Era",
+          "link": "https://dzone.com/articles/data-observability-reliability-in-the-ai-era",
+          "pubDate": "Sat, 02 Dec 2023 21:50:12 GMT",
+          "dc:creator": "Lior Gavish",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3403887",
+          "isoDate": "2023-12-02T21:50:12.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Rachael Kiselev",
+          "title": "Keeping AI Infrastructure Costs Down With API Governance",
+          "link": "https://dzone.com/articles/keeping-ai-infrastructure-costs-down-with-api-gove",
+          "pubDate": "Sat, 02 Dec 2023 21:37:16 GMT",
+          "dc:creator": "Rachael Kiselev",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3403783",
+          "isoDate": "2023-12-02T21:37:16.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Dwayne McDaniel",
+          "title": "What to Do if You Expose a Secret: How to Stay Calm and Respond to an Incident",
+          "link": "https://dzone.com/articles/what-to-do-if-you-expose-a-secret-how-to-stay-calm",
+          "pubDate": "Sat, 02 Dec 2023 21:24:13 GMT",
+          "dc:creator": "Dwayne McDaniel",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3403966",
+          "isoDate": "2023-12-02T21:24:13.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Otavio Santana",
+          "title": "Navigating Software Leadership in a Dynamic Era",
+          "link": "https://dzone.com/articles/navigating-software-leadership-in-a-dynamic-era",
+          "pubDate": "Sat, 02 Dec 2023 15:52:30 GMT",
+          "dc:creator": "Otavio Santana",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3403461",
+          "isoDate": "2023-12-02T15:52:30.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Alvin Lee",
+          "title": "Understanding the New SEC Rules for Disclosing Cybersecurity Incidents",
+          "link": "https://dzone.com/articles/understanding-the-new-sec-rules-for-disclosing-cyb",
+          "pubDate": "Sat, 02 Dec 2023 15:29:34 GMT",
+          "dc:creator": "Alvin Lee",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3403884",
+          "isoDate": "2023-12-02T15:29:34.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Jason Cockerham",
           "title": "New Profiles Now on DZone!",
@@ -601,76 +682,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "George Anadiotis",
-          "title": "Amazon Neptune Introduces a New Analytics Engine and the One Graph Vision",
-          "link": "https://dzone.com/articles/amazon-neptune-introduces-a-new-analytics-engine-a",
-          "pubDate": "Fri, 01 Dec 2023 15:35:04 GMT",
-          "dc:creator": "George Anadiotis",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3403643",
-          "isoDate": "2023-12-01T15:35:04.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Rohit Wadhwani",
-          "title": "Why Device Farms Are Crucial for Streamlining Software Testing and Improving Efficiency",
-          "link": "https://dzone.com/articles/why-device-farms-are-crucial-for-streamlining-soft",
-          "pubDate": "Fri, 01 Dec 2023 15:18:27 GMT",
-          "dc:creator": "Rohit Wadhwani",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3403659",
-          "isoDate": "2023-12-01T15:18:27.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Deepika Kale",
-          "title": "End-To-End Testing Unveiled: Navigating Challenges With a Personal Experience",
-          "link": "https://dzone.com/articles/end-to-end-testing-unveiled-navigating-challenges",
-          "pubDate": "Fri, 01 Dec 2023 15:09:42 GMT",
-          "dc:creator": "Deepika Kale",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3403741",
-          "isoDate": "2023-12-01T15:09:42.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Pranav Kumar Chaudhary",
-          "title": "Migrating Monolith Application to Microservices",
-          "link": "https://dzone.com/articles/migrating-monolith-application-to-microservices",
-          "pubDate": "Fri, 01 Dec 2023 14:56:34 GMT",
-          "dc:creator": "Pranav Kumar Chaudhary",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3403742",
-          "isoDate": "2023-12-01T14:56:34.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Eduardo Moore",
-          "title": "Handling Errors and Maintaining Data Integrity in ETL Processes",
-          "link": "https://dzone.com/articles/handling-errors-amp-maintaining-data-integrity-in",
-          "pubDate": "Fri, 01 Dec 2023 14:35:19 GMT",
-          "dc:creator": "Eduardo Moore",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3403141",
-          "isoDate": "2023-12-01T14:35:19.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -683,6 +694,24 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Hantsy",
+          "title": "Upgrade to Symfony v7",
+          "link": "https://itnext.io/upgrade-to-symfony-v7-e9bc252b47ea?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 02 Dec 2023 07:42:24 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Hantsy",
+          "guid": "https://medium.com/p/e9bc252b47ea",
+          "categories": [
+            "php",
+            "symfony"
+          ],
+          "isoDate": "2023-12-02T07:42:24.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Robert Neumann",
           "title": "Optimizing Observability: Building and Deploying a Custom OpenTelemetry Collector",
@@ -867,27 +896,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Artur Artikov",
-          "title": "Component-based Approach. Fighting Complexity in Android Applications",
-          "link": "https://itnext.io/component-based-approach-fighting-complexity-in-android-applications-2eaf5e8c5fad?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 28 Nov 2023 16:07:16 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Artur Artikov",
-          "guid": "https://medium.com/p/2eaf5e8c5fad",
-          "categories": [
-            "android",
-            "software-development",
-            "android-app-development",
-            "kotlin",
-            "android-development"
-          ],
-          "isoDate": "2023-11-28T16:07:16.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -904,200 +912,199 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sat, 02 Dec 2023 06:56:57 GMT"
+      "lastBuildDate": "Sun, 03 Dec 2023 07:05:26 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Nandini S Hinduja",
-          "title": "How to get motivated to code?",
-          "link": "https://dev.to/nandinishinduja/how-to-get-motivated-to-code-3f6j",
-          "pubDate": "Sat, 02 Dec 2023 06:01:07 +0000",
-          "dc:creator": "Nandini S Hinduja",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/nandinishinduja/how-to-get-motivated-to-code-3f6j",
-          "categories": [
-            "discuss",
-            "career",
-            "coding",
-            "development"
-          ],
-          "isoDate": "2023-12-02T06:01:07.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Valeria",
-          "title": "Project Two: Calendar",
-          "link": "https://dev.to/valeriavg/project-two-calendar-3m1h",
-          "pubDate": "Sat, 02 Dec 2023 06:00:00 +0000",
-          "dc:creator": "Valeria",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/valeriavg/project-two-calendar-3m1h",
-          "categories": [
-            "webdev",
-            "beginners",
-            "challenge",
-            "codingquokka"
-          ],
-          "isoDate": "2023-12-02T06:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Omnath Dubey",
-          "title": "Mastering Responsive Design: A Frontend Developer's Guide",
-          "link": "https://dev.to/omnathdubeyofficial/mastering-responsive-design-a-frontend-developers-guide-ome",
-          "pubDate": "Sat, 02 Dec 2023 05:26:52 +0000",
-          "dc:creator": "Omnath Dubey",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/omnathdubeyofficial/mastering-responsive-design-a-frontend-developers-guide-ome",
-          "categories": [
-            "webdev",
-            "javascript",
-            "programming",
-            "beginners"
-          ],
-          "isoDate": "2023-12-02T05:26:52.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Khaled Abdel-Fattah",
-          "title": "Adding Smooth Animations to Diagrams in Draw.io",
-          "link": "https://dev.to/ikhaledabdelfattah/adding-smooth-animations-to-diagrams-in-drawio-hjo",
-          "pubDate": "Sat, 02 Dec 2023 05:06:10 +0000",
-          "dc:creator": "Khaled Abdel-Fattah",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/ikhaledabdelfattah/adding-smooth-animations-to-diagrams-in-drawio-hjo",
-          "categories": [
-            "productivity",
-            "diagrams",
-            "animation",
-            "programming"
-          ],
-          "isoDate": "2023-12-02T05:06:10.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "RichardHarrisonqa",
-          "title": "Ring Shopping 101: How to Find the Right Fit and Style for Your Bride",
-          "link": "https://dev.to/richardharrisonqa/ring-shopping-101-how-to-find-the-right-fit-and-style-for-your-bride-3831",
-          "pubDate": "Sat, 02 Dec 2023 04:58:18 +0000",
-          "dc:creator": "RichardHarrisonqa",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/richardharrisonqa/ring-shopping-101-how-to-find-the-right-fit-and-style-for-your-bride-3831",
-          "isoDate": "2023-12-02T04:58:18.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Christian Paez",
-          "title": "Unleashing Git Aliases: A Guide to Boosting Linux Productivity",
-          "link": "https://dev.to/christianpaez/unleashing-git-aliases-a-guide-to-boosting-linux-productivity-3gb8",
-          "pubDate": "Sat, 02 Dec 2023 04:47:16 +0000",
-          "dc:creator": "Christian Paez",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/christianpaez/unleashing-git-aliases-a-guide-to-boosting-linux-productivity-3gb8",
-          "categories": [
-            "bash",
-            "linux",
-            "git",
-            "gists"
-          ],
-          "isoDate": "2023-12-02T04:47:16.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
           "creator": "Mukesh Kuiry",
-          "title": "Containerization and System Design",
-          "link": "https://dev.to/mukeshkuiry/containerization-and-system-design-4dmd",
-          "pubDate": "Sat, 02 Dec 2023 04:30:00 +0000",
+          "title": "The Cloud and System Design",
+          "link": "https://dev.to/mukeshkuiry/the-cloud-and-system-design-3cml",
+          "pubDate": "Sun, 03 Dec 2023 05:25:00 +0000",
           "dc:creator": "Mukesh Kuiry",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/mukeshkuiry/containerization-and-system-design-4dmd",
+          "guid": "https://dev.to/mukeshkuiry/the-cloud-and-system-design-3cml",
           "categories": [
+            "systemdesign",
             "programming",
             "beginners",
-            "tutorial",
-            "systemdesign"
+            "tutorial"
           ],
-          "isoDate": "2023-12-02T04:30:00.000Z",
+          "isoDate": "2023-12-03T05:25:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Nathan G Bornstein",
-          "title": "PreVue 3.0: Vue’s most visual prototyping tool yet",
-          "link": "https://dev.to/greenteaisgreat/prevue-30-vues-most-visual-prototyping-tool-yet-39lh",
-          "pubDate": "Sat, 02 Dec 2023 02:44:28 +0000",
-          "dc:creator": "Nathan G Bornstein",
+          "creator": "Ankit Anand ✨",
+          "title": "Spring Boot Monitoring with Open-Source Tools",
+          "link": "https://dev.to/signoz/spring-boot-monitoring-with-open-source-tools-4na9",
+          "pubDate": "Sun, 03 Dec 2023 05:09:16 +0000",
+          "dc:creator": "Ankit Anand ✨",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/greenteaisgreat/prevue-30-vues-most-visual-prototyping-tool-yet-39lh",
+          "guid": "https://dev.to/signoz/spring-boot-monitoring-with-open-source-tools-4na9",
           "categories": [
-            "vue",
-            "prototyping",
-            "design",
-            "ui"
+            "java",
+            "springboot",
+            "webdev",
+            "monitoring"
           ],
-          "isoDate": "2023-12-02T02:44:28.000Z",
+          "isoDate": "2023-12-03T05:09:16.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Matt Eland",
-          "title": "Getting Started with Semantic Kernel and C#",
-          "link": "https://dev.to/leading-edje/getting-started-with-semantic-kernel-and-c-1cml",
-          "pubDate": "Sat, 02 Dec 2023 02:00:30 +0000",
-          "dc:creator": "Matt Eland",
+          "creator": "Fran Zucolota",
+          "title": "Why learn Web Accessibility?",
+          "link": "https://dev.to/fran8zucolota/why-learn-web-accessibility-15h0",
+          "pubDate": "Sun, 03 Dec 2023 04:59:31 +0000",
+          "dc:creator": "Fran Zucolota",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/leading-edje/getting-started-with-semantic-kernel-and-c-1cml",
+          "guid": "https://dev.to/fran8zucolota/why-learn-web-accessibility-15h0",
           "categories": [
-            "ai",
-            "llm",
-            "semantickernel",
-            "csharp"
+            "webdev",
+            "a11y",
+            "beginners",
+            "career"
           ],
-          "isoDate": "2023-12-02T02:00:30.000Z",
+          "isoDate": "2023-12-03T04:59:31.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Logan Schmidt",
-          "title": "AWS re:invent 2023 - A Zillennial's First Time",
-          "link": "https://dev.to/d4rkd0s/aws-reinvent-2023-a-zillennials-first-time-1l83",
-          "pubDate": "Sat, 02 Dec 2023 01:54:12 +0000",
-          "dc:creator": "Logan Schmidt",
+          "creator": "Abhishek Gupta",
+          "title": "My top picks of re:Invent 2023",
+          "link": "https://dev.to/aws/my-top-picks-of-reinvent-2023-ie1",
+          "pubDate": "Sun, 03 Dec 2023 04:56:18 +0000",
+          "dc:creator": "Abhishek Gupta",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/d4rkd0s/aws-reinvent-2023-a-zillennials-first-time-1l83",
+          "guid": "https://dev.to/aws/my-top-picks-of-reinvent-2023-ie1",
           "categories": [
-            "reinvent",
             "aws",
-            "community",
+            "database",
+            "cloud",
             "news"
           ],
-          "isoDate": "2023-12-02T01:54:12.000Z",
+          "isoDate": "2023-12-03T04:56:18.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Calvin McLean",
+          "title": "The Easiest Way to Create a REST API With Go",
+          "link": "https://dev.to/calvinmclean/the-easiest-way-to-create-a-rest-api-with-go-20bo",
+          "pubDate": "Sun, 03 Dec 2023 01:42:29 +0000",
+          "dc:creator": "Calvin McLean",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/calvinmclean/the-easiest-way-to-create-a-rest-api-with-go-20bo",
+          "categories": [
+            "go",
+            "showdev",
+            "webdev",
+            "opensource"
+          ],
+          "isoDate": "2023-12-03T01:42:29.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "dev.to staff",
+          "title": "Can Problem-Solving Unlock Your Path to Happiness?",
+          "link": "https://dev.to/devteam/can-problem-solving-unlock-your-path-to-happiness-52a0",
+          "pubDate": "Sun, 03 Dec 2023 00:00:00 +0000",
+          "dc:creator": "dev.to staff",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/devteam/can-problem-solving-unlock-your-path-to-happiness-52a0",
+          "categories": [
+            "discuss"
+          ],
+          "isoDate": "2023-12-03T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Caio Borghi",
+          "title": "Under Pressure: Benchmarking Node.js on a Single-Core EC2",
+          "link": "https://dev.to/ocodista/under-pressure-benchmarking-nodejs-on-a-single-core-ec2-5ghe",
+          "pubDate": "Sat, 02 Dec 2023 23:48:51 +0000",
+          "dc:creator": "Caio Borghi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/ocodista/under-pressure-benchmarking-nodejs-on-a-single-core-ec2-5ghe",
+          "categories": [
+            "node",
+            "javascript",
+            "api",
+            "aws"
+          ],
+          "isoDate": "2023-12-02T23:48:51.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Katie N",
+          "title": "A Beginners Guide to HTML",
+          "link": "https://dev.to/knowicki024/a-beginners-guide-to-html-145j",
+          "pubDate": "Sat, 02 Dec 2023 23:18:21 +0000",
+          "dc:creator": "Katie N",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/knowicki024/a-beginners-guide-to-html-145j",
+          "categories": [
+            "beginners",
+            "html"
+          ],
+          "isoDate": "2023-12-02T23:18:21.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Nicky Meuleman",
+          "title": "Advent of Code 2023 Day 2",
+          "link": "https://dev.to/nickymeuleman/advent-of-code-2023-day-2-n45",
+          "pubDate": "Sat, 02 Dec 2023 22:10:07 +0000",
+          "dc:creator": "Nicky Meuleman",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/nickymeuleman/advent-of-code-2023-day-2-n45",
+          "categories": [
+            "adventofcode",
+            "rust"
+          ],
+          "isoDate": "2023-12-02T22:10:07.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sena Yakut",
+          "title": "AWS re:Invent 2023: Security Session Notes 📝",
+          "link": "https://dev.to/aws-builders/aws-reinvent-2023-security-session-notes-48k5",
+          "pubDate": "Sat, 02 Dec 2023 22:04:35 +0000",
+          "dc:creator": "Sena Yakut",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/aws-builders/aws-reinvent-2023-security-session-notes-48k5",
+          "categories": [
+            "aws",
+            "cloud",
+            "security",
+            "devops"
+          ],
+          "isoDate": "2023-12-02T22:04:35.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
