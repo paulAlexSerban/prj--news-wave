@@ -4,6 +4,41 @@
     "SitePoint": {
       "items": [
         {
+          "creator": "Timi Omoyeni",
+          "title": "Introducing Chatbots and Large Language Models (LLMs)",
+          "link": "https://www.sitepoint.com/introducing-chatbots-and-large-language-models-llms/?utm_source=rss",
+          "pubDate": "Wed, 06 Dec 2023 18:00:41 GMT",
+          "dc:creator": "Timi Omoyeni",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "/?p=338613",
+          "categories": [
+            "AI"
+          ],
+          "isoDate": "2023-12-06T18:00:41.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ampere Computing",
+          "title": "Migrate to Ampere on OCI with Heterogeneous Kubernetes Clusters",
+          "link": "https://www.sitepoint.com/migrate-to-ampere-on-oci-with-heterogeneous-kubernetes-clusters/?utm_source=rss",
+          "pubDate": "Tue, 05 Dec 2023 23:00:10 GMT",
+          "dc:creator": "Ampere Computing",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "/?p=336111",
+          "categories": [
+            "Programming",
+            "Web"
+          ],
+          "isoDate": "2023-12-05T23:00:10.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Daine Mawer",
           "title": "Scale Your React App with Storybook and Chromatic",
           "link": "https://www.sitepoint.com/scale-react-app-storybook-chromatic/?utm_source=rss",
@@ -54,44 +89,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Paul Scanlon",
-          "title": "How to Create Animated GIFs from GSAP Animations",
-          "link": "https://www.sitepoint.com/create-animated-gifs-from-gsap-animations/?utm_source=rss",
-          "pubDate": "Wed, 29 Nov 2023 19:00:58 GMT",
-          "dc:creator": "Paul Scanlon",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "/?p=328394",
-          "categories": [
-            "JavaScript"
-          ],
-          "isoDate": "2023-11-29T19:00:58.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Himanshu Sharma",
-          "title": "Aligning Teams for Effective User Onboarding Success",
-          "link": "https://www.sitepoint.com/aligning-teams-for-effective-user-onboarding-success/?utm_source=rss",
-          "pubDate": "Tue, 28 Nov 2023 19:00:57 GMT",
-          "dc:creator": "Himanshu Sharma",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "/?p=316174",
-          "categories": [
-            "Business",
-            "Design",
-            "UI Design",
-            "Usability",
-            "Web"
-          ],
-          "isoDate": "2023-11-28T19:00:57.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.sitepoint.com/sitepoint.rss",
@@ -102,10 +99,89 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Wed, 06 Dec 2023 05:02:10 GMT"
+      "lastBuildDate": "Thu, 07 Dec 2023 17:33:02 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
+        {
+          "creator": "Rachel Siemens",
+          "title": "From macOS runners to secure deployments, what’s new from GitHub Actions",
+          "link": "https://github.blog/2023-12-07-from-macos-runners-to-secure-deployments-whats-new-from-github-actions/",
+          "pubDate": "Thu, 07 Dec 2023 21:01:53 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Rachel Siemens",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=75749",
+          "categories": [
+            "Product",
+            "CI/CD",
+            "GitHub Actions",
+            "governance"
+          ],
+          "isoDate": "2023-12-07T21:01:53.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Kevin Xu",
+          "title": "GitHub Innovation Graph Q2 2023 Data Release",
+          "link": "https://github.blog/2023-12-07-github-innovation-graph-q2-2023-data-release/",
+          "pubDate": "Thu, 07 Dec 2023 16:37:33 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Kevin Xu",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=75729",
+          "categories": [
+            "Policy",
+            "Innovation Graph",
+            "open source"
+          ],
+          "isoDate": "2023-12-07T16:37:33.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Kevin Backhouse",
+          "title": "Cueing up a calculator: an introduction to exploit development on Linux",
+          "link": "https://github.blog/2023-12-06-cueing-up-a-calculator-an-introduction-to-exploit-development-on-linux/",
+          "pubDate": "Wed, 06 Dec 2023 17:30:42 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Kevin Backhouse",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=75690",
+          "categories": [
+            "Security",
+            "GitHub Security Lab",
+            "linux"
+          ],
+          "isoDate": "2023-12-06T17:30:42.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Sara Verdi",
+          "title": "How we’re experimenting with LLMs to evolve GitHub Copilot",
+          "link": "https://github.blog/2023-12-06-how-were-experimenting-with-llms-to-evolve-github-copilot/",
+          "pubDate": "Wed, 06 Dec 2023 16:00:37 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Sara Verdi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=75682",
+          "categories": [
+            "Engineering",
+            "AI",
+            "generative AI",
+            "GitHub Copilot",
+            "LLM"
+          ],
+          "isoDate": "2023-12-06T16:00:37.000Z",
+          "summary": ""
+        },
         {
           "creator": "David Jarzebowski",
           "title": "GitHub Enterprise Server 3.11 is now generally available",
@@ -163,44 +239,6 @@
           ],
           "isoDate": "2023-12-04T16:56:03.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Sara Verdi",
-          "title": "Insider newsletter digest: How to use GitHub Copilot",
-          "link": "https://github.blog/2023-11-30-from-the-pages-of-our-insider-newsletter-how-to-use-github-copilot/",
-          "pubDate": "Thu, 30 Nov 2023 17:35:12 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Sara Verdi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=75582",
-          "categories": [
-            "Product",
-            "Insider"
-          ],
-          "isoDate": "2023-11-30T17:35:12.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "Alvaro Munoz",
-          "title": "Securing our home labs: Home Assistant code review",
-          "link": "https://github.blog/2023-11-30-securing-our-home-labs-home-assistant-code-review/",
-          "pubDate": "Thu, 30 Nov 2023 13:52:58 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Alvaro Munoz",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=75549",
-          "categories": [
-            "Security",
-            "GitHub Security Lab",
-            "open source",
-            "security research"
-          ],
-          "isoDate": "2023-11-30T13:52:58.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://github.blog/feed/",
@@ -216,10 +254,10 @@
       },
       "title": "The GitHub Blog",
       "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
-      "generator": "https://wordpress.org/?v=6.4.1",
+      "generator": "https://wordpress.org/?v=6.4.2",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Tue, 05 Dec 2023 23:02:44 +0000"
+      "lastBuildDate": "Thu, 07 Dec 2023 21:01:53 +0000"
     },
     "GitHub Blog Atom": {
       "items": [
@@ -310,6 +348,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Eduard Kuric)",
+          "title": "Five-Second Testing: Taking A Closer Look At First Impressions (Case Study)",
+          "link": "https://smashingmagazine.com/2023/12/five-second-testing-case-study/",
+          "pubDate": "Wed, 06 Dec 2023 10:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Eduard Kuric)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/five-second-testing-case-study/five-second-testing-case-study.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2023/12/five-second-testing-case-study/",
+          "isoDate": "2023-12-06T10:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
           "title": "How Marketing Changed OOP In JavaScript",
           "link": "https://smashingmagazine.com/2023/12/marketing-changed-oop-javascript/",
@@ -384,25 +441,6 @@
           "guid": "https://smashingmagazine.com/2023/11/crafting-killer-brand-identity-digital-product/",
           "isoDate": "2023-11-28T10:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Geoff Graham)",
-          "title": "A Few Ways CSS Is Easier To Write In 2023",
-          "link": "https://smashingmagazine.com/2023/11/few-ways-css-easier-write-2023/",
-          "pubDate": "Fri, 24 Nov 2023 08:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/few-ways-css-easier-write-2023/few-ways-css-easier-write-2023.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2023/11/few-ways-css-easier-write-2023/",
-          "isoDate": "2023-11-24T08:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -420,18 +458,88 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2023, Smashing Media AG",
-      "lastBuildDate": "Wed, 06 Dec 2023 06:53:27 GMT",
+      "lastBuildDate": "Thu, 07 Dec 2023 20:35:07 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
         {
           "creator": "Manoela Ilic",
+          "title": "Frontend Rewind 2023 – Day 07",
+          "link": "https://tympanus.net/codrops/2023/12/07/frontend-rewind-2023-day-07/",
+          "pubDate": "Thu, 07 Dec 2023 12:00:00 +0000",
+          "enclosure": {
+            "url": "https://cdn.dribbble.com/userupload/6036077/file/original-bcfb322e5104ea765ce6d2a9bb830bf1.mp4",
+            "length": "13293003",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=74812",
+          "categories": [
+            "Articles",
+            "advent-calendar",
+            "inspiration",
+            "roundup"
+          ],
+          "isoDate": "2023-12-07T12:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Manoela Ilic",
+          "title": "Inspirational Websites Roundup #53",
+          "link": "https://tympanus.net/codrops/2023/12/06/inspirational-websites-roundup-53/",
+          "pubDate": "Wed, 06 Dec 2023 16:14:05 +0000",
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=74778",
+          "categories": [
+            "Websites Roundups",
+            "inspiration",
+            "roundup",
+            "website"
+          ],
+          "isoDate": "2023-12-06T16:14:05.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Manoela Ilic",
+          "title": "Frontend Rewind 2023 – Day 06",
+          "link": "https://tympanus.net/codrops/2023/12/06/frontend-rewind-2023-day-06/",
+          "pubDate": "Wed, 06 Dec 2023 11:00:00 +0000",
+          "enclosure": {
+            "url": "https://cdn.dribbble.com/userupload/6812156/file/original-bd4cdeb0ab2c92e1a9b73c7ec1d1c802.mp4",
+            "length": "8433120",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=74728",
+          "categories": [
+            "Articles",
+            "advent-calendar",
+            "inspiration",
+            "roundup"
+          ],
+          "isoDate": "2023-12-06T11:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Manoela Ilic",
           "title": "On-Scroll Sliced Text Animation",
           "link": "https://tympanus.net/codrops/2023/12/05/on-scroll-sliced-text-animation/",
           "pubDate": "Tue, 05 Dec 2023 13:00:00 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2023/12/slicedtexteffect.mp4?x27001",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2023/12/slicedtexteffect.mp4?x74508",
             "length": "1695653",
             "type": "video/mp4"
           },
@@ -581,71 +689,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "Collective #795",
-          "link": "https://tympanus.net/codrops/collective/collective-794/",
-          "pubDate": "Fri, 01 Dec 2023 12:00:00 +0000",
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?post_type=collective&p=74523",
-          "isoDate": "2023-12-01T12:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "Frontend Rewind 2023 – Day 01",
-          "link": "https://tympanus.net/codrops/2023/12/01/frontend-rewind-2023-day-01/",
-          "pubDate": "Fri, 01 Dec 2023 12:00:00 +0000",
-          "enclosure": {
-            "url": "https://cdn.dribbble.com/userupload/4454301/file/original-dca571b7554294cef196ba3bb4a242b3.mp4",
-            "length": "9219970",
-            "type": "video/mp4"
-          },
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=74320",
-          "categories": [
-            "Articles",
-            "advent-calendar",
-            "inspiration",
-            "roundup"
-          ],
-          "isoDate": "2023-12-01T12:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Yuri Artiukh",
-          "title": "3D Glass Portal Card Effect with React Three Fiber and Gaussian Splatting",
-          "link": "https://tympanus.net/codrops/2023/11/29/3d-glass-portal-card-effect-with-react-three-fiber-and-gaussian-splatting/",
-          "pubDate": "Wed, 29 Nov 2023 12:30:00 +0000",
-          "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2023/11/3dglassvideo1.mp4?x27001",
-            "length": "274876",
-            "type": "video/mp4"
-          },
-          "dc:creator": "Yuri Artiukh",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=74549",
-          "categories": [
-            "Playground",
-            "3d",
-            "react-three-fiber",
-            "three.js",
-            "webgl"
-          ],
-          "isoDate": "2023-11-29T12:30:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -657,146 +700,146 @@
       "generator": "https://wordpress.org/?v=6.3.2",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Tue, 05 Dec 2023 14:25:36 +0000"
+      "lastBuildDate": "Thu, 07 Dec 2023 09:50:28 +0000"
     },
     "DZone": {
       "items": [
         {
-          "creator": "Bablu Lal",
-          "title": "Preserving Context Across Threads",
-          "link": "https://dzone.com/articles/preserving-context-across-threads",
-          "pubDate": "Tue, 05 Dec 2023 19:16:55 GMT",
-          "dc:creator": "Bablu Lal",
+          "creator": "Ken Krueger",
+          "title": "The Long Road to Java Virtual Threads",
+          "link": "https://dzone.com/articles/the-long-road-to-java-virtual-threads",
+          "pubDate": "Thu, 07 Dec 2023 19:31:54 GMT",
+          "dc:creator": "Ken Krueger",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3403278",
-          "isoDate": "2023-12-05T19:16:55.000Z",
+          "guid": "https://dzone.com/articles/3405202",
+          "isoDate": "2023-12-07T19:31:54.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Bruce McCormack",
-          "title": "An Executive Architect’s Approach to FinOps: How AI and Automation Streamline Data Management",
-          "link": "https://dzone.com/articles/how-ai-amp-automation-in-data-management-enable-fi",
-          "pubDate": "Tue, 05 Dec 2023 18:47:17 GMT",
-          "dc:creator": "Bruce McCormack",
+          "creator": "Abhishek Gupta",
+          "title": "Using IAM Authentication for Redis on AWS",
+          "link": "https://dzone.com/articles/using-iam-authentication-for-redis-on-aws",
+          "pubDate": "Thu, 07 Dec 2023 18:45:04 GMT",
+          "dc:creator": "Abhishek Gupta",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3393808",
-          "isoDate": "2023-12-05T18:47:17.000Z",
+          "guid": "https://dzone.com/articles/3405116",
+          "isoDate": "2023-12-07T18:45:04.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "danieloh30",
-          "title": "Demystifying Virtual Thread Performance: Unveiling the Truth Beyond the Buzz",
-          "link": "https://dzone.com/articles/demystifying-virtual-thread-performance-unveiling",
-          "pubDate": "Tue, 05 Dec 2023 18:41:47 GMT",
-          "dc:creator": "danieloh30",
+          "creator": "Priyanka Pathak",
+          "title": "Understanding LLM Technology",
+          "link": "https://dzone.com/articles/understanding-llm-technology",
+          "pubDate": "Thu, 07 Dec 2023 17:43:42 GMT",
+          "dc:creator": "Priyanka Pathak",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3404975",
-          "isoDate": "2023-12-05T18:41:47.000Z",
+          "guid": "https://dzone.com/articles/3404990",
+          "isoDate": "2023-12-07T17:43:42.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Aditya Bhuyan",
-          "title": "Comprehensive Cloud Monitoring Platforms: Ensuring Optimal Performance and Security in the Cloud",
-          "link": "https://dzone.com/articles/comprehensive-cloud-monitoring-platforms-ensuring",
-          "pubDate": "Tue, 05 Dec 2023 18:26:38 GMT",
-          "dc:creator": "Aditya Bhuyan",
+          "creator": "Lakshmi Sushma Daggubati",
+          "title": "Optimizing API Lifecycles: A Comprehensive Guide for Product Managers",
+          "link": "https://dzone.com/articles/optimizing-api-lifecycles-a-comprehensive-guide-fo",
+          "pubDate": "Thu, 07 Dec 2023 16:19:08 GMT",
+          "dc:creator": "Lakshmi Sushma Daggubati",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3357516",
-          "isoDate": "2023-12-05T18:26:38.000Z",
+          "guid": "https://dzone.com/articles/3405200",
+          "isoDate": "2023-12-07T16:19:08.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Raman Mehta",
-          "title": "Harnessing Integration Platforms To Unscramble the Data Mess",
-          "link": "https://dzone.com/articles/harnessing-integration-platforms-to-unscramble-the",
-          "pubDate": "Tue, 05 Dec 2023 18:24:50 GMT",
-          "dc:creator": "Raman Mehta",
+          "creator": "Stelios Manioudakis",
+          "title": "Production-Like Testing Environments in Software Development",
+          "link": "https://dzone.com/articles/production-like-testing-environments-in-software-d",
+          "pubDate": "Thu, 07 Dec 2023 15:42:06 GMT",
+          "dc:creator": "Stelios Manioudakis",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3400321",
-          "isoDate": "2023-12-05T18:24:50.000Z",
+          "guid": "https://dzone.com/articles/3405021",
+          "isoDate": "2023-12-07T15:42:06.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Brian O'Neill",
-          "title": "How To Get Cell Data From an Excel Spreadsheet Using APIs in Java",
-          "link": "https://dzone.com/articles/how-to-get-cell-data-from-an-excel-spreadsheet-usi",
-          "pubDate": "Tue, 05 Dec 2023 18:12:59 GMT",
-          "dc:creator": "Brian O'Neill",
+          "creator": "Vicky Pham",
+          "title": "Why Ottava?",
+          "link": "https://dzone.com/articles/why_ottava",
+          "pubDate": "Thu, 07 Dec 2023 15:06:13 GMT",
+          "dc:creator": "Vicky Pham",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3403969",
-          "isoDate": "2023-12-05T18:12:59.000Z",
+          "guid": "https://dzone.com/articles/3403812",
+          "isoDate": "2023-12-07T15:06:13.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ruslan Valis",
-          "title": "Quick and Efficient Distributed Tracing In .NET",
-          "link": "https://dzone.com/articles/quick-and-efficient-distributed-tracing-in-net",
-          "pubDate": "Tue, 05 Dec 2023 18:03:23 GMT",
-          "dc:creator": "Ruslan Valis",
+          "creator": "Eugene Kovko",
+          "title": "Problems With Finalizer",
+          "link": "https://dzone.com/articles/problems-with-finalizer",
+          "pubDate": "Thu, 07 Dec 2023 15:00:44 GMT",
+          "dc:creator": "Eugene Kovko",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3402370",
-          "isoDate": "2023-12-05T18:03:23.000Z",
+          "guid": "https://dzone.com/articles/3405012",
+          "isoDate": "2023-12-07T15:00:44.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sandeep Kashyap",
-          "title": "Top 11 Project Management Hacks for Software Project Managers",
-          "link": "https://dzone.com/articles/top-11-project-management-hacks-for-software-proje",
-          "pubDate": "Tue, 05 Dec 2023 18:02:02 GMT",
-          "dc:creator": "Sandeep Kashyap",
+          "creator": "Nicolas Fränkel",
+          "title": "Canary Releases With Apache APISIX",
+          "link": "https://dzone.com/articles/canary-releases-with-apache-apisix",
+          "pubDate": "Thu, 07 Dec 2023 14:56:40 GMT",
+          "dc:creator": "Nicolas Fränkel",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3403450",
-          "isoDate": "2023-12-05T18:02:02.000Z",
+          "guid": "https://dzone.com/articles/3405076",
+          "isoDate": "2023-12-07T14:56:40.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Kevin Vu",
-          "title": "Question Answering Tutorial With Hugging Face BERT",
-          "link": "https://dzone.com/articles/question-answering-tutorial-with-hugging-face-bert",
-          "pubDate": "Tue, 05 Dec 2023 17:36:20 GMT",
-          "dc:creator": "Kevin Vu",
+          "creator": "Prankur Haldiya",
+          "title": "Building Multilingual Apps in Flutter: Localization and Internationalization Method",
+          "link": "https://dzone.com/articles/building-multilingual-apps-in-flutter-localization",
+          "pubDate": "Thu, 07 Dec 2023 14:41:51 GMT",
+          "dc:creator": "Prankur Haldiya",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3404965",
-          "isoDate": "2023-12-05T17:36:20.000Z",
+          "guid": "https://dzone.com/articles/3405123",
+          "isoDate": "2023-12-07T14:41:51.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Samir Hazra",
-          "title": "Safeguarding Data Exchange: A Comprehensive Overview of API Gateways and Their Imperative Role in Ensuring Robust Security",
-          "link": "https://dzone.com/articles/safeguarding-data-exchange-a-comprehensive-overvie",
-          "pubDate": "Tue, 05 Dec 2023 17:21:05 GMT",
-          "dc:creator": "Samir Hazra",
+          "creator": "Emily Newton",
+          "title": "Why Is the Future of AI Chips Important in Neuromorphic Computing?",
+          "link": "https://dzone.com/articles/why-is-the-future-of-ai-chips-important-in-neuromorphic-computing",
+          "pubDate": "Thu, 07 Dec 2023 14:33:49 GMT",
+          "dc:creator": "Emily Newton",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3405071",
-          "isoDate": "2023-12-05T17:21:05.000Z",
+          "guid": "https://dzone.com/articles/3405109",
+          "isoDate": "2023-12-07T14:33:49.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -812,6 +855,69 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Abhishek Gupta",
+          "title": "Using IAM authentication for Redis on AWS",
+          "link": "https://itnext.io/using-iam-authentication-for-redis-on-aws-4fd7a67dfac8?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 07 Dec 2023 08:42:56 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Abhishek Gupta",
+          "guid": "https://medium.com/p/4fd7a67dfac8",
+          "categories": [
+            "cloud",
+            "security",
+            "database",
+            "redis",
+            "aws"
+          ],
+          "isoDate": "2023-12-07T08:42:56.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "fatbobman ( 东坡肘子)",
+          "title": "In-Depth Guide to iCloud Documents: Fundamental Setup and File Operations",
+          "link": "https://itnext.io/in-depth-guide-to-icloud-documents-fundamental-setup-and-file-operations-62cc4d9610de?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 06 Dec 2023 18:41:13 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "fatbobman ( 东坡肘子)",
+          "guid": "https://medium.com/p/62cc4d9610de",
+          "categories": [
+            "swiftui",
+            "mobile-development",
+            "programming",
+            "swift",
+            "ios-development"
+          ],
+          "isoDate": "2023-12-06T18:41:13.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Pradipta Banerjee",
+          "title": "Using encrypted container images in a confidential VM",
+          "link": "https://itnext.io/using-encrypted-container-images-in-a-confidential-vm-0188745f8e9f?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 06 Dec 2023 08:56:49 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Pradipta Banerjee",
+          "guid": "https://medium.com/p/0188745f8e9f",
+          "categories": [
+            "azure",
+            "confidential-containers",
+            "encrypted-image",
+            "confidential-computing",
+            "podman"
+          ],
+          "isoDate": "2023-12-06T08:56:49.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Tin Plavec",
           "title": "Free, Open, Open-Source, Libre And FOSS — What’s The Difference And What Does It All Mean",
@@ -954,67 +1060,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Krzysztof Pranczk",
-          "title": "Vulnerability Management with DefectDojo — is it great for DevSecOps?",
-          "link": "https://itnext.io/vulnerability-management-with-defectdojo-is-it-great-for-devsecops-3da455d2852b?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 05 Dec 2023 02:46:56 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Krzysztof Pranczk",
-          "guid": "https://medium.com/p/3da455d2852b",
-          "categories": [
-            "vulnerability-management",
-            "cybersecurity",
-            "devsecops",
-            "software-development",
-            "application-security"
-          ],
-          "isoDate": "2023-12-05T02:46:56.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Tezov",
-          "title": "Compose — Webview local html, css and assets.",
-          "link": "https://itnext.io/compose-webview-local-html-css-and-assets-a30c192c1183?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 04 Dec 2023 18:08:32 GMT",
-          "dc:creator": "Tezov",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/a30c192c1183",
-          "categories": [
-            "jetpack-compose",
-            "android-studio",
-            "android",
-            "androiddev"
-          ],
-          "isoDate": "2023-12-04T18:08:32.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Souvik Mandal",
-          "title": "IMAGEBIND: One Embedding Space To Bind Them All",
-          "link": "https://itnext.io/imagebind-one-embedding-space-to-bind-them-all-b48c8623d39b?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 04 Dec 2023 18:06:46 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Souvik Mandal",
-          "guid": "https://medium.com/p/b48c8623d39b",
-          "categories": [
-            "artificial-intelligence",
-            "deep-learning",
-            "multimodal-learning",
-            "machine-learning"
-          ],
-          "isoDate": "2023-12-04T18:06:46.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -1031,195 +1076,199 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Wed, 06 Dec 2023 06:59:00 GMT"
+      "lastBuildDate": "Thu, 07 Dec 2023 21:02:49 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Pavan Belagatti",
-          "title": "Llama 2: ChatGPT Contender Everyone Is Talking About!",
-          "link": "https://dev.to/pavanbelagatti/llama-2-chatgpt-contender-everyone-is-talking-about-5313",
-          "pubDate": "Wed, 06 Dec 2023 07:06:05 +0000",
-          "dc:creator": "Pavan Belagatti",
+          "creator": "Matheus 🇧🇷",
+          "title": "Dia 01: Modelo Entidade Relacionamento",
+          "link": "https://dev.to/mpfdev/dia-01-modelo-entidade-relacionamento-11bd",
+          "pubDate": "Thu, 07 Dec 2023 19:11:31 +0000",
+          "dc:creator": "Matheus 🇧🇷",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/pavanbelagatti/llama-2-chatgpt-contender-everyone-is-talking-about-5313",
+          "guid": "https://dev.to/mpfdev/dia-01-modelo-entidade-relacionamento-11bd",
           "categories": [
-            "ai",
-            "beginners",
-            "learning",
-            "datascience"
-          ],
-          "isoDate": "2023-12-06T07:06:05.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "codebrewlabsusa",
-          "title": "5 Tips for Creating a Successful Grocery App",
-          "link": "https://dev.to/codebrewlabsusa/5-tips-for-creating-a-successful-grocery-app-38i0",
-          "pubDate": "Wed, 06 Dec 2023 06:19:10 +0000",
-          "dc:creator": "codebrewlabsusa",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/codebrewlabsusa/5-tips-for-creating-a-successful-grocery-app-38i0",
-          "categories": [
-            "beginners",
-            "tutorial",
-            "discuss",
-            "productivity"
-          ],
-          "isoDate": "2023-12-06T06:19:10.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Anand Das",
-          "title": "Survey Reveals Top Benefits of AI in Software Development",
-          "link": "https://dev.to/ananddas/survey-reveals-top-benefits-of-ai-in-software-development-pfe",
-          "pubDate": "Wed, 06 Dec 2023 05:31:51 +0000",
-          "dc:creator": "Anand Das",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/ananddas/survey-reveals-top-benefits-of-ai-in-software-development-pfe",
-          "categories": [
-            "ai",
-            "machinelearning",
-            "programming",
+            "braziliandevs",
             "beginners"
           ],
-          "isoDate": "2023-12-06T05:31:51.000Z",
+          "isoDate": "2023-12-07T19:11:31.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Đặng Đình Sáng",
-          "title": "Understanding Git And Git Workflow",
-          "link": "https://dev.to/untilyou58/understanding-git-and-git-workflow-1e6a",
-          "pubDate": "Wed, 06 Dec 2023 04:45:59 +0000",
-          "dc:creator": "Đặng Đình Sáng",
+          "creator": "Elmurod",
+          "title": "Upload repository to GitHub with Git.",
+          "link": "https://dev.to/elmurod5676/upload-repository-to-github-with-git-3nif",
+          "pubDate": "Thu, 07 Dec 2023 19:02:47 +0000",
+          "dc:creator": "Elmurod",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/untilyou58/understanding-git-and-git-workflow-1e6a",
+          "guid": "https://dev.to/elmurod5676/upload-repository-to-github-with-git-3nif",
+          "categories": [
+            "git"
+          ],
+          "isoDate": "2023-12-07T19:02:47.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Martin Muller",
+          "title": "AWS Bedrock Claude 2.1 - Return only JSON",
+          "link": "https://dev.to/aws-builders/aws-bedrock-claude-21-return-only-json-4pfk",
+          "pubDate": "Thu, 07 Dec 2023 18:49:36 +0000",
+          "dc:creator": "Martin Muller",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/aws-builders/aws-bedrock-claude-21-return-only-json-4pfk",
+          "categories": [
+            "aws",
+            "bedrock",
+            "claude"
+          ],
+          "isoDate": "2023-12-07T18:49:36.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sujith V S",
+          "title": "Datatypes in C Programming.",
+          "link": "https://dev.to/sujithvsuresh/datatypes-in-c-programming-6ep",
+          "pubDate": "Thu, 07 Dec 2023 18:33:33 +0000",
+          "dc:creator": "Sujith V S",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/sujithvsuresh/datatypes-in-c-programming-6ep",
+          "categories": [
+            "c",
+            "coding",
+            "programming",
+            "datatype"
+          ],
+          "isoDate": "2023-12-07T18:33:33.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "M ZUNAIR TARIQ",
+          "title": "Understanding Value Types and Reference Types in C#",
+          "link": "https://dev.to/mzunairtariq/understanding-value-types-and-reference-types-in-c-46e1",
+          "pubDate": "Thu, 07 Dec 2023 18:20:34 +0000",
+          "dc:creator": "M ZUNAIR TARIQ",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/mzunairtariq/understanding-value-types-and-reference-types-in-c-46e1",
+          "categories": [
+            "csharp",
+            "dotnet",
+            "programming",
+            "dotnetcore"
+          ],
+          "isoDate": "2023-12-07T18:20:34.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Chromatic",
+          "title": "Introducing Chromatic’s Cypress integration",
+          "link": "https://dev.to/chromatic/introducing-chromatics-cypress-integration-ohe",
+          "pubDate": "Thu, 07 Dec 2023 18:12:05 +0000",
+          "dc:creator": "Chromatic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/chromatic/introducing-chromatics-cypress-integration-ohe",
+          "categories": [
+            "cypress",
+            "testing",
+            "frontend",
+            "qa"
+          ],
+          "isoDate": "2023-12-07T18:12:05.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Danial Habib",
+          "title": "CSS Spiderman Animation",
+          "link": "https://dev.to/codingcss/css-spiderman-animation-5d76",
+          "pubDate": "Thu, 07 Dec 2023 17:49:49 +0000",
+          "dc:creator": "Danial Habib",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/codingcss/css-spiderman-animation-5d76",
           "categories": [
             "webdev",
-            "git",
-            "beginners"
+            "opensource",
+            "codenewbie",
+            "css"
           ],
-          "isoDate": "2023-12-06T04:45:59.000Z",
+          "isoDate": "2023-12-07T17:49:49.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "FatimaAlam1234",
-          "title": "SQL - Advanced SQL Concepts",
-          "link": "https://dev.to/fatimaalam1234/sql-advanced-sql-concepts-495k",
-          "pubDate": "Wed, 06 Dec 2023 04:32:51 +0000",
-          "dc:creator": "FatimaAlam1234",
+          "creator": "Furkan Gözükara",
+          "title": "Google Gemini AI 🤯 Full Video - The Only Competitor Against ChatGPT / GPT-4 - #1 On Benchmarks",
+          "link": "https://dev.to/furkangozukara/google-gemini-ai-full-video-the-only-competitor-against-chatgpt-gpt-4-1-on-benchmarks-jep",
+          "pubDate": "Thu, 07 Dec 2023 17:22:27 +0000",
+          "dc:creator": "Furkan Gözükara",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/fatimaalam1234/sql-advanced-sql-concepts-495k",
-          "isoDate": "2023-12-06T04:32:51.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "tsensei",
-          "title": "NextJS App Router with Pocketbase SSR setup",
-          "link": "https://dev.to/tsensei/nextjs-app-router-with-pocketbase-ssr-setup-1m9k",
-          "pubDate": "Wed, 06 Dec 2023 04:11:35 +0000",
-          "dc:creator": "tsensei",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/tsensei/nextjs-app-router-with-pocketbase-ssr-setup-1m9k",
+          "guid": "https://dev.to/furkangozukara/google-gemini-ai-full-video-the-only-competitor-against-chatgpt-gpt-4-1-on-benchmarks-jep",
           "categories": [
-            "nextjs",
-            "pocketbase",
-            "ssr",
-            "rsc"
-          ],
-          "isoDate": "2023-12-06T04:11:35.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "tanya rai",
-          "title": "#1 Developer Tool of the Month 🔥🔥🔥",
-          "link": "https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41",
-          "pubDate": "Wed, 06 Dec 2023 03:40:42 +0000",
-          "dc:creator": "tanya rai",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/tanyarai/1-developer-tool-of-the-month-1o41",
-          "categories": [
-            "producthunt",
+            "gemini",
             "ai",
-            "opensource"
+            "gpt4",
+            "chatgpt"
           ],
-          "isoDate": "2023-12-06T03:40:42.000Z",
+          "isoDate": "2023-12-07T17:22:27.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Judy",
-          "title": "Order-based Group Operations (II)",
-          "link": "https://dev.to/esproc_spl/order-based-group-operations-ii-jo3",
-          "pubDate": "Wed, 06 Dec 2023 02:36:43 +0000",
-          "dc:creator": "Judy",
+          "creator": "Nir Gazit",
+          "title": "DIY Observability for OpenAI with OpenTelemetry",
+          "link": "https://dev.to/nirga/diy-observability-for-openai-with-opentelemetry-4ddg",
+          "pubDate": "Thu, 07 Dec 2023 17:18:20 +0000",
+          "dc:creator": "Nir Gazit",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/esproc_spl/order-based-group-operations-ii-jo3",
+          "guid": "https://dev.to/nirga/diy-observability-for-openai-with-opentelemetry-4ddg",
           "categories": [
-            "learning",
-            "data",
-            "backend",
-            "developer"
+            "opensource",
+            "openai",
+            "python",
+            "ai"
           ],
-          "isoDate": "2023-12-06T02:36:43.000Z",
+          "isoDate": "2023-12-07T17:18:20.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "John Rush",
-          "title": "I built NextJS starters directory in 54 minutes",
-          "link": "https://dev.to/johnrushx/i-built-nextjs-starters-directory-in-54-minutes-4hfe",
-          "pubDate": "Wed, 06 Dec 2023 00:00:00 +0000",
-          "dc:creator": "John Rush",
+          "creator": "Tousif",
+          "title": "Hasura and Keycloak integration with NestJS server",
+          "link": "https://dev.to/mrtousif/hasura-and-keycloak-integration-with-nestjs-server-without-using-passportjs-4kjh",
+          "pubDate": "Thu, 07 Dec 2023 17:08:07 +0000",
+          "dc:creator": "Tousif",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/johnrushx/i-built-nextjs-starters-directory-in-54-minutes-4hfe",
+          "guid": "https://dev.to/mrtousif/hasura-and-keycloak-integration-with-nestjs-server-without-using-passportjs-4kjh",
           "categories": [
-            "nextjs",
-            "react",
-            "tutorial",
-            "beginners"
+            "nestjs",
+            "hasura",
+            "keycloak"
           ],
-          "isoDate": "2023-12-06T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "dev.to staff",
-          "title": "What One-Sentence Lessons Make You Mentally Unbreakable?",
-          "link": "https://dev.to/devteam/what-one-sentence-lessons-make-you-mentally-unbreakable-618",
-          "pubDate": "Wed, 06 Dec 2023 00:00:00 +0000",
-          "dc:creator": "dev.to staff",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/devteam/what-one-sentence-lessons-make-you-mentally-unbreakable-618",
-          "categories": [
-            "discuss"
-          ],
-          "isoDate": "2023-12-06T00:00:00.000Z",
+          "isoDate": "2023-12-07T17:08:07.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1305,7 +1354,7 @@
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog.atom",
       "title": "The DigitalOcean Blog",
-      "lastBuildDate": "2023-12-05T18:51:08.621Z"
+      "lastBuildDate": "2023-12-07T16:45:25.222Z"
     },
     "Julia Evans": {
       "items": [
