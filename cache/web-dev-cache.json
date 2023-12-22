@@ -4,6 +4,23 @@
     "SitePoint": {
       "items": [
         {
+          "creator": "Imran Alam",
+          "title": "Turn Your Vue App into an Offline-ready Progressive Web App",
+          "link": "https://www.sitepoint.com/vue-app-to-offline-ready-pwa/?utm_source=rss",
+          "pubDate": "Wed, 20 Dec 2023 19:00:56 GMT",
+          "dc:creator": "Imran Alam",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "/?p=418864",
+          "categories": [
+            "JavaScript"
+          ],
+          "isoDate": "2023-12-20T19:00:56.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Emmanuel Onyeyaforo",
           "title": "Clean Architecture: Theming with Tailwind and CSS Variables",
           "link": "https://www.sitepoint.com/theming-tailwind-css-variables-clean-architecture/?utm_source=rss",
@@ -75,24 +92,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Craig Buckler",
-          "title": "Using Nodemon and Watch in Node.js for Live Restarts",
-          "link": "https://www.sitepoint.com/nodejs-live-restarts-nodemon-watch/?utm_source=rss",
-          "pubDate": "Mon, 11 Dec 2023 19:00:54 GMT",
-          "dc:creator": "Craig Buckler",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "/?p=374885",
-          "categories": [
-            "JavaScript",
-            "Node.js"
-          ],
-          "isoDate": "2023-12-11T19:00:54.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.sitepoint.com/sitepoint.rss",
@@ -103,7 +102,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Thu, 21 Dec 2023 05:02:09 GMT"
+      "lastBuildDate": "Fri, 22 Dec 2023 05:02:01 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -426,11 +425,37 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2023, Smashing Media AG",
-      "lastBuildDate": "Thu, 21 Dec 2023 06:35:12 GMT",
+      "lastBuildDate": "Fri, 22 Dec 2023 06:52:45 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "Frontend Rewind 2023 – Day 21",
+          "link": "https://tympanus.net/codrops/2023/12/21/frontend-rewind-2023-day-21/",
+          "pubDate": "Thu, 21 Dec 2023 12:48:49 +0000",
+          "enclosure": {
+            "url": "https://cdn.dribbble.com/userupload/7141547/file/original-7ad3f9ed3c3a5c666320acc314299610.mp4",
+            "length": "19305332",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=75073",
+          "categories": [
+            "Articles",
+            "advent-calendar",
+            "frontend-rewind-2023",
+            "inspiration",
+            "roundup"
+          ],
+          "isoDate": "2023-12-21T12:48:49.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Manoela Ilic",
           "title": "Frontend Rewind 2023 – Day 20",
@@ -635,32 +660,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "Frontend Rewind 2023 – Day 14",
-          "link": "https://tympanus.net/codrops/2023/12/14/frontend-rewind-2023-day-14/",
-          "pubDate": "Thu, 14 Dec 2023 09:51:58 +0000",
-          "enclosure": {
-            "url": "https://cdn.dribbble.com/userupload/7860612/file/original-fe44f90efd7fd764a9cd31d7e787524f.mp4",
-            "length": "11902743",
-            "type": "video/mp4"
-          },
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=74940",
-          "categories": [
-            "Articles",
-            "advent-calendar",
-            "frontend-rewind-2023",
-            "inspiration",
-            "roundup"
-          ],
-          "isoDate": "2023-12-14T09:51:58.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -672,146 +671,146 @@
       "generator": "https://wordpress.org/?v=6.3.2",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Wed, 20 Dec 2023 12:57:32 +0000"
+      "lastBuildDate": "Thu, 21 Dec 2023 12:48:51 +0000"
     },
     "DZone": {
       "items": [
         {
-          "creator": "venkataramaiah gude",
-          "title": "Simplified Solution: Troubleshooting Backend API Failures in Azure Cloud",
-          "link": "https://dzone.com/articles/simplified-solution-troubleshooting-backend-api-fa",
-          "pubDate": "Thu, 21 Dec 2023 06:52:00 GMT",
-          "dc:creator": "venkataramaiah gude",
+          "creator": "Eric D. Schabell",
+          "title": "Open Dashboard and Visualization Workshop: Finalizing Perses Dashboard",
+          "link": "https://dzone.com/articles/open-dashboard-and-visualization-workshop-finalizi",
+          "pubDate": "Thu, 21 Dec 2023 20:53:29 GMT",
+          "dc:creator": "Eric D. Schabell",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3413869",
-          "isoDate": "2023-12-21T06:52:00.000Z",
+          "guid": "https://dzone.com/articles/3413859",
+          "isoDate": "2023-12-21T20:53:29.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Jason Cockerham",
-          "title": "DZone Community Awards 2023",
-          "link": "https://dzone.com/articles/dzone-community-awards",
-          "pubDate": "Wed, 20 Dec 2023 20:08:11 GMT",
-          "dc:creator": "Jason Cockerham",
+          "creator": "Nicolas Duminil",
+          "title": "From J2EE to Jakarta EE",
+          "link": "https://dzone.com/articles/from-j2ee-to-jakarta-ee",
+          "pubDate": "Thu, 21 Dec 2023 19:54:52 GMT",
+          "dc:creator": "Nicolas Duminil",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3413862",
-          "isoDate": "2023-12-20T20:08:11.000Z",
+          "guid": "https://dzone.com/articles/3412793",
+          "isoDate": "2023-12-21T19:54:52.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Elliot Brenya",
-          "title": "PHP Laravel Cache Setup for Apitoolkit to Avoid SDK Reinit",
-          "link": "https://dzone.com/articles/php-laravel-cache-setup-for-apitoolkit-to-avoid-sd",
-          "pubDate": "Wed, 20 Dec 2023 19:46:05 GMT",
-          "dc:creator": "Elliot Brenya",
+          "creator": "Nagendran Sathananda Manidas",
+          "title": "Data Store Options for Operational Analytics/Data Engineering",
+          "link": "https://dzone.com/articles/data-store-options-for-operational-analytics-data",
+          "pubDate": "Thu, 21 Dec 2023 19:16:19 GMT",
+          "dc:creator": "Nagendran Sathananda Manidas",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3411789",
-          "isoDate": "2023-12-20T19:46:05.000Z",
+          "guid": "https://dzone.com/articles/3414020",
+          "isoDate": "2023-12-21T19:16:19.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Anais Dotis-Georgiou",
-          "title": "Query a Database With Arrow Flight",
-          "link": "https://dzone.com/articles/query-a-database-with-arrow-flight",
-          "pubDate": "Wed, 20 Dec 2023 19:11:20 GMT",
-          "dc:creator": "Anais Dotis-Georgiou",
+          "creator": "Medhat Galal",
+          "title": "5 Priority Areas That Will Define the Developer’s AI to-do List in 2024",
+          "link": "https://dzone.com/articles/5-priority-areas-that-will-define-the-developers-ai-to-do-list",
+          "pubDate": "Thu, 21 Dec 2023 17:08:51 GMT",
+          "dc:creator": "Medhat Galal",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3413763",
-          "isoDate": "2023-12-20T19:11:20.000Z",
+          "guid": "https://dzone.com/articles/3413911",
+          "isoDate": "2023-12-21T17:08:51.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Frank Z",
-          "title": "From Elasticsearch to Apache Doris: Upgrading an Observability Platform",
-          "link": "https://dzone.com/articles/from-elasticsearch-to-apache-doris-upgrading-an-ob",
-          "pubDate": "Wed, 20 Dec 2023 19:08:47 GMT",
-          "dc:creator": "Frank Z",
+          "creator": "Kartik Patel",
+          "title": "Augmented Analytics Helps You Tell the Story of Success",
+          "link": "https://dzone.com/articles/augmented-analytics-helps-you-tell-the-story-of-su",
+          "pubDate": "Thu, 21 Dec 2023 15:35:17 GMT",
+          "dc:creator": "Kartik Patel",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3410754",
-          "isoDate": "2023-12-20T19:08:47.000Z",
+          "guid": "https://dzone.com/articles/3413921",
+          "isoDate": "2023-12-21T15:35:17.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Israel Heringer",
-          "title": "How To Make Legacy Code More Testable",
-          "link": "https://dzone.com/articles/how-to-make-legacy-code-more-testable",
-          "pubDate": "Wed, 20 Dec 2023 19:04:52 GMT",
-          "dc:creator": "Israel Heringer",
+          "creator": "Hardik Ghelani",
+          "title": "Dynamic Squad Model",
+          "link": "https://dzone.com/articles/dynamic-squad-model",
+          "pubDate": "Thu, 21 Dec 2023 15:08:31 GMT",
+          "dc:creator": "Hardik Ghelani",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3411790",
-          "isoDate": "2023-12-20T19:04:52.000Z",
+          "guid": "https://dzone.com/articles/3414009",
+          "isoDate": "2023-12-21T15:08:31.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Idan Asulin",
-          "title": "How To Handle API Rate Limitations With a Queue",
-          "link": "https://dzone.com/articles/how-to-handle-api-rate-limitations-with-a-queue",
-          "pubDate": "Wed, 20 Dec 2023 18:14:59 GMT",
-          "dc:creator": "Idan Asulin",
+          "creator": "Pankaj Kumar",
+          "title": "Optimizing Workforce Management Using Oracle Cloud HCM",
+          "link": "https://dzone.com/articles/optimizing-workforce-management-in-service-industr",
+          "pubDate": "Thu, 21 Dec 2023 14:51:06 GMT",
+          "dc:creator": "Pankaj Kumar",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3413857",
-          "isoDate": "2023-12-20T18:14:59.000Z",
+          "guid": "https://dzone.com/articles/3414015",
+          "isoDate": "2023-12-21T14:51:06.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Matias Madou",
-          "title": "With the Right Support, Developers Can Lead Your Organization to Superior PCI-DSS 4.0 Compliance",
-          "link": "https://dzone.com/articles/with-the-right-support-developers-can-lead-your-or-2",
-          "pubDate": "Wed, 20 Dec 2023 18:10:28 GMT",
-          "dc:creator": "Matias Madou",
+          "creator": "Maulik Shah",
+          "title": "Unleashing Generative AI Capabilities: The Power of Large Language Models Explained",
+          "link": "https://dzone.com/articles/unleashing-generative-ai-capabilities-the-power-of",
+          "pubDate": "Thu, 21 Dec 2023 14:38:56 GMT",
+          "dc:creator": "Maulik Shah",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3414011",
-          "isoDate": "2023-12-20T18:10:28.000Z",
+          "guid": "https://dzone.com/articles/3413914",
+          "isoDate": "2023-12-21T14:38:56.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Romain Pelisse",
-          "title": "Automate Your SSO With Ansible and Keycloak",
-          "link": "https://dzone.com/articles/automate-your-sso-with-ansible-and-keycloak",
-          "pubDate": "Wed, 20 Dec 2023 17:50:09 GMT",
-          "dc:creator": "Romain Pelisse",
+          "creator": "Konstantin Berezin",
+          "title": "Matching Algorithms in Dating Apps",
+          "link": "https://dzone.com/articles/matching-algorithms-in-dating-apps",
+          "pubDate": "Thu, 21 Dec 2023 14:35:04 GMT",
+          "dc:creator": "Konstantin Berezin",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3414003",
-          "isoDate": "2023-12-20T17:50:09.000Z",
+          "guid": "https://dzone.com/articles/3414032",
+          "isoDate": "2023-12-21T14:35:04.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Dima Landiak",
-          "title": "TBMQ: Open-Source MQTT Broker",
-          "link": "https://dzone.com/articles/tbmq-open-source-mqtt-broker",
-          "pubDate": "Wed, 20 Dec 2023 17:07:02 GMT",
-          "dc:creator": "Dima Landiak",
+          "creator": "Barath Ravichander",
+          "title": "Databricks: An Understanding Inside the WH",
+          "link": "https://dzone.com/articles/databricks-an-understanding-inside-the-wh",
+          "pubDate": "Thu, 21 Dec 2023 14:23:01 GMT",
+          "dc:creator": "Barath Ravichander",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3410846",
-          "isoDate": "2023-12-20T17:07:02.000Z",
+          "guid": "https://dzone.com/articles/3414979",
+          "isoDate": "2023-12-21T14:23:01.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -827,6 +826,48 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Enea Jahollari",
+          "title": "A change detection, zone.js, zoneless, local change detection, and signals story ",
+          "link": "https://itnext.io/a-change-detection-zone-js-zoneless-local-change-detection-and-signals-story-9344079c3b9d?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 21 Dec 2023 21:41:55 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Enea Jahollari",
+          "guid": "https://medium.com/p/9344079c3b9d",
+          "categories": [
+            "signal",
+            "change-detection",
+            "angular",
+            "zoneless",
+            "performance"
+          ],
+          "isoDate": "2023-12-21T21:41:55.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ilir Beqiri",
+          "title": "Declarative Loop Control Flow in Angular 17",
+          "link": "https://itnext.io/declarative-loop-control-flow-in-angular-17-e48af8570f82?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 21 Dec 2023 17:17:06 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Ilir Beqiri",
+          "guid": "https://medium.com/p/e48af8570f82",
+          "categories": [
+            "typescript",
+            "angular",
+            "javascript",
+            "front-end-development",
+            "web-development"
+          ],
+          "isoDate": "2023-12-21T17:17:06.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Jack Roper",
           "title": "Kubectl cp — How to Copy File From a Pod to Local",
@@ -993,47 +1034,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Tezov",
-          "title": "Compose navigation transition animation for adventurous dev only.",
-          "link": "https://itnext.io/compose-navigation-transition-animation-for-adventurous-dev-only-88defb678c11?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 19 Dec 2023 07:38:29 GMT",
-          "dc:creator": "Tezov",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/88defb678c11",
-          "categories": [
-            "android",
-            "androiddev",
-            "jetpack-compose",
-            "kotlin"
-          ],
-          "isoDate": "2023-12-19T07:38:29.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Maaike Stoops | LINKITSYSTEMS",
-          "title": "Exploring the Spectrum: Low-Code vs. Traditional High-Code Development",
-          "link": "https://itnext.io/exploring-the-spectrum-low-code-vs-traditional-high-code-development-37e94e2c29d6?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 19 Dec 2023 07:36:36 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Maaike Stoops | LINKITSYSTEMS",
-          "guid": "https://medium.com/p/37e94e2c29d6",
-          "categories": [
-            "outsystems",
-            "low-code-development",
-            "low-code",
-            "mendix",
-            "javascript"
-          ],
-          "isoDate": "2023-12-19T07:36:36.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -1050,201 +1050,192 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Thu, 21 Dec 2023 06:58:01 GMT"
+      "lastBuildDate": "Fri, 22 Dec 2023 06:54:45 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Pavan Belagatti",
-          "title": "What Is Data Analysis and How Can You Get Started?",
-          "link": "https://dev.to/pavanbelagatti/what-is-data-analysis-and-how-can-you-get-started-ndm",
-          "pubDate": "Thu, 21 Dec 2023 04:59:37 +0000",
-          "dc:creator": "Pavan Belagatti",
+          "creator": "ashish ",
+          "title": "Add password-less OTP based authentication to your Next.js apps using Supabase & Twilio",
+          "link": "https://dev.to/asheeshh/add-password-less-otp-based-authentication-to-your-nextjs-apps-using-supabase-twilio-4na1",
+          "pubDate": "Fri, 22 Dec 2023 06:05:06 +0000",
+          "dc:creator": "ashish ",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/pavanbelagatti/what-is-data-analysis-and-how-can-you-get-started-ndm",
-          "categories": [
-            "database",
-            "datascience",
-            "dataengineering",
-            "analytics"
-          ],
-          "isoDate": "2023-12-21T04:59:37.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Matt Butcher",
-          "title": "Prompt Engineering with Serverless AI",
-          "link": "https://dev.to/technosophos/prompt-engineering-with-serverless-ai-3fmn",
-          "pubDate": "Thu, 21 Dec 2023 02:59:29 +0000",
-          "dc:creator": "Matt Butcher",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/technosophos/prompt-engineering-with-serverless-ai-3fmn",
-          "categories": [
-            "typescript",
-            "programming",
-            "beginners",
-            "ai"
-          ],
-          "isoDate": "2023-12-21T02:59:29.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ryan Glass",
-          "title": "Setting up your first Django Project",
-          "link": "https://dev.to/celestialchips/setting-up-your-first-django-project-35d7",
-          "pubDate": "Thu, 21 Dec 2023 02:17:29 +0000",
-          "dc:creator": "Ryan Glass",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/celestialchips/setting-up-your-first-django-project-35d7",
+          "guid": "https://dev.to/asheeshh/add-password-less-otp-based-authentication-to-your-nextjs-apps-using-supabase-twilio-4na1",
           "categories": [
             "webdev",
-            "tutorial",
-            "programming",
-            "python"
-          ],
-          "isoDate": "2023-12-21T02:17:29.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ranjan Dailata",
-          "title": "State of the Art Prompt Builder with AiConfig",
-          "link": "https://dev.to/ranjancse/state-of-the-art-prompt-builder-with-aiconfig-839",
-          "pubDate": "Thu, 21 Dec 2023 01:55:49 +0000",
-          "dc:creator": "Ranjan Dailata",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/ranjancse/state-of-the-art-prompt-builder-with-aiconfig-839",
-          "categories": [
-            "ai",
-            "programming",
-            "promptengineering",
+            "react",
+            "nextjs",
             "tutorial"
           ],
-          "isoDate": "2023-12-21T01:55:49.000Z",
+          "isoDate": "2023-12-22T06:05:06.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "codewitgabi",
-          "title": "Django Query Expressions F()",
-          "link": "https://dev.to/codewitgabi/django-query-expressions-f-1gp0",
-          "pubDate": "Thu, 21 Dec 2023 01:44:25 +0000",
-          "dc:creator": "codewitgabi",
+          "creator": "Dhruv Joshi",
+          "title": "Angular V17 Update: Top Things You Need to Know",
+          "link": "https://dev.to/dhruvjoshi9/angular-v17-update-top-things-you-need-to-know-15gc",
+          "pubDate": "Fri, 22 Dec 2023 05:12:23 +0000",
+          "dc:creator": "Dhruv Joshi",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/codewitgabi/django-query-expressions-f-1gp0",
+          "guid": "https://dev.to/dhruvjoshi9/angular-v17-update-top-things-you-need-to-know-15gc",
           "categories": [
-            "django",
-            "python",
-            "backend",
-            "backenddevelopment"
-          ],
-          "isoDate": "2023-12-21T01:44:25.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "João Iacillo",
-          "title": "Aprimorando as respostas do ChatGPT com prompts estratégicos",
-          "link": "https://dev.to/joaoiacillo/aprimorando-as-respostas-do-chatgpt-com-prompts-estrategicos-p7d",
-          "pubDate": "Thu, 21 Dec 2023 00:44:40 +0000",
-          "dc:creator": "João Iacillo",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/joaoiacillo/aprimorando-as-respostas-do-chatgpt-com-prompts-estrategicos-p7d",
-          "categories": [
-            "chatgpt",
-            "ai",
-            "tips"
-          ],
-          "isoDate": "2023-12-21T00:44:40.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "tanya rai",
-          "title": "Playground for Generative AI",
-          "link": "https://dev.to/tanyarai/playground-for-generative-ai-40nc",
-          "pubDate": "Thu, 21 Dec 2023 00:06:46 +0000",
-          "dc:creator": "tanya rai",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/tanyarai/playground-for-generative-ai-40nc",
-          "categories": [
-            "beginners",
-            "opensource",
-            "ai",
-            "devops"
-          ],
-          "isoDate": "2023-12-21T00:06:46.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "dev.to staff",
-          "title": "Your 2023 Coding Triumphs: What's Your Proudest Moment?",
-          "link": "https://dev.to/devteam/your-2023-coding-triumphs-whats-your-proudest-moment-3p64",
-          "pubDate": "Thu, 21 Dec 2023 00:00:00 +0000",
-          "dc:creator": "dev.to staff",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/devteam/your-2023-coding-triumphs-whats-your-proudest-moment-3p64",
-          "categories": [
-            "discuss"
-          ],
-          "isoDate": "2023-12-21T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sloan the DEV Moderator",
-          "title": "Tech in Everyday Life: When Did Your Coding Skills Unexpectedly Shine?",
-          "link": "https://dev.to/codenewbieteam/tech-in-everyday-life-when-did-your-coding-skills-unexpectedly-shine-39f8",
-          "pubDate": "Thu, 21 Dec 2023 00:00:00 +0000",
-          "dc:creator": "Sloan the DEV Moderator",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/codenewbieteam/tech-in-everyday-life-when-did-your-coding-skills-unexpectedly-shine-39f8",
-          "categories": [
-            "discuss",
-            "codenewbie",
-            "beginner"
-          ],
-          "isoDate": "2023-12-21T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Hamzat Abdul-muizz",
-          "title": "How Much JavaScript is Enough to Learn ReactJS?",
-          "link": "https://dev.to/canhamzacode/how-much-javascript-is-enough-to-learn-reactjs-24ef",
-          "pubDate": "Wed, 20 Dec 2023 23:40:49 +0000",
-          "dc:creator": "Hamzat Abdul-muizz",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/canhamzacode/how-much-javascript-is-enough-to-learn-reactjs-24ef",
-          "categories": [
-            "webdev",
-            "javascript",
+            "angular",
             "programming",
-            "beginners"
+            "beginners",
+            "webdev"
           ],
-          "isoDate": "2023-12-20T23:40:49.000Z",
+          "isoDate": "2023-12-22T05:12:23.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "yogini16",
+          "title": "Trends in Software Architecture and Design for the year 2023",
+          "link": "https://dev.to/yogini16/trends-in-software-architecture-and-design-for-the-year-2023-3m3k",
+          "pubDate": "Fri, 22 Dec 2023 03:55:43 +0000",
+          "dc:creator": "yogini16",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/yogini16/trends-in-software-architecture-and-design-for-the-year-2023-3m3k",
+          "isoDate": "2023-12-22T03:55:43.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Lee",
+          "title": "I have taken advantage of Excel's functionality to develop a CLI tool to better manage data",
+          "link": "https://dev.to/limingcan562/i-have-taken-advantage-of-excels-functionality-to-develop-a-cli-tool-to-better-manage-data-44o6",
+          "pubDate": "Fri, 22 Dec 2023 02:28:42 +0000",
+          "dc:creator": "Lee",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/limingcan562/i-have-taken-advantage-of-excels-functionality-to-develop-a-cli-tool-to-better-manage-data-44o6",
+          "categories": [
+            "showdev",
+            "tool",
+            "javascript",
+            "productivity"
+          ],
+          "isoDate": "2023-12-22T02:28:42.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sarah Dye",
+          "title": "A Review of IDs, Labelling Bootstrap Buttons, and Commenting Code",
+          "link": "https://dev.to/theoriginalbpc/a-review-of-ids-labelling-bootstrap-buttons-and-commenting-code-2m29",
+          "pubDate": "Fri, 22 Dec 2023 02:27:07 +0000",
+          "dc:creator": "Sarah Dye",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/theoriginalbpc/a-review-of-ids-labelling-bootstrap-buttons-and-commenting-code-2m29",
+          "categories": [
+            "freecodecamp",
+            "bootstrap"
+          ],
+          "isoDate": "2023-12-22T02:27:07.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sarah Dye",
+          "title": "What You Need to Create a jQuery Playground with Bootstrap",
+          "link": "https://dev.to/theoriginalbpc/what-you-need-to-create-a-jquery-playground-with-bootstrap-4ed4",
+          "pubDate": "Fri, 22 Dec 2023 02:26:00 +0000",
+          "dc:creator": "Sarah Dye",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/theoriginalbpc/what-you-need-to-create-a-jquery-playground-with-bootstrap-4ed4",
+          "categories": [
+            "freecodecamp",
+            "bootstrap"
+          ],
+          "isoDate": "2023-12-22T02:26:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sarah Dye",
+          "title": "How to Style Your Website with Bootstrap",
+          "link": "https://dev.to/theoriginalbpc/how-to-style-your-website-with-bootstrap-3dd4",
+          "pubDate": "Fri, 22 Dec 2023 02:24:59 +0000",
+          "dc:creator": "Sarah Dye",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/theoriginalbpc/how-to-style-your-website-with-bootstrap-3dd4",
+          "categories": [
+            "freecodecamp",
+            "bootstrap"
+          ],
+          "isoDate": "2023-12-22T02:24:59.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sarah Dye",
+          "title": "How to Center Text, Build Buttons, and Create Mobile Responsive Images",
+          "link": "https://dev.to/theoriginalbpc/how-to-center-text-build-buttons-and-create-mobile-responsive-images-295",
+          "pubDate": "Fri, 22 Dec 2023 02:23:58 +0000",
+          "dc:creator": "Sarah Dye",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/theoriginalbpc/how-to-center-text-build-buttons-and-create-mobile-responsive-images-295",
+          "categories": [
+            "freecodecamp",
+            "bootstrap"
+          ],
+          "isoDate": "2023-12-22T02:23:58.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Valeria writes docs",
+          "title": "How can I learn to write simpler code?",
+          "link": "https://dev.to/valeriahhdez/how-can-i-learn-to-write-simpler-code-34bb",
+          "pubDate": "Fri, 22 Dec 2023 01:56:10 +0000",
+          "dc:creator": "Valeria writes docs",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/valeriahhdez/how-can-i-learn-to-write-simpler-code-34bb",
+          "categories": [
+            "programming",
+            "beginners",
+            "python",
+            "learning"
+          ],
+          "isoDate": "2023-12-22T01:56:10.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Matt Bacchi",
+          "title": "Bundling Go Lambda Functions with the AWS CDK",
+          "link": "https://dev.to/mbacchi/bundling-go-lambda-functions-with-the-aws-cdk-4gee",
+          "pubDate": "Fri, 22 Dec 2023 01:38:03 +0000",
+          "dc:creator": "Matt Bacchi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/mbacchi/bundling-go-lambda-functions-with-the-aws-cdk-4gee",
+          "categories": [
+            "aws",
+            "cdk",
+            "lambda",
+            "go"
+          ],
+          "isoDate": "2023-12-22T01:38:03.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""

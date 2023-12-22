@@ -11,7 +11,7 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "dc:creator": "David Walsh",
-          "comments": "https://davidwalsh.name/autogrow-textareas#respond",
+          "comments": "https://davidwalsh.name/autogrow-textareas#comments",
           "content": "",
           "contentSnippet": "",
           "guid": "https://davidwalsh.name/?p=27796",
@@ -112,6 +112,18 @@
     "JavaScript Weekly": {
       "items": [
         {
+          "title": "Reflecting on a big year for JavaScript",
+          "link": "https://javascriptweekly.com/issues/668",
+          "pubDate": "Thu, 21 Dec 2023 00:00:00 +0000",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://javascriptweekly.com/issues/668",
+          "isoDate": "2023-12-21T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "JS Runtime Royale",
           "link": "https://javascriptweekly.com/issues/667",
           "pubDate": "Thu, 14 Dec 2023 00:00:00 +0000",
@@ -146,18 +158,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "The unbearable weight of massive JavaScript",
-          "link": "https://javascriptweekly.com/issues/664",
-          "pubDate": "Thu, 23 Nov 2023 00:00:00 +0000",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://javascriptweekly.com/issues/664",
-          "isoDate": "2023-11-23T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "title": "JavaScript Weekly",
@@ -166,6 +166,66 @@
     },
     "Flavio Copes": {
       "items": [
+        {
+          "title": "How to implement file upload with drag and drop in vanilla JS",
+          "link": "https://flaviocopes.com/how-to-implement-file-upload-with-drag-and-drop-in-vanilla-js",
+          "pubDate": "Thu, 21 Dec 2023 05:00:00 GMT",
+          "guid": "https://flaviocopes.com/how-to-implement-file-upload-with-drag-and-drop-in-vanilla-js",
+          "isoDate": "2023-12-21T05:00:00.000Z",
+          "content": "",
+          "content:encoded": "",
+          "contentSnippet": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "How to implement file upload with drag and drop with Alpine",
+          "link": "https://flaviocopes.com/how-to-implement-file-upload-with-drag-and-drop-with-alpine",
+          "pubDate": "Thu, 21 Dec 2023 05:00:00 GMT",
+          "guid": "https://flaviocopes.com/how-to-implement-file-upload-with-drag-and-drop-with-alpine",
+          "isoDate": "2023-12-21T05:00:00.000Z",
+          "content": "",
+          "content:encoded": "",
+          "contentSnippet": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "htmx, include hidden input fields outside of a form",
+          "link": "https://flaviocopes.com/htmx-include-hidden-input-fields-outside-of-a-form",
+          "pubDate": "Thu, 21 Dec 2023 05:00:00 GMT",
+          "guid": "https://flaviocopes.com/htmx-include-hidden-input-fields-outside-of-a-form",
+          "isoDate": "2023-12-21T05:00:00.000Z",
+          "content": "",
+          "content:encoded": "",
+          "contentSnippet": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "htmx send files using htmx.ajax() call",
+          "link": "https://flaviocopes.com/htmx-send-files-using-htmxajax-call",
+          "pubDate": "Thu, 21 Dec 2023 05:00:00 GMT",
+          "guid": "https://flaviocopes.com/htmx-send-files-using-htmxajax-call",
+          "isoDate": "2023-12-21T05:00:00.000Z",
+          "content": "",
+          "content:encoded": "",
+          "contentSnippet": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "TypeScript declare a type that can be a string or array of strings",
+          "link": "https://flaviocopes.com/typescript-declare-a-type-that-can-be-a-string-or-array-of-strings",
+          "pubDate": "Thu, 21 Dec 2023 05:00:00 GMT",
+          "guid": "https://flaviocopes.com/typescript-declare-a-type-that-can-be-a-string-or-array-of-strings",
+          "isoDate": "2023-12-21T05:00:00.000Z",
+          "content": "",
+          "content:encoded": "",
+          "contentSnippet": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "Cookie not being set in Safari",
           "link": "https://flaviocopes.com/cookie-not-being-set-in-safari",
@@ -184,42 +244,6 @@
           "pubDate": "Wed, 20 Dec 2023 05:00:00 GMT",
           "guid": "https://flaviocopes.com/htmx-forms-and-astro-view-transitions",
           "isoDate": "2023-12-20T05:00:00.000Z",
-          "content": "",
-          "content:encoded": "",
-          "contentSnippet": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "How to disable 1Password in an input field",
-          "link": "https://flaviocopes.com/how-to-disable-1password-in-an-input-field",
-          "pubDate": "Fri, 15 Dec 2023 05:00:00 GMT",
-          "guid": "https://flaviocopes.com/how-to-disable-1password-in-an-input-field",
-          "isoDate": "2023-12-15T05:00:00.000Z",
-          "content": "",
-          "content:encoded": "",
-          "contentSnippet": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "htmx + Alpine template tag",
-          "link": "https://flaviocopes.com/htmx-alpine-template-tag",
-          "pubDate": "Fri, 15 Dec 2023 05:00:00 GMT",
-          "guid": "https://flaviocopes.com/htmx-alpine-template-tag",
-          "isoDate": "2023-12-15T05:00:00.000Z",
-          "content": "",
-          "content:encoded": "",
-          "contentSnippet": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Set custom cookie in the header and then redirect in Astro",
-          "link": "https://flaviocopes.com/set-custom-cookie-in-the-header-and-then-redirect-in-astro",
-          "pubDate": "Wed, 13 Dec 2023 05:00:00 GMT",
-          "guid": "https://flaviocopes.com/set-custom-cookie-in-the-header-and-then-redirect-in-astro",
-          "isoDate": "2023-12-13T05:00:00.000Z",
           "content": "",
           "content:encoded": "",
           "contentSnippet": "",
