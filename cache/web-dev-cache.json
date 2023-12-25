@@ -102,7 +102,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sun, 24 Dec 2023 05:02:21 GMT"
+      "lastBuildDate": "Mon, 25 Dec 2023 05:02:05 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -425,11 +425,37 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2023, Smashing Media AG",
-      "lastBuildDate": "Sun, 24 Dec 2023 06:35:18 GMT",
+      "lastBuildDate": "Mon, 25 Dec 2023 06:34:52 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "Frontend Rewind 2023 – Day 24",
+          "link": "https://tympanus.net/codrops/2023/12/24/frontend-rewind-2023-day-24/",
+          "pubDate": "Sun, 24 Dec 2023 16:21:22 +0000",
+          "enclosure": {
+            "url": "https://cdn.dribbble.com/userupload/7025630/file/original-3ba4eb41b148ae463a59cb26d8ce5b24.mp4",
+            "length": "20544387",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=75133",
+          "categories": [
+            "Articles",
+            "advent-calendar",
+            "frontend-rewind-2023",
+            "inspiration",
+            "roundup"
+          ],
+          "isoDate": "2023-12-24T16:21:22.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Manoela Ilic",
           "title": "UI Interactions & Animations Roundup #39",
@@ -633,32 +659,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "Frontend Rewind 2023 – Day 18",
-          "link": "https://tympanus.net/codrops/2023/12/18/frontend-rewind-2023-day-18/",
-          "pubDate": "Mon, 18 Dec 2023 12:02:35 +0000",
-          "enclosure": {
-            "url": "https://cdn.dribbble.com/userupload/9493963/file/original-9eabd17984cf774ce3c9430e4013d591.mp4",
-            "length": "18341154",
-            "type": "video/mp4"
-          },
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=75021",
-          "categories": [
-            "Articles",
-            "advent-calendar",
-            "frontend-rewind-2023",
-            "inspiration",
-            "roundup"
-          ],
-          "isoDate": "2023-12-18T12:02:35.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -670,10 +670,80 @@
       "generator": "https://wordpress.org/?v=6.3.2",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Sat, 23 Dec 2023 17:58:32 +0000"
+      "lastBuildDate": "Sun, 24 Dec 2023 16:21:23 +0000"
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Denis Magda",
+          "title": "PostgreSQL as a Vector Database: Getting Started and Scaling",
+          "link": "https://dzone.com/articles/postgresql-vector-database",
+          "pubDate": "Mon, 25 Dec 2023 06:44:42 GMT",
+          "dc:creator": "Denis Magda",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3414078",
+          "isoDate": "2023-12-25T06:44:42.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Nicolas Fränkel",
+          "title": "Five Apache Projects You Probably Didn’t Know About",
+          "link": "https://dzone.com/articles/five-apache-projects-you-probably-didnt-know-about",
+          "pubDate": "Mon, 25 Dec 2023 05:07:51 GMT",
+          "dc:creator": "Nicolas Fränkel",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3410719",
+          "isoDate": "2023-12-25T05:07:51.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Anandaganesh Balakrishnan",
+          "title": "Optimization of I/O Workloads by Profiling in Python",
+          "link": "https://dzone.com/articles/optimization-of-io-workloads-by-profiling-in-pytho",
+          "pubDate": "Sun, 24 Dec 2023 08:02:14 GMT",
+          "dc:creator": "Anandaganesh Balakrishnan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3414104",
+          "isoDate": "2023-12-24T08:02:14.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "BK Bhate",
+          "title": "Navigating the Technological Landscape of FinTech",
+          "link": "https://dzone.com/articles/navigating-the-technological-landscape-of-fintech",
+          "pubDate": "Sun, 24 Dec 2023 07:38:44 GMT",
+          "dc:creator": "BK Bhate",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3415031",
+          "isoDate": "2023-12-24T07:38:44.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Andrei Tuchin",
+          "title": "Composing Custom Annotations in Spring",
+          "link": "https://dzone.com/articles/composing-custom-annotations-in-spring",
+          "pubDate": "Sun, 24 Dec 2023 07:26:00 GMT",
+          "dc:creator": "Andrei Tuchin",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3415051",
+          "isoDate": "2023-12-24T07:26:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Mario Casari",
           "title": "REST Clients With OpenFeign: How to Implement Them",
@@ -703,11 +773,11 @@
           "summary": ""
         },
         {
-          "creator": "Venkata Gorantla",
+          "creator": "Ashok Gorantla",
           "title": "Extending Q-Learning With Dyna-Q for Enhanced Decision-Making",
           "link": "https://dzone.com/articles/extending-q-learning-with-dyna-q",
           "pubDate": "Fri, 22 Dec 2023 19:42:01 GMT",
-          "dc:creator": "Venkata Gorantla",
+          "dc:creator": "Ashok Gorantla",
           "content": "",
           "contentSnippet": "",
           "guid": "https://dzone.com/articles/3414971",
@@ -743,76 +813,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Tom Smith",
-          "title": "Navigating the Tech Landscape: Reflections on 2023 and Predictions for 2024",
-          "link": "https://dzone.com/articles/navigating-the-tech-landscape-reflections-on-2023",
-          "pubDate": "Fri, 22 Dec 2023 19:03:35 GMT",
-          "dc:creator": "Tom Smith",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3415012",
-          "isoDate": "2023-12-22T19:03:35.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Knut Sveidqvist",
-          "title": "AI Is Transforming How We Use Software Diagrams",
-          "link": "https://dzone.com/articles/ai-is-transforming-how-we-use-software-diagrams",
-          "pubDate": "Fri, 22 Dec 2023 17:45:40 GMT",
-          "dc:creator": "Knut Sveidqvist",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3408279",
-          "isoDate": "2023-12-22T17:45:40.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Gunter Rotsaert",
-          "title": "Running LLMs Locally: A Step-by-Step Guide",
-          "link": "https://dzone.com/articles/running-llms-locally-a-step-by-step-guide",
-          "pubDate": "Fri, 22 Dec 2023 17:18:25 GMT",
-          "dc:creator": "Gunter Rotsaert",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3410718",
-          "isoDate": "2023-12-22T17:18:25.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ayush Thakur",
-          "title": "How To Create Your Own AI Bot Like ChatGPT and Monetize It",
-          "link": "https://dzone.com/articles/how-to-create-your-own-ai-bot-like-chatgpt-and-mon",
-          "pubDate": "Fri, 22 Dec 2023 15:33:58 GMT",
-          "dc:creator": "Ayush Thakur",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3415025",
-          "isoDate": "2023-12-22T15:33:58.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Irene Fatyanova",
-          "title": "The Art of Coding and Programming in Integrated Circuit Chips",
-          "link": "https://dzone.com/articles/the-art-of-coding-and-programming-in-integrated-ci",
-          "pubDate": "Fri, 22 Dec 2023 15:27:52 GMT",
-          "dc:creator": "Irene Fatyanova",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3414099",
-          "isoDate": "2023-12-22T15:27:52.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -825,6 +825,26 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Andrei Kvapil",
+          "title": "Restic: Effective Backup from Stdin",
+          "link": "https://itnext.io/restic-effective-backup-from-stdin-4bc1e8f083c1?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 24 Dec 2023 19:35:38 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Andrei Kvapil",
+          "guid": "https://medium.com/p/4bc1e8f083c1",
+          "categories": [
+            "backup",
+            "kubernetes",
+            "restic",
+            "linux"
+          ],
+          "isoDate": "2023-12-24T19:35:38.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Ilir Beqiri",
           "title": "OnPush and Signals: Local Change Detection in Angular 17",
@@ -1009,27 +1029,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Ilir Beqiri",
-          "title": "Declarative Loop Control Flow in Angular 17",
-          "link": "https://itnext.io/declarative-loop-control-flow-in-angular-17-e48af8570f82?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 21 Dec 2023 17:17:06 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Ilir Beqiri",
-          "guid": "https://medium.com/p/e48af8570f82",
-          "categories": [
-            "typescript",
-            "angular",
-            "javascript",
-            "front-end-development",
-            "web-development"
-          ],
-          "isoDate": "2023-12-21T17:17:06.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -1046,191 +1045,194 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sun, 24 Dec 2023 06:52:37 GMT"
+      "lastBuildDate": "Mon, 25 Dec 2023 07:05:23 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Vinish Kapoor",
-          "title": "Remove Duplicate CSS Online Tool",
-          "link": "https://dev.to/foxinfotech/remove-duplicate-css-online-tool-7bp",
-          "pubDate": "Sun, 24 Dec 2023 05:25:15 +0000",
-          "dc:creator": "Vinish Kapoor",
+          "creator": "Asif Patel",
+          "title": "PDF generation in Laravel",
+          "link": "https://dev.to/mazimez/pdf-generation-in-laravel-127d",
+          "pubDate": "Mon, 25 Dec 2023 06:41:13 +0000",
+          "dc:creator": "Asif Patel",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/foxinfotech/remove-duplicate-css-online-tool-7bp",
+          "guid": "https://dev.to/mazimez/pdf-generation-in-laravel-127d",
           "categories": [
-            "webdev",
-            "showdev",
-            "tooling",
-            "css"
+            "laravel",
+            "tutorial",
+            "php",
+            "programming"
           ],
-          "isoDate": "2023-12-24T05:25:15.000Z",
+          "isoDate": "2023-12-25T06:41:13.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "NDONGO TONUX SAMB",
-          "title": "JavaScript est un Langage de Programmation",
-          "link": "https://dev.to/tonux_samb/javascript-est-un-langage-de-programmation-5fk5",
-          "pubDate": "Sun, 24 Dec 2023 04:19:46 +0000",
-          "dc:creator": "NDONGO TONUX SAMB",
+          "creator": "Habibur Rahman Shihab",
+          "title": "Digital Image Processing Notes",
+          "link": "https://dev.to/hrshihab/digital-image-processing-notes-851",
+          "pubDate": "Mon, 25 Dec 2023 01:28:24 +0000",
+          "dc:creator": "Habibur Rahman Shihab",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/tonux_samb/javascript-est-un-langage-de-programmation-5fk5",
+          "guid": "https://dev.to/hrshihab/digital-image-processing-notes-851",
           "categories": [
-            "javascript",
-            "programmation"
+            "image",
+            "core",
+            "digitalimageprocessing",
+            "tutorial"
           ],
-          "isoDate": "2023-12-24T04:19:46.000Z",
+          "isoDate": "2023-12-25T01:28:24.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Neviar Rawlinson",
-          "title": "Breaking Into Cybersecurity Without Experience or a Degree: A Practical Guide",
-          "link": "https://dev.to/neviarrawlinson/breaking-into-cybersecurity-without-experience-or-a-degree-a-practical-guide-23oi",
-          "pubDate": "Sun, 24 Dec 2023 02:54:57 +0000",
-          "dc:creator": "Neviar Rawlinson",
+          "creator": "Habibur Rahman Shihab",
+          "title": "Computer Network Notes",
+          "link": "https://dev.to/hrshihab/computer-network-notes-2ihn",
+          "pubDate": "Mon, 25 Dec 2023 01:22:37 +0000",
+          "dc:creator": "Habibur Rahman Shihab",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/neviarrawlinson/breaking-into-cybersecurity-without-experience-or-a-degree-a-practical-guide-23oi",
-          "isoDate": "2023-12-24T02:54:57.000Z",
+          "guid": "https://dev.to/hrshihab/computer-network-notes-2ihn",
+          "categories": [
+            "network",
+            "networking",
+            "security",
+            "notion"
+          ],
+          "isoDate": "2023-12-25T01:22:37.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Director ",
-          "title": "Areon's network hackathon",
-          "link": "https://dev.to/directorjohnny/areons-network-hackathon-3e92",
-          "pubDate": "Sun, 24 Dec 2023 02:47:39 +0000",
-          "dc:creator": "Director ",
+          "creator": "Sardar Mudassar Ali Khan",
+          "title": "Mastering SOLID Principles in C# Building Robust and Maintainable Software",
+          "link": "https://dev.to/sardarmudassaralikhan/mastering-solid-principles-in-c-building-robust-and-maintainable-software-1mgo",
+          "pubDate": "Mon, 25 Dec 2023 00:01:58 +0000",
+          "dc:creator": "Sardar Mudassar Ali Khan",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/directorjohnny/areons-network-hackathon-3e92",
+          "guid": "https://dev.to/sardarmudassaralikhan/mastering-solid-principles-in-c-building-robust-and-maintainable-software-1mgo",
           "categories": [
-            "webdev",
-            "web",
-            "web3",
-            "blockchain"
+            "software",
+            "softwaredevelopment",
+            "architecture",
+            "designpatterns"
           ],
-          "isoDate": "2023-12-24T02:47:39.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Tharun Balaji R",
-          "title": "Android DevOps CI/CD Pipeline Architecture 📲⚙️",
-          "link": "https://dev.to/tharunbalaji31/android-devops-cicd-pipeline-architecture-4ma8",
-          "pubDate": "Sun, 24 Dec 2023 02:22:30 +0000",
-          "dc:creator": "Tharun Balaji R",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/tharunbalaji31/android-devops-cicd-pipeline-architecture-4ma8",
-          "categories": [
-            "android",
-            "kotlin",
-            "githubactions",
-            "devops"
-          ],
-          "isoDate": "2023-12-24T02:22:30.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Edibless",
-          "title": "AREON POST HACKATHON",
-          "link": "https://dev.to/ediboy/areon-post-hackathon-575l",
-          "pubDate": "Sun, 24 Dec 2023 01:35:36 +0000",
-          "dc:creator": "Edibless",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/ediboy/areon-post-hackathon-575l",
-          "categories": [
-            "hackathon"
-          ],
-          "isoDate": "2023-12-24T01:35:36.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Director ",
-          "title": "Areon's hackathon project",
-          "link": "https://dev.to/directorjohnny/areons-hackathon-project-2iln",
-          "pubDate": "Sun, 24 Dec 2023 00:59:23 +0000",
-          "dc:creator": "Director ",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/directorjohnny/areons-hackathon-project-2iln",
-          "categories": [
-            "webdev",
-            "web3",
-            "blockchain",
-            "cryptocurrency"
-          ],
-          "isoDate": "2023-12-24T00:59:23.000Z",
+          "isoDate": "2023-12-25T00:01:58.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
           "creator": "dev.to staff",
-          "title": "Coding Growth 2023: Share Your Milestones and Learnings",
-          "link": "https://dev.to/devteam/coding-growth-2023-share-your-milestones-and-learnings-27la",
-          "pubDate": "Sun, 24 Dec 2023 00:00:00 +0000",
+          "title": "Coding Challenges 2024: What's Your New Year's Resolution?",
+          "link": "https://dev.to/devteam/coding-challenges-2024-whats-your-new-years-resolution-4228",
+          "pubDate": "Mon, 25 Dec 2023 00:00:00 +0000",
           "dc:creator": "dev.to staff",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devteam/coding-growth-2023-share-your-milestones-and-learnings-27la",
+          "guid": "https://dev.to/devteam/coding-challenges-2024-whats-your-new-years-resolution-4228",
           "categories": [
             "discuss"
           ],
-          "isoDate": "2023-12-24T00:00:00.000Z",
+          "isoDate": "2023-12-25T00:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sloan the DEV Moderator",
-          "title": "Tech Predictions Recap: How Accurate Were Past Predictions? 🔮🤔",
-          "link": "https://dev.to/codenewbieteam/tech-predictions-recap-how-accurate-were-past-predictions-5b90",
-          "pubDate": "Sun, 24 Dec 2023 00:00:00 +0000",
-          "dc:creator": "Sloan the DEV Moderator",
+          "creator": "Diona Rodrigues",
+          "title": "Retrospective 2023",
+          "link": "https://dev.to/dionarodrigues/retrospective-2023-387h",
+          "pubDate": "Sun, 24 Dec 2023 22:46:05 +0000",
+          "dc:creator": "Diona Rodrigues",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/codenewbieteam/tech-predictions-recap-how-accurate-were-past-predictions-5b90",
-          "categories": [
-            "discuss",
-            "codenewbie",
-            "beginner"
-          ],
-          "isoDate": "2023-12-24T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "alakkadshaw",
-          "title": "Twilio TURN Server Alternative",
-          "link": "https://dev.to/alakkadshaw/twilio-turn-server-alternative-290m",
-          "pubDate": "Sat, 23 Dec 2023 20:53:45 +0000",
-          "dc:creator": "alakkadshaw",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/alakkadshaw/twilio-turn-server-alternative-290m",
+          "guid": "https://dev.to/dionarodrigues/retrospective-2023-387h",
           "categories": [
             "webdev",
             "javascript",
-            "webrtc",
-            "programming"
+            "career",
+            "react"
           ],
-          "isoDate": "2023-12-23T20:53:45.000Z",
+          "isoDate": "2023-12-24T22:46:05.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "OpenSourcee",
+          "title": "Happy celebrations! Enjoy with your loved ones ❤️",
+          "link": "https://dev.to/opensourcee/happy-celebrations-enjoy-with-your-loved-ones-4pd8",
+          "pubDate": "Sun, 24 Dec 2023 22:25:20 +0000",
+          "dc:creator": "OpenSourcee",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/opensourcee/happy-celebrations-enjoy-with-your-loved-ones-4pd8",
+          "isoDate": "2023-12-24T22:25:20.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Max Sveshnikov",
+          "title": "Connecting to AWS Bedrock and Claude 2.1",
+          "link": "https://dev.to/msveshnikov/building-a-conversational-ai-interface-with-aws-bedrock-and-claude-21-4lc2",
+          "pubDate": "Sun, 24 Dec 2023 21:59:19 +0000",
+          "dc:creator": "Max Sveshnikov",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/msveshnikov/building-a-conversational-ai-interface-with-aws-bedrock-and-claude-21-4lc2",
+          "categories": [
+            "ai"
+          ],
+          "isoDate": "2023-12-24T21:59:19.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Valeria",
+          "title": "Project Twenty Four: CRUD",
+          "link": "https://dev.to/valeriavg/project-twenty-four-crud-df7",
+          "pubDate": "Sun, 24 Dec 2023 21:08:08 +0000",
+          "dc:creator": "Valeria",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/valeriavg/project-twenty-four-crud-df7",
+          "categories": [
+            "webdev",
+            "beginners",
+            "challenge",
+            "codingquokka"
+          ],
+          "isoDate": "2023-12-24T21:08:08.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Aarvin R.",
+          "title": "JavaScript Just Changed Forever",
+          "link": "https://dev.to/aarvinr/javascript-just-changed-forever-with-bun-bpj",
+          "pubDate": "Sun, 24 Dec 2023 20:21:23 +0000",
+          "dc:creator": "Aarvin R.",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/aarvinr/javascript-just-changed-forever-with-bun-bpj",
+          "categories": [
+            "webdev",
+            "javascript",
+            "node",
+            "bunjs"
+          ],
+          "isoDate": "2023-12-24T20:21:23.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
