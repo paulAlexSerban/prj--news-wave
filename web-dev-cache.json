@@ -105,7 +105,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Mon, 01 Jan 2024 05:02:01 GMT"
+      "lastBuildDate": "Tue, 02 Jan 2024 05:42:33 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -313,6 +313,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Cosima Mielke)",
+          "title": "The Magic Of New Beginnings (January 2024 Wallpapers Edition)",
+          "link": "https://smashingmagazine.com/2023/12/desktop-wallpaper-calendars-january-2024/",
+          "pubDate": "Sun, 31 Dec 2023 08:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-january-2024/jan-23-bird-bird-bird-bird-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2023/12/desktop-wallpaper-calendars-january-2024/",
+          "isoDate": "2023-12-31T08:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
           "title": "Making Sense Of “Senseless” JavaScript Features",
           "link": "https://smashingmagazine.com/2023/12/making-sense-of-senseless-javascript-features/",
@@ -387,25 +406,6 @@
           "guid": "https://smashingmagazine.com/2023/12/building-components-consumption-not-complexity-part2/",
           "isoDate": "2023-12-18T15:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Brecht De Ruyte)",
-          "title": "CSS Scroll Snapping Aligned With Global Page Layout: A Full-Width Slider Case Study",
-          "link": "https://smashingmagazine.com/2023/12/css-scroll-snapping-aligned-global-page-layout-case-study/",
-          "pubDate": "Wed, 13 Dec 2023 10:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/css-scroll-snapping-aligned-global-page-layout-case-study/css-scroll-snapping-aligned-global-page-layout-case-study.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2023/12/css-scroll-snapping-aligned-global-page-layout-case-study/",
-          "isoDate": "2023-12-13T10:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -423,7 +423,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Mon, 01 Jan 2024 06:35:11 GMT",
+      "lastBuildDate": "Tue, 02 Jan 2024 06:36:35 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -554,6 +554,34 @@
     "DZone": {
       "items": [
         {
+          "creator": "Stelios Manioudakis",
+          "title": "Fuzzing in Software Engineering",
+          "link": "https://dzone.com/articles/fuzzing-in-software-test-engineering",
+          "pubDate": "Mon, 01 Jan 2024 21:47:50 GMT",
+          "dc:creator": "Stelios Manioudakis",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3414262",
+          "isoDate": "2024-01-01T21:47:50.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mitesh Mangaonkar",
+          "title": "Unlocking the Secrets of Data Privacy: Navigating the World of Data Anonymization, Part 1",
+          "link": "https://dzone.com/articles/unlocking-the-secrets-of-data-privacy-navigating-t",
+          "pubDate": "Mon, 01 Jan 2024 21:15:37 GMT",
+          "dc:creator": "Mitesh Mangaonkar",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3414261",
+          "isoDate": "2024-01-01T21:15:37.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Sameer Shukla",
           "title": "Enhancing Code Clarity With Python Namedtuples",
           "link": "https://dzone.com/articles/enhancing-code-clarity-with-python-namedtuples",
@@ -664,34 +692,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Sameer Shukla",
-          "title": "Python Context Managers Simplified",
-          "link": "https://dzone.com/articles/python-context-managers-simplified",
-          "pubDate": "Fri, 29 Dec 2023 19:44:05 GMT",
-          "dc:creator": "Sameer Shukla",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3414180",
-          "isoDate": "2023-12-29T19:44:05.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Miguel Angel Cabrera",
-          "title": "Create a Complete Computer Vision App in Minutes With Just Two Python Functions",
-          "link": "https://dzone.com/articles/creating-a-complete-computer-vision-application-in",
-          "pubDate": "Fri, 29 Dec 2023 19:15:37 GMT",
-          "dc:creator": "Miguel Angel Cabrera",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3415142",
-          "isoDate": "2023-12-29T19:15:37.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -704,6 +704,44 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Jacob Ferus",
+          "title": "10 Apps/Tools I Created in 2023",
+          "link": "https://itnext.io/10-apps-tools-i-created-in-2023-ad31ba085662?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 01 Jan 2024 17:44:15 GMT",
+          "dc:creator": "Jacob Ferus",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/ad31ba085662",
+          "categories": [
+            "programming",
+            "software-engineering",
+            "technology",
+            "software-development",
+            "artificial-intelligence"
+          ],
+          "isoDate": "2024-01-01T17:44:15.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mohammad-Ali A'RÂBI",
+          "title": "How to Become a Docker Captain",
+          "link": "https://itnext.io/how-to-become-a-docker-captain-84fab48e5f8b?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 01 Jan 2024 10:09:32 GMT",
+          "dc:creator": "Mohammad-Ali A'RÂBI",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/84fab48e5f8b",
+          "categories": [
+            "docker"
+          ],
+          "isoDate": "2024-01-01T10:09:32.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Ruslan Alikhamov",
           "title": "How to Debug Swift Compiler: Part 3 — Die Hard or Debug Swift on Ubuntu",
@@ -869,48 +907,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Erxk",
-          "title": "Boost Productivity with Git Worktrees",
-          "link": "https://itnext.io/boost-productivity-with-git-worktrees-d78629eab544?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 27 Dec 2023 12:42:10 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Erxk",
-          "guid": "https://medium.com/p/d78629eab544",
-          "categories": [
-            "open-source",
-            "software-development",
-            "productivity",
-            "linux",
-            "git"
-          ],
-          "isoDate": "2023-12-27T12:42:10.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Giuseppe Santoro",
-          "title": "Enhancing Software Design with Diagrams as Code",
-          "link": "https://itnext.io/enhancing-software-design-with-diagrams-as-code-e17636a73912?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 27 Dec 2023 00:05:45 GMT",
-          "dc:creator": "Giuseppe Santoro",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/e17636a73912",
-          "categories": [
-            "system-design-interview",
-            "diagrams",
-            "aws",
-            "cloud-computing",
-            "uml-diagrams"
-          ],
-          "isoDate": "2023-12-27T00:05:45.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -927,187 +923,176 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Mon, 01 Jan 2024 07:00:36 GMT"
+      "lastBuildDate": "Tue, 02 Jan 2024 06:58:05 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Omama Aslam",
-          "title": "Object-Oriented Programming Concepts in Angular (OOP Paradigm)",
-          "link": "https://dev.to/omamaaslam/object-oriented-programming-concepts-in-angular-oop-paradigm-m9n",
-          "pubDate": "Mon, 01 Jan 2024 06:05:15 +0000",
-          "dc:creator": "Omama Aslam",
+          "creator": "CloudDefense.AI",
+          "title": "HIPAA Compliance Checklist: Key to Expediting HIPAA",
+          "link": "https://dev.to/clouddefenseai/hipaa-compliance-checklist-key-to-expediting-hipaa-34kh",
+          "pubDate": "Tue, 02 Jan 2024 05:43:26 +0000",
+          "dc:creator": "CloudDefense.AI",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/omamaaslam/object-oriented-programming-concepts-in-angular-oop-paradigm-m9n",
-          "categories": [
-            "objectorientedprogramming",
-            "abstraction",
-            "oopconcept",
-            "angularprogramming"
-          ],
-          "isoDate": "2024-01-01T06:05:15.000Z",
+          "guid": "https://dev.to/clouddefenseai/hipaa-compliance-checklist-key-to-expediting-hipaa-34kh",
+          "isoDate": "2024-01-02T05:43:26.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "tahsinsoyak",
-          "title": "Django ORM Kullanımı Üzerine Temel Bilgiler",
-          "link": "https://dev.to/tahsinsoyak/django-orm-kullanimi-uzerine-temel-bilgiler-4a7k",
-          "pubDate": "Mon, 01 Jan 2024 06:05:00 +0000",
-          "dc:creator": "tahsinsoyak",
+          "creator": "Pramod Kumar",
+          "title": "Cloud Computing Market Growth 2023: Optimizing Operations Worldwide",
+          "link": "https://dev.to/pkp9/cloud-computing-market-growth-2023-optimizing-operations-worldwide-1fh3",
+          "pubDate": "Tue, 02 Jan 2024 05:40:16 +0000",
+          "dc:creator": "Pramod Kumar",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/tahsinsoyak/django-orm-kullanimi-uzerine-temel-bilgiler-4a7k",
+          "guid": "https://dev.to/pkp9/cloud-computing-market-growth-2023-optimizing-operations-worldwide-1fh3",
+          "isoDate": "2024-01-02T05:40:16.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ajay",
+          "title": "IoT and Its Impact on IT Networking",
+          "link": "https://dev.to/ajaytie/iot-and-its-impact-on-it-networking-3l8k",
+          "pubDate": "Tue, 02 Jan 2024 05:39:42 +0000",
+          "dc:creator": "Ajay",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/ajaytie/iot-and-its-impact-on-it-networking-3l8k",
           "categories": [
+            "iot",
+            "it",
+            "networking"
+          ],
+          "isoDate": "2024-01-02T05:39:42.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mark",
+          "title": "Top Signs Your E-commerce Store Needs Professional Magento Support Services",
+          "link": "https://dev.to/markdenial/top-signs-your-e-commerce-store-needs-professional-magento-support-services-4pd7",
+          "pubDate": "Tue, 02 Jan 2024 05:19:55 +0000",
+          "dc:creator": "Mark",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/markdenial/top-signs-your-e-commerce-store-needs-professional-magento-support-services-4pd7",
+          "isoDate": "2024-01-02T05:19:55.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Willian Menezes",
+          "title": "Entendendo o que são middlewares em uma aplicação ASP.NET",
+          "link": "https://dev.to/wmscode/entendendo-o-que-sao-middlewares-em-uma-aplicacao-aspnet-5gm0",
+          "pubDate": "Tue, 02 Jan 2024 05:19:35 +0000",
+          "dc:creator": "Willian Menezes",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/wmscode/entendendo-o-que-sao-middlewares-em-uma-aplicacao-aspnet-5gm0",
+          "isoDate": "2024-01-02T05:19:35.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Frank Lucas",
+          "title": "Harnessing the Power of Dynamics 365 for Sales: A Step-by-Step Implementation Guide",
+          "link": "https://dev.to/alphaboldtech/harnessing-the-power-of-dynamics-365-for-sales-a-step-by-step-implementation-guide-48do",
+          "pubDate": "Tue, 02 Jan 2024 05:15:16 +0000",
+          "dc:creator": "Frank Lucas",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/alphaboldtech/harnessing-the-power-of-dynamics-365-for-sales-a-step-by-step-implementation-guide-48do",
+          "categories": [
+            "dynamics365",
+            "microsoft"
+          ],
+          "isoDate": "2024-01-02T05:15:16.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Rishi Raj Jain",
+          "title": "SEO Optimization for Client Side Rendered Next.js Apps",
+          "link": "https://dev.to/reeshee/seo-optimization-for-client-side-rendered-nextjs-apps-25l5",
+          "pubDate": "Tue, 02 Jan 2024 05:11:23 +0000",
+          "dc:creator": "Rishi Raj Jain",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/reeshee/seo-optimization-for-client-side-rendered-nextjs-apps-25l5",
+          "categories": [
+            "javascript",
             "webdev",
-            "django",
-            "python",
-            "programming"
+            "beginners",
+            "tutorial"
           ],
-          "isoDate": "2024-01-01T06:05:00.000Z",
+          "isoDate": "2024-01-02T05:11:23.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "John Smith",
-          "title": "\"Optimized Connection: Enhance Your Communication with the Power of Contact Form 7 and Zoho Integration\"",
-          "link": "https://dev.to/johnsmith244303/optimized-connection-enhance-your-communication-with-the-power-of-contact-form-7-and-zoho-integration-526j",
-          "pubDate": "Mon, 01 Jan 2024 06:03:04 +0000",
-          "dc:creator": "John Smith",
+          "creator": "Ahmed Attia",
+          "title": "Beyond the Mug: Exploring the First Decade of AWS Transformation",
+          "link": "https://dev.to/ahmedattia/beyond-the-mug-exploring-the-first-decade-of-aws-transformation-1gc0",
+          "pubDate": "Tue, 02 Jan 2024 04:13:01 +0000",
+          "dc:creator": "Ahmed Attia",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/johnsmith244303/optimized-connection-enhance-your-communication-with-the-power-of-contact-form-7-and-zoho-integration-526j",
-          "isoDate": "2024-01-01T06:03:04.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Kedar Kodgire",
-          "title": "What is Master Data Management (MDM)",
-          "link": "https://dev.to/kedark/what-is-master-data-management-mdm-2mae",
-          "pubDate": "Mon, 01 Jan 2024 05:51:02 +0000",
-          "dc:creator": "Kedar Kodgire",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/kedark/what-is-master-data-management-mdm-2mae",
-          "categories": [
-            "data",
-            "database",
-            "datascience",
-            "analytics"
-          ],
-          "isoDate": "2024-01-01T05:51:02.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "suyog",
-          "title": "Harmony Within: Sacred Pathways to Spiritual Healing Services.",
-          "link": "https://dev.to/suyoug94/harmony-within-sacred-pathways-to-spiritual-healing-services-n7",
-          "pubDate": "Mon, 01 Jan 2024 05:46:20 +0000",
-          "dc:creator": "suyog",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/suyoug94/harmony-within-sacred-pathways-to-spiritual-healing-services-n7",
-          "isoDate": "2024-01-01T05:46:20.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Robina",
-          "title": "Best Practices for Seamless EKS Cluster Upgrades with Fargate: A Hands-On Guide",
-          "link": "https://dev.to/robinamirbahar/best-practices-for-seamless-eks-cluster-upgrades-with-fargate-a-hands-on-guide-2epf",
-          "pubDate": "Mon, 01 Jan 2024 05:31:02 +0000",
-          "dc:creator": "Robina",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/robinamirbahar/best-practices-for-seamless-eks-cluster-upgrades-with-fargate-a-hands-on-guide-2epf",
+          "guid": "https://dev.to/ahmedattia/beyond-the-mug-exploring-the-first-decade-of-aws-transformation-1gc0",
           "categories": [
             "aws",
-            "containers",
-            "tutorial",
-            "fargate"
+            "history",
+            "cloudcomputing"
           ],
-          "isoDate": "2024-01-01T05:31:02.000Z",
+          "isoDate": "2024-01-02T04:13:01.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "steve jacob ",
-          "title": "Elevate Your Website with Flawless WordPress Theme Integration",
-          "link": "https://dev.to/stevejacob45678/elevate-your-website-with-flawless-wordpress-theme-integration-4c0l",
-          "pubDate": "Mon, 01 Jan 2024 05:26:56 +0000",
-          "dc:creator": "steve jacob ",
+          "creator": "Nested Software",
+          "title": "Software Dev Interviews: What I look for in a Candidate",
+          "link": "https://dev.to/nestedsoftware/software-dev-interviews-what-i-look-for-in-a-candidate-25h6",
+          "pubDate": "Tue, 02 Jan 2024 03:59:54 +0000",
+          "dc:creator": "Nested Software",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/stevejacob45678/elevate-your-website-with-flawless-wordpress-theme-integration-4c0l",
+          "guid": "https://dev.to/nestedsoftware/software-dev-interviews-what-i-look-for-in-a-candidate-25h6",
           "categories": [
-            "wordpress",
-            "wordpressdevelopment",
-            "wordpresstheme",
-            "wordpressplugins"
+            "interview",
+            "hiring"
           ],
-          "isoDate": "2024-01-01T05:26:56.000Z",
+          "isoDate": "2024-01-02T03:59:54.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "IndeedSeo",
-          "title": "What are the key SEO practices accountants should implement?",
-          "link": "https://dev.to/indeedseo03/what-are-the-key-seo-practices-accountants-should-implement-2hnh",
-          "pubDate": "Mon, 01 Jan 2024 05:18:59 +0000",
-          "dc:creator": "IndeedSeo",
+          "creator": "Justin Macorin",
+          "title": "PDLC: Prompt Development Life Cycle",
+          "link": "https://dev.to/justinmacorin/pdlc-prompt-development-life-cycle-16e6",
+          "pubDate": "Tue, 02 Jan 2024 03:59:03 +0000",
+          "dc:creator": "Justin Macorin",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/indeedseo03/what-are-the-key-seo-practices-accountants-should-implement-2hnh",
+          "guid": "https://dev.to/justinmacorin/pdlc-prompt-development-life-cycle-16e6",
           "categories": [
-            "seo",
-            "seoforaccountnt",
-            "seoservices",
-            "webdev"
+            "llm",
+            "promptengineering",
+            "machinelearning",
+            "engineering"
           ],
-          "isoDate": "2024-01-01T05:18:59.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "kaveesha",
-          "title": "Optimizing React: Essential Best Practices for High-Quality Apps",
-          "link": "https://dev.to/kaveesha/optimizing-react-essential-best-practices-for-high-quality-apps-27go",
-          "pubDate": "Mon, 01 Jan 2024 05:10:36 +0000",
-          "dc:creator": "kaveesha",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/kaveesha/optimizing-react-essential-best-practices-for-high-quality-apps-27go",
-          "categories": [
-            "react",
-            "frontend",
-            "cleancode"
-          ],
-          "isoDate": "2024-01-01T05:10:36.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "API Maker®",
-          "title": "🚀 API Maker : Release Notes for v1.0.5",
-          "link": "https://dev.to/apimaker/api-maker-release-notes-for-v105-2336",
-          "pubDate": "Mon, 01 Jan 2024 05:03:20 +0000",
-          "dc:creator": "API Maker®",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/apimaker/api-maker-release-notes-for-v105-2336",
-          "isoDate": "2024-01-01T05:03:20.000Z",
+          "isoDate": "2024-01-02T03:59:03.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1198,6 +1183,18 @@
     "Julia Evans": {
       "items": [
         {
+          "title": "Some notes on NixOS",
+          "link": "https://jvns.ca/blog/2024/01/01/some-notes-on-nixos/",
+          "pubDate": "2024-01-01T10:22:37.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "id": "https://jvns.ca/blog/2024/01/01/some-notes-on-nixos/",
+          "isoDate": "2024-01-01T10:22:37.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "2023: Year in review",
           "link": "https://jvns.ca/blog/2023/12/31/2023--year-in-review/",
           "pubDate": "2023-12-31T08:54:42.000Z",
@@ -1244,24 +1241,12 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "How git cherry-pick and revert use 3-way merge",
-          "link": "https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/",
-          "pubDate": "2023-11-10T12:00:48.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "id": "https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/",
-          "isoDate": "2023-11-10T12:00:48.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "link": "http://jvns.ca/atom.xml",
       "feedUrl": "http://jvns.ca/atom.xml",
       "title": "Julia Evans",
-      "lastBuildDate": "2023-12-31T08:54:42+00:00"
+      "lastBuildDate": "2024-01-01T10:22:37+00:00"
     }
   }
 }
