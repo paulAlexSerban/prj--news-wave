@@ -5,6 +5,43 @@
       "items": [
         {
           "creator": "David Walsh",
+          "title": "Extract a Number from a String with JavaScript",
+          "link": "https://davidwalsh.name/javascript-extract-string",
+          "pubDate": "Tue, 16 Jan 2024 11:48:41 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "David Walsh",
+          "comments": "https://davidwalsh.name/javascript-extract-string#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://davidwalsh.name/?p=27802",
+          "categories": [
+            "JavaScript",
+            "Quick Tips"
+          ],
+          "isoDate": "2024-01-16T11:48:41.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "David Walsh",
+          "title": "Thoughts on Streaming Services: 2024 Edition",
+          "link": "https://davidwalsh.name/streaming-2024",
+          "pubDate": "Mon, 15 Jan 2024 11:08:32 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "David Walsh",
+          "comments": "https://davidwalsh.name/streaming-2024#comments",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://davidwalsh.name/?p=27800",
+          "categories": [
+            "Theory / Ideas"
+          ],
+          "isoDate": "2024-01-15T11:08:32.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "David Walsh",
           "title": "AutoGrow Textareas with CSS",
           "link": "https://davidwalsh.name/autogrow-textareas",
           "pubDate": "Mon, 18 Dec 2023 11:55:51 +0000",
@@ -58,44 +95,6 @@
           ],
           "isoDate": "2023-10-28T18:54:30.000Z",
           "summary": ""
-        },
-        {
-          "creator": "David Walsh",
-          "title": "AutoSave with VSCode",
-          "link": "https://davidwalsh.name/autosave-with-vscode",
-          "pubDate": "Mon, 23 Oct 2023 11:33:21 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "David Walsh",
-          "comments": "https://davidwalsh.name/autosave-with-vscode#respond",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://davidwalsh.name/?p=27781",
-          "categories": [
-            "JavaScript",
-            "Quick Tips"
-          ],
-          "isoDate": "2023-10-23T11:33:21.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "David Walsh",
-          "title": "How to Detect Failed Requests via Web Extensions",
-          "link": "https://davidwalsh.name/browser-webrequest-onerroroccurred",
-          "pubDate": "Mon, 02 Oct 2023 13:37:25 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "David Walsh",
-          "comments": "https://davidwalsh.name/browser-webrequest-onerroroccurred#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://davidwalsh.name/?p=27778",
-          "categories": [
-            "JavaScript",
-            "Promises"
-          ],
-          "isoDate": "2023-10-02T13:37:25.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://davidwalsh.name/feed",
@@ -107,7 +106,7 @@
       "generator": "https://wordpress.org/?v=5.0.2",
       "link": "https://davidwalsh.name",
       "language": "en-US",
-      "lastBuildDate": "Mon, 18 Dec 2023 11:55:51 +0000"
+      "lastBuildDate": "Tue, 16 Jan 2024 11:48:41 +0000"
     },
     "JavaScript Weekly": {
       "items": [
@@ -167,6 +166,42 @@
     "Flavio Copes": {
       "items": [
         {
+          "title": "Simplicity",
+          "link": "https://flaviocopes.com/simplicity",
+          "pubDate": "Mon, 15 Jan 2024 05:00:00 GMT",
+          "guid": "https://flaviocopes.com/simplicity",
+          "isoDate": "2024-01-15T05:00:00.000Z",
+          "content": "",
+          "content:encoded": "",
+          "contentSnippet": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Why I use Alpine.js",
+          "link": "https://flaviocopes.com/why-i-use-alpinejs",
+          "pubDate": "Mon, 15 Jan 2024 05:00:00 GMT",
+          "guid": "https://flaviocopes.com/why-i-use-alpinejs",
+          "isoDate": "2024-01-15T05:00:00.000Z",
+          "content": "",
+          "content:encoded": "",
+          "contentSnippet": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Why I use htmx",
+          "link": "https://flaviocopes.com/why-i-use-htmx",
+          "pubDate": "Mon, 15 Jan 2024 05:00:00 GMT",
+          "guid": "https://flaviocopes.com/why-i-use-htmx",
+          "isoDate": "2024-01-15T05:00:00.000Z",
+          "content": "",
+          "content:encoded": "",
+          "contentSnippet": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "Decide to render a partial or not dynamically in Astro",
           "link": "https://flaviocopes.com/decide-to-render-a-partial-or-not-dynamically-in-astro",
           "pubDate": "Sun, 07 Jan 2024 05:00:00 GMT",
@@ -184,42 +219,6 @@
           "pubDate": "Sun, 07 Jan 2024 05:00:00 GMT",
           "guid": "https://flaviocopes.com/how-to-create-a-sidebar-thats-sticky-but-also-scrolls",
           "isoDate": "2024-01-07T05:00:00.000Z",
-          "content": "",
-          "content:encoded": "",
-          "contentSnippet": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Render different HTML based on HTTP method in Astro",
-          "link": "https://flaviocopes.com/render-different-html-based-on-http-method-in-astro",
-          "pubDate": "Sun, 07 Jan 2024 05:00:00 GMT",
-          "guid": "https://flaviocopes.com/render-different-html-based-on-http-method-in-astro",
-          "isoDate": "2024-01-07T05:00:00.000Z",
-          "content": "",
-          "content:encoded": "",
-          "contentSnippet": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Had an issue with bfcache",
-          "link": "https://flaviocopes.com/bfcache-issue",
-          "pubDate": "Thu, 04 Jan 2024 05:00:00 GMT",
-          "guid": "https://flaviocopes.com/bfcache-issue",
-          "isoDate": "2024-01-04T05:00:00.000Z",
-          "content": "",
-          "content:encoded": "",
-          "contentSnippet": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Dockerfiles used to deploy Astro and PocketBase on Railway",
-          "link": "https://flaviocopes.com/dockerfiles-used-to-deploy-astro-and-pocketbase-on-railway",
-          "pubDate": "Thu, 04 Jan 2024 05:00:00 GMT",
-          "guid": "https://flaviocopes.com/dockerfiles-used-to-deploy-astro-and-pocketbase-on-railway",
-          "isoDate": "2024-01-04T05:00:00.000Z",
           "content": "",
           "content:encoded": "",
           "contentSnippet": "",
