@@ -197,6 +197,21 @@
       "items": [
         {
           "creator": "\n\t\t\t\tby \t\t\t\t\t",
+          "date": "\n\t\t\t\t\t2024-01-29T15:53:09+00:00\t\t\t\t",
+          "title": "\n\t\t\t\t\tI am a creative.\t\t\t\t",
+          "link": "\n\t\t\t\t\thttps://alistapart.com/article/i-am-a-creative/\t\t\t\t",
+          "author": "\n\t\t\t\tby \t\t\t\t\t",
+          "dc:date": "\n\t\t\t\t\t2024-01-29T15:53:09+00:00\t\t\t\t",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "\n\t\t\t\t\thttps://alistapart.com/article/i-am-a-creative/\t\t\t\t",
+          "isoDate": "2024-01-29T15:53:09.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "\n\t\t\t\tby \t\t\t\t\t",
           "date": "\n\t\t\t\t\t2023-06-22T13:00:00+00:00\t\t\t\t",
           "title": "\n\t\t\t\t\tHumility: An Essential Value\t\t\t\t",
           "link": "\n\t\t\t\t\thttps://alistapart.com/article/humility-an-essential-value/\t\t\t\t",
@@ -251,21 +266,6 @@
           "contentSnippet": "",
           "guid": "\n\t\t\t\t\thttps://alistapart.com/article/redefine-success-first/\t\t\t\t",
           "isoDate": "2022-05-12T14:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "\n\t\t\t\tby \t\t\t\t\t",
-          "date": "\n\t\t\t\t\t2021-12-09T15:00:00+00:00\t\t\t\t",
-          "title": "\n\t\t\t\t\tBreaking Out of the Box\t\t\t\t",
-          "link": "\n\t\t\t\t\thttps://alistapart.com/article/breaking-out-of-the-box/\t\t\t\t",
-          "author": "\n\t\t\t\tby \t\t\t\t\t",
-          "dc:date": "\n\t\t\t\t\t2021-12-09T15:00:00+00:00\t\t\t\t",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "\n\t\t\t\t\thttps://alistapart.com/article/breaking-out-of-the-box/\t\t\t\t",
-          "isoDate": "2021-12-09T15:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -392,7 +392,7 @@
       },
       "title": "Web Designer Depot",
       "description": "Web Design Resources and Tutorials",
-      "pubDate": "Sun, 28 Jan 2024 23:05:32 -0800",
+      "pubDate": "Mon, 29 Jan 2024 23:11:48 -0800",
       "link": "https://www.webdesignerdepot.com",
       "language": "en-us",
       "copyright": "Copyright Web Designer Depot, all rights reserved."
@@ -615,6 +615,30 @@
     },
     "Dave Rupert": {
       "items": [
+        {
+          "title": "At last, browser choice*",
+          "link": "https://daverupert.com/2024/01/browser-choice/",
+          "pubDate": "Mon, 29 Jan 2024 22:31:00 +0000",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://daverupert.com/2024/01/browser-choice/",
+          "isoDate": "2024-01-29T22:31:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "An inbox full o’ opportunities",
+          "link": "https://daverupert.com/2024/01/inbox-opportunities/",
+          "pubDate": "Mon, 29 Jan 2024 17:22:00 +0000",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://daverupert.com/2024/01/inbox-opportunities/",
+          "isoDate": "2024-01-29T17:22:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "Big, beautiful, beefy focus states with :focus-visible",
           "link": "https://daverupert.com/2024/01/focus-visible-love/",
@@ -909,6 +933,41 @@
     "Zell Wel": {
       "items": [
         {
+          "title": "Splendid Layouts",
+          "link": "https://zellwk.com/blog/splendid-layouts/",
+          "pubDate": "Tue, 30 Jan 2024 00:00:00 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://zellwk.com/blog/splendid-layouts/",
+          "categories": [
+            "Css",
+            "Layout",
+            "Announcements",
+            "Splendid ui"
+          ],
+          "isoDate": "2024-01-30T00:00:00.000Z",
+          "summary": ""
+        },
+        {
+          "title": "My CSS of Late",
+          "link": "https://zellwk.com/blog/css-2024/",
+          "pubDate": "Sat, 20 Jan 2024 00:00:00 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://zellwk.com/blog/css-2024/",
+          "categories": [
+            "Css",
+            "Splendid ui",
+            "Css layout patterns"
+          ],
+          "isoDate": "2024-01-20T00:00:00.000Z",
+          "summary": ""
+        },
+        {
           "title": "3 Techniques to learn JavaScript effectively",
           "link": "https://zellwk.com/blog/3-techiques-to-learn-javascript/",
           "pubDate": "Tue, 09 Jan 2024 00:00:00 GMT",
@@ -957,38 +1016,6 @@
           ],
           "isoDate": "2023-12-22T00:00:00.000Z",
           "summary": ""
-        },
-        {
-          "title": "Enough of the homogenous and soulless content all around the internet",
-          "link": "https://zellwk.com/blog/soulless/",
-          "pubDate": "Thu, 21 Dec 2023 00:00:00 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://zellwk.com/blog/soulless/",
-          "categories": [
-            "Musings"
-          ],
-          "isoDate": "2023-12-21T00:00:00.000Z",
-          "summary": ""
-        },
-        {
-          "title": "The easiest way to get and set CSS Variables in JavaScript",
-          "link": "https://zellwk.com/blog/css-vars-javascript/",
-          "pubDate": "Tue, 05 Dec 2023 00:00:00 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://zellwk.com/blog/css-vars-javascript/",
-          "categories": [
-            "Javascript",
-            "Splendid ui",
-            "Css"
-          ],
-          "isoDate": "2023-12-05T00:00:00.000Z",
-          "summary": ""
         }
       ],
       "title": "Zell Liew",
@@ -997,6 +1024,18 @@
     },
     "Go Make Things": {
       "items": [
+        {
+          "title": "The Go Make Things Podcast",
+          "link": "https://gomakethings.com/the-go-make-things-podcast/",
+          "pubDate": "Mon, 29 Jan 2024 10:30:00 -0400",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://gomakethings.com/the-go-make-things-podcast/",
+          "isoDate": "2024-01-29T14:30:00.000Z",
+          "summary": ""
+        },
         {
           "title": "Why is JSX still a thing?",
           "link": "https://gomakethings.com/why-is-jsx-still-a-thing/",
@@ -1044,18 +1083,6 @@
           "guid": "https://gomakethings.com/how-to-create-your-own-search-api-for-a-static-website-with-javascript-and-php/",
           "isoDate": "2024-01-23T14:30:00.000Z",
           "summary": ""
-        },
-        {
-          "title": "The oldest library in America (and building websites)",
-          "link": "https://gomakethings.com/the-oldest-library-in-america-and-building-websites/",
-          "pubDate": "Mon, 22 Jan 2024 10:30:00 -0400",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://gomakethings.com/the-oldest-library-in-america-and-building-websites/",
-          "isoDate": "2024-01-22T14:30:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://gomakethings.com/feed/index.xml",
@@ -1067,7 +1094,7 @@
       "generator": "Hugo -- gohugo.io",
       "link": "https://gomakethings.com/articles",
       "language": "en-us",
-      "lastBuildDate": "Mon, 29 Jan 2024 00:00:33 EST"
+      "lastBuildDate": "Tue, 30 Jan 2024 00:00:32 EST"
     }
   }
 }
