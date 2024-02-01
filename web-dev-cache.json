@@ -4,6 +4,40 @@
     "SitePoint": {
       "items": [
         {
+          "creator": "Yemi Ojedapo",
+          "title": "Implementing User Authentication in React Apps with Appwrite",
+          "link": "https://www.sitepoint.com/appwrite-react-user-authentication/?utm_source=rss",
+          "pubDate": "Tue, 30 Jan 2024 19:00:41 GMT",
+          "dc:creator": "Yemi Ojedapo",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "/?p=445609",
+          "categories": [
+            "JavaScript"
+          ],
+          "isoDate": "2024-01-30T19:00:41.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Vultr",
+          "title": "AI-Powered Search Engine With Milvus Vector Database on Vultr",
+          "link": "https://www.sitepoint.com/ai-powered-search-engine-with-milvus-vector-database-on-vultr/?utm_source=rss",
+          "pubDate": "Tue, 30 Jan 2024 16:00:00 GMT",
+          "dc:creator": "Vultr",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "/?p=440142",
+          "categories": [
+            "AI"
+          ],
+          "isoDate": "2024-01-30T16:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Kabaki Antony",
           "title": "Understanding Signals in Django",
           "link": "https://www.sitepoint.com/understanding-signals-in-django/?utm_source=rss",
@@ -54,40 +88,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Tamas Piros",
-          "title": "Getting Started with Content Collections in Astro",
-          "link": "https://www.sitepoint.com/getting-started-with-content-collections-in-astro/?utm_source=rss",
-          "pubDate": "Tue, 23 Jan 2024 19:00:00 GMT",
-          "dc:creator": "Tamas Piros",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "/?p=440301",
-          "categories": [
-            "JavaScript"
-          ],
-          "isoDate": "2024-01-23T19:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Peter Kessler",
-          "title": "What Does the Java Virtual Machine Do All Day?",
-          "link": "https://www.sitepoint.com/what-does-the-java-virtual-machine-do-all-day/?utm_source=rss",
-          "pubDate": "Mon, 22 Jan 2024 21:41:09 GMT",
-          "dc:creator": "Peter Kessler",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "/?p=440422",
-          "categories": [
-            "Web"
-          ],
-          "isoDate": "2024-01-22T21:41:09.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.sitepoint.com/sitepoint.rss",
@@ -98,7 +98,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Wed, 31 Jan 2024 05:05:03 GMT"
+      "lastBuildDate": "Thu, 01 Feb 2024 06:48:18 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -218,7 +218,7 @@
       "generator": "https://wordpress.org/?v=6.4.3",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Tue, 30 Jan 2024 22:32:44 +0000"
+      "lastBuildDate": "Wed, 31 Jan 2024 16:02:22 +0000"
     },
     "GitHub Blog Atom": {
       "items": [
@@ -309,6 +309,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Cosima Mielke)",
+          "title": "29 Days Of Inspiration (February 2024 Wallpapers Edition)",
+          "link": "https://smashingmagazine.com/2024/01/desktop-wallpaper-calendars-february-2024/",
+          "pubDate": "Wed, 31 Jan 2024 12:30:00 GMT",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-february-2024/feb-24-love-myself-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/01/desktop-wallpaper-calendars-february-2024/",
+          "isoDate": "2024-01-31T12:30:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Andy Budd)",
           "title": "The Feature Trap: Why Feature Centricity Is Harming Your Product",
           "link": "https://smashingmagazine.com/2024/01/feature-centricity-harming-product/",
@@ -383,25 +402,6 @@
           "guid": "https://smashingmagazine.com/2024/01/ai-dilemma-graphic-design-typography/",
           "isoDate": "2024-01-23T13:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Temani Afif)",
-          "title": "The Complex But Awesome CSS border-image Property",
-          "link": "https://smashingmagazine.com/2024/01/css-border-image-property/",
-          "pubDate": "Tue, 16 Jan 2024 13:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Temani Afif)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/css-border-image-property/css-border-image-property.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/01/css-border-image-property/",
-          "isoDate": "2024-01-16T13:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -419,11 +419,34 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Wed, 31 Jan 2024 06:52:03 GMT",
+      "lastBuildDate": "Thu, 01 Feb 2024 06:34:51 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "On-Scroll Animation Ideas for Sticky Sections",
+          "link": "https://tympanus.net/codrops/2024/01/31/on-scroll-animation-ideas-for-sticky-sections/",
+          "pubDate": "Wed, 31 Jan 2024 14:43:29 +0000",
+          "enclosure": {
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/01/stickysections.mp4?x36933",
+            "length": "1300366",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=75532",
+          "categories": [
+            "Playground",
+            "sticky"
+          ],
+          "isoDate": "2024-01-31T14:43:29.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Manoela Ilic",
           "title": "Collective #808",
@@ -497,20 +520,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "Collective #806",
-          "link": "https://tympanus.net/codrops/collective/collective-806/",
-          "pubDate": "Tue, 23 Jan 2024 12:00:00 +0000",
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?post_type=collective&p=75458",
-          "isoDate": "2024-01-23T12:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -519,149 +528,149 @@
       },
       "title": "Codrops",
       "description": "Keeping web professionals inspired & up-to-date since 2009",
-      "generator": "https://wordpress.org/?v=6.3.2",
+      "generator": "https://wordpress.org/?v=6.3.3",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Sun, 28 Jan 2024 11:22:36 +0000"
+      "lastBuildDate": "Wed, 31 Jan 2024 14:43:32 +0000"
     },
     "DZone": {
       "items": [
         {
-          "creator": "Mahmud Adeleye",
-          "title": "A Guide to Vector Embeddings for Product and Software Engineers",
-          "link": "https://dzone.com/articles/a-guide-to-vector-embeddings-for-product-and-softw",
-          "pubDate": "Tue, 30 Jan 2024 20:09:47 GMT",
-          "dc:creator": "Mahmud Adeleye",
+          "creator": "Asutosh Mourya",
+          "title": "Tips for Building a Scalable Payment Architecture",
+          "link": "https://dzone.com/articles/tips-for-building-scalable-payment-architecture",
+          "pubDate": "Wed, 31 Jan 2024 20:04:34 GMT",
+          "dc:creator": "Asutosh Mourya",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3427179",
-          "isoDate": "2024-01-30T20:09:47.000Z",
+          "guid": "https://dzone.com/articles/3428333",
+          "isoDate": "2024-01-31T20:04:34.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Kirit Basu",
-          "title": "Rethinking Data Governance: Metrics for Meaningful Outcomes",
-          "link": "https://dzone.com/articles/rethinking-data-governance-metrics-for-meaningful",
-          "pubDate": "Tue, 30 Jan 2024 18:41:57 GMT",
-          "dc:creator": "Kirit Basu",
+          "creator": "Stelios Manioudakis",
+          "title": "Russell's Paradox: Permissiveness Creates Edge Cases",
+          "link": "https://dzone.com/articles/russells-paradox-permissive-rules-and-contradictin",
+          "pubDate": "Wed, 31 Jan 2024 19:20:40 GMT",
+          "dc:creator": "Stelios Manioudakis",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3427397",
-          "isoDate": "2024-01-30T18:41:57.000Z",
+          "guid": "https://dzone.com/articles/3427297",
+          "isoDate": "2024-01-31T19:20:40.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Chandresh Patel",
-          "title": "Outsourced Software Development Team: 6 Key Practices for Efficiency",
-          "link": "https://dzone.com/articles/outsourced-software-development-team-6-key-practic",
-          "pubDate": "Tue, 30 Jan 2024 18:40:53 GMT",
-          "dc:creator": "Chandresh Patel",
+          "creator": "Stylianos Kampakis",
+          "title": "Five Best Data De-Identification Tools To Protect Patient Data and Stay Compliant",
+          "link": "https://dzone.com/articles/five-best-data-de-identification-tools-to-protect",
+          "pubDate": "Wed, 31 Jan 2024 19:10:53 GMT",
+          "dc:creator": "Stylianos Kampakis",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3428311",
-          "isoDate": "2024-01-30T18:40:53.000Z",
+          "guid": "https://dzone.com/articles/3427166",
+          "isoDate": "2024-01-31T19:10:53.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Franklin Jebadoss",
-          "title": "LLM Integration Unleashed: Elevating Efficiency and Cutting Costs With Semantic Cache Brilliance",
-          "link": "https://dzone.com/articles/llm-integration-unleashed-elevating-efficiency-and",
-          "pubDate": "Tue, 30 Jan 2024 18:06:50 GMT",
-          "dc:creator": "Franklin Jebadoss",
+          "creator": "Austin Gil",
+          "title": "AI for Web Devs: Addressing Bugs, Security, and Reliability",
+          "link": "https://dzone.com/articles/ai-for-web-devs-addressing-bugs-security-amp-reliability",
+          "pubDate": "Wed, 31 Jan 2024 18:47:11 GMT",
+          "dc:creator": "Austin Gil",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3427371",
-          "isoDate": "2024-01-30T18:06:50.000Z",
+          "guid": "https://dzone.com/articles/3428387",
+          "isoDate": "2024-01-31T18:47:11.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ambuj Nandanwar",
-          "title": "Device and Data Security in Embedded Systems",
-          "link": "https://dzone.com/articles/device-and-data-security-in-embedded-system",
-          "pubDate": "Tue, 30 Jan 2024 17:28:03 GMT",
-          "dc:creator": "Ambuj Nandanwar",
+          "creator": "Gustavo Ribeiro Amigo",
+          "title": "Microservices vs. Monolith at a Startup: Making the Choice",
+          "link": "https://dzone.com/articles/microservices-vs-monolith-at-startup-making-the-ch",
+          "pubDate": "Wed, 31 Jan 2024 18:04:37 GMT",
+          "dc:creator": "Gustavo Ribeiro Amigo",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3427258",
-          "isoDate": "2024-01-30T17:28:03.000Z",
+          "guid": "https://dzone.com/articles/3429327",
+          "isoDate": "2024-01-31T18:04:37.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Asanka Abeysinghe",
-          "title": "The Next Major Shift in Enterprise Software Engineering: From Platforms to “Platformless”",
-          "link": "https://dzone.com/articles/the-next-major-shift-in-enterprise-software-engine",
-          "pubDate": "Tue, 30 Jan 2024 17:11:17 GMT",
-          "dc:creator": "Asanka Abeysinghe",
+          "creator": "Madhusudhan Dasari",
+          "title": "SIEM Volume Spike Alerts Using ML",
+          "link": "https://dzone.com/articles/siem-volume-spike-alerts-using-ml",
+          "pubDate": "Wed, 31 Jan 2024 18:01:37 GMT",
+          "dc:creator": "Madhusudhan Dasari",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3427177",
-          "isoDate": "2024-01-30T17:11:17.000Z",
+          "guid": "https://dzone.com/articles/3429328",
+          "isoDate": "2024-01-31T18:01:37.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Yogesh Solanki",
-          "title": "Playwright Selectors and Locators: Everything You Need To Know",
-          "link": "https://dzone.com/articles/playwright-selectors-and-locators-everything-you-n",
-          "pubDate": "Tue, 30 Jan 2024 17:04:04 GMT",
-          "dc:creator": "Yogesh Solanki",
+          "creator": "Varun Shah",
+          "title": "Harnessing the Power of Artificial Intelligence to Improve Human Health and Safety",
+          "link": "https://dzone.com/articles/harnessing-the-power-of-artificial-intelligence-to",
+          "pubDate": "Wed, 31 Jan 2024 17:39:22 GMT",
+          "dc:creator": "Varun Shah",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3427390",
-          "isoDate": "2024-01-30T17:04:04.000Z",
+          "guid": "https://dzone.com/articles/3429323",
+          "isoDate": "2024-01-31T17:39:22.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Jason Bloomberg",
-          "title": "GenAI Exposes Enterprise Sustainability Hypocrisy",
-          "link": "https://dzone.com/articles/genai-exposes-enterprise-sustainability-hypocrisy",
-          "pubDate": "Tue, 30 Jan 2024 16:19:24 GMT",
-          "dc:creator": "Jason Bloomberg",
+          "creator": "Mandeep Kaur",
+          "title": "Strategic Considerations for Seamless Migration to a Modern Data Ecosystem",
+          "link": "https://dzone.com/articles/strategic-considerations-for-seamless-migration-to",
+          "pubDate": "Wed, 31 Jan 2024 17:07:34 GMT",
+          "dc:creator": "Mandeep Kaur",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3427393",
-          "isoDate": "2024-01-30T16:19:24.000Z",
+          "guid": "https://dzone.com/articles/3429332",
+          "isoDate": "2024-01-31T17:07:34.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Anton Yarkov",
-          "title": "NFT Wallets Unleashed: A Data Structures and Application Design Journey",
-          "link": "https://dzone.com/articles/nft-wallets-unleashed-a-data-structures-and-applic",
-          "pubDate": "Tue, 30 Jan 2024 15:51:55 GMT",
-          "dc:creator": "Anton Yarkov",
+          "creator": "Kai Wähner",
+          "title": "Apache Kafka + Vector Database + LLM = Real-Time GenAI",
+          "link": "https://dzone.com/articles/apache-kafka-vector-database-llm-real-time-genai",
+          "pubDate": "Wed, 31 Jan 2024 17:01:30 GMT",
+          "dc:creator": "Kai Wähner",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3429291",
-          "isoDate": "2024-01-30T15:51:55.000Z",
+          "guid": "https://dzone.com/articles/3427422",
+          "isoDate": "2024-01-31T17:01:30.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Shai Almog",
-          "title": "DTrace Revisited: Advanced Debugging Techniques",
-          "link": "https://dzone.com/articles/dtrace-revisited-advanced-debugging-techniques",
-          "pubDate": "Tue, 30 Jan 2024 15:34:31 GMT",
-          "dc:creator": "Shai Almog",
+          "creator": "Alex Noyes",
+          "title": "Monitoring an Open Banking Flow With PlayWright and Checkly",
+          "link": "https://dzone.com/articles/monitoring-an-open-banking-flow-with-playwright-am",
+          "pubDate": "Wed, 31 Jan 2024 16:27:57 GMT",
+          "dc:creator": "Alex Noyes",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3428318",
-          "isoDate": "2024-01-30T15:34:31.000Z",
+          "guid": "https://dzone.com/articles/3427423",
+          "isoDate": "2024-01-31T16:27:57.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -677,6 +686,171 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "fatbobman ( 东坡肘子)",
+          "title": "Exploring SwiftUI Property Wrappers: @FetchRequest, @SectionedFetchRequest, @Query, @Namespace…",
+          "link": "https://itnext.io/exploring-swiftui-property-wrappers-fetchrequest-sectionedfetchrequest-query-namespace-215f6edecf94?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 31 Jan 2024 23:08:05 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "fatbobman ( 东坡肘子)",
+          "guid": "https://medium.com/p/215f6edecf94",
+          "categories": [
+            "swift",
+            "ios-app-development",
+            "swiftui",
+            "programming",
+            "mobile-app-development"
+          ],
+          "isoDate": "2024-01-31T23:08:05.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ali Abbas Jaffri",
+          "title": "Introducing mlinfra — a hassle free way to deploy ML Infrastructure",
+          "link": "https://itnext.io/introducing-mlinfra-a-hassle-free-way-to-deploy-ml-infrastructure-13f77de8bcf7?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 31 Jan 2024 23:06:42 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Ali Abbas Jaffri",
+          "guid": "https://medium.com/p/13f77de8bcf7",
+          "categories": [
+            "mlops-platform",
+            "mlops-tool",
+            "mlops",
+            "infrastructure",
+            "infrastructure-as-code"
+          ],
+          "isoDate": "2024-01-31T23:06:42.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Patrick Kalkman",
+          "title": "Fortifying Kubernetes — Mastering Security With CIS Benchmarks",
+          "link": "https://itnext.io/fortifying-kubernetes-mastering-security-with-cis-benchmarks-904064d7a3d9?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 31 Jan 2024 23:03:55 GMT",
+          "dc:creator": "Patrick Kalkman",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/904064d7a3d9",
+          "categories": [
+            "kubernetes-security",
+            "kubernetes",
+            "cybersecurity",
+            "kubernetes-cluster",
+            "container-orchestration"
+          ],
+          "isoDate": "2024-01-31T23:03:55.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Werner Dijkerman",
+          "title": "The ethics of Pull Requests, being the “Author”",
+          "link": "https://itnext.io/the-ethics-of-pull-requests-being-the-author-218d6076f756?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 31 Jan 2024 17:35:35 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Werner Dijkerman",
+          "guid": "https://medium.com/p/218d6076f756",
+          "categories": [
+            "peer-review",
+            "ethics",
+            "working-together",
+            "developer",
+            "pull-request"
+          ],
+          "isoDate": "2024-01-31T17:35:35.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Pavel Sulimau",
+          "title": "Flutter: Types of keys",
+          "link": "https://itnext.io/flutter-types-of-keys-ff73eb381458?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 31 Jan 2024 14:23:23 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Pavel Sulimau",
+          "guid": "https://medium.com/p/ff73eb381458",
+          "categories": [
+            "keys",
+            "flutter-widget",
+            "flutter"
+          ],
+          "isoDate": "2024-01-31T14:23:23.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Tarasov Aleksandr",
+          "title": "How to Efficiently Scale the Pods?",
+          "link": "https://itnext.io/how-to-efficiently-scale-the-pods-448c29ec7a24?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 31 Jan 2024 10:24:32 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Tarasov Aleksandr",
+          "guid": "https://medium.com/p/448c29ec7a24",
+          "categories": [
+            "scaling",
+            "microservices",
+            "kubernetes",
+            "distributed-systems"
+          ],
+          "isoDate": "2024-01-31T10:24:32.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Juntao Qiu",
+          "title": "Enhancing Data-Fetching in React with Suspense and Error Boundaries",
+          "link": "https://itnext.io/enhancing-data-fetching-in-react-with-suspense-and-error-boundaries-9dadc86c5e99?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 31 Jan 2024 08:07:55 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Juntao Qiu",
+          "guid": "https://medium.com/p/9dadc86c5e99",
+          "categories": [
+            "front-end-development",
+            "software-development",
+            "react",
+            "programming",
+            "software-engineering"
+          ],
+          "isoDate": "2024-01-31T08:07:55.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mikael Vesavuori",
+          "title": "Which is Cheaper: Serverless or Servers?",
+          "link": "https://itnext.io/which-is-cheaper-serverless-or-servers-1b18816ce7f6?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 31 Jan 2024 08:06:34 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Mikael Vesavuori",
+          "guid": "https://medium.com/p/1b18816ce7f6",
+          "categories": [
+            "aws",
+            "software-engineering",
+            "software-development",
+            "cloud-computing",
+            "serverless"
+          ],
+          "isoDate": "2024-01-31T08:06:34.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Amine Bellamkaddem",
           "title": "Linear Predictors — The Perceptron, From Theory to Algorithms",
@@ -715,174 +889,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Mirco on Tech",
-          "title": "Pub/Sub and Batching: Optimizing Cloud Messaging Performance",
-          "link": "https://itnext.io/pub-sub-and-batching-optimizing-cloud-messaging-performance-836d04307ac0?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 30 Jan 2024 17:02:16 GMT",
-          "dc:creator": "Mirco on Tech",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/836d04307ac0",
-          "categories": [
-            "technology",
-            "performance",
-            "cloud-computing",
-            "programming",
-            "google-cloud-platform"
-          ],
-          "isoDate": "2024-01-30T17:02:16.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Chris Karvouniaris",
-          "title": "Python files must end with .py, right? Guess again!",
-          "link": "https://itnext.io/python-files-must-end-with-py-right-guess-again-50068377b5a6?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 30 Jan 2024 08:06:05 GMT",
-          "dc:creator": "Chris Karvouniaris",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/50068377b5a6",
-          "categories": [
-            "programming",
-            "software-development",
-            "python",
-            "software-engineering",
-            "technology"
-          ],
-          "isoDate": "2024-01-30T08:06:05.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Krzysztof Pranczk",
-          "title": "Exploring secureCodeBox — An Open-Source Continuous Security Testing Solution for DevSecOps",
-          "link": "https://itnext.io/exploring-securecodebox-an-open-source-continuous-security-testing-solution-for-devsecops-b233fc5341e1?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 29 Jan 2024 22:55:52 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Krzysztof Pranczk",
-          "guid": "https://medium.com/p/b233fc5341e1",
-          "categories": [
-            "software-engineering",
-            "devops",
-            "cybersecurity",
-            "devsecops",
-            "programming"
-          ],
-          "isoDate": "2024-01-29T22:55:52.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Seifeddine Rajhi",
-          "title": "Authenticate applications on Kubernetes: Okta(OIDC), Istio, and OAuth2-Proxy integration.",
-          "link": "https://itnext.io/authenticate-applications-on-kubernetes-okta-oidc-istio-and-oauth2-proxy-integration-0277fe950112?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 29 Jan 2024 08:50:50 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Seifeddine Rajhi",
-          "guid": "https://medium.com/p/0277fe950112",
-          "categories": [
-            "istio",
-            "kubernetes",
-            "oidc",
-            "platform-engineering",
-            "oauth2"
-          ],
-          "isoDate": "2024-01-29T08:50:50.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Patrick Kalkman",
-          "title": "AI in the Fast Lane: Predicting F1 With PyTorch",
-          "link": "https://itnext.io/ai-in-the-fast-lane-predicting-f1-with-pytorch-6b844df7e79e?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sun, 28 Jan 2024 23:29:40 GMT",
-          "dc:creator": "Patrick Kalkman",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/6b844df7e79e",
-          "categories": [
-            "deep-learning",
-            "formula-1",
-            "machine-learning",
-            "ai",
-            "pytorch"
-          ],
-          "isoDate": "2024-01-28T23:29:40.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Percy Bolmér",
-          "title": "Webhook Testing Without the Headache: A Developer’s Sanity-Saving Tutorial",
-          "link": "https://itnext.io/webhook-testing-without-the-headache-a-developers-sanity-saving-tutorial-d6aea887f582?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sun, 28 Jan 2024 15:30:14 GMT",
-          "dc:creator": "Percy Bolmér",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/d6aea887f582",
-          "categories": [
-            "software-development",
-            "webhooks",
-            "coding",
-            "technology",
-            "programming"
-          ],
-          "isoDate": "2024-01-28T15:30:14.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Patrick Kalkman",
-          "title": "Decoding Network Policies in Kubernetes",
-          "link": "https://itnext.io/decoding-network-policies-in-kubernetes-6fa480eb04eb?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sun, 28 Jan 2024 10:07:16 GMT",
-          "dc:creator": "Patrick Kalkman",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/6fa480eb04eb",
-          "categories": [
-            "kubernetes-security",
-            "kubernetes",
-            "network-policies",
-            "container-orchestration",
-            "kubernetes-cluster"
-          ],
-          "isoDate": "2024-01-28T10:07:16.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Tom Nijhof",
-          "title": "UX: Error messages",
-          "link": "https://itnext.io/ux-error-messages-7415e793a958?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sat, 27 Jan 2024 17:40:51 GMT",
-          "dc:creator": "Tom Nijhof",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/7415e793a958",
-          "categories": [
-            "ux-design",
-            "ux",
-            "web-development",
-            "front-end-development",
-            "web-design"
-          ],
-          "isoDate": "2024-01-27T17:40:51.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -899,181 +905,187 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Wed, 31 Jan 2024 06:59:40 GMT"
+      "lastBuildDate": "Thu, 01 Feb 2024 06:58:00 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Judy",
-          "title": "What to do if the query calculation is moved out of database but is too slow using java",
-          "link": "https://dev.to/esproc_spl/what-to-do-if-the-query-calculation-is-moved-out-of-database-but-is-too-slow-using-java-4j86",
-          "pubDate": "Wed, 31 Jan 2024 06:08:20 +0000",
-          "dc:creator": "Judy",
+          "creator": "Shahzada Fahad Ashraf",
+          "title": "Silly Javascript, says true when asked if (0 == -null); here's why...",
+          "link": "https://dev.to/fahadachaudhry/silly-javascript-says-true-when-asked-if-0-null-heres-why-59l4",
+          "pubDate": "Thu, 01 Feb 2024 06:42:04 +0000",
+          "dc:creator": "Shahzada Fahad Ashraf",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/esproc_spl/what-to-do-if-the-query-calculation-is-moved-out-of-database-but-is-too-slow-using-java-4j86",
+          "guid": "https://dev.to/fahadachaudhry/silly-javascript-says-true-when-asked-if-0-null-heres-why-59l4",
           "categories": [
-            "java",
-            "github",
-            "coding",
-            "esproc"
+            "javascript",
+            "webdev",
+            "interview",
+            "programming"
           ],
-          "isoDate": "2024-01-31T06:08:20.000Z",
+          "isoDate": "2024-02-01T06:42:04.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Nik L.",
-          "title": "Help us win the streak - Vote SuprSend",
-          "link": "https://dev.to/nikl/help-us-win-the-streak-vote-suprsend-1ii6",
-          "pubDate": "Wed, 31 Jan 2024 05:32:50 +0000",
-          "dc:creator": "Nik L.",
+          "creator": "Sh Raj",
+          "title": "30 Bootstrap Navbar Examples",
+          "link": "https://dev.to/sh20raj/30-bootstrap-navbar-examples-5ehk",
+          "pubDate": "Thu, 01 Feb 2024 06:34:14 +0000",
+          "dc:creator": "Sh Raj",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/nikl/help-us-win-the-streak-vote-suprsend-1ii6",
+          "guid": "https://dev.to/sh20raj/30-bootstrap-navbar-examples-5ehk",
+          "isoDate": "2024-02-01T06:34:14.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Chris Harris",
+          "title": "Prepress Services UK: Hire Professionals For Printing Projects",
+          "link": "https://dev.to/alphabpo/prepress-services-uk-hire-professionals-for-printing-projects-5780",
+          "pubDate": "Thu, 01 Feb 2024 05:55:00 +0000",
+          "dc:creator": "Chris Harris",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/alphabpo/prepress-services-uk-hire-professionals-for-printing-projects-5780",
           "categories": [
-            "discuss",
+            "prepress",
+            "print",
+            "publish",
+            "professional"
+          ],
+          "isoDate": "2024-02-01T05:55:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "TemplatesJungle",
+          "title": "Leveraging Free Templates for Website Development",
+          "link": "https://dev.to/templatesjungle/leveraging-free-templates-for-website-development-5g6a",
+          "pubDate": "Thu, 01 Feb 2024 05:41:33 +0000",
+          "dc:creator": "TemplatesJungle",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/templatesjungle/leveraging-free-templates-for-website-development-5g6a",
+          "categories": [
+            "webdev",
+            "tip",
             "beginners",
-            "watercooler",
-            "webdev"
+            "productivity"
           ],
-          "isoDate": "2024-01-31T05:32:50.000Z",
+          "isoDate": "2024-02-01T05:41:33.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "yogini16",
-          "title": "Implementing Saga Pattern in Microservices with .NET Core: A Practical Guide",
-          "link": "https://dev.to/yogini16/implementing-saga-pattern-in-microservices-with-net-core-a-practical-guide-5h54",
-          "pubDate": "Wed, 31 Jan 2024 05:15:56 +0000",
-          "dc:creator": "yogini16",
+          "creator": "Scofield Idehen",
+          "title": "Top Sites to Get Remote Role in 2024",
+          "link": "https://dev.to/scofieldidehen/top-sites-to-get-remote-role-in-2024-730",
+          "pubDate": "Thu, 01 Feb 2024 05:31:12 +0000",
+          "dc:creator": "Scofield Idehen",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/yogini16/implementing-saga-pattern-in-microservices-with-net-core-a-practical-guide-5h54",
-          "isoDate": "2024-01-31T05:15:56.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sh Raj",
-          "title": "How To Customize the Browser's Scrollbar with CSS",
-          "link": "https://dev.to/sh20raj/how-to-customize-the-browsers-scrollbar-with-css-1443",
-          "pubDate": "Wed, 31 Jan 2024 04:13:20 +0000",
-          "dc:creator": "Sh Raj",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/sh20raj/how-to-customize-the-browsers-scrollbar-with-css-1443",
-          "isoDate": "2024-01-31T04:13:20.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sh Raj",
-          "title": "13 Mind-Blowing CSS Tricks for Web Design Wizards ✨",
-          "link": "https://dev.to/sh20raj/13-mind-blowing-css-tricks-for-web-design-wizards-3b4e",
-          "pubDate": "Wed, 31 Jan 2024 04:09:35 +0000",
-          "dc:creator": "Sh Raj",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/sh20raj/13-mind-blowing-css-tricks-for-web-design-wizards-3b4e",
-          "isoDate": "2024-01-31T04:09:35.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sh Raj",
-          "title": "How to Add Preloader in HTML Page",
-          "link": "https://dev.to/sh20raj/how-to-add-preloader-in-html-page-1koc",
-          "pubDate": "Wed, 31 Jan 2024 04:07:29 +0000",
-          "dc:creator": "Sh Raj",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/sh20raj/how-to-add-preloader-in-html-page-1koc",
-          "isoDate": "2024-01-31T04:07:29.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Marcos Henrique",
-          "title": "SES Observability with CDK + TS",
-          "link": "https://dev.to/aws-builders/ses-observability-with-cdk-ts-1oop",
-          "pubDate": "Wed, 31 Jan 2024 03:49:15 +0000",
-          "dc:creator": "Marcos Henrique",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/aws-builders/ses-observability-with-cdk-ts-1oop",
+          "guid": "https://dev.to/scofieldidehen/top-sites-to-get-remote-role-in-2024-730",
           "categories": [
-            "aws",
-            "cdk",
-            "typescript"
+            "remotejob",
+            "webdev",
+            "programming",
+            "beginners"
           ],
-          "isoDate": "2024-01-31T03:49:15.000Z",
+          "isoDate": "2024-02-01T05:31:12.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "avinash-repo",
-          "title": "Interview Question MongoDB",
-          "link": "https://dev.to/avinashrepo/interview-question-mongodb-2oii",
-          "pubDate": "Wed, 31 Jan 2024 03:12:18 +0000",
-          "dc:creator": "avinash-repo",
+          "creator": "Wahyu K. A.",
+          "title": "Introducing EOSAV: A Free and Open-Source Antivirus for Everyone",
+          "link": "https://dev.to/aliftech/introducing-eosav-a-free-and-open-source-antivirus-for-everyone-bkg",
+          "pubDate": "Thu, 01 Feb 2024 04:25:10 +0000",
+          "dc:creator": "Wahyu K. A.",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/avinashrepo/interview-question-mongodb-2oii",
+          "guid": "https://dev.to/aliftech/introducing-eosav-a-free-and-open-source-antivirus-for-everyone-bkg",
           "categories": [
-            "mongodb",
-            "mysql",
-            "node",
-            "typescript"
+            "opensource",
+            "python",
+            "software"
           ],
-          "isoDate": "2024-01-31T03:12:18.000Z",
+          "isoDate": "2024-02-01T04:25:10.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sh Raj",
+          "title": "SopPlayer - Integration - HTML5 Stylish Video Player",
+          "link": "https://dev.to/sh20raj/sopplayer-integration-html5-stylish-video-player-4jkn",
+          "pubDate": "Thu, 01 Feb 2024 03:07:35 +0000",
+          "dc:creator": "Sh Raj",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/sh20raj/sopplayer-integration-html5-stylish-video-player-4jkn",
+          "isoDate": "2024-02-01T03:07:35.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sh Raj",
+          "title": "gli.js - lightweight jQuery Alternative",
+          "link": "https://dev.to/sh20raj/glijs-lightweight-jquery-alternative-oem",
+          "pubDate": "Thu, 01 Feb 2024 02:45:37 +0000",
+          "dc:creator": "Sh Raj",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/sh20raj/glijs-lightweight-jquery-alternative-oem",
+          "isoDate": "2024-02-01T02:45:37.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Josh Alphonse",
+          "title": "BMF 📹 + Hugging Face🤗, The New Video Processing BFFs",
+          "link": "https://dev.to/bytedanceoss/bmf-hugging-face-the-new-video-processing-bffs-59m8",
+          "pubDate": "Thu, 01 Feb 2024 01:27:15 +0000",
+          "dc:creator": "Josh Alphonse",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/bytedanceoss/bmf-hugging-face-the-new-video-processing-bffs-59m8",
+          "categories": [
+            "python",
+            "ai",
+            "ffmpeg",
+            "opensource"
+          ],
+          "isoDate": "2024-02-01T01:27:15.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
           "creator": "Ackom Jnr ",
-          "title": "2024's Top Web Design Trends: Stay Ahead of the Curve",
-          "link": "https://dev.to/ackomjnr/2024s-top-web-design-trends-stay-ahead-of-the-curve-45dn",
-          "pubDate": "Wed, 31 Jan 2024 01:57:12 +0000",
+          "title": "CSS Grid vs. Flexbox: Choosing the Right Layout Technique for Your Project",
+          "link": "https://dev.to/ackomjnr/css-grid-vs-flexbox-choosing-the-right-layout-technique-for-your-project-502e",
+          "pubDate": "Thu, 01 Feb 2024 01:25:00 +0000",
           "dc:creator": "Ackom Jnr ",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ackomjnr/2024s-top-web-design-trends-stay-ahead-of-the-curve-45dn",
+          "guid": "https://dev.to/ackomjnr/css-grid-vs-flexbox-choosing-the-right-layout-technique-for-your-project-502e",
           "categories": [
-            "tutorial",
+            "design",
             "webdev",
-            "productivity",
-            "frontend"
+            "beginners",
+            "programming"
           ],
-          "isoDate": "2024-01-31T01:57:12.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Claudio Taverna",
-          "title": "I challenged Amazon Q with 3 cloud architecture questions",
-          "link": "https://dev.to/aws-builders/i-challenged-amazon-q-with-3-cloud-architecture-questions-2jmd",
-          "pubDate": "Wed, 31 Jan 2024 01:50:37 +0000",
-          "dc:creator": "Claudio Taverna",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/aws-builders/i-challenged-amazon-q-with-3-cloud-architecture-questions-2jmd",
-          "categories": [
-            "aws",
-            "ai",
-            "cloud",
-            "architecture"
-          ],
-          "isoDate": "2024-01-31T01:50:37.000Z",
+          "isoDate": "2024-02-01T01:25:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1159,7 +1171,7 @@
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog.atom",
       "title": "The DigitalOcean Blog",
-      "lastBuildDate": "2024-01-30T21:46:52.200Z"
+      "lastBuildDate": "2024-01-31T22:44:46.460Z"
     },
     "Julia Evans": {
       "items": [
