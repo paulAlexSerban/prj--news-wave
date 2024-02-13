@@ -4,6 +4,25 @@
     "SitePoint": {
       "items": [
         {
+          "creator": "Jaya Iyer",
+          "title": "How to Boost WordPress Security and Protect Your SEO Ranking",
+          "link": "https://www.sitepoint.com/how-to-boost-wordpress-security-and-protect-your-seo-ranking/?utm_source=rss",
+          "pubDate": "Sun, 11 Feb 2024 19:00:19 GMT",
+          "dc:creator": "Jaya Iyer",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "/?p=464435",
+          "categories": [
+            "Security",
+            "Web",
+            "WordPress"
+          ],
+          "isoDate": "2024-02-11T19:00:19.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Dianne Pena",
           "title": "Understanding How ChatGPT Maintains Context",
           "link": "https://www.sitepoint.com/understanding-how-chatgpt-maintains-context/?utm_source=rss",
@@ -72,23 +91,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Yemi Ojedapo",
-          "title": "Implementing User Authentication in React Apps with Appwrite",
-          "link": "https://www.sitepoint.com/appwrite-react-user-authentication/?utm_source=rss",
-          "pubDate": "Tue, 30 Jan 2024 19:00:41 GMT",
-          "dc:creator": "Yemi Ojedapo",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "/?p=445609",
-          "categories": [
-            "JavaScript"
-          ],
-          "isoDate": "2024-01-30T19:00:41.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.sitepoint.com/sitepoint.rss",
@@ -99,10 +101,49 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Mon, 12 Feb 2024 05:10:03 GMT"
+      "lastBuildDate": "Tue, 13 Feb 2024 05:07:43 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
+        {
+          "creator": "Konrad Pabjan",
+          "title": "Get started with v4 of GitHub Actions Artifacts",
+          "link": "https://github.blog/2024-02-12-get-started-with-v4-of-github-actions-artifacts/",
+          "pubDate": "Mon, 12 Feb 2024 18:18:13 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Konrad Pabjan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=76550",
+          "categories": [
+            "Product",
+            "GitHub Actions",
+            "GitHub Actions Artifacts"
+          ],
+          "isoDate": "2024-02-12T18:18:13.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Nicole Choi",
+          "title": "The architecture of SAST tools: An explainer for developers",
+          "link": "https://github.blog/2024-02-12-the-architecture-of-sast-tools-an-explainer-for-developers/",
+          "pubDate": "Mon, 12 Feb 2024 17:03:05 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Nicole Choi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=76538",
+          "categories": [
+            "Security",
+            "CodeQL",
+            "DevSecOps",
+            "SAST"
+          ],
+          "isoDate": "2024-02-12T17:03:05.000Z",
+          "summary": ""
+        },
         {
           "creator": "Ajay Sarkaria",
           "title": "Copilot in GitHub Support is now available!",
@@ -166,48 +207,6 @@
           ],
           "isoDate": "2024-02-06T18:19:05.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Michelle Mannering",
-          "title": "Release Radar · January 2024 Edition",
-          "link": "https://github.blog/2024-02-02-release-radar-jan-2024/",
-          "pubDate": "Fri, 02 Feb 2024 10:24:35 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Michelle Mannering",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=76096",
-          "categories": [
-            "Community",
-            "Open Source",
-            "Docker",
-            "GraphQL",
-            "python",
-            "React",
-            "Typescript"
-          ],
-          "isoDate": "2024-02-02T10:24:35.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "Zack Koppert",
-          "title": "Do you know if all your repositories have up-to-date dependencies?",
-          "link": "https://github.blog/2024-01-25-do-you-know-if-all-your-repositories-have-up-to-date-dependencies/",
-          "pubDate": "Thu, 25 Jan 2024 22:28:44 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Zack Koppert",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=76433",
-          "categories": [
-            "Enterprise",
-            "Dependabot",
-            "dependency management"
-          ],
-          "isoDate": "2024-01-25T22:28:44.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://github.blog/feed/",
@@ -226,7 +225,7 @@
       "generator": "https://wordpress.org/?v=6.4.3",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Fri, 09 Feb 2024 13:42:41 +0000"
+      "lastBuildDate": "Mon, 12 Feb 2024 18:18:47 +0000"
     },
     "GitHub Blog Atom": {
       "items": [
@@ -427,7 +426,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Mon, 12 Feb 2024 06:34:31 GMT",
+      "lastBuildDate": "Tue, 13 Feb 2024 06:53:43 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -540,144 +539,141 @@
     "DZone": {
       "items": [
         {
-          "creator": "Devin Partida",
-          "title": "The Impact of Open-Source Software on Public Finance Management",
-          "link": "https://dzone.com/articles/the-impact-of-open-source-software-on-public-finan",
-          "pubDate": "Sun, 11 Feb 2024 18:30:43 GMT",
-          "dc:creator": "Devin Partida",
+          "creator": "Deep Manishkumar Dave",
+          "title": "Managing IoT Edge Devices at Scale: Device Lifecycle and Configuration Management",
+          "link": "https://dzone.com/articles/managing-iot-edge-devices-at-scale-device-lifecycl",
+          "pubDate": "Mon, 12 Feb 2024 19:07:38 GMT",
+          "dc:creator": "Deep Manishkumar Dave",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3431599",
-          "isoDate": "2024-02-11T18:30:43.000Z",
+          "guid": "https://dzone.com/articles/3396543",
+          "isoDate": "2024-02-12T19:07:38.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Deepita Pai",
+          "title": "Revolutionizing Observability: How AI-Driven Observability Unlocks a New Era of Efficiency",
+          "link": "https://dzone.com/articles/revolutionizing-observability-how-ai-driven-observ",
+          "pubDate": "Mon, 12 Feb 2024 18:48:19 GMT",
+          "dc:creator": "Deepita Pai",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3431715",
+          "isoDate": "2024-02-12T18:48:19.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
           "creator": "Arun Pandey",
-          "title": "Advanced Brain-Computer Interfaces With Java",
-          "link": "https://dzone.com/articles/advanced-brain-computer-interfaces-with-java",
-          "pubDate": "Sun, 11 Feb 2024 18:04:32 GMT",
+          "title": "Microsoft Research Lab Structure: A Data-Driven Approach to Tech Leadership and Innovation",
+          "link": "https://dzone.com/articles/microsoft-research-lab-structure-a-data-driven-app",
+          "pubDate": "Mon, 12 Feb 2024 18:39:59 GMT",
           "dc:creator": "Arun Pandey",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3432610",
-          "isoDate": "2024-02-11T18:04:32.000Z",
+          "guid": "https://dzone.com/articles/3432611",
+          "isoDate": "2024-02-12T18:39:59.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Aditya Bhuyan",
-          "title": "Decision Tree Structure: A Comprehensive Guide",
-          "link": "https://dzone.com/articles/decision-tree-structure-a-comprehensive-guide",
-          "pubDate": "Sun, 11 Feb 2024 17:38:56 GMT",
-          "dc:creator": "Aditya Bhuyan",
+          "creator": "Stelios Manioudakis",
+          "title": "The Four Pillars of Programming Logic in Software Quality Engineering",
+          "link": "https://dzone.com/articles/the-four-pillars-of-logic-in-software-development",
+          "pubDate": "Mon, 12 Feb 2024 18:09:13 GMT",
+          "dc:creator": "Stelios Manioudakis",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3396705",
-          "isoDate": "2024-02-11T17:38:56.000Z",
+          "guid": "https://dzone.com/articles/3431494",
+          "isoDate": "2024-02-12T18:09:13.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sreenath Devineni",
-          "title": "BigQuery DataFrames in Python",
-          "link": "https://dzone.com/articles/bigquery-data-frames-in-python-1",
-          "pubDate": "Fri, 09 Feb 2024 18:23:30 GMT",
-          "dc:creator": "Sreenath Devineni",
+          "creator": "Vijay Panwar",
+          "title": "Enhancing Performance: Optimizing Complex MySQL Queries for Large Datasets",
+          "link": "https://dzone.com/articles/enhancing-performance-optimizing-complex-mysql-que",
+          "pubDate": "Mon, 12 Feb 2024 17:58:56 GMT",
+          "dc:creator": "Vijay Panwar",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3427588",
-          "isoDate": "2024-02-09T18:23:30.000Z",
+          "guid": "https://dzone.com/articles/3431693",
+          "isoDate": "2024-02-12T17:58:56.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Omed Habib",
-          "title": "The Cost-Benefit Analysis of Unit, Integration, and E2E Testing",
-          "link": "https://dzone.com/articles/the-cost-benefit-analysis-of-unit-integration-and",
-          "pubDate": "Fri, 09 Feb 2024 17:49:26 GMT",
-          "dc:creator": "Omed Habib",
+          "creator": "Andrei Tuchin",
+          "title": "Leveraging Java's Fork/Join Framework for Efficient Parallel Programming: Part 1",
+          "link": "https://dzone.com/articles/how-to-effectively-utilize-the-forkjoin-framework",
+          "pubDate": "Mon, 12 Feb 2024 17:49:17 GMT",
+          "dc:creator": "Andrei Tuchin",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3431566",
-          "isoDate": "2024-02-09T17:49:26.000Z",
+          "guid": "https://dzone.com/articles/3433612",
+          "isoDate": "2024-02-12T17:49:17.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Horatiu Dan",
-          "title": "Generative AI With Spring Boot and Spring AI",
-          "link": "https://dzone.com/articles/generative-ai-with-spring-boot-and-spring-ai",
-          "pubDate": "Fri, 09 Feb 2024 17:23:54 GMT",
-          "dc:creator": "Horatiu Dan",
+          "creator": "Henry Wayne",
+          "title": "Wizard of Oz Programming and Its Influence on HCI Prototyping",
+          "link": "https://dzone.com/articles/wizard-of-oz-programming-and-its-influence-on-hci",
+          "pubDate": "Mon, 12 Feb 2024 17:05:19 GMT",
+          "dc:creator": "Henry Wayne",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3431572",
-          "isoDate": "2024-02-09T17:23:54.000Z",
+          "guid": "https://dzone.com/articles/3432648",
+          "isoDate": "2024-02-12T17:05:19.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Maxim Muzafarov",
-          "title": "Making Dropwizard Metrics Accessible via CQL in Apache Cassandra",
-          "link": "https://dzone.com/articles/making-dropwizard-metrics-accessible-via-cql-in-ap",
-          "pubDate": "Fri, 09 Feb 2024 16:55:35 GMT",
-          "dc:creator": "Maxim Muzafarov",
+          "creator": "Dmitry Narizhnykh",
+          "title": "Aurora vs. RDS: How To Choose the Right AWS Database for 2024",
+          "link": "https://dzone.com/articles/aurora-vs-rds-how-to-choose-the-right-aws-database",
+          "pubDate": "Mon, 12 Feb 2024 16:54:11 GMT",
+          "dc:creator": "Dmitry Narizhnykh",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3431589",
-          "isoDate": "2024-02-09T16:55:35.000Z",
+          "guid": "https://dzone.com/articles/3431750",
+          "isoDate": "2024-02-12T16:54:11.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Rakesh Thoppaen Suresh Babu",
-          "title": "Computer Vision Tutorial 1: Image Basics",
-          "link": "https://dzone.com/articles/computer-vision-tutorial-1-image-basics",
-          "pubDate": "Fri, 09 Feb 2024 16:39:14 GMT",
-          "dc:creator": "Rakesh Thoppaen Suresh Babu",
+          "creator": "Sudheer Kandula",
+          "title": "Inside the World of AI Data Centers",
+          "link": "https://dzone.com/articles/inside-the-world-of-ai-data-centers",
+          "pubDate": "Mon, 12 Feb 2024 16:43:57 GMT",
+          "dc:creator": "Sudheer Kandula",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3431592",
-          "isoDate": "2024-02-09T16:39:14.000Z",
+          "guid": "https://dzone.com/articles/3433608",
+          "isoDate": "2024-02-12T16:43:57.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Saurav Bhattacharya",
-          "title": "Combating Malware Threats",
-          "link": "https://dzone.com/articles/combating-malware-threats",
-          "pubDate": "Fri, 09 Feb 2024 16:09:41 GMT",
-          "dc:creator": "Saurav Bhattacharya",
+          "creator": "Vidyasagar (Sarath Chandra) Machupalli",
+          "title": "Norm of a One-Dimensional Tensor in Python Libraries",
+          "link": "https://dzone.com/articles/norm-of-a-one-dimensional-tensor-in-python-libraries",
+          "pubDate": "Mon, 12 Feb 2024 16:34:29 GMT",
+          "dc:creator": "Vidyasagar (Sarath Chandra) Machupalli",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3427314",
-          "isoDate": "2024-02-09T16:09:41.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Priyanka Chauhan",
-          "title": "Creating a Hybrid Disaster Recovery Solution Utilizing Availability Group and Log-Shipping",
-          "link": "https://dzone.com/articles/creating-a-hybrid-disaster-recovery-solution-utili",
-          "pubDate": "Fri, 09 Feb 2024 14:59:41 GMT",
-          "dc:creator": "Priyanka Chauhan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3155082",
-          "categories": [
-            "sql (structured query language)"
-          ],
-          "isoDate": "2024-02-09T14:59:41.000Z",
+          "guid": "https://dzone.com/articles/3432628",
+          "isoDate": "2024-02-12T16:34:29.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -693,6 +689,108 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Pavel Sulimau",
+          "title": "Flutter: Sharing Dependencies in a Flutter Monorepo",
+          "link": "https://itnext.io/flutter-sharing-dependencies-in-a-flutter-monorepo-54f5e1cdb6a9?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 12 Feb 2024 23:03:30 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Pavel Sulimau",
+          "guid": "https://medium.com/p/54f5e1cdb6a9",
+          "categories": [
+            "dependencies",
+            "monorepo",
+            "flutter",
+            "dart"
+          ],
+          "isoDate": "2024-02-12T23:03:30.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ricardo Pereira",
+          "title": "Import icon library into OutSystems Applications",
+          "link": "https://itnext.io/import-icon-library-into-outsystems-applications-843a8082c29b?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 12 Feb 2024 23:02:21 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Ricardo Pereira",
+          "guid": "https://medium.com/p/843a8082c29b",
+          "categories": [
+            "outsystems",
+            "outsystems-development",
+            "outsystems-mvp"
+          ],
+          "isoDate": "2024-02-12T23:02:21.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ryan Hoffnan",
+          "title": "Imperative handlers the tricky parts",
+          "link": "https://itnext.io/imperative-handlers-the-tricky-parts-58b8e211b197?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 12 Feb 2024 23:00:33 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Ryan Hoffnan",
+          "guid": "https://medium.com/p/58b8e211b197",
+          "categories": [
+            "javascript",
+            "react",
+            "web-development",
+            "programming",
+            "hooks"
+          ],
+          "isoDate": "2024-02-12T23:00:33.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Czako Zoltan",
+          "title": "Stupid Simple AI — Random Forest Explained",
+          "link": "https://itnext.io/stupid-simple-ai-random-forest-explained-50a2bbc663c8?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 12 Feb 2024 19:54:38 GMT",
+          "dc:creator": "Czako Zoltan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/50a2bbc663c8",
+          "categories": [
+            "artificial-intelligence",
+            "machine-learning",
+            "random-forest",
+            "python",
+            "scikit-learn"
+          ],
+          "isoDate": "2024-02-12T19:54:38.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Nicolas A Perez",
+          "title": "Go composable iterator functions",
+          "link": "https://itnext.io/i-dont-know-yet-bf5a62a637dd?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 12 Feb 2024 07:52:02 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Nicolas A Perez",
+          "guid": "https://medium.com/p/bf5a62a637dd",
+          "categories": [
+            "technology",
+            "coding",
+            "computer-science",
+            "programming",
+            "go"
+          ],
+          "isoDate": "2024-02-12T07:52:02.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Héla Ben Khalfallah",
           "title": "Data structure for file management application",
@@ -796,107 +894,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Mohammad Hoseini Rad",
-          "title": "Part 2: Harnessing OpenAI Embeddings for Semantic Search — A Guide to Building Advanced Retrieval…",
-          "link": "https://itnext.io/part-2-harnessing-openai-embeddings-for-semantic-search-a-guide-to-building-advanced-retrieval-0bf886a32822?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sat, 10 Feb 2024 11:36:33 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Mohammad Hoseini Rad",
-          "guid": "https://medium.com/p/0bf886a32822",
-          "categories": [
-            "openai",
-            "chatgpt",
-            "software-development",
-            "semantical-search"
-          ],
-          "isoDate": "2024-02-10T11:36:33.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Razieh Behjati",
-          "title": "AsyncWrite and a Tale of Four Implementations",
-          "link": "https://itnext.io/asyncwrite-and-a-tale-of-four-implementations-e63aef8397f7?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 09 Feb 2024 18:02:17 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Razieh Behjati",
-          "guid": "https://medium.com/p/e63aef8397f7",
-          "categories": [
-            "rust",
-            "asynchronous-programming"
-          ],
-          "isoDate": "2024-02-09T18:02:17.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Jack Roper",
-          "title": "Terraform File Paths — Path Module, Root and Cwd",
-          "link": "https://itnext.io/terraform-file-paths-path-module-root-and-cwd-0d2214bf0f5d?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 09 Feb 2024 13:19:19 GMT",
-          "dc:creator": "Jack Roper",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/0d2214bf0f5d",
-          "categories": [
-            "infrastructure-as-code",
-            "devops",
-            "cloud",
-            "terraform",
-            "cloud-computing"
-          ],
-          "isoDate": "2024-02-09T13:19:19.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Enea Jahollari",
-          "title": "Creating reusable Router Signals APIs in Angular ️",
-          "link": "https://itnext.io/creating-reusable-router-signals-apis-in-angular-%EF%B8%8F-6c4411b35e2a?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 09 Feb 2024 09:06:20 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Enea Jahollari",
-          "guid": "https://medium.com/p/6c4411b35e2a",
-          "categories": [
-            "angular",
-            "router",
-            "observables",
-            "signal",
-            "rxjs"
-          ],
-          "isoDate": "2024-02-09T09:06:20.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Mikael Vesavuori",
-          "title": "What If IT is Valued Just The Same as Ditch-Digging?",
-          "link": "https://itnext.io/what-if-it-is-valued-just-the-same-as-ditch-digging-ba8277e47c71?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 08 Feb 2024 13:59:27 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Mikael Vesavuori",
-          "guid": "https://medium.com/p/ba8277e47c71",
-          "categories": [
-            "tech",
-            "technology",
-            "management",
-            "software-development",
-            "software-engineering"
-          ],
-          "isoDate": "2024-02-08T13:59:27.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -913,199 +910,188 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Mon, 12 Feb 2024 07:06:03 GMT"
+      "lastBuildDate": "Tue, 13 Feb 2024 07:07:24 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "András Tóth",
-          "title": "Twitter Firings: the hatred towards programmers",
-          "link": "https://dev.to/latobibor/twitter-firings-the-hatred-towards-programmers-4kgm",
-          "pubDate": "Mon, 12 Feb 2024 03:43:09 +0000",
-          "dc:creator": "András Tóth",
+          "creator": "Netsai",
+          "title": "🚀 Building Dynamic Web Applications with Preact: A Lightweight Alternative to React",
+          "link": "https://dev.to/madzimai/building-dynamic-web-applications-with-preact-a-lightweight-alternative-to-react-k73",
+          "pubDate": "Tue, 13 Feb 2024 06:08:49 +0000",
+          "dc:creator": "Netsai",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/latobibor/twitter-firings-the-hatred-towards-programmers-4kgm",
+          "guid": "https://dev.to/madzimai/building-dynamic-web-applications-with-preact-a-lightweight-alternative-to-react-k73",
           "categories": [
-            "socialissue",
-            "programmers",
-            "mentalhealth"
+            "react",
+            "beginners",
+            "webdev"
           ],
-          "isoDate": "2024-02-12T03:43:09.000Z",
+          "isoDate": "2024-02-13T06:08:49.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Narenthera Prasanth M",
-          "title": "JavaScript Promises",
-          "link": "https://dev.to/narenmnp/javascript-promises-3lgm",
-          "pubDate": "Mon, 12 Feb 2024 03:37:24 +0000",
-          "dc:creator": "Narenthera Prasanth M",
+          "creator": "Sh Raj",
+          "title": "YouTube Tags Generator API",
+          "link": "https://dev.to/sh20raj/youtube-tags-generator-api-276f",
+          "pubDate": "Tue, 13 Feb 2024 05:42:44 +0000",
+          "dc:creator": "Sh Raj",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/narenmnp/javascript-promises-3lgm",
+          "guid": "https://dev.to/sh20raj/youtube-tags-generator-api-276f",
           "categories": [
-            "javascript",
-            "webdev",
-            "programming",
-            "web"
-          ],
-          "isoDate": "2024-02-12T03:37:24.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Greg Perry",
-          "title": "StateX",
-          "link": "https://dev.to/andrious/statex-4f99",
-          "pubDate": "Mon, 12 Feb 2024 02:37:57 +0000",
-          "dc:creator": "Greg Perry",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/andrious/statex-4f99",
-          "categories": [
-            "flutter"
-          ],
-          "isoDate": "2024-02-12T02:37:57.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Abhishek Gupta",
-          "title": "[20 Days of DynamoDB] Day 19 - PartiQL Batch Operations",
-          "link": "https://dev.to/aws/20-days-of-dynamodb-day-19-partiql-batch-operations-mg6",
-          "pubDate": "Mon, 12 Feb 2024 02:34:48 +0000",
-          "dc:creator": "Abhishek Gupta",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/aws/20-days-of-dynamodb-day-19-partiql-batch-operations-mg6",
-          "categories": [
-            "dynamodb",
-            "serverless",
-            "database",
-            "cloud"
-          ],
-          "isoDate": "2024-02-12T02:34:48.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Devendra Devendra",
-          "title": "Understanding JavaScript Operators: A Comprehensive Guide",
-          "link": "https://dev.to/devendra_2806/understanding-javascript-operators-a-comprehensive-guide-57j1",
-          "pubDate": "Mon, 12 Feb 2024 01:29:59 +0000",
-          "dc:creator": "Devendra Devendra",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/devendra_2806/understanding-javascript-operators-a-comprehensive-guide-57j1",
-          "categories": [
-            "webdev",
             "javascript",
             "beginners",
-            "programming"
-          ],
-          "isoDate": "2024-02-12T01:29:59.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Farrukh Khalid",
-          "title": "Performance at scale: Amazon Aurora",
-          "link": "https://dev.to/farrukhkhalid/performance-at-scale-amazon-aurora-1o14",
-          "pubDate": "Mon, 12 Feb 2024 01:29:35 +0000",
-          "dc:creator": "Farrukh Khalid",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/farrukhkhalid/performance-at-scale-amazon-aurora-1o14",
-          "categories": [
-            "aws",
-            "cloud",
-            "devops",
-            "database"
-          ],
-          "isoDate": "2024-02-12T01:29:35.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ed Rutherford",
-          "title": "Goodbye Electron. Hello Tauri!",
-          "link": "https://dev.to/dedsyn4ps3/goodbye-electron-hello-tauri-26d5",
-          "pubDate": "Mon, 12 Feb 2024 01:21:24 +0000",
-          "dc:creator": "Ed Rutherford",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/dedsyn4ps3/goodbye-electron-hello-tauri-26d5",
-          "categories": [
-            "rust",
             "programming",
-            "javascript",
-            "react"
+            "webdev"
           ],
-          "isoDate": "2024-02-12T01:21:24.000Z",
+          "isoDate": "2024-02-13T05:42:44.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "dev.to staff",
-          "title": "How Crucial is Your LinkedIn Profile?",
-          "link": "https://dev.to/devteam/how-crucial-is-your-linkedin-profile-689",
-          "pubDate": "Mon, 12 Feb 2024 00:00:00 +0000",
-          "dc:creator": "dev.to staff",
+          "creator": "Brian Treese",
+          "title": "The New HTML Search Element 🔎",
+          "link": "https://dev.to/brianmtreese/the-new-html-search-element-3cic",
+          "pubDate": "Tue, 13 Feb 2024 04:28:54 +0000",
+          "dc:creator": "Brian Treese",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devteam/how-crucial-is-your-linkedin-profile-689",
+          "guid": "https://dev.to/brianmtreese/the-new-html-search-element-3cic",
           "categories": [
-            "discuss"
-          ],
-          "isoDate": "2024-02-12T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Cup of Code",
-          "title": "Wordle in React: Picking Up Where We Left Off!",
-          "link": "https://dev.to/cupofcode/wordle-in-react-picking-up-where-we-left-off-39j6",
-          "pubDate": "Sun, 11 Feb 2024 23:48:28 +0000",
-          "dc:creator": "Cup of Code",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/cupofcode/wordle-in-react-picking-up-where-we-left-off-39j6",
-          "categories": [
+            "html",
             "webdev",
-            "programming",
-            "react",
-            "beginners"
+            "search"
           ],
-          "isoDate": "2024-02-11T23:48:28.000Z",
+          "isoDate": "2024-02-13T04:28:54.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Dom Sipowicz",
-          "title": "Optimizing Codebases for AI Development Era",
-          "link": "https://dev.to/sip/optimizing-codebases-for-ai-development-era-2ajn",
-          "pubDate": "Sun, 11 Feb 2024 22:40:49 +0000",
-          "dc:creator": "Dom Sipowicz",
+          "creator": "Brian Treese",
+          "title": "How to Use Angular's New Control Flow Syntax",
+          "link": "https://dev.to/brianmtreese/how-to-use-angulars-new-control-flow-syntax-4h2k",
+          "pubDate": "Tue, 13 Feb 2024 04:03:02 +0000",
+          "dc:creator": "Brian Treese",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/sip/optimizing-codebases-for-ai-development-era-2ajn",
+          "guid": "https://dev.to/brianmtreese/how-to-use-angulars-new-control-flow-syntax-4h2k",
           "categories": [
-            "programming",
-            "productivity",
-            "ai",
-            "development"
+            "angular",
+            "webdev",
+            "javascript"
           ],
-          "isoDate": "2024-02-11T22:40:49.000Z",
+          "isoDate": "2024-02-13T04:03:02.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Brian Treese",
+          "title": "CSS Scroll-Driven Animations: First Look",
+          "link": "https://dev.to/brianmtreese/css-scroll-driven-animations-first-look-56d1",
+          "pubDate": "Tue, 13 Feb 2024 03:51:34 +0000",
+          "dc:creator": "Brian Treese",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/brianmtreese/css-scroll-driven-animations-first-look-56d1",
+          "categories": [
+            "css",
+            "webdev",
+            "animation"
+          ],
+          "isoDate": "2024-02-13T03:51:34.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Rahul Nath",
+          "title": "How To Set Up Dependency Injection in Lambda Functions Using Annotations Framework",
+          "link": "https://dev.to/rahulpnath/how-to-set-up-dependency-injection-in-lambda-functions-using-annotations-framework-41fk",
+          "pubDate": "Tue, 13 Feb 2024 03:37:15 +0000",
+          "dc:creator": "Rahul Nath",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/rahulpnath/how-to-set-up-dependency-injection-in-lambda-functions-using-annotations-framework-41fk",
+          "categories": [
+            "dotnet",
+            "aws",
+            "lambda"
+          ],
+          "isoDate": "2024-02-13T03:37:15.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sh Raj",
+          "title": "60+ Best Programming Memes for 2023",
+          "link": "https://dev.to/programmingmemes/60-best-programming-memes-for-2023-5bpb",
+          "pubDate": "Tue, 13 Feb 2024 03:36:17 +0000",
+          "dc:creator": "Sh Raj",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/programmingmemes/60-best-programming-memes-for-2023-5bpb",
+          "isoDate": "2024-02-13T03:36:17.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sh Raj",
+          "title": "50+ Programming Memes 😅",
+          "link": "https://dev.to/programmingmemes/50-programming-memes-12le",
+          "pubDate": "Tue, 13 Feb 2024 03:27:04 +0000",
+          "dc:creator": "Sh Raj",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/programmingmemes/50-programming-memes-12le",
+          "isoDate": "2024-02-13T03:27:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Olawale Adepoju",
+          "title": "Classifying and Extracting Data using Amazon Textract",
+          "link": "https://dev.to/aws-builders/classifying-and-extracting-data-using-amazon-textract-2e4h",
+          "pubDate": "Tue, 13 Feb 2024 03:22:19 +0000",
+          "dc:creator": "Olawale Adepoju",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/aws-builders/classifying-and-extracting-data-using-amazon-textract-2e4h",
+          "categories": [
+            "amazontextract",
+            "aws",
+            "nlp"
+          ],
+          "isoDate": "2024-02-13T03:22:19.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Brian Treese",
+          "title": "4 Ways to Toggle Classes in Angular",
+          "link": "https://dev.to/brianmtreese/4-ways-to-toggle-classes-in-angular-17lp",
+          "pubDate": "Tue, 13 Feb 2024 03:01:00 +0000",
+          "dc:creator": "Brian Treese",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/brianmtreese/4-ways-to-toggle-classes-in-angular-17lp",
+          "categories": [
+            "angular",
+            "css",
+            "webdev",
+            "javascript"
+          ],
+          "isoDate": "2024-02-13T03:01:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
