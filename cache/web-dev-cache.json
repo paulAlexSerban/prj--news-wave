@@ -89,24 +89,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Mahmud Adeleye",
-          "title": "Building a Research Assistant Tool with AI and JavaScript",
-          "link": "https://www.sitepoint.com/ai-javascript-research-assistant/?utm_source=rss",
-          "pubDate": "Sun, 18 Feb 2024 19:00:22 GMT",
-          "dc:creator": "Mahmud Adeleye",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "/?p=472867",
-          "categories": [
-            "AI",
-            "JavaScript"
-          ],
-          "isoDate": "2024-02-18T19:00:22.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.sitepoint.com/sitepoint.rss",
@@ -117,7 +99,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sun, 25 Feb 2024 05:02:42 GMT"
+      "lastBuildDate": "Mon, 26 Feb 2024 03:02:46 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -437,7 +419,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sun, 25 Feb 2024 06:35:00 GMT",
+      "lastBuildDate": "Mon, 26 Feb 2024 07:05:24 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -476,7 +458,7 @@
           "link": "https://tympanus.net/codrops/2024/02/20/case-study-ronin161s-portfolio-2024/",
           "pubDate": "Tue, 20 Feb 2024 10:26:44 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/02/ronin161_chara_optim.mp4?x96153",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/02/ronin161_chara_optim.mp4?x93181",
             "length": "3060264",
             "type": "video/mp4"
           },
@@ -696,6 +678,111 @@
     "itnext": {
       "items": [
         {
+          "creator": "Artem Lajko",
+          "title": "Ask Your Documents Anything: Unlock the Secrets with Conversational AI",
+          "link": "https://itnext.io/ask-your-documents-anything-unlock-the-secrets-with-conversational-ai-1255530b635d?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 25 Feb 2024 23:15:46 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Artem Lajko",
+          "guid": "https://medium.com/p/1255530b635d",
+          "categories": [
+            "software-development",
+            "kubernetes",
+            "ai",
+            "chatgpt",
+            "llm"
+          ],
+          "isoDate": "2024-02-25T23:15:46.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Saeed Zarinfam",
+          "title": "Can NetBeans bring us a decent Java Extension for VS Code?",
+          "link": "https://itnext.io/can-netbeans-bring-us-a-decent-java-extension-for-vs-code-836b339f6109?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 25 Feb 2024 19:09:28 GMT",
+          "dc:creator": "Saeed Zarinfam",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/836b339f6109",
+          "categories": [
+            "extension",
+            "java",
+            "vscode",
+            "netbeans",
+            "language-server"
+          ],
+          "isoDate": "2024-02-25T19:09:28.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Michel Ruffieux",
+          "title": "Setting up a lightweight Nut server with Docker",
+          "link": "https://itnext.io/setting-up-a-zero-config-nut-server-with-docker-f5c10e87cab7?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 25 Feb 2024 13:40:35 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Michel Ruffieux",
+          "guid": "https://medium.com/p/f5c10e87cab7",
+          "categories": [
+            "synology",
+            "nut-server",
+            "tin-foil",
+            "dockerfiles",
+            "docker"
+          ],
+          "isoDate": "2024-02-25T13:40:35.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Arseny Zinchenko (setevoy)",
+          "title": "Terraform: creating a module for collecting AWS ALB logs in Grafana Loki",
+          "link": "https://itnext.io/terraform-creating-a-module-for-collecting-aws-alb-logs-in-grafana-loki-1df1399b3a17?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 25 Feb 2024 09:04:01 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Arseny Zinchenko (setevoy)",
+          "guid": "https://medium.com/p/1df1399b3a17",
+          "categories": [
+            "monitoring",
+            "iac",
+            "aws",
+            "terraform",
+            "devops"
+          ],
+          "isoDate": "2024-02-25T09:04:01.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Patrick Kalkman",
+          "title": "Mastering Kubernetes Security — My Journey With Admission Controllers",
+          "link": "https://itnext.io/mastering-kubernetes-security-my-journey-with-admission-controllers-ca6f163e8c2a?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 25 Feb 2024 09:02:58 GMT",
+          "dc:creator": "Patrick Kalkman",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/ca6f163e8c2a",
+          "categories": [
+            "kubernetes",
+            "cybersecurity",
+            "container-orchestration",
+            "kubernetes-cluster",
+            "kubernetes-security"
+          ],
+          "isoDate": "2024-02-25T09:02:58.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Mirco | VerboseMode.dev",
           "title": "Top 5 Special-Use Features of Google Cloud Spanner",
           "link": "https://itnext.io/top-5-special-use-features-of-google-cloud-spanner-b5bda2fa37ca?source=rss----5b301f10ddcd---4",
@@ -797,107 +884,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Krzysztof Pranczk",
-          "title": "Introduction to Security in SDLC with SAST for Developers and Security Engineers",
-          "link": "https://itnext.io/introduction-to-security-in-sdlc-with-sast-for-developers-and-security-engineers-3fcffb1b2830?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 23 Feb 2024 18:13:36 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Krzysztof Pranczk",
-          "guid": "https://medium.com/p/3fcffb1b2830",
-          "categories": [
-            "cybersecurity",
-            "software-engineering",
-            "devsecops",
-            "application-security",
-            "programming"
-          ],
-          "isoDate": "2024-02-23T18:13:36.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Re Alvarez Parmar",
-          "title": "Add topology label to your Kubernetes Pods",
-          "link": "https://itnext.io/add-topology-label-to-your-kubernetes-pods-8c6fb4c1f891?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 23 Feb 2024 15:13:55 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Re Alvarez Parmar",
-          "guid": "https://medium.com/p/8c6fb4c1f891",
-          "categories": [
-            "kubernetes",
-            "kyverno",
-            "topology",
-            "controller"
-          ],
-          "isoDate": "2024-02-23T15:13:55.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nikolay Nikolov",
-          "title": "Fix your Software Stack",
-          "link": "https://itnext.io/fix-your-software-stack-e1a5d0aa2298?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 23 Feb 2024 15:12:13 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Nikolay Nikolov",
-          "guid": "https://medium.com/p/e1a5d0aa2298",
-          "categories": [
-            "software-development",
-            "software-engineering",
-            "development-tools"
-          ],
-          "isoDate": "2024-02-23T15:12:13.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Stefan Weber",
-          "title": "Progressive Web to Native Mobile with Capacitor",
-          "link": "https://itnext.io/progressive-web-to-native-mobile-with-capacitor-99cbf395e7d1?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 23 Feb 2024 09:32:25 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Stefan Weber",
-          "guid": "https://medium.com/p/99cbf395e7d1",
-          "categories": [
-            "pwa",
-            "ionic",
-            "ios",
-            "capacitorjs"
-          ],
-          "isoDate": "2024-02-23T09:32:25.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ricardo Mello",
-          "title": "MongoDB Compass — Convert Text into Queries with AI-Powered Natural Language",
-          "link": "https://itnext.io/mongodb-compass-convert-text-into-queries-with-ai-powered-natural-language-f708f9b54b2b?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 22 Feb 2024 15:17:41 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Ricardo Mello",
-          "guid": "https://medium.com/p/f708f9b54b2b",
-          "categories": [
-            "mongodb",
-            "naturallanguageprocessing",
-            "ai",
-            "inteligencia-artificial",
-            "query"
-          ],
-          "isoDate": "2024-02-22T15:17:41.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -914,194 +900,192 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sun, 25 Feb 2024 07:04:53 GMT"
+      "lastBuildDate": "Mon, 26 Feb 2024 07:01:38 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Marc Peejay V. Viernes",
-          "title": "📝 Exploring Palindromic Partitioning: Solving the \"Palindrome Partitioning\" Problem 📝",
-          "link": "https://dev.to/majesticshawarma/exploring-palindromic-partitioning-solving-the-palindrome-partitioning-problem-50hj",
-          "pubDate": "Sun, 25 Feb 2024 02:45:09 +0000",
-          "dc:creator": "Marc Peejay V. Viernes",
+          "creator": "Kudzai Murimi",
+          "title": "Monday Momentum: What's Your Plan for the Week, Developer 🤔?",
+          "link": "https://dev.to/respect17/monday-momentum-whats-your-plan-for-the-week-developer-thinkingface-4a6i",
+          "pubDate": "Mon, 26 Feb 2024 06:44:40 +0000",
+          "dc:creator": "Kudzai Murimi",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/majesticshawarma/exploring-palindromic-partitioning-solving-the-palindrome-partitioning-problem-50hj",
+          "guid": "https://dev.to/respect17/monday-momentum-whats-your-plan-for-the-week-developer-thinkingface-4a6i",
           "categories": [
-            "algorithms",
-            "learning",
-            "python",
-            "computerscience"
+            "discuss",
+            "developers",
+            "programming",
+            "coding"
           ],
-          "isoDate": "2024-02-25T02:45:09.000Z",
+          "isoDate": "2024-02-26T06:44:40.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Yawar Amin",
-          "title": "Format strings in OCaml",
-          "link": "https://dev.to/yawaramin/format-strings-in-ocaml-59ci",
-          "pubDate": "Sun, 25 Feb 2024 02:34:10 +0000",
-          "dc:creator": "Yawar Amin",
+          "creator": "vaatiesther",
+          "title": "How to Build a Weather App with HTML,CSS and Vanilla JavaScript",
+          "link": "https://dev.to/vaatiesther/how-to-build-a-weather-app-with-htmlcss-and-vanilla-javascript-316o",
+          "pubDate": "Mon, 26 Feb 2024 06:33:59 +0000",
+          "dc:creator": "vaatiesther",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/yawaramin/format-strings-in-ocaml-59ci",
+          "guid": "https://dev.to/vaatiesther/how-to-build-a-weather-app-with-htmlcss-and-vanilla-javascript-316o",
           "categories": [
-            "ocaml"
-          ],
-          "isoDate": "2024-02-25T02:34:10.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Admir Mujkic",
-          "title": "Simplifying File Management with .NET 8",
-          "link": "https://dev.to/admir_live/simplifying-file-management-with-net-8-38m",
-          "pubDate": "Sun, 25 Feb 2024 01:45:19 +0000",
-          "dc:creator": "Admir Mujkic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/admir_live/simplifying-file-management-with-net-8-38m",
-          "categories": [
-            "dotnet8",
-            "dotnet",
-            "csharp",
+            "webdev",
+            "javascript",
+            "beginners",
             "programming"
           ],
-          "isoDate": "2024-02-25T01:45:19.000Z",
+          "isoDate": "2024-02-26T06:33:59.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Amnish Singh Arora",
-          "title": "An Audio Player hook for your React App",
-          "link": "https://dev.to/amnish04/an-audio-player-hook-for-your-react-app-4gn9",
-          "pubDate": "Sun, 25 Feb 2024 01:37:18 +0000",
-          "dc:creator": "Amnish Singh Arora",
+          "creator": "Lisandra",
+          "title": "Handling Asynchronous Errors Like a Pro",
+          "link": "https://dev.to/lisichaviano/handling-asynchronous-errors-like-a-pro-4o5l",
+          "pubDate": "Mon, 26 Feb 2024 06:30:00 +0000",
+          "dc:creator": "Lisandra",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/amnish04/an-audio-player-hook-for-your-react-app-4gn9",
+          "guid": "https://dev.to/lisichaviano/handling-asynchronous-errors-like-a-pro-4o5l",
           "categories": [
-            "opensource",
-            "openai",
+            "javascript",
             "react",
-            "webdev"
+            "frontend",
+            "tutorial"
           ],
-          "isoDate": "2024-02-25T01:37:18.000Z",
+          "isoDate": "2024-02-26T06:30:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Arshad Zackeriya  🇳🇿 ☁️ ",
-          "title": "How to Secure Your AWS Account Using a Hardware security key [YubiKey]",
-          "link": "https://dev.to/aws-builders/how-to-secure-your-aws-account-using-a-hardware-security-key-yubikey-2mo0",
-          "pubDate": "Sun, 25 Feb 2024 00:42:31 +0000",
-          "dc:creator": "Arshad Zackeriya  🇳🇿 ☁️ ",
+          "creator": "AtulKushwaha",
+          "title": "Race condition in Python's threading🏁",
+          "link": "https://dev.to/coderatul/race-condition-in-pythons-threading-3o4g",
+          "pubDate": "Mon, 26 Feb 2024 05:00:00 +0000",
+          "dc:creator": "AtulKushwaha",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/aws-builders/how-to-secure-your-aws-account-using-a-hardware-security-key-yubikey-2mo0",
-          "categories": [
-            "aws",
-            "security",
-            "awssso",
-            "learning"
-          ],
-          "isoDate": "2024-02-25T00:42:31.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Christian Ameachi",
-          "title": "Experience Continuous Integration with Jenkins | Ansible | Artifactory | SonarQube | PHP",
-          "link": "https://dev.to/krizeal/experience-continuous-integration-with-jenkins-ansible-artifactory-sonarqube-php-3eo2",
-          "pubDate": "Sun, 25 Feb 2024 00:07:34 +0000",
-          "dc:creator": "Christian Ameachi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/krizeal/experience-continuous-integration-with-jenkins-ansible-artifactory-sonarqube-php-3eo2",
-          "isoDate": "2024-02-25T00:07:34.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "dev.to staff",
-          "title": "Caption This! 🤔💭",
-          "link": "https://dev.to/devteam/caption-this-4bgm",
-          "pubDate": "Sun, 25 Feb 2024 00:00:00 +0000",
-          "dc:creator": "dev.to staff",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/devteam/caption-this-4bgm",
-          "categories": [
-            "watercooler",
-            "discuss"
-          ],
-          "isoDate": "2024-02-25T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Paulo GP",
-          "title": "Conditional Statements in Python",
-          "link": "https://dev.to/tlayach/conditional-statements-in-python-34c9",
-          "pubDate": "Sat, 24 Feb 2024 23:52:18 +0000",
-          "dc:creator": "Paulo GP",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/tlayach/conditional-statements-in-python-34c9",
+          "guid": "https://dev.to/coderatul/race-condition-in-pythons-threading-3o4g",
           "categories": [
             "python",
-            "programming",
-            "beginners"
+            "async",
+            "programming"
           ],
-          "isoDate": "2024-02-24T23:52:18.000Z",
+          "isoDate": "2024-02-26T05:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Panchanan Panigrahi",
-          "title": "OWASP API10:2023 Unsafe Consumption of APIs",
-          "link": "https://dev.to/sre_panchanan/owasp-api102023-unsafe-consumption-of-apis-1noa",
-          "pubDate": "Sat, 24 Feb 2024 23:44:00 +0000",
-          "dc:creator": "Panchanan Panigrahi",
+          "creator": "Gabriel",
+          "title": "How to Setup Jenkins Locally With Oracle VirtualBox VM",
+          "link": "https://dev.to/gabbyti/how-to-setup-jenkins-locally-with-oracle-virtualbox-vm-3cmi",
+          "pubDate": "Mon, 26 Feb 2024 03:32:16 +0000",
+          "dc:creator": "Gabriel",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/sre_panchanan/owasp-api102023-unsafe-consumption-of-apis-1noa",
+          "guid": "https://dev.to/gabbyti/how-to-setup-jenkins-locally-with-oracle-virtualbox-vm-3cmi",
           "categories": [
-            "beginners",
-            "cybersecurity",
-            "devsecops",
-            "owasp"
+            "jenkins",
+            "ubuntu",
+            "oracle",
+            "tutorial"
           ],
-          "isoDate": "2024-02-24T23:44:00.000Z",
+          "isoDate": "2024-02-26T03:32:16.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Steve Yonkeu",
-          "title": "Programming languages generations",
-          "link": "https://dev.to/yokwejuste/programming-languages-generations-2o6p",
-          "pubDate": "Sat, 24 Feb 2024 23:16:51 +0000",
-          "dc:creator": "Steve Yonkeu",
+          "creator": "Olawale Adepoju",
+          "title": "Auto identification of languages in audio file and convert it from speech to text and redact PII using Amazon Transcribe",
+          "link": "https://dev.to/aws-builders/auto-identification-of-languages-in-audio-file-and-convert-it-from-speech-to-text-and-redact-pii-using-amazon-transcribe-2l94",
+          "pubDate": "Mon, 26 Feb 2024 03:11:30 +0000",
+          "dc:creator": "Olawale Adepoju",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/yokwejuste/programming-languages-generations-2o6p",
+          "guid": "https://dev.to/aws-builders/auto-identification-of-languages-in-audio-file-and-convert-it-from-speech-to-text-and-redact-pii-using-amazon-transcribe-2l94",
           "categories": [
-            "programming",
-            "beginners",
-            "news",
-            "development"
+            "amazontranscribe",
+            "ai",
+            "pii",
+            "s3"
           ],
-          "isoDate": "2024-02-24T23:16:51.000Z",
+          "isoDate": "2024-02-26T03:11:30.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Md Abdul Awal",
+          "title": "How you build NotesGPT – a full-stack AI voice note app",
+          "link": "https://dev.to/auwal2280/how-you-build-notesgpt-a-full-stack-ai-voice-note-app-24dk",
+          "pubDate": "Mon, 26 Feb 2024 03:03:03 +0000",
+          "dc:creator": "Md Abdul Awal",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/auwal2280/how-you-build-notesgpt-a-full-stack-ai-voice-note-app-24dk",
+          "isoDate": "2024-02-26T03:03:03.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "John Vitor Constant Lourenco",
+          "title": "ServiceNow and OpenAI",
+          "link": "https://dev.to/johnvitorconstant/servicenow-and-openai-296l",
+          "pubDate": "Mon, 26 Feb 2024 02:58:49 +0000",
+          "dc:creator": "John Vitor Constant Lourenco",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/johnvitorconstant/servicenow-and-openai-296l",
+          "categories": [
+            "servicenow",
+            "openai",
+            "javascript",
+            "tutorial"
+          ],
+          "isoDate": "2024-02-26T02:58:49.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "spkibe",
+          "title": "Web Scraping - Buy rent kenya website",
+          "link": "https://dev.to/spkibe/web-scraping-buy-rent-kenya-website-42bh",
+          "pubDate": "Mon, 26 Feb 2024 02:35:42 +0000",
+          "dc:creator": "spkibe",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/spkibe/web-scraping-buy-rent-kenya-website-42bh",
+          "isoDate": "2024-02-26T02:35:42.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Kedar Kodgire",
+          "title": "Obsessed with Apple.",
+          "link": "https://dev.to/kedark/obsessed-with-apple-2o4j",
+          "pubDate": "Mon, 26 Feb 2024 02:12:17 +0000",
+          "dc:creator": "Kedar Kodgire",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/kedark/obsessed-with-apple-2o4j",
+          "categories": [
+            "writing",
+            "career",
+            "learning"
+          ],
+          "isoDate": "2024-02-26T02:12:17.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
