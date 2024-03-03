@@ -134,7 +134,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sat, 02 Mar 2024 05:02:47 GMT"
+      "lastBuildDate": "Sun, 03 Mar 2024 05:02:30 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -475,7 +475,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sat, 02 Mar 2024 06:34:43 GMT",
+      "lastBuildDate": "Sun, 03 Mar 2024 06:34:38 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -580,6 +580,20 @@
     "DZone": {
       "items": [
         {
+          "creator": "Louis-Guillaume Morand",
+          "title": "A Comprehensive DevSecOps Guide: Key Considerations to Effectively Secure Your CI/CD Pipeline",
+          "link": "https://dzone.com/articles/comprehensive-devsecops-guide",
+          "pubDate": "Sat, 02 Mar 2024 14:00:01 GMT",
+          "dc:creator": "Louis-Guillaume Morand",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3437969",
+          "isoDate": "2024-03-02T14:00:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Apurva Kumar",
           "title": "Exploring Python Tools for Generative AI",
           "link": "https://dzone.com/articles/exploring-python-tools-for-generative-ai",
@@ -650,11 +664,11 @@
           "summary": ""
         },
         {
-          "creator": "Ramakrishnan Neelakandan",
+          "creator": "RK Neelakandan",
           "title": "Evaluating LLMs: Beyond Traditional Software Testing",
           "link": "https://dzone.com/articles/evaluating-llms-beyond-traditional-software-testin",
           "pubDate": "Fri, 01 Mar 2024 17:45:01 GMT",
-          "dc:creator": "Ramakrishnan Neelakandan",
+          "dc:creator": "RK Neelakandan",
           "content": "",
           "contentSnippet": "",
           "guid": "https://dzone.com/articles/3437824",
@@ -704,20 +718,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Samir Hazra",
-          "title": "The Art and Science of Software Testing",
-          "link": "https://dzone.com/articles/the-art-and-science-of-software-testing",
-          "pubDate": "Fri, 01 Mar 2024 14:45:00 GMT",
-          "dc:creator": "Samir Hazra",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3436787",
-          "isoDate": "2024-03-01T14:45:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -730,6 +730,68 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Pavel Sulimau",
+          "title": "Flutter: Modularized Dependency Injection",
+          "link": "https://itnext.io/flutter-modularized-dependency-injection-4362649f84ed?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 02 Mar 2024 17:50:40 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Pavel Sulimau",
+          "guid": "https://medium.com/p/4362649f84ed",
+          "categories": [
+            "maintainability",
+            "flutter",
+            "app-modularization",
+            "dependency-injection",
+            "architecture"
+          ],
+          "isoDate": "2024-03-02T17:50:40.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Arseny Zinchenko (setevoy)",
+          "title": "Kubernetes: tracing requests with AWS X-Ray, and Grafana data source",
+          "link": "https://itnext.io/kubernetes-tracing-requests-with-aws-x-ray-and-grafana-data-source-c4e11f2509b1?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 02 Mar 2024 13:04:07 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Arseny Zinchenko (setevoy)",
+          "guid": "https://medium.com/p/c4e11f2509b1",
+          "categories": [
+            "kubernetes",
+            "aws",
+            "monitoring",
+            "devops"
+          ],
+          "isoDate": "2024-03-02T13:04:07.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Dale Nguyen",
+          "title": "Deploying a Shopify App to Google Cloud Run: A Step-by-Step Guide",
+          "link": "https://itnext.io/deploying-a-shopify-app-to-google-cloud-run-a-step-by-step-guide-ee3fd113de85?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 02 Mar 2024 08:33:32 GMT",
+          "dc:creator": "Dale Nguyen",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/ee3fd113de85",
+          "categories": [
+            "shopify-app-development",
+            "shopify",
+            "gcp",
+            "google-cloud-run",
+            "shopify-development"
+          ],
+          "isoDate": "2024-03-02T08:33:32.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Alberto Azinar",
           "title": "Translate Your Flutter App in Seconds with arb_translate package",
@@ -870,67 +932,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "fatbobman ( 东坡肘子)",
-          "title": "Swift Predicate: Usage, Composition, and Considerations",
-          "link": "https://itnext.io/swift-predicate-usage-composition-and-considerations-ba34a39a15cb?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 28 Feb 2024 23:35:48 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "fatbobman ( 东坡肘子)",
-          "guid": "https://medium.com/p/ba34a39a15cb",
-          "categories": [
-            "swiftui",
-            "mobile-app-development",
-            "swiftdata",
-            "ios-app-development",
-            "swift"
-          ],
-          "isoDate": "2024-02-28T23:35:48.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Dale Nguyen",
-          "title": "Leverage Nx to Publish Your Angular Library on NPM",
-          "link": "https://itnext.io/leverage-nx-to-publish-your-angular-library-on-npm-15a9e77b6602?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 28 Feb 2024 23:34:28 GMT",
-          "dc:creator": "Dale Nguyen",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/15a9e77b6602",
-          "categories": [
-            "nx",
-            "angular",
-            "npm",
-            "web",
-            "libraries"
-          ],
-          "isoDate": "2024-02-28T23:34:28.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Anton Kalik",
-          "title": "Crafting a Custom Sports Activity Service with OpenAI and Node JS",
-          "link": "https://itnext.io/crafting-a-custom-sports-activity-service-with-openai-and-node-js-8b108ffd47df?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 28 Feb 2024 23:32:43 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Anton Kalik",
-          "guid": "https://medium.com/p/8b108ffd47df",
-          "categories": [
-            "open-ai-api",
-            "knex",
-            "nodejs"
-          ],
-          "isoDate": "2024-02-28T23:32:43.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -947,191 +948,193 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sat, 02 Mar 2024 07:02:26 GMT"
+      "lastBuildDate": "Sun, 03 Mar 2024 07:03:04 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Nilesh Raut",
-          "title": "How to Implement Sharding in MongoDB",
-          "link": "https://dev.to/speaklouder/how-to-implement-sharding-in-mongodb-koe",
-          "pubDate": "Sat, 02 Mar 2024 04:31:21 +0000",
-          "dc:creator": "Nilesh Raut",
+          "creator": "Juliano Silva",
+          "title": "Digital Surveillance is good?",
+          "link": "https://dev.to/snakeziin/digital-surveillance-is-good-55oj",
+          "pubDate": "Sun, 03 Mar 2024 06:29:26 +0000",
+          "dc:creator": "Juliano Silva",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/speaklouder/how-to-implement-sharding-in-mongodb-koe",
+          "guid": "https://dev.to/snakeziin/digital-surveillance-is-good-55oj",
+          "isoDate": "2024-03-03T06:29:26.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Rudransh Bhardwaj",
+          "title": "Hey Devs , Lets code something usefull....",
+          "link": "https://dev.to/rudransh61/hey-devs-lets-code-something-usefull-152g",
+          "pubDate": "Sun, 03 Mar 2024 06:14:32 +0000",
+          "dc:creator": "Rudransh Bhardwaj",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/rudransh61/hey-devs-lets-code-something-usefull-152g",
           "categories": [
-            "mongodb",
-            "systemdesign",
-            "sharding",
-            "database"
-          ],
-          "isoDate": "2024-03-02T04:31:21.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nezir Zahirovic",
-          "title": "Celebrating 10 Million Views: Exploring Ruby on Rails .ba",
-          "link": "https://dev.to/nezirzahirovic/celebrating-10-million-views-exploring-ruby-on-rails-ba-5gp4",
-          "pubDate": "Sat, 02 Mar 2024 03:08:39 +0000",
-          "dc:creator": "Nezir Zahirovic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/nezirzahirovic/celebrating-10-million-views-exploring-ruby-on-rails-ba-5gp4",
-          "categories": [
-            "ruby",
-            "rails",
-            "10millions",
-            "views"
-          ],
-          "isoDate": "2024-03-02T03:08:39.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Fernando",
-          "title": "Angular 14 + Prettier + Husky Setup",
-          "link": "https://dev.to/xansiety/angular-14-prettier-husky-setup-4hcm",
-          "pubDate": "Sat, 02 Mar 2024 00:10:27 +0000",
-          "dc:creator": "Fernando",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/xansiety/angular-14-prettier-husky-setup-4hcm",
-          "categories": [
-            "angular",
-            "husky",
-            "typescript",
-            "prettier"
-          ],
-          "isoDate": "2024-03-02T00:10:27.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "dev.to staff",
-          "title": "Caption This! 🤔💭",
-          "link": "https://dev.to/devteam/caption-this-1673",
-          "pubDate": "Sat, 02 Mar 2024 00:00:00 +0000",
-          "dc:creator": "dev.to staff",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/devteam/caption-this-1673",
-          "categories": [
-            "watercooler",
-            "discuss"
-          ],
-          "isoDate": "2024-03-02T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Paulo GP",
-          "title": "Working with pydantic in Python",
-          "link": "https://dev.to/tlayach/working-with-pydantic-in-python-46n6",
-          "pubDate": "Fri, 01 Mar 2024 23:27:10 +0000",
-          "dc:creator": "Paulo GP",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/tlayach/working-with-pydantic-in-python-46n6",
-          "categories": [
-            "python",
-            "beginners",
-            "programming"
-          ],
-          "isoDate": "2024-03-01T23:27:10.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ankush Kashyap",
-          "title": "A Beginner's Guide to Dive into Machine Learning: Resources and Tips",
-          "link": "https://dev.to/ankush511/a-beginners-guide-to-dive-into-machine-learning-resources-and-tips-520n",
-          "pubDate": "Fri, 01 Mar 2024 22:22:01 +0000",
-          "dc:creator": "Ankush Kashyap",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/ankush511/a-beginners-guide-to-dive-into-machine-learning-resources-and-tips-520n",
-          "isoDate": "2024-03-01T22:22:01.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Fatemeh Paghar",
-          "title": "Deep in Javascript DOM Traversal 2",
-          "link": "https://dev.to/fpaghar/deep-in-javascript-dom-traversal-2-300g",
-          "pubDate": "Fri, 01 Mar 2024 22:12:12 +0000",
-          "dc:creator": "Fatemeh Paghar",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/fpaghar/deep-in-javascript-dom-traversal-2-300g",
-          "categories": [
-            "javascript",
-            "react",
-            "angular",
-            "vue"
-          ],
-          "isoDate": "2024-03-01T22:12:12.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Fatemeh Paghar",
-          "title": "Deep in Javascript DOM Traversal 1",
-          "link": "https://dev.to/fpaghar/deep-in-javascript-dom-traversal-1-2hoo",
-          "pubDate": "Fri, 01 Mar 2024 22:11:16 +0000",
-          "dc:creator": "Fatemeh Paghar",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/fpaghar/deep-in-javascript-dom-traversal-1-2hoo",
-          "categories": [
-            "javascript",
-            "react",
-            "angular",
-            "vue"
-          ],
-          "isoDate": "2024-03-01T22:11:16.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Jon Lunsford",
-          "title": "Refactoring Ruby: Introduce Null Object",
-          "link": "https://dev.to/jonlunsford/refactoring-ruby-introduce-null-object-c5i",
-          "pubDate": "Fri, 01 Mar 2024 21:56:19 +0000",
-          "dc:creator": "Jon Lunsford",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/jonlunsford/refactoring-ruby-introduce-null-object-c5i",
-          "isoDate": "2024-03-01T21:56:19.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "koshirok096",
-          "title": "Husky: Step by Step (Bite-size Article)",
-          "link": "https://dev.to/koshirok096/husky-step-by-step-bite-size-article-1c4f",
-          "pubDate": "Fri, 01 Mar 2024 21:54:34 +0000",
-          "dc:creator": "koshirok096",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/koshirok096/husky-step-by-step-bite-size-article-1c4f",
-          "categories": [
-            "husky",
-            "jest",
-            "testing",
+            "wecoded",
+            "opensource",
+            "programming",
             "beginners"
           ],
-          "isoDate": "2024-03-01T21:54:34.000Z",
+          "isoDate": "2024-03-03T06:14:32.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Alvaro Montoro",
+          "title": "10 Cool CodePen Demos (February 2024)",
+          "link": "https://dev.to/alvaromontoro/10-cool-codepen-demos-february-2024-1me5",
+          "pubDate": "Sun, 03 Mar 2024 04:43:14 +0000",
+          "dc:creator": "Alvaro Montoro",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/alvaromontoro/10-cool-codepen-demos-february-2024-1me5",
+          "categories": [
+            "css",
+            "webdev",
+            "showdev",
+            "html"
+          ],
+          "isoDate": "2024-03-03T04:43:14.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Emdadul Islam",
+          "title": "Title: A Beginner's Guide to Command-Line File and Directory Manipulation",
+          "link": "https://dev.to/mdadul/title-a-beginners-guide-to-command-line-file-and-directory-manipulation-51of",
+          "pubDate": "Sun, 03 Mar 2024 04:10:43 +0000",
+          "dc:creator": "Emdadul Islam",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/mdadul/title-a-beginners-guide-to-command-line-file-and-directory-manipulation-51of",
+          "categories": [
+            "linux",
+            "command",
+            "cmd"
+          ],
+          "isoDate": "2024-03-03T04:10:43.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Jonathan Gamble",
+          "title": "The State of Angular SSR Deployment in 2024",
+          "link": "https://dev.to/jdgamble555/the-state-of-angular-ssr-deployment-in-2024-17jb",
+          "pubDate": "Sun, 03 Mar 2024 01:45:37 +0000",
+          "dc:creator": "Jonathan Gamble",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/jdgamble555/the-state-of-angular-ssr-deployment-in-2024-17jb",
+          "categories": [
+            "angular",
+            "webdev",
+            "javascript",
+            "deployment"
+          ],
+          "isoDate": "2024-03-03T01:45:37.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "eaca89",
+          "title": "10 Django Projects Ideas for Beginners",
+          "link": "https://dev.to/eaca89/10-django-projects-ideas-for-beginners-483f",
+          "pubDate": "Sun, 03 Mar 2024 01:32:50 +0000",
+          "dc:creator": "eaca89",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/eaca89/10-django-projects-ideas-for-beginners-483f",
+          "categories": [
+            "webdev",
+            "python",
+            "django",
+            "backenddevelopment"
+          ],
+          "isoDate": "2024-03-03T01:32:50.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Benjamen Pyle",
+          "title": "Embrace that a Career isn’t always Measured by Climbing the Technology Ladder",
+          "link": "https://dev.to/aws-builders/embrace-that-a-career-isnt-always-measured-by-climbing-the-technology-ladder-4p5b",
+          "pubDate": "Sun, 03 Mar 2024 01:27:50 +0000",
+          "dc:creator": "Benjamen Pyle",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/aws-builders/embrace-that-a-career-isnt-always-measured-by-climbing-the-technology-ladder-4p5b",
+          "categories": [
+            "leadership",
+            "career",
+            "development"
+          ],
+          "isoDate": "2024-03-03T01:27:50.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Lucas Cruz",
+          "title": "Verificando se item já existe em uma lista de objetos em JAVASCRIPT",
+          "link": "https://dev.to/olucascruz/verificando-se-item-ja-existe-em-uma-lista-de-objetos-em-javascript-3h5j",
+          "pubDate": "Sun, 03 Mar 2024 01:15:20 +0000",
+          "dc:creator": "Lucas Cruz",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/olucascruz/verificando-se-item-ja-existe-em-uma-lista-de-objetos-em-javascript-3h5j",
+          "categories": [
+            "javascript",
+            "programming",
+            "braziliandevs"
+          ],
+          "isoDate": "2024-03-03T01:15:20.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Elliot Brenya sarfo",
+          "title": "How is your mental health right now?",
+          "link": "https://dev.to/elliot_brenya/how-is-your-mental-health-right-now-25bj",
+          "pubDate": "Sun, 03 Mar 2024 00:57:47 +0000",
+          "dc:creator": "Elliot Brenya sarfo",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/elliot_brenya/how-is-your-mental-health-right-now-25bj",
+          "categories": [
+            "discuss"
+          ],
+          "isoDate": "2024-03-03T00:57:47.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mirza Leka",
+          "title": "Learn how to document JavaScript/TypeScript code using JSDoc & Typedoc",
+          "link": "https://dev.to/mirzaleka/learn-how-to-document-javascripttypescript-code-using-jsdoc-typedoc-359h",
+          "pubDate": "Sun, 03 Mar 2024 00:48:49 +0000",
+          "dc:creator": "Mirza Leka",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/mirzaleka/learn-how-to-document-javascripttypescript-code-using-jsdoc-typedoc-359h",
+          "categories": [
+            "javascript",
+            "typescript",
+            "typedoc"
+          ],
+          "isoDate": "2024-03-03T00:48:49.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
