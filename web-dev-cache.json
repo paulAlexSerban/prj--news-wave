@@ -122,7 +122,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sat, 09 Mar 2024 05:02:35 GMT"
+      "lastBuildDate": "Sun, 10 Mar 2024 05:02:24 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -465,7 +465,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sat, 09 Mar 2024 06:35:29 GMT",
+      "lastBuildDate": "Sun, 10 Mar 2024 06:34:52 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -574,6 +574,34 @@
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Vijay Panwar",
+          "title": "Seamless Integration: Connecting AWS Lambda to RDS and Writing Data Effortlessly",
+          "link": "https://dzone.com/articles/AWS-Lambda-to-RDS",
+          "pubDate": "Sat, 09 Mar 2024 19:00:01 GMT",
+          "dc:creator": "Vijay Panwar",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3434744",
+          "isoDate": "2024-03-09T19:00:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Tom Smith",
+          "title": "Solix Empowers the Data-Driven Enterprise With Comprehensive Data Management and Integration Solutions",
+          "link": "https://dzone.com/articles/solix-empowers-the-data-driven-enterprise-with-com",
+          "pubDate": "Sat, 09 Mar 2024 12:00:03 GMT",
+          "dc:creator": "Tom Smith",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3443248",
+          "isoDate": "2024-03-09T12:00:03.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Arun Pandey",
           "title": "A Developer's Guide to Database Sharding With MongoDB",
@@ -685,34 +713,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Konstantin Berezin",
-          "title": "Python in Urban Planning",
-          "link": "https://dzone.com/articles/python-in-urban-planning",
-          "pubDate": "Fri, 08 Mar 2024 16:25:29 GMT",
-          "dc:creator": "Konstantin Berezin",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3442249",
-          "isoDate": "2024-03-08T16:25:29.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Suhas Jangoan",
-          "title": "Introduction to Modern Data Stack",
-          "link": "https://dzone.com/articles/introduction-to-modern-data-stack",
-          "pubDate": "Fri, 08 Mar 2024 16:00:00 GMT",
-          "dc:creator": "Suhas Jangoan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3442254",
-          "isoDate": "2024-03-08T16:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -725,6 +725,27 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Raphael Yoshiga",
+          "title": "Become a better Developer with 10 principles.",
+          "link": "https://itnext.io/become-a-better-developer-with-10-principles-911b6252e881?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 09 Mar 2024 22:20:04 GMT",
+          "dc:creator": "Raphael Yoshiga",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/911b6252e881",
+          "categories": [
+            "developer",
+            "engineering-management",
+            "software-engineering",
+            "programming",
+            "software-development"
+          ],
+          "isoDate": "2024-03-09T22:20:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Nicolas Fränkel",
           "title": "From Kotlin Scripting to Python",
@@ -909,27 +930,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Artem Lajko",
-          "title": "Cluster.dev: Is it the right Kubernetes Bootstrapping tool for you?",
-          "link": "https://itnext.io/cluster-dev-is-it-the-right-kubernetes-bootstrapping-tool-for-you-6dd5e92aa9a0?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 06 Mar 2024 12:13:32 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Artem Lajko",
-          "guid": "https://medium.com/p/6dd5e92aa9a0",
-          "categories": [
-            "kubernetes",
-            "devops",
-            "cloud-computing",
-            "terraform",
-            "helm"
-          ],
-          "isoDate": "2024-03-06T12:13:32.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -946,198 +946,204 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sat, 09 Mar 2024 06:53:27 GMT"
+      "lastBuildDate": "Sun, 10 Mar 2024 07:05:55 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Chris Harris",
-          "title": "How to Self-Publish a Cookbook?",
-          "link": "https://dev.to/chris_h/how-to-self-publish-a-cookbook-46mk",
-          "pubDate": "Sat, 09 Mar 2024 06:12:43 +0000",
-          "dc:creator": "Chris Harris",
+          "creator": "Aditya Mathur",
+          "title": "Things I learned while building my JS library",
+          "link": "https://dev.to/mathuraditya7/things-i-learned-while-building-my-js-library-2k06",
+          "pubDate": "Sun, 10 Mar 2024 06:41:26 +0000",
+          "dc:creator": "Aditya Mathur",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/chris_h/how-to-self-publish-a-cookbook-46mk",
+          "guid": "https://dev.to/mathuraditya7/things-i-learned-while-building-my-js-library-2k06",
           "categories": [
-            "cook",
-            "book",
-            "ebook",
-            "publish"
+            "webdev",
+            "javascript",
+            "beginners",
+            "programming"
           ],
-          "isoDate": "2024-03-09T06:12:43.000Z",
+          "isoDate": "2024-03-10T06:41:26.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Chris Cook",
+          "title": "Format and Parse Amazon S3 URL",
+          "link": "https://dev.to/aws-builders/format-and-parse-amazon-s3-url-5e10",
+          "pubDate": "Sun, 10 Mar 2024 06:17:04 +0000",
+          "dc:creator": "Chris Cook",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/aws-builders/format-and-parse-amazon-s3-url-5e10",
+          "categories": [
+            "webdev",
+            "javascript",
+            "typescript",
+            "programming"
+          ],
+          "isoDate": "2024-03-10T06:17:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Aravind V",
+          "title": "GenLearn - Your Personalized Learning Assistant!",
+          "link": "https://dev.to/aws-builders/genlearn-your-personalized-learning-assistant-56l",
+          "pubDate": "Sun, 10 Mar 2024 05:25:59 +0000",
+          "dc:creator": "Aravind V",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/aws-builders/genlearn-your-personalized-learning-assistant-56l",
+          "categories": [
+            "genai",
+            "bedrock",
+            "partyrock",
+            "llm"
+          ],
+          "isoDate": "2024-03-10T05:25:59.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "insideee.dev",
+          "title": "Neovim: A Powerful and Customizable Text Editor - An Introduction for Beginners",
+          "link": "https://dev.to/insideee_dev/neovim-a-powerful-and-customizable-text-editor-an-introduction-for-beginners-17gb",
+          "pubDate": "Sun, 10 Mar 2024 04:38:25 +0000",
+          "dc:creator": "insideee.dev",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/insideee_dev/neovim-a-powerful-and-customizable-text-editor-an-introduction-for-beginners-17gb",
+          "categories": [
+            "beginners",
+            "nvim",
+            "tooling",
+            "insideeedev"
+          ],
+          "isoDate": "2024-03-10T04:38:25.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Rudolf Olah",
+          "title": "Profiling Python Code for Performance",
+          "link": "https://dev.to/rudolfolah/profiling-python-code-for-performance-51gl",
+          "pubDate": "Sun, 10 Mar 2024 01:43:13 +0000",
+          "dc:creator": "Rudolf Olah",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/rudolfolah/profiling-python-code-for-performance-51gl",
+          "categories": [
+            "python",
+            "performance"
+          ],
+          "isoDate": "2024-03-10T01:43:13.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Cole Heard",
+          "title": "Input Validation - Terraform Tips & Tricks",
+          "link": "https://dev.to/coleheard/input-validation-terraform-tips-tricks-3ndl",
+          "pubDate": "Sun, 10 Mar 2024 00:20:11 +0000",
+          "dc:creator": "Cole Heard",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/coleheard/input-validation-terraform-tips-tricks-3ndl",
+          "categories": [
+            "beginners",
+            "terraform",
+            "devops",
+            "infrastructureascode"
+          ],
+          "isoDate": "2024-03-10T00:20:11.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Revathi Joshi",
+          "title": "How to move an Amazon RDS DB instance from an Amazon Virtual Private Cloud (Amazon VPC) to a new VPC",
+          "link": "https://dev.to/aws-builders/how-to-move-an-amazon-rds-db-instance-from-an-amazon-virtual-private-cloud-amazon-vpc-to-a-new-vpc-2gp2",
+          "pubDate": "Sat, 09 Mar 2024 23:12:24 +0000",
+          "dc:creator": "Revathi Joshi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/aws-builders/how-to-move-an-amazon-rds-db-instance-from-an-amazon-virtual-private-cloud-amazon-vpc-to-a-new-vpc-2gp2",
+          "categories": [
+            "rds",
+            "vpc",
+            "securitygroups",
+            "subnets"
+          ],
+          "isoDate": "2024-03-09T23:12:24.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Olalekan Oladiran",
+          "title": "Migrating SQL Server to Azure SQL Database with SQL Server Management Studio (SSMS)",
+          "link": "https://dev.to/olalekan_oladiran_d74b7a6/migrating-sql-server-to-azure-sql-database-with-sql-server-management-studio-ssms-23g1",
+          "pubDate": "Sat, 09 Mar 2024 22:48:29 +0000",
+          "dc:creator": "Olalekan Oladiran",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/olalekan_oladiran_d74b7a6/migrating-sql-server-to-azure-sql-database-with-sql-server-management-studio-ssms-23g1",
+          "categories": [
+            "database",
+            "sql",
+            "azure",
+            "vscode"
+          ],
+          "isoDate": "2024-03-09T22:48:29.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "elanatframework",
+          "title": "How to Load Controller Class From Another DLL?",
+          "link": "https://dev.to/elanatframework/how-to-load-controller-class-from-another-dll-56k2",
+          "pubDate": "Sat, 09 Mar 2024 22:28:04 +0000",
+          "dc:creator": "elanatframework",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/elanatframework/how-to-load-controller-class-from-another-dll-56k2",
+          "categories": [
+            "dotnet",
+            "csharp",
+            "development",
+            "backend"
+          ],
+          "isoDate": "2024-03-09T22:28:04.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
           "creator": "Arjun Vijay Prakash",
-          "title": "🚀 You NEED to Start Using Vercel Right Now! 🌟",
-          "link": "https://dev.to/arjuncodess/you-need-to-start-using-vercel-right-now-3kff",
-          "pubDate": "Sat, 09 Mar 2024 05:55:47 +0000",
+          "title": "Stop Manually Coding UI Components! 🔼❌",
+          "link": "https://dev.to/arjuncodess/stop-manually-coding-ui-components-1h4f",
+          "pubDate": "Sat, 09 Mar 2024 21:30:00 +0000",
           "dc:creator": "Arjun Vijay Prakash",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/arjuncodess/you-need-to-start-using-vercel-right-now-3kff",
+          "guid": "https://dev.to/arjuncodess/stop-manually-coding-ui-components-1h4f",
           "categories": [
             "webdev",
-            "vercel",
             "nextjs",
-            "news"
+            "tailwindcss",
+            "v0"
           ],
-          "isoDate": "2024-03-09T05:55:47.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Muhammad Salman Tahir",
-          "title": "Streamline School Management With Innovative Software",
-          "link": "https://dev.to/sal786/streamline-school-management-with-innovative-software-50e2",
-          "pubDate": "Sat, 09 Mar 2024 05:33:30 +0000",
-          "dc:creator": "Muhammad Salman Tahir",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/sal786/streamline-school-management-with-innovative-software-50e2",
-          "categories": [
-            "school",
-            "softwaredevelopment",
-            "management",
-            "software"
-          ],
-          "isoDate": "2024-03-09T05:33:30.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Kudzai Murimi",
-          "title": "Is Transitioning from React.js to React Native as Easy as It Seems?",
-          "link": "https://dev.to/respect17/is-transitioning-from-reactjs-to-react-native-as-easy-as-it-seems-2mao",
-          "pubDate": "Sat, 09 Mar 2024 05:22:08 +0000",
-          "dc:creator": "Kudzai Murimi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/respect17/is-transitioning-from-reactjs-to-react-native-as-easy-as-it-seems-2mao",
-          "categories": [
-            "webdev",
-            "reactnative",
-            "react",
-            "beginners"
-          ],
-          "isoDate": "2024-03-09T05:22:08.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "creuser",
-          "title": "You might want to replace cd command with Zoxide 🎉 — a smarter and trainable cd alternative 🗂️",
-          "link": "https://dev.to/creuserr/you-might-want-to-replace-cd-command-with-zoxide-a-smarter-and-trainable-cd-alternative-5b7o",
-          "pubDate": "Sat, 09 Mar 2024 04:19:34 +0000",
-          "dc:creator": "creuser",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/creuserr/you-might-want-to-replace-cd-command-with-zoxide-a-smarter-and-trainable-cd-alternative-5b7o",
-          "categories": [
-            "linux",
-            "opensource"
-          ],
-          "isoDate": "2024-03-09T04:19:34.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "cuongnp",
-          "title": "5 Tips for avoiding mistakes while working with server",
-          "link": "https://dev.to/cuongnp/5-tips-for-avoiding-mistakes-while-working-with-server-5am3",
-          "pubDate": "Sat, 09 Mar 2024 04:18:47 +0000",
-          "dc:creator": "cuongnp",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/cuongnp/5-tips-for-avoiding-mistakes-while-working-with-server-5am3",
-          "categories": [
-            "ssh",
-            "tips",
-            "tutorial",
-            "productivity"
-          ],
-          "isoDate": "2024-03-09T04:18:47.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Kuth",
-          "title": "Understanding and Implementing Recurrent Networks (RNNs) from Scratch in Python",
-          "link": "https://dev.to/kuthchi/understanding-and-implementing-recurrent-networks-rnns-from-scratch-in-python-46ec",
-          "pubDate": "Sat, 09 Mar 2024 04:12:15 +0000",
-          "dc:creator": "Kuth",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/kuthchi/understanding-and-implementing-recurrent-networks-rnns-from-scratch-in-python-46ec",
-          "categories": [
-            "python",
-            "machinelearning",
-            "tutorial",
-            "ai"
-          ],
-          "isoDate": "2024-03-09T04:12:15.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nandini S Hinduja",
-          "title": "Women's Day",
-          "link": "https://dev.to/nandinishinduja/womens-day-4d9f",
-          "pubDate": "Sat, 09 Mar 2024 04:06:03 +0000",
-          "dc:creator": "Nandini S Hinduja",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/nandinishinduja/womens-day-4d9f",
-          "categories": [
-            "career",
-            "discuss",
-            "coding",
-            "programming"
-          ],
-          "isoDate": "2024-03-09T04:06:03.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "dtechunt",
-          "title": "How to Choose the Right CMS for Your Website",
-          "link": "https://dev.to/dtechunt/how-to-choose-the-right-cms-for-your-website-23k4",
-          "pubDate": "Sat, 09 Mar 2024 02:14:27 +0000",
-          "dc:creator": "dtechunt",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/dtechunt/how-to-choose-the-right-cms-for-your-website-23k4",
-          "isoDate": "2024-03-09T02:14:27.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Prashant Lakhera",
-          "title": "📌 21 Days of DevOps Interview - Day 10 - Linux Boot Process📌",
-          "link": "https://dev.to/lakhera2015/21-days-of-devops-interview-day-10-linux-boot-process-ao6",
-          "pubDate": "Sat, 09 Mar 2024 02:08:26 +0000",
-          "dc:creator": "Prashant Lakhera",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/lakhera2015/21-days-of-devops-interview-day-10-linux-boot-process-ao6",
-          "categories": [
-            "linux",
-            "devops",
-            "redhat",
-            "hardware"
-          ],
-          "isoDate": "2024-03-09T02:08:26.000Z",
+          "isoDate": "2024-03-09T21:30:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
