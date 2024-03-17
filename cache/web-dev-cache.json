@@ -143,7 +143,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sat, 16 Mar 2024 05:02:38 GMT"
+      "lastBuildDate": "Sun, 17 Mar 2024 05:02:37 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -464,7 +464,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sat, 16 Mar 2024 06:35:12 GMT",
+      "lastBuildDate": "Sun, 17 Mar 2024 06:35:19 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -569,6 +569,34 @@
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Rajat Gupta",
+          "title": "Understanding the 2024 Cloud Security Landscape",
+          "link": "https://dzone.com/articles/understanding-the-cloud-security-landscape",
+          "pubDate": "Sat, 16 Mar 2024 21:00:01 GMT",
+          "dc:creator": "Rajat Gupta",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3442410",
+          "isoDate": "2024-03-16T21:00:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ori Yemini",
+          "title": "OpenTofu Vs. Terraform: The Great IaC Dilemma",
+          "link": "https://dzone.com/articles/opentofu-vs-terraform-the-great-iac-dilemma",
+          "pubDate": "Sat, 16 Mar 2024 19:00:01 GMT",
+          "dc:creator": "Ori Yemini",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3442405",
+          "isoDate": "2024-03-16T19:00:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Eric D. Schabell",
           "title": "Telemetry Pipelines Workshop: Introduction To Fluent Bit",
@@ -680,34 +708,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Ankush Madaan",
-          "title": "The Ultimate Guide to Kubernetes: Maximizing Benefits, Exploring Use Cases, and Adopting Best Practices",
-          "link": "https://dzone.com/articles/the-ultimate-guide-to-kubernetes",
-          "pubDate": "Fri, 15 Mar 2024 12:30:01 GMT",
-          "dc:creator": "Ankush Madaan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3442387",
-          "isoDate": "2024-03-15T12:30:01.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Austin Gil",
-          "title": "I Deployed My Own Cute Lil’ Private Internet (aka VPC)",
-          "link": "https://dzone.com/articles/virtual-private-cloud-demo-overview",
-          "pubDate": "Fri, 15 Mar 2024 11:35:18 GMT",
-          "dc:creator": "Austin Gil",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3443490",
-          "isoDate": "2024-03-15T11:35:18.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -720,6 +720,110 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Dmitry Tikhonov",
+          "title": "Achieving Allocation-Free Polymorphism in C#",
+          "link": "https://itnext.io/achieving-allocation-free-polymorphism-in-c-8eb3c99edbce?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 17 Mar 2024 00:28:23 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Dmitry Tikhonov",
+          "guid": "https://medium.com/p/8eb3c99edbce",
+          "categories": [
+            "object-oriented",
+            "c-sharp-programming",
+            "software-performance",
+            "programming"
+          ],
+          "isoDate": "2024-03-17T00:28:23.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "CodingFlower",
+          "title": "Java 21 - Is Kotlin Dying?",
+          "link": "https://itnext.io/java-21-is-kotlin-dying-a26d4c757742?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 17 Mar 2024 00:27:14 GMT",
+          "dc:creator": "CodingFlower",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/a26d4c757742",
+          "categories": [
+            "programming",
+            "java",
+            "software-development",
+            "computer-science",
+            "technology"
+          ],
+          "isoDate": "2024-03-17T00:27:14.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "George Chernishev",
+          "title": "Building a simple data cleaning application with Desbordante",
+          "link": "https://itnext.io/building-a-simple-data-cleaning-application-with-desbordante-e4897dcd4c5d?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 16 Mar 2024 22:51:37 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "George Chernishev",
+          "guid": "https://medium.com/p/e4897dcd4c5d",
+          "categories": [
+            "data-profiling",
+            "python",
+            "data-quality",
+            "tutorial",
+            "data-cleaning"
+          ],
+          "isoDate": "2024-03-16T22:51:37.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Pawel Woltschkow",
+          "title": "Understanding .NET Aspire Orchestration",
+          "link": "https://itnext.io/understanding-net-aspire-orchestration-460b50b7da46?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 16 Mar 2024 20:30:54 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Pawel Woltschkow",
+          "guid": "https://medium.com/p/460b50b7da46",
+          "categories": [
+            "dotnet",
+            "microservices",
+            "dotnet-aspire",
+            "software-engineering",
+            "orchestration"
+          ],
+          "isoDate": "2024-03-16T20:30:54.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Teddy Morin",
+          "title": "Build an ExpressJS Application With Clean Architecture",
+          "link": "https://itnext.io/build-an-expressjs-application-with-clean-architecture-fd1288d83af1?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 16 Mar 2024 08:50:21 GMT",
+          "dc:creator": "Teddy Morin",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/fd1288d83af1",
+          "categories": [
+            "typescript",
+            "clean-architecture",
+            "javascript",
+            "backend",
+            "expressjs"
+          ],
+          "isoDate": "2024-03-16T08:50:21.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Mahesh Jamdade",
           "title": "The Genetic Algorithm and The Travelling Salesman Problem(TSP)",
@@ -822,109 +926,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Denys Poltorak",
-          "title": "Complexity, Coupling and Cohesion",
-          "link": "https://itnext.io/complexity-coupling-and-cohesion-a74db76c968d?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 14 Mar 2024 14:07:37 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Denys Poltorak",
-          "guid": "https://medium.com/p/a74db76c968d",
-          "categories": [
-            "software-architecture",
-            "software-engineering",
-            "software-design"
-          ],
-          "isoDate": "2024-03-14T14:07:37.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Daniel Klitzke",
-          "title": "Guardrails vs. Microsoft Guidance: A Hands-On Tutorial for LLM Output Validation",
-          "link": "https://itnext.io/guardrails-vs-microsoft-guidance-a-hands-on-tutorial-for-llm-output-validation-67e07f6da40d?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 14 Mar 2024 13:11:40 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Daniel Klitzke",
-          "guid": "https://medium.com/p/67e07f6da40d",
-          "categories": [
-            "python",
-            "llm",
-            "mlops",
-            "machine-learning",
-            "data-science"
-          ],
-          "isoDate": "2024-03-14T13:11:40.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ivan Franchin",
-          "title": "Spring Boot Apps for Movie Indexing/Search with AWS OpenSearch, S3 and Secrets Manager",
-          "link": "https://itnext.io/spring-boot-apps-for-movie-indexing-search-with-aws-opensearch-s3-and-secrets-manager-a95ad0697e51?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 14 Mar 2024 08:15:32 GMT",
-          "dc:creator": "Ivan Franchin",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/a95ad0697e51",
-          "categories": [
-            "aws",
-            "localstack",
-            "software-development",
-            "spring-boot",
-            "technology"
-          ],
-          "isoDate": "2024-03-14T08:15:32.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Jeroen van Disseldorp",
-          "title": "KSML v0.8: new features for Kafka Streams in Low Code environments",
-          "link": "https://itnext.io/kafka-streams-markup-language-ksml-v0-8-96b2e71fcafc?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 13 Mar 2024 18:27:17 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Jeroen van Disseldorp",
-          "guid": "https://medium.com/p/96b2e71fcafc",
-          "categories": [
-            "software-engineering",
-            "programming",
-            "python",
-            "apache-kafka",
-            "kafka-streams"
-          ],
-          "isoDate": "2024-03-13T18:27:17.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Emanuele Fumagalli",
-          "title": "Exploring CNCF Repos: Daily Stats and Language Distribution",
-          "link": "https://itnext.io/exploring-cncf-repos-daily-stats-and-language-distribution-055305faf420?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 13 Mar 2024 16:23:02 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Emanuele Fumagalli",
-          "guid": "https://medium.com/p/055305faf420",
-          "categories": [
-            "computer-language",
-            "cncf",
-            "github",
-            "statistics",
-            "visualization"
-          ],
-          "isoDate": "2024-03-13T16:23:02.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -941,204 +942,205 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sat, 16 Mar 2024 06:54:32 GMT"
+      "lastBuildDate": "Sun, 17 Mar 2024 06:57:57 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Sh Raj",
-          "title": "I created YouTube UI Clone",
-          "link": "https://dev.to/sh20raj/i-created-youtube-ui-clone-6gi",
-          "pubDate": "Sat, 16 Mar 2024 06:24:02 +0000",
-          "dc:creator": "Sh Raj",
+          "creator": "Ethan",
+          "title": "Simple Introduction To HTMX",
+          "link": "https://dev.to/ethand91/simple-introduction-to-htmx-18fg",
+          "pubDate": "Sun, 17 Mar 2024 06:51:25 +0000",
+          "dc:creator": "Ethan",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/sh20raj/i-created-youtube-ui-clone-6gi",
+          "guid": "https://dev.to/ethand91/simple-introduction-to-htmx-18fg",
           "categories": [
-            "html",
-            "css",
-            "javascript"
+            "htmx",
+            "tutorial",
+            "beginners",
+            "php"
           ],
-          "isoDate": "2024-03-16T06:24:02.000Z",
+          "isoDate": "2024-03-17T06:51:25.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sukhpinder Singh",
-          "title": "Minimal APIs Revolutionize ASP.NET Core Development",
-          "link": "https://dev.to/ssukhpinder/minimal-apis-revolutionize-aspnet-core-development-53bf",
-          "pubDate": "Sat, 16 Mar 2024 05:29:53 +0000",
-          "dc:creator": "Sukhpinder Singh",
+          "creator": "Robin Muhia",
+          "title": "Implementation of Elastic Search in Django",
+          "link": "https://dev.to/robinmuhia/implementation-of-elastic-search-in-django-32d6",
+          "pubDate": "Sun, 17 Mar 2024 06:46:56 +0000",
+          "dc:creator": "Robin Muhia",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ssukhpinder/minimal-apis-revolutionize-aspnet-core-development-53bf",
+          "guid": "https://dev.to/robinmuhia/implementation-of-elastic-search-in-django-32d6",
           "categories": [
-            "dotnet",
-            "aspnet",
-            "rest",
-            "csharp"
+            "django",
+            "elasticsearch",
+            "webdev",
+            "python"
           ],
-          "isoDate": "2024-03-16T05:29:53.000Z",
+          "isoDate": "2024-03-17T06:46:56.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Priya Mervana",
-          "title": "Discover the Difference Between Port 80 and 443",
-          "link": "https://dev.to/me_priya/discover-the-difference-between-port-80-and-443-3f6c",
-          "pubDate": "Sat, 16 Mar 2024 04:54:07 +0000",
-          "dc:creator": "Priya Mervana",
+          "creator": "Travis",
+          "title": "2024 Cheat Sheet Collection",
+          "link": "https://dev.to/lilxyzz/2024-cheat-sheet-collection-47h8",
+          "pubDate": "Sun, 17 Mar 2024 06:15:00 +0000",
+          "dc:creator": "Travis",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/me_priya/discover-the-difference-between-port-80-and-443-3f6c",
+          "guid": "https://dev.to/lilxyzz/2024-cheat-sheet-collection-47h8",
           "categories": [
             "webdev",
             "beginners",
             "tutorial",
-            "security"
+            "programming"
           ],
-          "isoDate": "2024-03-16T04:54:07.000Z",
+          "isoDate": "2024-03-17T06:15:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sanish Chirayath",
-          "title": "Automate AWS Infrastructure Deployment with AWS CDK: A Lazy Engineer's Guide",
-          "link": "https://dev.to/sanishchirayath1/automate-aws-infrastructure-deployment-with-aws-cdk-a-lazy-engineers-guide-2moj",
-          "pubDate": "Sat, 16 Mar 2024 04:45:00 +0000",
-          "dc:creator": "Sanish Chirayath",
+          "creator": "Anshuman Mahato",
+          "title": "For intricate state handling, try out the useReducer() Hook",
+          "link": "https://dev.to/anshumanmahato/for-intricate-state-handling-try-out-the-usereducer-hook-1952",
+          "pubDate": "Sun, 17 Mar 2024 05:21:37 +0000",
+          "dc:creator": "Anshuman Mahato",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/sanishchirayath1/automate-aws-infrastructure-deployment-with-aws-cdk-a-lazy-engineers-guide-2moj",
+          "guid": "https://dev.to/anshumanmahato/for-intricate-state-handling-try-out-the-usereducer-hook-1952",
+          "categories": [
+            "react",
+            "beginners",
+            "webdev",
+            "javascript"
+          ],
+          "isoDate": "2024-03-17T05:21:37.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Kiran Edupuganti",
+          "title": "A PAGE TALKS ABOUT (Automation Soft Skills in a Nutshell)",
+          "link": "https://dev.to/rewirebyautomation/a-page-talks-about-automation-soft-skills-in-a-nutshell-1mmh",
+          "pubDate": "Sun, 17 Mar 2024 05:19:09 +0000",
+          "dc:creator": "Kiran Edupuganti",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/rewirebyautomation/a-page-talks-about-automation-soft-skills-in-a-nutshell-1mmh",
+          "categories": [
+            "testing",
+            "qa",
+            "automation",
+            "selenium"
+          ],
+          "isoDate": "2024-03-17T05:19:09.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Roselle Tabuena",
+          "title": "Building CRUD with ES6 JavaScript and Local Storage",
+          "link": "https://dev.to/iamdete/building-crud-with-es6-javascript-and-local-storage-1ijd",
+          "pubDate": "Sun, 17 Mar 2024 04:38:58 +0000",
+          "dc:creator": "Roselle Tabuena",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/iamdete/building-crud-with-es6-javascript-and-local-storage-1ijd",
           "categories": [
             "webdev",
-            "awscdk",
-            "aws",
-            "infrastructureascode"
+            "javascript",
+            "beginners"
           ],
-          "isoDate": "2024-03-16T04:45:00.000Z",
+          "isoDate": "2024-03-17T04:38:58.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Mo Barut",
-          "title": "How To Unit Test Next.js 13+ App Router API Routes with Jest and React-Testing-Library. Including Prisma example",
-          "link": "https://dev.to/dforrunner/how-to-unit-test-nextjs-13-app-router-api-routes-with-jest-and-react-testing-library-270a",
-          "pubDate": "Sat, 16 Mar 2024 04:19:32 +0000",
-          "dc:creator": "Mo Barut",
+          "creator": "Chaoming Li",
+          "title": "Adding Location and Device Type Features in Flutter Apps with VisitorAPI",
+          "link": "https://dev.to/chaoming/adding-location-and-device-type-features-in-flutter-apps-with-visitorapi-25k0",
+          "pubDate": "Sat, 16 Mar 2024 23:03:48 +0000",
+          "dc:creator": "Chaoming Li",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/dforrunner/how-to-unit-test-nextjs-13-app-router-api-routes-with-jest-and-react-testing-library-270a",
+          "guid": "https://dev.to/chaoming/adding-location-and-device-type-features-in-flutter-apps-with-visitorapi-25k0",
           "categories": [
-            "nextjs",
-            "prisma",
-            "nextjs14",
-            "test"
+            "flutter",
+            "webdev",
+            "development",
+            "frontend"
           ],
-          "isoDate": "2024-03-16T04:19:32.000Z",
+          "isoDate": "2024-03-16T23:03:48.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sukhpinder Singh",
-          "title": "Exploring Enhanced Serialization in .NET 9 with System.Text.Json",
-          "link": "https://dev.to/ssukhpinder/exploring-enhanced-serialization-in-net-9-with-systemtextjson-59l7",
-          "pubDate": "Sat, 16 Mar 2024 03:08:03 +0000",
-          "dc:creator": "Sukhpinder Singh",
+          "creator": "Giselle Ferreira",
+          "title": "Funções Java: Decifrando O forEach()",
+          "link": "https://dev.to/giselletech/funcoes-java-decifrando-o-foreach-5339",
+          "pubDate": "Sat, 16 Mar 2024 23:03:06 +0000",
+          "dc:creator": "Giselle Ferreira",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ssukhpinder/exploring-enhanced-serialization-in-net-9-with-systemtextjson-59l7",
+          "guid": "https://dev.to/giselletech/funcoes-java-decifrando-o-foreach-5339",
           "categories": [
-            "dotnet",
-            "aspnet",
-            "csharp",
-            "coding"
-          ],
-          "isoDate": "2024-03-16T03:08:03.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Kiran J",
-          "title": "How to install python in a docker container.",
-          "link": "https://dev.to/kiranuknow/how-to-install-python-in-a-docker-container-2n41",
-          "pubDate": "Sat, 16 Mar 2024 02:37:17 +0000",
-          "dc:creator": "Kiran J",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/kiranuknow/how-to-install-python-in-a-docker-container-2n41",
-          "categories": [
-            "docker",
-            "python",
-            "ubuntu",
+            "java",
+            "braziliandevs",
+            "foreach",
             "webdev"
           ],
-          "isoDate": "2024-03-16T02:37:17.000Z",
+          "isoDate": "2024-03-16T23:03:06.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Gabriel",
-          "title": "Quick Setup: Jenkins on AWS with Terraform & Bash",
-          "link": "https://dev.to/gabbyti/quick-setup-jenkins-on-aws-with-terraform-bash-1mj8",
-          "pubDate": "Sat, 16 Mar 2024 02:18:54 +0000",
-          "dc:creator": "Gabriel",
+          "creator": "Suyash Thakur",
+          "title": "Converting HTML to Image. and GIF",
+          "link": "https://dev.to/suyashthakur/converting-html-to-image-and-gif-2hnn",
+          "pubDate": "Sat, 16 Mar 2024 22:55:39 +0000",
+          "dc:creator": "Suyash Thakur",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/gabbyti/quick-setup-jenkins-on-aws-with-terraform-bash-1mj8",
+          "guid": "https://dev.to/suyashthakur/converting-html-to-image-and-gif-2hnn",
           "categories": [
-            "jenkins",
-            "aws",
-            "terraform",
-            "docker"
+            "node",
+            "javascript",
+            "softwareengineering",
+            "architecture"
           ],
-          "isoDate": "2024-03-16T02:18:54.000Z",
+          "isoDate": "2024-03-16T22:55:39.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "mahdi",
-          "title": "What is Encapsulation",
-          "link": "https://dev.to/m__mdy__m/what-is-encapsulation-48b0",
-          "pubDate": "Sat, 16 Mar 2024 02:04:09 +0000",
-          "dc:creator": "mahdi",
+          "creator": "Bruno Noriller",
+          "title": "Backend Cockfight 2024 Q1",
+          "link": "https://dev.to/noriller/backend-cockfight-2024-q1-1h1c",
+          "pubDate": "Sat, 16 Mar 2024 21:13:12 +0000",
+          "dc:creator": "Bruno Noriller",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/m__mdy__m/what-is-encapsulation-48b0",
+          "guid": "https://dev.to/noriller/backend-cockfight-2024-q1-1h1c",
           "categories": [
             "javascript",
-            "webdev",
-            "beginners",
-            "oop"
+            "backend",
+            "programming",
+            "webdev"
           ],
-          "isoDate": "2024-03-16T02:04:09.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "wszgrcy",
-          "title": "Code search and refactoring tools - `Code Recycle`",
-          "link": "https://dev.to/wszgrcy/code-search-and-refactoring-tools-code-recycle-57lk",
-          "pubDate": "Sat, 16 Mar 2024 01:33:50 +0000",
-          "dc:creator": "wszgrcy",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/wszgrcy/code-search-and-refactoring-tools-code-recycle-57lk",
-          "categories": [
-            "search",
-            "ast",
-            "refactor"
-          ],
-          "isoDate": "2024-03-16T01:33:50.000Z",
+          "isoDate": "2024-03-16T21:13:12.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
