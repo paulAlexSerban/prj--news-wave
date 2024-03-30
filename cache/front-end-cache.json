@@ -5,6 +5,26 @@
       "items": [
         {
           "creator": "Chris DeMars",
+          "title": "The Power of :has() in CSS",
+          "link": "https://css-tricks.com/the-power-of-has-in-css/",
+          "pubDate": "Sat, 30 Mar 2024 02:07:57 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Chris DeMars",
+          "comments": "https://css-tricks.com/the-power-of-has-in-css/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://css-tricks.com/?p=377635",
+          "categories": [
+            "Article",
+            ":has",
+            "CSS"
+          ],
+          "isoDate": "2024-03-30T02:07:57.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Chris DeMars",
           "title": "Accessible Forms with Pseudo Classes",
           "link": "https://css-tricks.com/accessible-forms-with-pseudo-classes/",
           "pubDate": "Fri, 22 Mar 2024 18:52:31 +0000",
@@ -88,26 +108,6 @@
           ],
           "isoDate": "2023-03-13T13:23:52.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Richard Oliver Bray",
-          "title": "5 Mistakes I Made When Starting My First React Project",
-          "link": "https://css-tricks.com/5-mistakes-starting-react/",
-          "pubDate": "Fri, 10 Mar 2023 16:41:52 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Richard Oliver Bray",
-          "comments": "https://css-tricks.com/5-mistakes-starting-react/#respond",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://css-tricks.com/?p=377098",
-          "categories": [
-            "Article",
-            "learning",
-            "react"
-          ],
-          "isoDate": "2023-03-10T16:41:52.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://css-tricks.com/feed/",
@@ -126,7 +126,7 @@
       "generator": "https://wordpress.org/?v=6.4.3",
       "link": "https://css-tricks.com",
       "language": "en-US",
-      "lastBuildDate": "Fri, 22 Mar 2024 20:43:57 +0000"
+      "lastBuildDate": "Sat, 30 Mar 2024 02:13:04 +0000"
     },
     "CSS In Real Life": {
       "items": [
@@ -395,7 +395,7 @@
       },
       "title": "Web Designer Depot",
       "description": "Web Design Resources and Tutorials",
-      "pubDate": "Fri, 29 Mar 2024 00:08:07 -0700",
+      "pubDate": "Sat, 30 Mar 2024 00:05:47 -0700",
       "link": "https://www.webdesignerdepot.com",
       "language": "en-us",
       "copyright": "Copyright Web Designer Depot, all rights reserved."
@@ -900,82 +900,85 @@
     "Zell Wel": {
       "items": [
         {
-          "title": "Bravery",
-          "link": "https://zellwk.com/blog/bravery/",
-          "pubDate": "Tue, 19 Mar 2024 00:00:00 GMT",
+          "title": "DoItAnyway",
+          "link": "https://zellwk.com/blog/do-it-anyway/",
+          "pubDate": "Fri, 29 Mar 2024 00:00:00 GMT",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://zellwk.com/blog/bravery/",
+          "guid": "https://zellwk.com/blog/do-it-anyway/",
           "categories": [
-            "Musings"
+            "Musings",
+            "Motivation",
+            "Inspiration"
           ],
-          "isoDate": "2024-03-19T00:00:00.000Z",
+          "isoDate": "2024-03-29T00:00:00.000Z",
           "summary": ""
         },
         {
-          "title": "Move fast, break things",
-          "link": "https://zellwk.com/blog/move-fast-break-things/",
-          "pubDate": "Tue, 19 Mar 2024 00:00:00 GMT",
+          "title": "Invisible adversaries",
+          "link": "https://zellwk.com/blog/invisible-adversaries/",
+          "pubDate": "Fri, 29 Mar 2024 00:00:00 GMT",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://zellwk.com/blog/move-fast-break-things/",
+          "guid": "https://zellwk.com/blog/invisible-adversaries/",
           "categories": [
             "Musings"
           ],
-          "isoDate": "2024-03-19T00:00:00.000Z",
+          "isoDate": "2024-03-29T00:00:00.000Z",
           "summary": ""
         },
         {
-          "title": "JavaScript Mental Models",
-          "link": "https://zellwk.com/blog/javascript-mental-models/",
-          "pubDate": "Tue, 12 Mar 2024 00:00:00 GMT",
+          "title": "No more waiting",
+          "link": "https://zellwk.com/blog/no-more-waiting/",
+          "pubDate": "Fri, 29 Mar 2024 00:00:00 GMT",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://zellwk.com/blog/javascript-mental-models/",
+          "guid": "https://zellwk.com/blog/no-more-waiting/",
           "categories": [
+            "Musings"
+          ],
+          "isoDate": "2024-03-29T00:00:00.000Z",
+          "summary": ""
+        },
+        {
+          "title": "4 years is not too many",
+          "link": "https://zellwk.com/blog/4-years-is-not-too-many/",
+          "pubDate": "Thu, 28 Mar 2024 00:00:00 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://zellwk.com/blog/4-years-is-not-too-many/",
+          "categories": [
+            "Musings"
+          ],
+          "isoDate": "2024-03-28T00:00:00.000Z",
+          "summary": ""
+        },
+        {
+          "title": "Handling cookies with Fetch's credentials",
+          "link": "https://zellwk.com/blog/fetch-credentials/",
+          "pubDate": "Wed, 27 Mar 2024 00:00:00 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://zellwk.com/blog/fetch-credentials/",
+          "categories": [
+            "Fetch",
             "Javascript",
-            "Learning"
+            "Async",
+            "Cookies",
+            "Express",
+            "Node"
           ],
-          "isoDate": "2024-03-12T00:00:00.000Z",
-          "summary": ""
-        },
-        {
-          "title": "Why I love the web",
-          "link": "https://zellwk.com/blog/why-i-love-the-web/",
-          "pubDate": "Tue, 12 Mar 2024 00:00:00 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://zellwk.com/blog/why-i-love-the-web/",
-          "categories": [
-            "Musings"
-          ],
-          "isoDate": "2024-03-12T00:00:00.000Z",
-          "summary": ""
-        },
-        {
-          "title": "Analytics and Ads",
-          "link": "https://zellwk.com/blog/analytics-and-ads/",
-          "pubDate": "Thu, 07 Mar 2024 00:00:00 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://zellwk.com/blog/analytics-and-ads/",
-          "categories": [
-            "Tools",
-            "Analytics",
-            "Posthog",
-            "Facebook"
-          ],
-          "isoDate": "2024-03-07T00:00:00.000Z",
+          "isoDate": "2024-03-27T00:00:00.000Z",
           "summary": ""
         }
       ],
@@ -985,6 +988,18 @@
     },
     "Go Make Things": {
       "items": [
+        {
+          "title": "What are you most excited about in web dev?",
+          "link": "https://gomakethings.com/what-are-you-most-excited-about-in-web-dev/",
+          "pubDate": "Fri, 29 Mar 2024 10:30:00 -0400",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://gomakethings.com/what-are-you-most-excited-about-in-web-dev/",
+          "isoDate": "2024-03-29T14:30:00.000Z",
+          "summary": ""
+        },
         {
           "title": "Camper Newbie",
           "link": "https://gomakethings.com/camper-newbie/",
@@ -1032,18 +1047,6 @@
           "guid": "https://gomakethings.com/the-problem-with-ai/",
           "isoDate": "2024-03-13T14:30:00.000Z",
           "summary": ""
-        },
-        {
-          "title": "Ice farming and web development",
-          "link": "https://gomakethings.com/ice-farming-and-web-development/",
-          "pubDate": "Mon, 11 Mar 2024 10:30:00 -0400",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://gomakethings.com/ice-farming-and-web-development/",
-          "isoDate": "2024-03-11T14:30:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://gomakethings.com/feed/index.xml",
@@ -1055,7 +1058,7 @@
       "generator": "Hugo -- gohugo.io",
       "link": "https://gomakethings.com/articles",
       "language": "en-us",
-      "lastBuildDate": "Fri, 29 Mar 2024 00:52:06 EST"
+      "lastBuildDate": "Sat, 30 Mar 2024 00:00:38 EST"
     }
   }
 }
