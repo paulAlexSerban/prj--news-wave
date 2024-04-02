@@ -102,7 +102,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Mon, 01 Apr 2024 05:02:01 GMT"
+      "lastBuildDate": "Tue, 02 Apr 2024 06:19:38 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -425,11 +425,33 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Mon, 01 Apr 2024 06:35:12 GMT",
+      "lastBuildDate": "Tue, 02 Apr 2024 06:34:57 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "advertiser",
+          "title": "Re-Balancing Design and Development",
+          "link": "https://tympanus.net/codrops/2024/04/01/re-balancing-design-and-development/",
+          "pubDate": "Mon, 01 Apr 2024 18:43:05 +0000",
+          "enclosure": {
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/04/designers-hp_opt.mp4?x87314",
+            "length": "3852791",
+            "type": "video/mp4"
+          },
+          "dc:creator": "advertiser",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=76810",
+          "categories": [
+            "Articles"
+          ],
+          "isoDate": "2024-04-01T18:43:05.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Manoela Ilic",
           "title": "Collective #825",
@@ -491,31 +513,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "UI Interactions & Animations Roundup #41",
-          "link": "https://tympanus.net/codrops/2024/03/22/ui-interactions-animations-roundup-41/",
-          "pubDate": "Fri, 22 Mar 2024 10:55:28 +0000",
-          "enclosure": {
-            "url": "https://cdn.dribbble.com/userupload/13665903/file/original-0743058d702706e9846b717f0c3bbfcf.mp4",
-            "length": "13595405",
-            "type": "video/mp4"
-          },
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=76763",
-          "categories": [
-            "UI Interactions and Animations Roundups",
-            "inspiration",
-            "motion-design",
-            "roundup"
-          ],
-          "isoDate": "2024-03-22T10:55:28.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -527,7 +524,7 @@
       "generator": "https://wordpress.org/?v=6.4.3",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Tue, 26 Mar 2024 11:27:47 +0000"
+      "lastBuildDate": "Mon, 01 Apr 2024 18:43:10 +0000"
     },
     "DZone": {
       "items": [
@@ -613,6 +610,172 @@
     "itnext": {
       "items": [
         {
+          "creator": "Alexandre Couëdelo",
+          "title": "Beyond the DevSecOps Hype: The Journey Begins with Identity",
+          "link": "https://itnext.io/beyond-the-devsecops-hype-the-journey-begins-with-identity-f18284e321be?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 01 Apr 2024 22:13:35 GMT",
+          "dc:creator": "Alexandre Couëdelo",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/f18284e321be",
+          "categories": [
+            "infrastructure",
+            "devsecops",
+            "devops",
+            "software-development",
+            "software-engineering"
+          ],
+          "isoDate": "2024-04-01T22:13:35.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Gapur Kassym",
+          "title": "JavaScript Testing Best Practices",
+          "link": "https://itnext.io/javascript-testing-best-practices-c7d11336b686?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 01 Apr 2024 22:11:44 GMT",
+          "dc:creator": "Gapur Kassym",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/c7d11336b686",
+          "categories": [
+            "testing",
+            "unit-testing",
+            "test",
+            "software-testing",
+            "javascript"
+          ],
+          "isoDate": "2024-04-01T22:11:44.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Moshe Nadler",
+          "title": "Trivy — Shifting Security From Right to Left and then Right Again",
+          "link": "https://itnext.io/trivy-shifting-security-from-right-to-left-and-then-right-again-ee21d979d8ef?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 01 Apr 2024 19:57:31 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Moshe Nadler",
+          "guid": "https://medium.com/p/ee21d979d8ef",
+          "categories": [
+            "devsecops",
+            "cicd",
+            "devops",
+            "kubernetes",
+            "security"
+          ],
+          "isoDate": "2024-04-01T19:57:31.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "vald.vdaas.org",
+          "title": "Hybrid Search with Vald: A Prospect Future for Search",
+          "link": "https://itnext.io/hybrid-search-with-vald-a-prospect-future-for-search-30e6ad7eac10?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 01 Apr 2024 09:35:14 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "vald.vdaas.org",
+          "guid": "https://medium.com/p/30e6ad7eac10",
+          "categories": [
+            "search-engines",
+            "bert",
+            "hybrid-search",
+            "vald",
+            "llm"
+          ],
+          "isoDate": "2024-04-01T09:35:14.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Vitalii Shevchuk",
+          "title": " Top 6 JavaScript Debugging Tricks No One Knows",
+          "link": "https://itnext.io/top-6-javascript-debugging-tricks-no-one-knows-14c0db37d1f1?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 01 Apr 2024 08:48:39 GMT",
+          "dc:creator": "Vitalii Shevchuk",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/14c0db37d1f1",
+          "categories": [
+            "software-development",
+            "javascript",
+            "web-development",
+            "technology",
+            "programming"
+          ],
+          "isoDate": "2024-04-01T08:48:39.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Chris Karvouniaris",
+          "title": "Parameterized Callback Factory in Python",
+          "link": "https://itnext.io/parameterized-callback-factory-in-python-ad241a15151a?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 01 Apr 2024 08:46:58 GMT",
+          "dc:creator": "Chris Karvouniaris",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/ad241a15151a",
+          "categories": [
+            "software-engineering",
+            "python",
+            "programming",
+            "software-development",
+            "technology"
+          ],
+          "isoDate": "2024-04-01T08:46:58.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Benjamin Cane",
+          "title": "Closing a closed channel in Go, can result in disaster",
+          "link": "https://itnext.io/closing-a-closed-channel-in-go-can-result-in-disaster-2ee1579e132f?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 01 Apr 2024 08:45:32 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Benjamin Cane",
+          "guid": "https://medium.com/p/2ee1579e132f",
+          "categories": [
+            "programming",
+            "software-engineering",
+            "coding",
+            "golang",
+            "software-development"
+          ],
+          "isoDate": "2024-04-01T08:45:32.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Bob van Heijster",
+          "title": "My Mendix Easter Egg Hunt",
+          "link": "https://itnext.io/my-mendix-easter-egg-hunt-72233c2ae628?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 01 Apr 2024 07:21:53 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Bob van Heijster",
+          "guid": "https://medium.com/p/72233c2ae628",
+          "categories": [
+            "mendix",
+            "low-code-development",
+            "low-code"
+          ],
+          "isoDate": "2024-04-01T07:21:53.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Héla Ben Khalfallah",
           "title": "In-depth Exploration of Garbage Collector (GC)",
           "link": "https://itnext.io/in-depth-exploration-of-garbage-collector-gc-828fcef9fe5d?source=rss----5b301f10ddcd---4",
@@ -653,169 +816,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Miguel Soranno",
-          "title": "Streamlining Kubernetes Operations: Solutions for Secret Rotation Challenges",
-          "link": "https://itnext.io/streamlining-kubernetes-operations-solutions-for-secret-rotation-challenges-57c45b5dbe6b?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sun, 31 Mar 2024 19:57:55 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Miguel Soranno",
-          "guid": "https://medium.com/p/57c45b5dbe6b",
-          "categories": [
-            "kyndryl",
-            "operators",
-            "security",
-            "kubernetes",
-            "secrets"
-          ],
-          "isoDate": "2024-03-31T19:57:55.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Dorine Boudry",
-          "title": "OutSystems : dark mode in UI design",
-          "link": "https://itnext.io/outsystems-dark-mode-in-ui-design-6b9dfb3238b4?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sun, 31 Mar 2024 19:56:25 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Dorine Boudry",
-          "guid": "https://medium.com/p/6b9dfb3238b4",
-          "categories": [
-            "outsystems-development",
-            "outsystems"
-          ],
-          "isoDate": "2024-03-31T19:56:25.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Prabodh Agarwal",
-          "title": "OIDC with Google & Quarkus",
-          "link": "https://itnext.io/oidc-with-google-quarkus-13003a1354ae?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sun, 31 Mar 2024 10:17:03 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Prabodh Agarwal",
-          "guid": "https://medium.com/p/13003a1354ae",
-          "categories": [
-            "auth0",
-            "quarkus",
-            "google-oauth",
-            "oidc",
-            "java"
-          ],
-          "isoDate": "2024-03-31T10:17:03.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Lidor Ettinger",
-          "title": "Orchestrating Flink on Kubernetes — Deployment Methodology, Metrics, and Logging Strategies",
-          "link": "https://itnext.io/orchestrating-flink-on-kubernetes-deployment-methodology-metrics-and-logging-strategies-6fa5bf92b06c?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sat, 30 Mar 2024 23:11:18 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Lidor Ettinger",
-          "guid": "https://medium.com/p/6fa5bf92b06c",
-          "categories": [
-            "flink",
-            "dáta",
-            "data-processing",
-            "apache-flink",
-            "kubernetes-operator"
-          ],
-          "isoDate": "2024-03-30T23:11:18.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Jacob Ferus",
-          "title": "Flexible Data Management with JSON in PostgreSQL — An Introduction",
-          "link": "https://itnext.io/flexible-data-management-with-json-in-postgresql-an-introduction-7f2a75ca5452?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sat, 30 Mar 2024 11:17:10 GMT",
-          "dc:creator": "Jacob Ferus",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/7f2a75ca5452",
-          "categories": [
-            "data-science",
-            "software-engineering",
-            "coding",
-            "programming",
-            "software-development"
-          ],
-          "isoDate": "2024-03-30T11:17:10.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "João Esperancinha",
-          "title": "Kuma, how it works, what we can monitor with it and why is it different",
-          "link": "https://itnext.io/kuma-how-it-works-what-we-can-monitor-with-it-and-why-is-it-different-2f452462b250?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sat, 30 Mar 2024 11:15:13 GMT",
-          "dc:creator": "João Esperancinha",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/2f452462b250",
-          "categories": [
-            "java",
-            "kotlin",
-            "postgresql",
-            "kuma",
-            "sidecar"
-          ],
-          "isoDate": "2024-03-30T11:15:13.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Denys Poltorak",
-          "title": "Conflicting Forces, Asynchronicity and Distribution",
-          "link": "https://itnext.io/conflicting-forces-asynchronicity-and-distribution-b53beee65e74?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 29 Mar 2024 23:29:43 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Denys Poltorak",
-          "guid": "https://medium.com/p/b53beee65e74",
-          "categories": [
-            "software-design",
-            "software-architecture",
-            "software-engineering"
-          ],
-          "isoDate": "2024-03-29T23:29:43.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Piotr",
-          "title": "Development with AI: the GAG Stack",
-          "link": "https://itnext.io/development-with-ai-the-gag-stack-f96b3bb4b02b?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 29 Mar 2024 15:20:07 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Piotr",
-          "guid": "https://medium.com/p/f96b3bb4b02b",
-          "categories": [
-            "ai",
-            "opinion",
-            "artificial-intelligence",
-            "sofware-development",
-            "development"
-          ],
-          "isoDate": "2024-03-29T15:20:07.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -832,199 +832,196 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Mon, 01 Apr 2024 07:01:25 GMT"
+      "lastBuildDate": "Tue, 02 Apr 2024 07:00:24 GMT"
     },
     "DEV Community": {
       "items": [
         {
+          "creator": "Ashwani Singh",
+          "title": "JavaScript Non-Primitive Data Types",
+          "link": "https://dev.to/imashwani/javascript-non-primitive-data-types-2mjp",
+          "pubDate": "Tue, 02 Apr 2024 07:01:09 +0000",
+          "dc:creator": "Ashwani Singh",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/imashwani/javascript-non-primitive-data-types-2mjp",
+          "categories": [
+            "javascript",
+            "beginners",
+            "programming",
+            "tutorial"
+          ],
+          "isoDate": "2024-04-02T07:01:09.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "dev.to staff",
-          "title": "What's Your Favorite Productivity Tool?",
-          "link": "https://dev.to/devteam/whats-your-favorite-productivity-tool-1d9",
-          "pubDate": "Mon, 01 Apr 2024 07:00:00 +0000",
+          "title": "What Are You Wasting Time On?",
+          "link": "https://dev.to/devteam/what-are-you-wasting-time-on-2544",
+          "pubDate": "Tue, 02 Apr 2024 07:00:00 +0000",
           "dc:creator": "dev.to staff",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devteam/whats-your-favorite-productivity-tool-1d9",
+          "guid": "https://dev.to/devteam/what-are-you-wasting-time-on-2544",
           "categories": [
-            "discuss",
-            "productivity"
-          ],
-          "isoDate": "2024-04-01T07:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "david wyatt",
-          "title": "Power Platform - DLP Policies",
-          "link": "https://dev.to/wyattdave/power-platform-dlp-policies-5go2",
-          "pubDate": "Mon, 01 Apr 2024 06:48:16 +0000",
-          "dc:creator": "david wyatt",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/wyattdave/power-platform-dlp-policies-5go2",
-          "categories": [
-            "powerplatform",
-            "security",
-            "powerapps",
-            "powerautomte"
-          ],
-          "isoDate": "2024-04-01T06:48:16.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Bala Madhusoodhanan",
-          "title": "LUX: Toolkit for Smart Data Exploration",
-          "link": "https://dev.to/balagmadhu/lux-toolkit-for-smart-data-exploration-1k03",
-          "pubDate": "Mon, 01 Apr 2024 06:30:53 +0000",
-          "dc:creator": "Bala Madhusoodhanan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/balagmadhu/lux-toolkit-for-smart-data-exploration-1k03",
-          "categories": [
-            "python",
-            "datascience"
-          ],
-          "isoDate": "2024-04-01T06:30:53.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sukhpinder Singh",
-          "title": "Boost Your Medium Visibility: 12 Essential Tips for Writers",
-          "link": "https://dev.to/ssukhpinder/boost-your-medium-visibility-12-essential-tips-for-writers-2883",
-          "pubDate": "Mon, 01 Apr 2024 05:57:39 +0000",
-          "dc:creator": "Sukhpinder Singh",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/ssukhpinder/boost-your-medium-visibility-12-essential-tips-for-writers-2883",
-          "categories": [
-            "beginners",
-            "writing",
-            "productivity",
             "discuss"
           ],
-          "isoDate": "2024-04-01T05:57:39.000Z",
+          "isoDate": "2024-04-02T07:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Doğukan Eren",
-          "title": "Liman MYS Cihaz Yönetimi Eklentisi ile Kurulu Paketlerin Versiyonunu Öğrenme",
-          "link": "https://dev.to/aciklab/liman-mys-cihaz-yonetimi-eklentisi-ile-kurulu-paketlerin-versiyonunu-ogrenme-59c9",
-          "pubDate": "Mon, 01 Apr 2024 05:54:05 +0000",
-          "dc:creator": "Doğukan Eren",
+          "creator": "Pavan Belagatti",
+          "title": "A Complete Developer Guide to Vector Embeddings!",
+          "link": "https://dev.to/pavanbelagatti/a-complete-developer-guide-to-vector-embeddings-90j",
+          "pubDate": "Tue, 02 Apr 2024 06:43:15 +0000",
+          "dc:creator": "Pavan Belagatti",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/aciklab/liman-mys-cihaz-yonetimi-eklentisi-ile-kurulu-paketlerin-versiyonunu-ogrenme-59c9",
+          "guid": "https://dev.to/pavanbelagatti/a-complete-developer-guide-to-vector-embeddings-90j",
           "categories": [
-            "linux",
-            "tutorial",
-            "havelsan",
-            "limanmys"
+            "developer",
+            "embeddings",
+            "ai",
+            "machinelearning"
           ],
-          "isoDate": "2024-04-01T05:54:05.000Z",
+          "isoDate": "2024-04-02T06:43:15.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "SREY",
-          "title": "SQL Querying Made Simple with GraphQL and Prisma !",
-          "link": "https://dev.to/delisrey/sql-querying-made-simple-with-graphql-and-prisma--163i",
-          "pubDate": "Mon, 01 Apr 2024 05:48:11 +0000",
-          "dc:creator": "SREY",
+          "creator": "Jaime López",
+          "title": "Find Information Faster in SharePoint Online: Ditch Filtering, Embrace Search!",
+          "link": "https://dev.to/jaloplo/find-information-faster-in-sharepoint-online-ditch-filtering-embrace-search-1b8p",
+          "pubDate": "Tue, 02 Apr 2024 06:30:00 +0000",
+          "dc:creator": "Jaime López",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/delisrey/sql-querying-made-simple-with-graphql-and-prisma--163i",
+          "guid": "https://dev.to/jaloplo/find-information-faster-in-sharepoint-online-ditch-filtering-embrace-search-1b8p",
           "categories": [
-            "react",
-            "programming",
-            "graphql",
-            "prisma"
+            "sharepoint",
+            "microsoft",
+            "search"
           ],
-          "isoDate": "2024-04-01T05:48:11.000Z",
+          "isoDate": "2024-04-02T06:30:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sh Raj",
-          "title": "Git Conflict Guide 🚀",
-          "link": "https://dev.to/sh20raj/git-conflict-guide-4jad",
-          "pubDate": "Mon, 01 Apr 2024 05:46:27 +0000",
-          "dc:creator": "Sh Raj",
+          "creator": "Ilham Bagus Prasetyo",
+          "title": "Penggunaan OpenSSH",
+          "link": "https://dev.to/reizzo/penggunaan-openssh-5e1m",
+          "pubDate": "Tue, 02 Apr 2024 04:26:38 +0000",
+          "dc:creator": "Ilham Bagus Prasetyo",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/sh20raj/git-conflict-guide-4jad",
+          "guid": "https://dev.to/reizzo/penggunaan-openssh-5e1m",
           "categories": [
-            "github",
-            "git"
+            "ramadhanbersamredhat",
+            "redhat",
+            "ssh",
+            "martabaktelor"
           ],
-          "isoDate": "2024-04-01T05:46:27.000Z",
+          "isoDate": "2024-04-02T04:26:38.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Nitya Narasimhan, Ph.D",
-          "title": "New Azure AI tools to help operationalize Responsible AI for generative AI apps!",
-          "link": "https://dev.to/azure/new-azure-ai-tools-to-help-operationalize-responsible-ai-for-generative-ai-apps-11ig",
-          "pubDate": "Mon, 01 Apr 2024 05:45:07 +0000",
-          "dc:creator": "Nitya Narasimhan, Ph.D",
+          "creator": "Furkan Gözükara",
+          "title": "Finding Best Training Hyper Parameters / Configuration Is Neither Cheap Nor Easy",
+          "link": "https://dev.to/furkangozukara/finding-best-training-hyper-parameters-configuration-is-neither-cheap-nor-easy-37n4",
+          "pubDate": "Tue, 02 Apr 2024 04:12:53 +0000",
+          "dc:creator": "Furkan Gözükara",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/azure/new-azure-ai-tools-to-help-operationalize-responsible-ai-for-generative-ai-apps-11ig",
+          "guid": "https://dev.to/furkangozukara/finding-best-training-hyper-parameters-configuration-is-neither-cheap-nor-easy-37n4",
           "categories": [
-            "azure",
-            "aiml",
-            "responsibleai",
-            "beginners"
-          ],
-          "isoDate": "2024-04-01T05:45:07.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ben Ford",
-          "title": "Announcing Puppet Enterprise 1401",
-          "link": "https://dev.to/puppet/announcing-puppet-enterprise-1401-pjc",
-          "pubDate": "Mon, 01 Apr 2024 05:36:34 +0000",
-          "dc:creator": "Ben Ford",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/puppet/announcing-puppet-enterprise-1401-pjc",
-          "categories": [
-            "puppet",
-            "humor",
-            "aprilfools"
-          ],
-          "isoDate": "2024-04-01T05:36:34.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Armando Contreras",
-          "title": "AWS EC2 Instances purchasing options",
-          "link": "https://dev.to/aws-builders/aws-ec2-instances-purchasing-options-5ba9",
-          "pubDate": "Mon, 01 Apr 2024 04:58:38 +0000",
-          "dc:creator": "Armando Contreras",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/aws-builders/aws-ec2-instances-purchasing-options-5ba9",
-          "categories": [
-            "aws",
-            "ec2",
+            "beginners",
+            "python",
             "devops",
-            "cloud"
+            "ai"
           ],
-          "isoDate": "2024-04-01T04:58:38.000Z",
+          "isoDate": "2024-04-02T04:12:53.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "The Programming P",
+          "title": "Modelling be like...",
+          "link": "https://dev.to/theprogrammingpod/modelling-be-like-4d6k",
+          "pubDate": "Tue, 02 Apr 2024 03:54:48 +0000",
+          "dc:creator": "The Programming P",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/theprogrammingpod/modelling-be-like-4d6k",
+          "categories": [
+            "3d",
+            "3dmodels",
+            "blender",
+            "bad"
+          ],
+          "isoDate": "2024-04-02T03:54:48.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Rolf Streefkerk",
+          "title": "Build Real-Time Apps with Eezze",
+          "link": "https://dev.to/eezze/build-real-time-apps-with-eezze-4ao1",
+          "pubDate": "Tue, 02 Apr 2024 03:38:17 +0000",
+          "dc:creator": "Rolf Streefkerk",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/eezze/build-real-time-apps-with-eezze-4ao1",
+          "categories": [
+            "websockets",
+            "lowcode",
+            "typescript",
+            "webdev"
+          ],
+          "isoDate": "2024-04-02T03:38:17.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Scofield Idehen",
+          "title": "The Dark Side of AI/AGI",
+          "link": "https://dev.to/scofieldidehen/the-dark-side-of-aiagi-2914",
+          "pubDate": "Tue, 02 Apr 2024 03:15:07 +0000",
+          "dc:creator": "Scofield Idehen",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/scofieldidehen/the-dark-side-of-aiagi-2914",
+          "categories": [
+            "ai",
+            "deeplearning",
+            "datascience",
+            "machinelearning"
+          ],
+          "isoDate": "2024-04-02T03:15:07.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Alerechi Ordu",
+          "title": "Failing as a Software Engineer: Embracing Failure, Retrospection, and Overcoming Imposter Syndrome",
+          "link": "https://dev.to/rechidesigns/failing-as-a-software-engineer-embracing-failure-retrospection-and-overcoming-imposter-syndrome-4j3",
+          "pubDate": "Tue, 02 Apr 2024 02:49:00 +0000",
+          "dc:creator": "Alerechi Ordu",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/rechidesigns/failing-as-a-software-engineer-embracing-failure-retrospection-and-overcoming-imposter-syndrome-4j3",
+          "isoDate": "2024-04-02T02:49:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1115,6 +1112,18 @@
     "Julia Evans": {
       "items": [
         {
+          "title": "Making crochet cacti",
+          "link": "https://jvns.ca/blog/2024/04/01/making-crochet-cacti/",
+          "pubDate": "2024-04-01T07:37:00.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "id": "https://jvns.ca/blog/2024/04/01/making-crochet-cacti/",
+          "isoDate": "2024-04-01T07:37:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "Some Git poll results",
           "link": "https://jvns.ca/blog/2024/03/28/git-poll-results/",
           "pubDate": "2024-03-28T08:35:56.000Z",
@@ -1161,24 +1170,12 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "Dealing with diverged git branches",
-          "link": "https://jvns.ca/blog/2024/02/01/dealing-with-diverged-git-branches/",
-          "pubDate": "2024-02-01T08:47:00.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "id": "https://jvns.ca/blog/2024/02/01/dealing-with-diverged-git-branches/",
-          "isoDate": "2024-02-01T08:47:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "link": "http://jvns.ca/atom.xml",
       "feedUrl": "http://jvns.ca/atom.xml",
       "title": "Julia Evans",
-      "lastBuildDate": "2024-03-28T08:35:56+00:00"
+      "lastBuildDate": "2024-04-01T07:37:00+00:00"
     }
   }
 }
