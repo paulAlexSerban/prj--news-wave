@@ -4,6 +4,45 @@
     "SitePoint": {
       "items": [
         {
+          "creator": "Lakindu Hewawasam",
+          "title": "Using JSON Web Tokens with Node.js",
+          "link": "https://www.sitepoint.com/using-json-web-tokens-node-js/?utm_source=rss",
+          "pubDate": "Wed, 03 Apr 2024 08:00:00 GMT",
+          "dc:creator": "Lakindu Hewawasam",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "http://www.sitepoint.com/?p=79733",
+          "categories": [
+            "JavaScript",
+            "Node.js",
+            "Tools & Libraries"
+          ],
+          "isoDate": "2024-04-03T08:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Beloslava Petrova",
+          "title": "Building a Digital Fortress: How to Strengthen DNS Against DDoS Attacks?",
+          "link": "https://www.sitepoint.com/building-a-digital-fortress-how-to-strengthen-dns-against-ddos-attacks/?utm_source=rss",
+          "pubDate": "Tue, 02 Apr 2024 19:00:00 GMT",
+          "dc:creator": "Beloslava Petrova",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "/?p=479754",
+          "categories": [
+            "Cloud",
+            "Web",
+            "Web Hosting & Domains",
+            "Web Security"
+          ],
+          "isoDate": "2024-04-02T19:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Binara Prabhanga",
           "title": "Crafting Interactive Scatter Plots with Plotly",
           "link": "https://www.sitepoint.com/plotly-crafting-interactive-scatter-plots/?utm_source=rss",
@@ -58,41 +97,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Ralph Mason",
-          "title": "Quick Tip: How to Align Column Rows with CSS Subgrid",
-          "link": "https://www.sitepoint.com/css-subgrid-align-column-rows/?utm_source=rss",
-          "pubDate": "Mon, 25 Mar 2024 19:00:23 GMT",
-          "dc:creator": "Ralph Mason",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "/?p=479708",
-          "categories": [
-            "CSS",
-            "HTML & CSS"
-          ],
-          "isoDate": "2024-03-25T19:00:23.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "SitePoint Sponsors",
-          "title": "15 Top Web Design Tools & Resources To Try in 2024",
-          "link": "https://www.sitepoint.com/best-web-design-tools-2024/?utm_source=rss",
-          "pubDate": "Mon, 25 Mar 2024 14:00:00 GMT",
-          "dc:creator": "SitePoint Sponsors",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "/?p=479612",
-          "categories": [
-            "Design & UX"
-          ],
-          "isoDate": "2024-03-25T14:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.sitepoint.com/sitepoint.rss",
@@ -103,10 +107,29 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Wed, 03 Apr 2024 05:03:26 GMT"
+      "lastBuildDate": "Thu, 04 Apr 2024 06:51:04 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
+        {
+          "creator": "Jorge Rosillo",
+          "title": "Security research without ever leaving GitHub: From code scanning to CVE via Codespaces and private vulnerability reporting",
+          "link": "https://github.blog/2024-04-03-security-research-without-ever-leaving-github-from-code-scanning-to-cve-via-codespaces-and-private-vulnerability-reporting/",
+          "pubDate": "Wed, 03 Apr 2024 14:26:50 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Jorge Rosillo",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=77239",
+          "categories": [
+            "Security",
+            "GitHub Security Lab",
+            "security research"
+          ],
+          "isoDate": "2024-04-03T14:26:50.000Z",
+          "summary": ""
+        },
         {
           "creator": "Tanmayee Kamath",
           "title": "Bringing enterprise-level security and even more power to GitHub-hosted runners",
@@ -184,26 +207,6 @@
           ],
           "isoDate": "2024-03-25T17:06:19.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Sara Verdi",
-          "title": "Insider newsletter digest: 4 things you didn’t know you could do with GitHub Projects",
-          "link": "https://github.blog/2024-03-21-insider-newsletter-digest-4-things-you-didnt-know-you-could-do-with-github-projects/",
-          "pubDate": "Thu, 21 Mar 2024 16:18:03 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Sara Verdi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=77094",
-          "categories": [
-            "Product",
-            "GitHub Projects",
-            "Insider",
-            "productivity"
-          ],
-          "isoDate": "2024-03-21T16:18:03.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://github.blog/feed/",
@@ -222,7 +225,7 @@
       "generator": "https://wordpress.org/?v=6.5",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Tue, 02 Apr 2024 16:35:24 +0000"
+      "lastBuildDate": "Wed, 03 Apr 2024 14:26:50 +0000"
     },
     "GitHub Blog Atom": {
       "items": [
@@ -313,6 +316,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Tatsiana Tarkan)",
+          "title": "Iconography In Design Systems: Easy Troubleshooting And Maintenance",
+          "link": "https://smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance/",
+          "pubDate": "Wed, 03 Apr 2024 08:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Tatsiana Tarkan)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/iconography-design-systems-troubleshooting-maintenance/iconography-design-systems-troubleshooting-maintenance.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance/",
+          "isoDate": "2024-04-03T08:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Silvestar Bistrović)",
           "title": "Infinite-Scrolling Logos In Flat HTML And Pure CSS",
           "link": "https://smashingmagazine.com/2024/04/infinite-scrolling-logos-html-css/",
@@ -387,25 +409,6 @@
           "guid": "https://smashingmagazine.com/2024/03/the-future-of-user-research/",
           "isoDate": "2024-03-27T13:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Henry Bley-Vroman)",
-          "title": "Setting And Persisting Color Scheme Preferences With CSS And A “Touch” Of JavaScript",
-          "link": "https://smashingmagazine.com/2024/03/setting-persisting-color-scheme-preferences-css-javascript/",
-          "pubDate": "Mon, 25 Mar 2024 12:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Henry Bley-Vroman)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/setting-persisting-color-scheme-preferences-css-javascript/setting-persisting-color-scheme-preferences-css-javascript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/03/setting-persisting-color-scheme-preferences-css-javascript/",
-          "isoDate": "2024-03-25T12:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -423,7 +426,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Wed, 03 Apr 2024 06:35:30 GMT",
+      "lastBuildDate": "Thu, 04 Apr 2024 06:34:50 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -612,6 +615,67 @@
     "itnext": {
       "items": [
         {
+          "creator": "Artem Lajko",
+          "title": "Optimize Your Kubernetes Resources with Azure IAM: Managed vs. Workload Identity",
+          "link": "https://itnext.io/simplify-secure-your-azure-resources-managed-identity-vs-workload-identity-fe49d133fc03?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 03 Apr 2024 10:45:16 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Artem Lajko",
+          "guid": "https://medium.com/p/fe49d133fc03",
+          "categories": [
+            "identity-management",
+            "kubernetes",
+            "cloud-computing",
+            "azure",
+            "security"
+          ],
+          "isoDate": "2024-04-03T10:45:16.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Razieh Behjati, PhD",
+          "title": "Leaky Abstractions and a Rusty Pin",
+          "link": "https://itnext.io/leaky-abstractions-and-a-rusty-pin-fbf3b84eea1f?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 03 Apr 2024 09:07:29 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Razieh Behjati, PhD",
+          "guid": "https://medium.com/p/fbf3b84eea1f",
+          "categories": [
+            "software-development",
+            "rust",
+            "programming-abstractions"
+          ],
+          "isoDate": "2024-04-03T09:07:29.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ivan Franchin",
+          "title": "Implementing a Spring Shell to interact with a Spring Boot API",
+          "link": "https://itnext.io/implementing-a-spring-shell-to-interact-with-a-spring-boot-api-7e1cd1315172?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 03 Apr 2024 07:05:15 GMT",
+          "dc:creator": "Ivan Franchin",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/7e1cd1315172",
+          "categories": [
+            "spring-boot",
+            "technology",
+            "software-development",
+            "spring-shell",
+            "http-interface"
+          ],
+          "isoDate": "2024-04-03T07:05:15.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Jack Roper",
           "title": "How to Use Open Policy Agent (OPA) with Terraform",
           "link": "https://itnext.io/how-to-use-open-policy-agent-opa-with-terraform-3ab384a8f965?source=rss----5b301f10ddcd---4",
@@ -757,69 +821,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Vitalii Shevchuk",
-          "title": " Top 6 JavaScript Debugging Tricks No One Knows",
-          "link": "https://itnext.io/top-6-javascript-debugging-tricks-no-one-knows-14c0db37d1f1?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 01 Apr 2024 08:48:39 GMT",
-          "dc:creator": "Vitalii Shevchuk",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/14c0db37d1f1",
-          "categories": [
-            "software-development",
-            "javascript",
-            "web-development",
-            "technology",
-            "programming"
-          ],
-          "isoDate": "2024-04-01T08:48:39.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Chris Karvouniaris",
-          "title": "Parameterized Callback Factory in Python",
-          "link": "https://itnext.io/parameterized-callback-factory-in-python-ad241a15151a?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 01 Apr 2024 08:46:58 GMT",
-          "dc:creator": "Chris Karvouniaris",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/ad241a15151a",
-          "categories": [
-            "software-engineering",
-            "python",
-            "programming",
-            "software-development",
-            "technology"
-          ],
-          "isoDate": "2024-04-01T08:46:58.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Benjamin Cane",
-          "title": "Closing a closed channel in Go, can result in disaster",
-          "link": "https://itnext.io/closing-a-closed-channel-in-go-can-result-in-disaster-2ee1579e132f?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 01 Apr 2024 08:45:32 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Benjamin Cane",
-          "guid": "https://medium.com/p/2ee1579e132f",
-          "categories": [
-            "programming",
-            "software-engineering",
-            "coding",
-            "golang",
-            "software-development"
-          ],
-          "isoDate": "2024-04-01T08:45:32.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -836,196 +837,204 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Wed, 03 Apr 2024 06:57:34 GMT"
+      "lastBuildDate": "Thu, 04 Apr 2024 07:01:15 GMT"
     },
     "DEV Community": {
       "items": [
         {
           "creator": "dev.to staff",
-          "title": "How to Think Like A Programmer?",
-          "link": "https://dev.to/devteam/how-to-think-like-a-programmer-4436",
-          "pubDate": "Wed, 03 Apr 2024 07:00:00 +0000",
+          "title": "What Are Your Go-to Icebreakers? 🧊⛏️",
+          "link": "https://dev.to/devteam/what-are-your-go-to-icebreakers-2942",
+          "pubDate": "Thu, 04 Apr 2024 07:00:00 +0000",
           "dc:creator": "dev.to staff",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devteam/how-to-think-like-a-programmer-4436",
+          "guid": "https://dev.to/devteam/what-are-your-go-to-icebreakers-2942",
           "categories": [
-            "discuss"
+            "discuss",
+            "watercooler"
           ],
-          "isoDate": "2024-04-03T07:00:00.000Z",
+          "isoDate": "2024-04-04T07:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Necati Özmen",
-          "title": "CSS Rounded Corners Examples",
-          "link": "https://dev.to/refine/css-rounded-corners-examples-3hha",
-          "pubDate": "Wed, 03 Apr 2024 06:19:56 +0000",
-          "dc:creator": "Necati Özmen",
+          "creator": "Pradumna Saraf",
+          "title": "macOS vs Ubuntu: GitHub Actions Runners",
+          "link": "https://dev.to/pradumnasaraf/macos-vs-ubuntu-github-actions-runners-738",
+          "pubDate": "Thu, 04 Apr 2024 05:18:43 +0000",
+          "dc:creator": "Pradumna Saraf",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/refine/css-rounded-corners-examples-3hha",
-          "categories": [
-            "css",
-            "webdev",
-            "beginners",
-            "programming"
-          ],
-          "isoDate": "2024-04-03T06:19:56.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sh Raj",
-          "title": "I created an AI Chatbot 🚀",
-          "link": "https://dev.to/sh20raj/i-created-ai-chatbot-33m1",
-          "pubDate": "Wed, 03 Apr 2024 06:08:00 +0000",
-          "dc:creator": "Sh Raj",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/sh20raj/i-created-ai-chatbot-33m1",
-          "categories": [
-            "codepen",
-            "ai"
-          ],
-          "isoDate": "2024-04-03T06:08:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sh Raj",
-          "title": "Generate AI Songs for Free - Gemini API",
-          "link": "https://dev.to/sh20raj/generate-ai-songs-for-free-gemini-api-186k",
-          "pubDate": "Wed, 03 Apr 2024 05:21:44 +0000",
-          "dc:creator": "Sh Raj",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/sh20raj/generate-ai-songs-for-free-gemini-api-186k",
-          "categories": [
-            "javascript",
-            "free"
-          ],
-          "isoDate": "2024-04-03T05:21:44.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sukhpinder Singh",
-          "title": "Day 15 of 30-Day .NET Challenge: Lazy Initialization",
-          "link": "https://dev.to/ssukhpinder/day-15-of-30-day-net-challenge-lazy-initialization-3ob6",
-          "pubDate": "Wed, 03 Apr 2024 04:52:36 +0000",
-          "dc:creator": "Sukhpinder Singh",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/ssukhpinder/day-15-of-30-day-net-challenge-lazy-initialization-3ob6",
-          "categories": [
-            "dotnet",
-            "programming",
-            "csharp",
-            "aspnet"
-          ],
-          "isoDate": "2024-04-03T04:52:36.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Agapov Alexey",
-          "title": "Control dependencies with structs in Swift",
-          "link": "https://dev.to/agapovone/control-dependencies-with-structs-in-swift-379g",
-          "pubDate": "Wed, 03 Apr 2024 04:31:35 +0000",
-          "dc:creator": "Agapov Alexey",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/agapovone/control-dependencies-with-structs-in-swift-379g",
-          "categories": [
-            "ios",
-            "swift",
-            "macos",
-            "dependencyinjection"
-          ],
-          "isoDate": "2024-04-03T04:31:35.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Abdelrahman hassan hamdy",
-          "title": "Understanding Layers, Tiers, and N-Tier Architecture in Application Development",
-          "link": "https://dev.to/3bdelrahman/understanding-layers-tiers-and-n-tier-architecture-in-application-development-1hlb",
-          "pubDate": "Wed, 03 Apr 2024 04:15:01 +0000",
-          "dc:creator": "Abdelrahman hassan hamdy",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/3bdelrahman/understanding-layers-tiers-and-n-tier-architecture-in-application-development-1hlb",
-          "categories": [
-            "systemdesign",
-            "backend",
-            "webdev",
-            "devops"
-          ],
-          "isoDate": "2024-04-03T04:15:01.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Hung Vu",
-          "title": "Expand Promox storage with external enclosures in a homelab environment",
-          "link": "https://dev.to/hunghvu/expand-promox-storage-with-external-enclosures-in-a-homelab-environment-13kn",
-          "pubDate": "Wed, 03 Apr 2024 04:00:11 +0000",
-          "dc:creator": "Hung Vu",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/hunghvu/expand-promox-storage-with-external-enclosures-in-a-homelab-environment-13kn",
-          "categories": [
-            "linux",
-            "learning",
-            "testing",
-            "todayilearned"
-          ],
-          "isoDate": "2024-04-03T04:00:11.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Karlita Ayu",
-          "title": "Configuring and Securing SSH",
-          "link": "https://dev.to/karlitaayu1/configuring-and-securing-ssh-3a11",
-          "pubDate": "Wed, 03 Apr 2024 02:41:09 +0000",
-          "dc:creator": "Karlita Ayu",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/karlitaayu1/configuring-and-securing-ssh-3a11",
-          "categories": [
-            "ramadhanbersamaredhat",
-            "configuring",
-            "ssh"
-          ],
-          "isoDate": "2024-04-03T02:41:09.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ricardo Sueiras",
-          "title": "AWS open source newsletter, #194",
-          "link": "https://dev.to/aws/aws-open-source-newsletter-194-h60",
-          "pubDate": "Wed, 03 Apr 2024 01:32:14 +0000",
-          "dc:creator": "Ricardo Sueiras",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/aws/aws-open-source-newsletter-194-h60",
+          "guid": "https://dev.to/pradumnasaraf/macos-vs-ubuntu-github-actions-runners-738",
           "categories": [
             "opensource",
-            "aws"
+            "githubactions",
+            "github",
+            "os"
           ],
-          "isoDate": "2024-04-03T01:32:14.000Z",
+          "isoDate": "2024-04-04T05:18:43.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Furkan Gözükara",
+          "title": "OneTrainer Fine Tuning vs Kohya SS DreamBooth & Huge Research of OneTrainer’s Masked Training",
+          "link": "https://dev.to/furkangozukara/onetrainer-fine-tuning-vs-kohya-ss-dreambooth-huge-research-of-onetrainers-masked-training-4po7",
+          "pubDate": "Thu, 04 Apr 2024 04:41:33 +0000",
+          "dc:creator": "Furkan Gözükara",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/furkangozukara/onetrainer-fine-tuning-vs-kohya-ss-dreambooth-huge-research-of-onetrainers-masked-training-4po7",
+          "categories": [
+            "beginners",
+            "tutorial",
+            "ai",
+            "news"
+          ],
+          "isoDate": "2024-04-04T04:41:33.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "API Maker®",
+          "title": "🚀 API Maker : Release Notes for v1.5.0",
+          "link": "https://dev.to/apimaker/api-maker-release-notes-for-v150-2h48",
+          "pubDate": "Thu, 04 Apr 2024 04:07:03 +0000",
+          "dc:creator": "API Maker®",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/apimaker/api-maker-release-notes-for-v150-2h48",
+          "categories": [
+            "apimaker",
+            "development",
+            "backenddevelopment",
+            "javascript"
+          ],
+          "isoDate": "2024-04-04T04:07:03.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ilham Bagus Prasetyo",
+          "title": "ACL File",
+          "link": "https://dev.to/reizzo/acl-file-4i34",
+          "pubDate": "Thu, 04 Apr 2024 03:10:47 +0000",
+          "dc:creator": "Ilham Bagus Prasetyo",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/reizzo/acl-file-4i34",
+          "categories": [
+            "ramadhanbersamaredhat",
+            "redhat",
+            "acl",
+            "martabak"
+          ],
+          "isoDate": "2024-04-04T03:10:47.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "krlz",
+          "title": "Remote job offers this week",
+          "link": "https://dev.to/krlz/remote-job-offers-this-week-521j",
+          "pubDate": "Thu, 04 Apr 2024 02:39:08 +0000",
+          "dc:creator": "krlz",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/krlz/remote-job-offers-this-week-521j",
+          "categories": [
+            "career",
+            "webdev",
+            "programming",
+            "job"
+          ],
+          "isoDate": "2024-04-04T02:39:08.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ivan Porta",
+          "title": "Unified Kubernetes Management Across Clouds with Azure Arc",
+          "link": "https://dev.to/gtrekter/unified-kubernetes-management-across-clouds-with-azure-arc-2ni1",
+          "pubDate": "Thu, 04 Apr 2024 01:58:29 +0000",
+          "dc:creator": "Ivan Porta",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/gtrekter/unified-kubernetes-management-across-clouds-with-azure-arc-2ni1",
+          "categories": [
+            "kubernetes",
+            "azure",
+            "aws",
+            "cloud"
+          ],
+          "isoDate": "2024-04-04T01:58:29.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Phuoc Nguyen",
+          "title": "Lazy load an iframe",
+          "link": "https://dev.to/phuocng/lazy-load-an-iframe-4jp1",
+          "pubDate": "Thu, 04 Apr 2024 01:32:17 +0000",
+          "dc:creator": "Phuoc Nguyen",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/phuocng/lazy-load-an-iframe-4jp1",
+          "categories": [
+            "webdev",
+            "javascript",
+            "react",
+            "typescript"
+          ],
+          "isoDate": "2024-04-04T01:32:17.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Roberto Costa",
+          "title": "Core Web Vitals: UX além da interface",
+          "link": "https://dev.to/techinrio/core-web-vitals-ux-alem-da-interface-410m",
+          "pubDate": "Thu, 04 Apr 2024 01:22:47 +0000",
+          "dc:creator": "Roberto Costa",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/techinrio/core-web-vitals-ux-alem-da-interface-410m",
+          "categories": [
+            "webdev",
+            "javascript",
+            "braziliandevs",
+            "browser"
+          ],
+          "isoDate": "2024-04-04T01:22:47.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Oludayo Adeoye",
+          "title": "The Fascinating History of Java",
+          "link": "https://dev.to/dbillion/the-fascinating-history-of-java-2al7",
+          "pubDate": "Thu, 04 Apr 2024 00:44:47 +0000",
+          "dc:creator": "Oludayo Adeoye",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/dbillion/the-fascinating-history-of-java-2al7",
+          "categories": [
+            "java",
+            "oak",
+            "programming",
+            "discuss"
+          ],
+          "isoDate": "2024-04-04T00:44:47.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1042,6 +1051,19 @@
     },
     "Digital Ocean Labs": {
       "items": [
+        {
+          "title": "Accelerate Your Business with DigitalOcean App Platform",
+          "link": "https://www.digitalocean.com/blog/accelerate-your-businesss-digitalocean-app-platform",
+          "pubDate": "2024-04-01T17:39:19.259Z",
+          "author": "bikram-gupta-mavis-franco",
+          "content": "",
+          "contentSnippet": "",
+          "id": "tag:www.digitalocean.com,2005:/blog/accelerate-your-businesss-digitalocean-app-platform",
+          "isoDate": "2024-04-01T17:39:19.259Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "Access the New Cloud Buying Criteria Proposed by IDC for 2024",
           "link": "https://www.digitalocean.com/blog/access-the-new-cloud-buying-criteria-proposed-by-idc-for-2024",
@@ -1093,25 +1115,12 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "Introducing New Enhanced Features for DigitalOcean Support Plans",
-          "link": "https://www.digitalocean.com/blog/introducing-enhanced-features-digitalocean-support-plans",
-          "pubDate": "2024-03-04T20:28:30.351Z",
-          "author": "nicole-ghalwash",
-          "content": "",
-          "contentSnippet": "",
-          "id": "tag:www.digitalocean.com,2005:/blog/introducing-enhanced-features-digitalocean-support-plans",
-          "isoDate": "2024-03-04T20:28:30.351Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog.atom",
       "title": "The DigitalOcean Blog",
-      "lastBuildDate": "2024-03-28T18:28:54.740Z"
+      "lastBuildDate": "2024-04-03T21:53:12.507Z"
     },
     "Julia Evans": {
       "items": [
