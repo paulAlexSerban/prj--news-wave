@@ -4,6 +4,24 @@
     "SitePoint": {
       "items": [
         {
+          "creator": "Ralph Mason",
+          "title": "A Complete Guide to CSS Logical Properties, with Cheat Sheet",
+          "link": "https://www.sitepoint.com/css-logical-properties-guide/?utm_source=rss",
+          "pubDate": "Wed, 03 Apr 2024 19:00:04 GMT",
+          "dc:creator": "Ralph Mason",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "/?p=480208",
+          "categories": [
+            "CSS",
+            "HTML & CSS"
+          ],
+          "isoDate": "2024-04-03T19:00:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Lakindu Hewawasam",
           "title": "Using JSON Web Tokens with Node.js",
           "link": "https://www.sitepoint.com/using-json-web-tokens-node-js/?utm_source=rss",
@@ -18,6 +36,25 @@
             "Tools & Libraries"
           ],
           "isoDate": "2024-04-03T08:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Chameera Dulanga",
+          "title": "How to Build a Simple Web Server with Node.js",
+          "link": "https://www.sitepoint.com/build-a-simple-web-server-with-node-js/?utm_source=rss",
+          "pubDate": "Wed, 03 Apr 2024 05:00:39 GMT",
+          "dc:creator": "Chameera Dulanga",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.sitepoint.com/?p=162841",
+          "categories": [
+            "JavaScript",
+            "Node.js",
+            "npm"
+          ],
+          "isoDate": "2024-04-03T05:00:39.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -60,43 +97,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Suvoraj Biswas",
-          "title": "GenAI: How to Reduce Cost with Prompt Compression Techniques",
-          "link": "https://www.sitepoint.com/prompt-compression-reduce-genai-apps/?utm_source=rss",
-          "pubDate": "Wed, 27 Mar 2024 19:00:55 GMT",
-          "dc:creator": "Suvoraj Biswas",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "/?p=479769",
-          "categories": [
-            "AI",
-            "Web"
-          ],
-          "isoDate": "2024-03-27T19:00:55.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Aurelio De Rosa, Maria Antonietta Perna",
-          "title": "How to Use jQuery’s ajax() Function for Asynchronous HTTP Requests",
-          "link": "https://www.sitepoint.com/use-jquerys-ajax-function/?utm_source=rss",
-          "pubDate": "Tue, 26 Mar 2024 02:30:28 GMT",
-          "dc:creator": "Aurelio De Rosa, Maria Antonietta Perna",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "http://www.sitepoint.com/?p=88556",
-          "categories": [
-            "Ajax",
-            "JavaScript",
-            "jQuery"
-          ],
-          "isoDate": "2024-03-26T02:30:28.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.sitepoint.com/sitepoint.rss",
@@ -107,10 +107,30 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Thu, 04 Apr 2024 06:51:04 GMT"
+      "lastBuildDate": "Fri, 05 Apr 2024 05:02:11 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
+        {
+          "creator": "Nicole Choi",
+          "title": "What is retrieval-augmented generation, and what does it do for generative AI?",
+          "link": "https://github.blog/2024-04-04-what-is-retrieval-augmented-generation-and-what-does-it-do-for-generative-ai/",
+          "pubDate": "Thu, 04 Apr 2024 16:00:07 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Nicole Choi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=77268",
+          "categories": [
+            "Engineering",
+            "AI Insights",
+            "generative AI",
+            "GitHub Copilot Enterprise"
+          ],
+          "isoDate": "2024-04-04T16:00:07.000Z",
+          "summary": ""
+        },
         {
           "creator": "Jorge Rosillo",
           "title": "Security research without ever leaving GitHub: From code scanning to CVE via Codespaces and private vulnerability reporting",
@@ -187,26 +207,6 @@
           ],
           "isoDate": "2024-03-27T23:04:21.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Kedasha Kerr",
-          "title": "Using GitHub Copilot in your IDE: Tips, tricks, and best practices",
-          "link": "https://github.blog/2024-03-25-how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/",
-          "pubDate": "Mon, 25 Mar 2024 17:06:19 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Kedasha Kerr",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=77119",
-          "categories": [
-            "Engineering",
-            "AI Insights",
-            "GitHub Copilot",
-            "tutorial"
-          ],
-          "isoDate": "2024-03-25T17:06:19.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://github.blog/feed/",
@@ -225,7 +225,7 @@
       "generator": "https://wordpress.org/?v=6.5",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Wed, 03 Apr 2024 14:26:50 +0000"
+      "lastBuildDate": "Thu, 04 Apr 2024 16:40:05 +0000"
     },
     "GitHub Blog Atom": {
       "items": [
@@ -426,7 +426,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Thu, 04 Apr 2024 06:34:50 GMT",
+      "lastBuildDate": "Fri, 05 Apr 2024 06:58:07 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -615,6 +615,172 @@
     "itnext": {
       "items": [
         {
+          "creator": "Tomáš Repčík",
+          "title": "Stop using the Freezed map/when. Use sealed class with pattern matching.",
+          "link": "https://itnext.io/stop-using-the-freezed-map-when-use-sealed-class-with-pattern-matching-9df1a08d28a4?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 04 Apr 2024 21:21:19 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Tomáš Repčík",
+          "guid": "https://medium.com/p/9df1a08d28a4",
+          "categories": [
+            "freezed",
+            "flutter",
+            "programming",
+            "mobile-app-development",
+            "dart"
+          ],
+          "isoDate": "2024-04-04T21:21:19.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Krzysztof Pranczk",
+          "title": "Security Code Challenge for Developers & Ethical Hackers — The Damn Vulnerable RESTaurant",
+          "link": "https://itnext.io/security-code-challenge-for-developers-ethical-hackers-the-damn-vulnerable-restaurant-d0756841a805?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 04 Apr 2024 09:14:50 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Krzysztof Pranczk",
+          "guid": "https://medium.com/p/d0756841a805",
+          "categories": [
+            "software-engineering",
+            "programming",
+            "software-development",
+            "security",
+            "python"
+          ],
+          "isoDate": "2024-04-04T09:14:50.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Lucas Soares",
+          "title": "OutSystems Security: Carla used this component to hack you.",
+          "link": "https://itnext.io/outsystems-security-carla-used-this-component-to-hack-you-3fa828b61478?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 04 Apr 2024 07:32:08 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Lucas Soares",
+          "guid": "https://medium.com/p/3fa828b61478",
+          "categories": [
+            "ethical-hacking",
+            "outsystems-partner",
+            "outsystems-development",
+            "low-code",
+            "outsystems"
+          ],
+          "isoDate": "2024-04-04T07:32:08.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Christian Göhring",
+          "title": "A Practical Guide To Containerize Your Rust Application With Docker",
+          "link": "https://itnext.io/a-practical-guide-to-containerize-your-rust-application-with-docker-77e8a391b4a8?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 04 Apr 2024 07:29:49 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Christian Göhring",
+          "guid": "https://medium.com/p/77e8a391b4a8",
+          "categories": [
+            "software-development",
+            "rust",
+            "docker"
+          ],
+          "isoDate": "2024-04-04T07:29:49.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ivan Franchin",
+          "title": "Synchronizing Spring Boot schedulers with ShedLock",
+          "link": "https://itnext.io/synchronizing-spring-boot-schedulers-with-shedlock-6c13aa4912d3?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 04 Apr 2024 07:28:43 GMT",
+          "dc:creator": "Ivan Franchin",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/6c13aa4912d3",
+          "categories": [
+            "spring-boot",
+            "software-development",
+            "technology",
+            "shedlock",
+            "locking"
+          ],
+          "isoDate": "2024-04-04T07:28:43.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Artem Lajko",
+          "title": "Kubernetes — Automate workload IAM on Azure with Otterize",
+          "link": "https://itnext.io/kubernetes-automate-workload-iam-on-azure-with-otterize-860faa221eac?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 04 Apr 2024 07:27:15 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Artem Lajko",
+          "guid": "https://medium.com/p/860faa221eac",
+          "categories": [
+            "devops",
+            "platform-engineering",
+            "cloud-computing",
+            "kubernetes",
+            "azure"
+          ],
+          "isoDate": "2024-04-04T07:27:15.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Jason Yee",
+          "title": "Kubernetes Certifications CKA/CKAD tip: vim",
+          "link": "https://itnext.io/kubernetes-certifications-cka-ckad-tip-vim-223e5556e863?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 04 Apr 2024 07:26:10 GMT",
+          "dc:creator": "Jason Yee",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/223e5556e863",
+          "categories": [
+            "cka",
+            "certification-courses",
+            "ckad",
+            "vim",
+            "kubernetes"
+          ],
+          "isoDate": "2024-04-04T07:26:10.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Dale Nguyen",
+          "title": "Streamlining Analogjs Deployment: Leveraging Nx Workspace with CloudFlare Pages",
+          "link": "https://itnext.io/streamlining-analogjs-deployment-leveraging-nx-workspace-with-cloudflare-pages-82aa6b9eaebd?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 04 Apr 2024 07:20:24 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Dale Nguyen",
+          "guid": "https://medium.com/p/82aa6b9eaebd",
+          "categories": [
+            "angular",
+            "web-development",
+            "nx",
+            "cloudflare-pages",
+            "cloudflare"
+          ],
+          "isoDate": "2024-04-04T07:20:24.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Artem Lajko",
           "title": "Optimize Your Kubernetes Resources with Azure IAM: Managed vs. Workload Identity",
           "link": "https://itnext.io/simplify-secure-your-azure-resources-managed-identity-vs-workload-identity-fe49d133fc03?source=rss----5b301f10ddcd---4",
@@ -653,174 +819,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Ivan Franchin",
-          "title": "Implementing a Spring Shell to interact with a Spring Boot API",
-          "link": "https://itnext.io/implementing-a-spring-shell-to-interact-with-a-spring-boot-api-7e1cd1315172?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 03 Apr 2024 07:05:15 GMT",
-          "dc:creator": "Ivan Franchin",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/7e1cd1315172",
-          "categories": [
-            "spring-boot",
-            "technology",
-            "software-development",
-            "spring-shell",
-            "http-interface"
-          ],
-          "isoDate": "2024-04-03T07:05:15.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Jack Roper",
-          "title": "How to Use Open Policy Agent (OPA) with Terraform",
-          "link": "https://itnext.io/how-to-use-open-policy-agent-opa-with-terraform-3ab384a8f965?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 02 Apr 2024 22:31:52 GMT",
-          "dc:creator": "Jack Roper",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/3ab384a8f965",
-          "categories": [
-            "open-policy-agent",
-            "cloud-computing",
-            "terraform",
-            "infrastructure-as-code",
-            "devops"
-          ],
-          "isoDate": "2024-04-02T22:31:52.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Gavin F.",
-          "title": "How to verify system logs in automated tests for Java programming",
-          "link": "https://itnext.io/how-to-verify-system-logs-in-automated-tests-for-java-programming-12ef6ac8e55d?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 02 Apr 2024 16:58:55 GMT",
-          "dc:creator": "Gavin F.",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/12ef6ac8e55d",
-          "categories": [
-            "testing",
-            "quality-assurance",
-            "software-development",
-            "java",
-            "programming"
-          ],
-          "isoDate": "2024-04-02T16:58:55.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nikolay Nikolov",
-          "title": "From Chaos to Control: How the Command Design Pattern Reshapes Code",
-          "link": "https://itnext.io/from-chaos-to-control-how-the-command-design-pattern-reshapes-code-68305d618d1e?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 02 Apr 2024 07:22:25 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Nikolay Nikolov",
-          "guid": "https://medium.com/p/68305d618d1e",
-          "categories": [
-            "command-pattern",
-            "programming",
-            "software-engineering",
-            "software-development",
-            "clean-code"
-          ],
-          "isoDate": "2024-04-02T07:22:25.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Alexandre Couëdelo",
-          "title": "Beyond the DevSecOps Hype: The Journey Begins with Identity",
-          "link": "https://itnext.io/beyond-the-devsecops-hype-the-journey-begins-with-identity-f18284e321be?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 01 Apr 2024 22:13:35 GMT",
-          "dc:creator": "Alexandre Couëdelo",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/f18284e321be",
-          "categories": [
-            "infrastructure",
-            "devsecops",
-            "devops",
-            "software-development",
-            "software-engineering"
-          ],
-          "isoDate": "2024-04-01T22:13:35.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Gapur Kassym",
-          "title": "JavaScript Testing Best Practices",
-          "link": "https://itnext.io/javascript-testing-best-practices-c7d11336b686?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 01 Apr 2024 22:11:44 GMT",
-          "dc:creator": "Gapur Kassym",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/c7d11336b686",
-          "categories": [
-            "testing",
-            "unit-testing",
-            "test",
-            "software-testing",
-            "javascript"
-          ],
-          "isoDate": "2024-04-01T22:11:44.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Moshe Nadler",
-          "title": "Trivy — Shifting Security From Right to Left and then Right Again",
-          "link": "https://itnext.io/trivy-shifting-security-from-right-to-left-and-then-right-again-ee21d979d8ef?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 01 Apr 2024 19:57:31 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Moshe Nadler",
-          "guid": "https://medium.com/p/ee21d979d8ef",
-          "categories": [
-            "devsecops",
-            "cicd",
-            "devops",
-            "kubernetes",
-            "security"
-          ],
-          "isoDate": "2024-04-01T19:57:31.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "vald.vdaas.org",
-          "title": "Hybrid Search with Vald: A Prospect Future for Search",
-          "link": "https://itnext.io/hybrid-search-with-vald-a-prospect-future-for-search-30e6ad7eac10?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 01 Apr 2024 09:35:14 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "vald.vdaas.org",
-          "guid": "https://medium.com/p/30e6ad7eac10",
-          "categories": [
-            "search-engines",
-            "bert",
-            "hybrid-search",
-            "vald",
-            "llm"
-          ],
-          "isoDate": "2024-04-01T09:35:14.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -837,204 +835,202 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Thu, 04 Apr 2024 07:01:15 GMT"
+      "lastBuildDate": "Fri, 05 Apr 2024 07:03:53 GMT"
     },
     "DEV Community": {
       "items": [
         {
           "creator": "dev.to staff",
-          "title": "What Are Your Go-to Icebreakers? 🧊⛏️",
-          "link": "https://dev.to/devteam/what-are-your-go-to-icebreakers-2942",
-          "pubDate": "Thu, 04 Apr 2024 07:00:00 +0000",
+          "title": "What Drives Your Daily Choices?",
+          "link": "https://dev.to/devteam/what-drives-your-daily-choices-15lb",
+          "pubDate": "Fri, 05 Apr 2024 07:00:00 +0000",
           "dc:creator": "dev.to staff",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devteam/what-are-your-go-to-icebreakers-2942",
+          "guid": "https://dev.to/devteam/what-drives-your-daily-choices-15lb",
           "categories": [
-            "discuss",
-            "watercooler"
+            "discuss"
           ],
-          "isoDate": "2024-04-04T07:00:00.000Z",
+          "isoDate": "2024-04-05T07:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Pradumna Saraf",
-          "title": "macOS vs Ubuntu: GitHub Actions Runners",
-          "link": "https://dev.to/pradumnasaraf/macos-vs-ubuntu-github-actions-runners-738",
-          "pubDate": "Thu, 04 Apr 2024 05:18:43 +0000",
-          "dc:creator": "Pradumna Saraf",
+          "creator": "Sukhpinder Singh",
+          "title": "A Coder's Hilarious Journey Through Syntax Errors",
+          "link": "https://dev.to/ssukhpinder/a-coders-hilarious-journey-through-syntax-errors-13dm",
+          "pubDate": "Fri, 05 Apr 2024 05:47:02 +0000",
+          "dc:creator": "Sukhpinder Singh",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/pradumnasaraf/macos-vs-ubuntu-github-actions-runners-738",
+          "guid": "https://dev.to/ssukhpinder/a-coders-hilarious-journey-through-syntax-errors-13dm",
           "categories": [
-            "opensource",
-            "githubactions",
-            "github",
-            "os"
+            "jokes",
+            "youtube",
+            "comedy",
+            "community"
           ],
-          "isoDate": "2024-04-04T05:18:43.000Z",
+          "isoDate": "2024-04-05T05:47:02.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Furkan Gözükara",
-          "title": "OneTrainer Fine Tuning vs Kohya SS DreamBooth & Huge Research of OneTrainer’s Masked Training",
-          "link": "https://dev.to/furkangozukara/onetrainer-fine-tuning-vs-kohya-ss-dreambooth-huge-research-of-onetrainers-masked-training-4po7",
-          "pubDate": "Thu, 04 Apr 2024 04:41:33 +0000",
-          "dc:creator": "Furkan Gözükara",
+          "creator": "Yaren Sarı",
+          "title": "Temel H3C Switch Yapılandırma Kılavuzu: Cisco Komutlarıyla Karşılaştırmalı",
+          "link": "https://dev.to/aciklab/temel-h3c-switch-yapilandirma-kilavuzu-cisco-komutlariyla-karsilastirmali-4e71",
+          "pubDate": "Fri, 05 Apr 2024 05:37:52 +0000",
+          "dc:creator": "Yaren Sarı",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/furkangozukara/onetrainer-fine-tuning-vs-kohya-ss-dreambooth-huge-research-of-onetrainers-masked-training-4po7",
+          "guid": "https://dev.to/aciklab/temel-h3c-switch-yapilandirma-kilavuzu-cisco-komutlariyla-karsilastirmali-4e71",
           "categories": [
-            "beginners",
-            "tutorial",
-            "ai",
-            "news"
+            "h3c",
+            "cisco",
+            "switch",
+            "sflow"
           ],
-          "isoDate": "2024-04-04T04:41:33.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "API Maker®",
-          "title": "🚀 API Maker : Release Notes for v1.5.0",
-          "link": "https://dev.to/apimaker/api-maker-release-notes-for-v150-2h48",
-          "pubDate": "Thu, 04 Apr 2024 04:07:03 +0000",
-          "dc:creator": "API Maker®",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/apimaker/api-maker-release-notes-for-v150-2h48",
-          "categories": [
-            "apimaker",
-            "development",
-            "backenddevelopment",
-            "javascript"
-          ],
-          "isoDate": "2024-04-04T04:07:03.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ilham Bagus Prasetyo",
-          "title": "ACL File",
-          "link": "https://dev.to/reizzo/acl-file-4i34",
-          "pubDate": "Thu, 04 Apr 2024 03:10:47 +0000",
-          "dc:creator": "Ilham Bagus Prasetyo",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/reizzo/acl-file-4i34",
-          "categories": [
-            "ramadhanbersamaredhat",
-            "redhat",
-            "acl",
-            "martabak"
-          ],
-          "isoDate": "2024-04-04T03:10:47.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "krlz",
-          "title": "Remote job offers this week",
-          "link": "https://dev.to/krlz/remote-job-offers-this-week-521j",
-          "pubDate": "Thu, 04 Apr 2024 02:39:08 +0000",
-          "dc:creator": "krlz",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/krlz/remote-job-offers-this-week-521j",
-          "categories": [
-            "career",
-            "webdev",
-            "programming",
-            "job"
-          ],
-          "isoDate": "2024-04-04T02:39:08.000Z",
+          "isoDate": "2024-04-05T05:37:52.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
           "creator": "Ivan Porta",
-          "title": "Unified Kubernetes Management Across Clouds with Azure Arc",
-          "link": "https://dev.to/gtrekter/unified-kubernetes-management-across-clouds-with-azure-arc-2ni1",
-          "pubDate": "Thu, 04 Apr 2024 01:58:29 +0000",
+          "title": "Updating Azure DevOps Pipelines for Terraform Post SSH-RSA Deprecation",
+          "link": "https://dev.to/gtrekter/updating-azure-devops-pipelines-for-terraform-post-ssh-rsa-deprecation-4270",
+          "pubDate": "Fri, 05 Apr 2024 02:58:06 +0000",
           "dc:creator": "Ivan Porta",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/gtrekter/unified-kubernetes-management-across-clouds-with-azure-arc-2ni1",
+          "guid": "https://dev.to/gtrekter/updating-azure-devops-pipelines-for-terraform-post-ssh-rsa-deprecation-4270",
           "categories": [
-            "kubernetes",
             "azure",
+            "devops",
+            "terraform",
+            "microsoft"
+          ],
+          "isoDate": "2024-04-05T02:58:06.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "EdilsonRogerioCuambe",
+          "title": "🤔 Quer entender algoritmos de busca e ordenação de forma interativa? 🎮✨",
+          "link": "https://dev.to/edilsonrogeriocuambe/quer-entender-algoritmos-de-busca-e-ordenacao-de-forma-interativa-4cj4",
+          "pubDate": "Fri, 05 Apr 2024 02:13:23 +0000",
+          "dc:creator": "EdilsonRogerioCuambe",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/edilsonrogeriocuambe/quer-entender-algoritmos-de-busca-e-ordenacao-de-forma-interativa-4cj4",
+          "categories": [
+            "algorithms",
+            "developer",
+            "webdev",
+            "programming"
+          ],
+          "isoDate": "2024-04-05T02:13:23.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mostafa Dekmak",
+          "title": "A Guide to Deploying Nest.js Applications with AWS CodePipeline and ECS Fargate",
+          "link": "https://dev.to/dkmostafa/a-guide-to-deploying-nestjs-applications-with-aws-codepipeline-and-ecs-fargate-20fe",
+          "pubDate": "Fri, 05 Apr 2024 02:09:22 +0000",
+          "dc:creator": "Mostafa Dekmak",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/dkmostafa/a-guide-to-deploying-nestjs-applications-with-aws-codepipeline-and-ecs-fargate-20fe",
+          "categories": [
             "aws",
-            "cloud"
+            "nestjs",
+            "ecs",
+            "awscdk"
           ],
-          "isoDate": "2024-04-04T01:58:29.000Z",
+          "isoDate": "2024-04-05T02:09:22.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Phuoc Nguyen",
-          "title": "Lazy load an iframe",
-          "link": "https://dev.to/phuocng/lazy-load-an-iframe-4jp1",
-          "pubDate": "Thu, 04 Apr 2024 01:32:17 +0000",
-          "dc:creator": "Phuoc Nguyen",
+          "creator": "Shannon Lal",
+          "title": "Exploring Prompt Compression with LLMLingua: Balancing Efficiency and Quality",
+          "link": "https://dev.to/shannonlal/exploring-prompt-compression-with-llmlingua-balancing-efficiency-and-quality-1mbd",
+          "pubDate": "Fri, 05 Apr 2024 01:56:32 +0000",
+          "dc:creator": "Shannon Lal",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/phuocng/lazy-load-an-iframe-4jp1",
+          "guid": "https://dev.to/shannonlal/exploring-prompt-compression-with-llmlingua-balancing-efficiency-and-quality-1mbd",
+          "categories": [
+            "llm",
+            "ai",
+            "promptengineering",
+            "llmlingua"
+          ],
+          "isoDate": "2024-04-05T01:56:32.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "shanice",
+          "title": "Reading Notes: Tidy First",
+          "link": "https://dev.to/hackergem/reading-notes-tidy-first-34oi",
+          "pubDate": "Fri, 05 Apr 2024 00:39:04 +0000",
+          "dc:creator": "shanice",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/hackergem/reading-notes-tidy-first-34oi",
+          "categories": [
+            "softwaredevelopment",
+            "learning",
+            "book"
+          ],
+          "isoDate": "2024-04-05T00:39:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mike Varenek",
+          "title": "Mastering WordPress Management: A Comprehensive Guide to WP-CLI Commands",
+          "link": "https://dev.to/mikevarenek/mastering-wordpress-management-a-comprehensive-guide-to-wp-cli-commands-5dn9",
+          "pubDate": "Fri, 05 Apr 2024 00:19:26 +0000",
+          "dc:creator": "Mike Varenek",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/mikevarenek/mastering-wordpress-management-a-comprehensive-guide-to-wp-cli-commands-5dn9",
+          "categories": [
+            "wordpress",
+            "webdev",
+            "cms",
+            "beginners"
+          ],
+          "isoDate": "2024-04-05T00:19:26.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Max Zhuk",
+          "title": "Challenges and Solutions in Using ThirdWeb",
+          "link": "https://dev.to/zhukmax/challenges-and-solutions-in-using-thirdweb-3j8j",
+          "pubDate": "Fri, 05 Apr 2024 00:08:54 +0000",
+          "dc:creator": "Max Zhuk",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/zhukmax/challenges-and-solutions-in-using-thirdweb-3j8j",
           "categories": [
             "webdev",
-            "javascript",
-            "react",
-            "typescript"
+            "beginners",
+            "web3",
+            "blockchain"
           ],
-          "isoDate": "2024-04-04T01:32:17.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Roberto Costa",
-          "title": "Core Web Vitals: UX além da interface",
-          "link": "https://dev.to/techinrio/core-web-vitals-ux-alem-da-interface-410m",
-          "pubDate": "Thu, 04 Apr 2024 01:22:47 +0000",
-          "dc:creator": "Roberto Costa",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/techinrio/core-web-vitals-ux-alem-da-interface-410m",
-          "categories": [
-            "webdev",
-            "javascript",
-            "braziliandevs",
-            "browser"
-          ],
-          "isoDate": "2024-04-04T01:22:47.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Oludayo Adeoye",
-          "title": "The Fascinating History of Java",
-          "link": "https://dev.to/dbillion/the-fascinating-history-of-java-2al7",
-          "pubDate": "Thu, 04 Apr 2024 00:44:47 +0000",
-          "dc:creator": "Oludayo Adeoye",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/dbillion/the-fascinating-history-of-java-2al7",
-          "categories": [
-            "java",
-            "oak",
-            "programming",
-            "discuss"
-          ],
-          "isoDate": "2024-04-04T00:44:47.000Z",
+          "isoDate": "2024-04-05T00:08:54.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
