@@ -5,6 +5,26 @@
       "items": [
         {
           "creator": "Chris DeMars",
+          "title": "Managing User Focus with :focus-visible",
+          "link": "https://css-tricks.com/managing-user-focus-with-focus-visible/",
+          "pubDate": "Fri, 05 Apr 2024 22:13:47 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Chris DeMars",
+          "comments": "https://css-tricks.com/managing-user-focus-with-focus-visible/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://css-tricks.com/?p=377702",
+          "categories": [
+            "Article",
+            "accessibility",
+            "forms"
+          ],
+          "isoDate": "2024-04-05T22:13:47.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Chris DeMars",
           "title": "The Power of :has() in CSS",
           "link": "https://css-tricks.com/the-power-of-has-in-css/",
           "pubDate": "Sat, 30 Mar 2024 02:07:57 +0000",
@@ -87,27 +107,6 @@
           ],
           "isoDate": "2023-03-22T20:22:42.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Mads Stoumann",
-          "title": "Making Calendars With Accessibility and Internationalization in Mind",
-          "link": "https://css-tricks.com/making-calendars-with-accessibility-and-internationalization-in-mind/",
-          "pubDate": "Mon, 13 Mar 2023 13:23:52 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Mads Stoumann",
-          "comments": "https://css-tricks.com/making-calendars-with-accessibility-and-internationalization-in-mind/#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://css-tricks.com/?p=376950",
-          "categories": [
-            "Article",
-            "custom elements",
-            "i18n",
-            "locales"
-          ],
-          "isoDate": "2023-03-13T13:23:52.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://css-tricks.com/feed/",
@@ -126,7 +125,7 @@
       "generator": "https://wordpress.org/?v=6.4.3",
       "link": "https://css-tricks.com",
       "language": "en-US",
-      "lastBuildDate": "Mon, 01 Apr 2024 17:03:46 +0000"
+      "lastBuildDate": "Fri, 05 Apr 2024 22:21:03 +0000"
     },
     "CSS In Real Life": {
       "items": [
@@ -395,13 +394,26 @@
       },
       "title": "Web Designer Depot",
       "description": "Web Design Resources and Tutorials",
-      "pubDate": "Fri, 05 Apr 2024 00:05:29 -0700",
+      "pubDate": "Sat, 06 Apr 2024 00:06:06 -0700",
       "link": "https://www.webdesignerdepot.com",
       "language": "en-us",
       "copyright": "Copyright Web Designer Depot, all rights reserved."
     },
     "Brad Frost": {
       "items": [
+        {
+          "title": "Should designers code?",
+          "link": "https://bradfrost.com/blog/post/should-designers-code/",
+          "pubDate": "2024-04-05T15:15:18.000Z",
+          "author": "Brad Frost",
+          "content": "",
+          "contentSnippet": "",
+          "summary": "",
+          "id": "https://bradfrost.com/?p=19908",
+          "isoDate": "2024-04-05T15:15:18.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": ""
+        },
         {
           "title": "Brad Frost on Adaptable Design Systems &#124; Design Systems Podcast",
           "link": "https://bradfrost.com/blog/link/brad-frost-on-adaptable-design-systems-design-systems-podcast/",
@@ -453,25 +465,12 @@
           "isoDate": "2024-03-22T15:25:20.000Z",
           "content:encoded": "",
           "content:encodedSnippet": ""
-        },
-        {
-          "title": "Adactio: Journal—What the world needs",
-          "link": "https://bradfrost.com/blog/link/adactio-journal-what-the-world-needs/",
-          "pubDate": "2024-03-22T14:49:54.000Z",
-          "author": "Brad Frost",
-          "content": "",
-          "contentSnippet": "",
-          "summary": "",
-          "id": "https://bradfrost.com/?p=19806",
-          "isoDate": "2024-03-22T14:49:54.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": ""
         }
       ],
       "link": "https://bradfrost.com",
       "feedUrl": "https://bradfrost.com/feed/atom/",
       "title": "Brad Frost",
-      "lastBuildDate": "2024-04-02T19:42:04Z"
+      "lastBuildDate": "2024-04-05T15:15:19Z"
     },
     "Jonathan Suh": {
       "items": [
@@ -989,6 +988,18 @@
     "Go Make Things": {
       "items": [
         {
+          "title": "ADHD AF",
+          "link": "https://gomakethings.com/adhd-af/",
+          "pubDate": "Fri, 05 Apr 2024 10:30:00 -0400",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://gomakethings.com/adhd-af/",
+          "isoDate": "2024-04-05T14:30:00.000Z",
+          "summary": ""
+        },
+        {
           "title": "If you're a developer with ADHD...",
           "link": "https://gomakethings.com/if-youre-a-developer-with-adhd.../",
           "pubDate": "Thu, 04 Apr 2024 10:30:00 -0400",
@@ -1035,18 +1046,6 @@
           "guid": "https://gomakethings.com/dont-modernize-your-code-just-for-the-heck-of-it/",
           "isoDate": "2024-04-01T14:30:00.000Z",
           "summary": ""
-        },
-        {
-          "title": "What are you most excited about in web dev?",
-          "link": "https://gomakethings.com/what-are-you-most-excited-about-in-web-dev/",
-          "pubDate": "Fri, 29 Mar 2024 10:30:00 -0400",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://gomakethings.com/what-are-you-most-excited-about-in-web-dev/",
-          "isoDate": "2024-03-29T14:30:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://gomakethings.com/feed/index.xml",
@@ -1058,7 +1057,7 @@
       "generator": "Hugo -- gohugo.io",
       "link": "https://gomakethings.com/articles",
       "language": "en-us",
-      "lastBuildDate": "Fri, 05 Apr 2024 00:00:42 EST"
+      "lastBuildDate": "Sat, 06 Apr 2024 00:00:46 EST"
     }
   }
 }
