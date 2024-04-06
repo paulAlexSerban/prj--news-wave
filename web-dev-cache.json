@@ -107,7 +107,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Fri, 05 Apr 2024 05:02:11 GMT"
+      "lastBuildDate": "Sat, 06 Apr 2024 05:02:00 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -316,6 +316,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Preethi Sam)",
+          "title": "The Things Users Would Appreciate In Mobile Apps",
+          "link": "https://smashingmagazine.com/2024/04/things-users-would-appreciate-mobile-apps/",
+          "pubDate": "Fri, 05 Apr 2024 12:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Preethi Sam)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/things-users-would-appreciate-mobile-apps/things-users-would-appreciate-mobile-apps.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/04/things-users-would-appreciate-mobile-apps/",
+          "isoDate": "2024-04-05T12:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Tatsiana Tarkan)",
           "title": "Iconography In Design Systems: Easy Troubleshooting And Maintenance",
           "link": "https://smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance/",
@@ -390,25 +409,6 @@
           "guid": "https://smashingmagazine.com/2024/03/developers-strengthen-mental-health/",
           "isoDate": "2024-03-29T08:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Cosima Mielke)",
-          "title": "The Future Of User Research: Expert Insights And Key Trends",
-          "link": "https://smashingmagazine.com/2024/03/the-future-of-user-research/",
-          "pubDate": "Wed, 27 Mar 2024 13:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/the-future-of-user-research/increased-demand-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/03/the-future-of-user-research/",
-          "isoDate": "2024-03-27T13:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -426,11 +426,25 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Fri, 05 Apr 2024 06:58:07 GMT",
+      "lastBuildDate": "Sat, 06 Apr 2024 06:35:01 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "Collective #827",
+          "link": "https://tympanus.net/codrops/collective/collective-827-2/",
+          "pubDate": "Fri, 05 Apr 2024 11:00:00 +0000",
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?post_type=collective&p=76856",
+          "isoDate": "2024-04-05T11:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Manoela Ilic",
           "title": "On-Scroll Expanding Image Animation within Typography",
@@ -504,20 +518,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "Collective #824",
-          "link": "https://tympanus.net/codrops/collective/collective-824/",
-          "pubDate": "Tue, 26 Mar 2024 12:00:00 +0000",
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?post_type=collective&p=76714",
-          "isoDate": "2024-03-26T12:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -529,7 +529,7 @@
       "generator": "https://wordpress.org/?v=6.4.3",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Tue, 02 Apr 2024 22:11:36 +0000"
+      "lastBuildDate": "Fri, 05 Apr 2024 10:51:01 +0000"
     },
     "DZone": {
       "items": [
@@ -614,6 +614,27 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Hamed Karbasi ",
+          "title": "Harnessing Ceph S3 with Kubernetes: An Operator Solution",
+          "link": "https://itnext.io/harnessing-ceph-s3-with-kubernetes-an-operator-solution-005b1103c753?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 05 Apr 2024 21:48:25 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Hamed Karbasi ",
+          "guid": "https://medium.com/p/005b1103c753",
+          "categories": [
+            "ceph",
+            "kubernetes",
+            "openshift",
+            "s3",
+            "kubernetes-operator"
+          ],
+          "isoDate": "2024-04-05T21:48:25.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Tomáš Repčík",
           "title": "Stop using the Freezed map/when. Use sealed class with pattern matching.",
@@ -800,25 +821,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Razieh Behjati, PhD",
-          "title": "Leaky Abstractions and a Rusty Pin",
-          "link": "https://itnext.io/leaky-abstractions-and-a-rusty-pin-fbf3b84eea1f?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 03 Apr 2024 09:07:29 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Razieh Behjati, PhD",
-          "guid": "https://medium.com/p/fbf3b84eea1f",
-          "categories": [
-            "software-development",
-            "rust",
-            "programming-abstractions"
-          ],
-          "isoDate": "2024-04-03T09:07:29.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -835,202 +837,195 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Fri, 05 Apr 2024 07:03:53 GMT"
+      "lastBuildDate": "Sat, 06 Apr 2024 06:57:45 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "dev.to staff",
-          "title": "What Drives Your Daily Choices?",
-          "link": "https://dev.to/devteam/what-drives-your-daily-choices-15lb",
-          "pubDate": "Fri, 05 Apr 2024 07:00:00 +0000",
-          "dc:creator": "dev.to staff",
+          "creator": "developer",
+          "title": "I made a stop watch with html",
+          "link": "https://dev.to/dino2328/i-made-a-stop-watch-with-html-2713",
+          "pubDate": "Sat, 06 Apr 2024 06:24:06 +0000",
+          "dc:creator": "developer",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devteam/what-drives-your-daily-choices-15lb",
-          "categories": [
-            "discuss"
-          ],
-          "isoDate": "2024-04-05T07:00:00.000Z",
+          "guid": "https://dev.to/dino2328/i-made-a-stop-watch-with-html-2713",
+          "isoDate": "2024-04-06T06:24:06.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sukhpinder Singh",
-          "title": "A Coder's Hilarious Journey Through Syntax Errors",
-          "link": "https://dev.to/ssukhpinder/a-coders-hilarious-journey-through-syntax-errors-13dm",
-          "pubDate": "Fri, 05 Apr 2024 05:47:02 +0000",
-          "dc:creator": "Sukhpinder Singh",
+          "creator": "Tanveer Hussain Mir",
+          "title": "Exploring Package Managers in Web Development",
+          "link": "https://dev.to/meertanveer/exploring-package-managers-in-web-development-3jj5",
+          "pubDate": "Sat, 06 Apr 2024 06:12:22 +0000",
+          "dc:creator": "Tanveer Hussain Mir",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ssukhpinder/a-coders-hilarious-journey-through-syntax-errors-13dm",
+          "guid": "https://dev.to/meertanveer/exploring-package-managers-in-web-development-3jj5",
           "categories": [
-            "jokes",
-            "youtube",
-            "comedy",
-            "community"
+            "npm",
+            "packagemanager",
+            "pnpm",
+            "bower"
           ],
-          "isoDate": "2024-04-05T05:47:02.000Z",
+          "isoDate": "2024-04-06T06:12:22.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Yaren Sarı",
-          "title": "Temel H3C Switch Yapılandırma Kılavuzu: Cisco Komutlarıyla Karşılaştırmalı",
-          "link": "https://dev.to/aciklab/temel-h3c-switch-yapilandirma-kilavuzu-cisco-komutlariyla-karsilastirmali-4e71",
-          "pubDate": "Fri, 05 Apr 2024 05:37:52 +0000",
-          "dc:creator": "Yaren Sarı",
+          "creator": "Roberto Orozco",
+          "title": "5 Websites to Boost Your Coding and Master Algorithms 🚀",
+          "link": "https://dev.to/robertoor/5-websites-to-boost-your-coding-and-master-algorithms-28od",
+          "pubDate": "Sat, 06 Apr 2024 06:09:44 +0000",
+          "dc:creator": "Roberto Orozco",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/aciklab/temel-h3c-switch-yapilandirma-kilavuzu-cisco-komutlariyla-karsilastirmali-4e71",
-          "categories": [
-            "h3c",
-            "cisco",
-            "switch",
-            "sflow"
-          ],
-          "isoDate": "2024-04-05T05:37:52.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ivan Porta",
-          "title": "Updating Azure DevOps Pipelines for Terraform Post SSH-RSA Deprecation",
-          "link": "https://dev.to/gtrekter/updating-azure-devops-pipelines-for-terraform-post-ssh-rsa-deprecation-4270",
-          "pubDate": "Fri, 05 Apr 2024 02:58:06 +0000",
-          "dc:creator": "Ivan Porta",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/gtrekter/updating-azure-devops-pipelines-for-terraform-post-ssh-rsa-deprecation-4270",
-          "categories": [
-            "azure",
-            "devops",
-            "terraform",
-            "microsoft"
-          ],
-          "isoDate": "2024-04-05T02:58:06.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "EdilsonRogerioCuambe",
-          "title": "🤔 Quer entender algoritmos de busca e ordenação de forma interativa? 🎮✨",
-          "link": "https://dev.to/edilsonrogeriocuambe/quer-entender-algoritmos-de-busca-e-ordenacao-de-forma-interativa-4cj4",
-          "pubDate": "Fri, 05 Apr 2024 02:13:23 +0000",
-          "dc:creator": "EdilsonRogerioCuambe",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/edilsonrogeriocuambe/quer-entender-algoritmos-de-busca-e-ordenacao-de-forma-interativa-4cj4",
+          "guid": "https://dev.to/robertoor/5-websites-to-boost-your-coding-and-master-algorithms-28od",
           "categories": [
             "algorithms",
-            "developer",
-            "webdev",
+            "interview",
+            "coding",
             "programming"
           ],
-          "isoDate": "2024-04-05T02:13:23.000Z",
+          "isoDate": "2024-04-06T06:09:44.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Mostafa Dekmak",
-          "title": "A Guide to Deploying Nest.js Applications with AWS CodePipeline and ECS Fargate",
-          "link": "https://dev.to/dkmostafa/a-guide-to-deploying-nestjs-applications-with-aws-codepipeline-and-ecs-fargate-20fe",
-          "pubDate": "Fri, 05 Apr 2024 02:09:22 +0000",
-          "dc:creator": "Mostafa Dekmak",
+          "creator": "Alok Patel",
+          "title": "Understanding HTTP Status Codes",
+          "link": "https://dev.to/alokmotion/understanding-http-status-codes-820",
+          "pubDate": "Sat, 06 Apr 2024 06:09:35 +0000",
+          "dc:creator": "Alok Patel",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/dkmostafa/a-guide-to-deploying-nestjs-applications-with-aws-codepipeline-and-ecs-fargate-20fe",
-          "categories": [
-            "aws",
-            "nestjs",
-            "ecs",
-            "awscdk"
-          ],
-          "isoDate": "2024-04-05T02:09:22.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Shannon Lal",
-          "title": "Exploring Prompt Compression with LLMLingua: Balancing Efficiency and Quality",
-          "link": "https://dev.to/shannonlal/exploring-prompt-compression-with-llmlingua-balancing-efficiency-and-quality-1mbd",
-          "pubDate": "Fri, 05 Apr 2024 01:56:32 +0000",
-          "dc:creator": "Shannon Lal",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/shannonlal/exploring-prompt-compression-with-llmlingua-balancing-efficiency-and-quality-1mbd",
-          "categories": [
-            "llm",
-            "ai",
-            "promptengineering",
-            "llmlingua"
-          ],
-          "isoDate": "2024-04-05T01:56:32.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "shanice",
-          "title": "Reading Notes: Tidy First",
-          "link": "https://dev.to/hackergem/reading-notes-tidy-first-34oi",
-          "pubDate": "Fri, 05 Apr 2024 00:39:04 +0000",
-          "dc:creator": "shanice",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/hackergem/reading-notes-tidy-first-34oi",
-          "categories": [
-            "softwaredevelopment",
-            "learning",
-            "book"
-          ],
-          "isoDate": "2024-04-05T00:39:04.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Mike Varenek",
-          "title": "Mastering WordPress Management: A Comprehensive Guide to WP-CLI Commands",
-          "link": "https://dev.to/mikevarenek/mastering-wordpress-management-a-comprehensive-guide-to-wp-cli-commands-5dn9",
-          "pubDate": "Fri, 05 Apr 2024 00:19:26 +0000",
-          "dc:creator": "Mike Varenek",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/mikevarenek/mastering-wordpress-management-a-comprehensive-guide-to-wp-cli-commands-5dn9",
-          "categories": [
-            "wordpress",
-            "webdev",
-            "cms",
-            "beginners"
-          ],
-          "isoDate": "2024-04-05T00:19:26.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Max Zhuk",
-          "title": "Challenges and Solutions in Using ThirdWeb",
-          "link": "https://dev.to/zhukmax/challenges-and-solutions-in-using-thirdweb-3j8j",
-          "pubDate": "Fri, 05 Apr 2024 00:08:54 +0000",
-          "dc:creator": "Max Zhuk",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/zhukmax/challenges-and-solutions-in-using-thirdweb-3j8j",
+          "guid": "https://dev.to/alokmotion/understanding-http-status-codes-820",
           "categories": [
             "webdev",
-            "beginners",
-            "web3",
-            "blockchain"
+            "serverless",
+            "http"
           ],
-          "isoDate": "2024-04-05T00:08:54.000Z",
+          "isoDate": "2024-04-06T06:09:35.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "shrey vijayvargiya",
+          "title": "What is an Abstract Syntax Tree in Programming?",
+          "link": "https://dev.to/shreyvijayvargiya/what-is-an-abstract-syntax-tree-in-programming-1nae",
+          "pubDate": "Sat, 06 Apr 2024 06:07:04 +0000",
+          "dc:creator": "shrey vijayvargiya",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/shreyvijayvargiya/what-is-an-abstract-syntax-tree-in-programming-1nae",
+          "categories": [
+            "javascript",
+            "programming",
+            "opensource",
+            "learning"
+          ],
+          "isoDate": "2024-04-06T06:07:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sh Raj",
+          "title": "🗝️ Quick macOS Tip: Open Keychain Access from Terminal! 🔍 - Update git credentials",
+          "link": "https://dev.to/sh20raj/quick-macos-tip-open-keychain-access-from-terminal-update-git-credentials-9bo",
+          "pubDate": "Sat, 06 Apr 2024 06:02:38 +0000",
+          "dc:creator": "Sh Raj",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/sh20raj/quick-macos-tip-open-keychain-access-from-terminal-update-git-credentials-9bo",
+          "categories": [
+            "git",
+            "terminal"
+          ],
+          "isoDate": "2024-04-06T06:02:38.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "𝒮𝒶𝓇𝓉𝒽𝒶𝓀 📨",
+          "title": "Git Masterclass - Day 2",
+          "link": "https://dev.to/sarthaksavvy/git-masterclass-day-2-3581",
+          "pubDate": "Sat, 06 Apr 2024 05:51:32 +0000",
+          "dc:creator": "𝒮𝒶𝓇𝓉𝒽𝒶𝓀 📨",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/sarthaksavvy/git-masterclass-day-2-3581",
+          "categories": [
+            "git",
+            "githubactions",
+            "programming"
+          ],
+          "isoDate": "2024-04-06T05:51:32.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "quirky-goof",
+          "title": "up up and away ...",
+          "link": "https://dev.to/quirky-goof/up-up-and-away--45",
+          "pubDate": "Sat, 06 Apr 2024 05:47:34 +0000",
+          "dc:creator": "quirky-goof",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/quirky-goof/up-up-and-away--45",
+          "categories": [
+            "programming",
+            "productivity",
+            "learning"
+          ],
+          "isoDate": "2024-04-06T05:47:34.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Gustavo Favero",
+          "title": "Exploring Beyond React: Expanding Front-End Horizons",
+          "link": "https://dev.to/gufvr/exploring-beyond-react-expanding-front-end-horizons-34l4",
+          "pubDate": "Sat, 06 Apr 2024 05:33:21 +0000",
+          "dc:creator": "Gustavo Favero",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/gufvr/exploring-beyond-react-expanding-front-end-horizons-34l4",
+          "categories": [
+            "webdev",
+            "javascript",
+            "programming",
+            "react"
+          ],
+          "isoDate": "2024-04-06T05:33:21.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Tanveer Hussain Mir",
+          "title": "Algorithms Every Backend Web Developer Should Master",
+          "link": "https://dev.to/meertanveer/algorithms-every-backend-web-developer-should-master-36kg",
+          "pubDate": "Sat, 06 Apr 2024 05:13:49 +0000",
+          "dc:creator": "Tanveer Hussain Mir",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/meertanveer/algorithms-every-backend-web-developer-should-master-36kg",
+          "categories": [
+            "algorithms",
+            "webdev",
+            "backenddevelopment",
+            "node"
+          ],
+          "isoDate": "2024-04-06T05:13:49.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
