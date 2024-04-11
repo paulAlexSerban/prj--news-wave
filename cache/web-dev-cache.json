@@ -105,10 +105,47 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Wed, 10 Apr 2024 05:02:04 GMT"
+      "lastBuildDate": "Thu, 11 Apr 2024 05:02:14 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
+        {
+          "creator": "Peter Cihon",
+          "title": "Helping policymakers weigh the benefits of open source AI",
+          "link": "https://github.blog/2024-04-10-helping-policymakers-weigh-the-benefits-of-open-source-ai/",
+          "pubDate": "Wed, 10 Apr 2024 22:53:33 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Peter Cihon",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=77448",
+          "categories": [
+            "Policy",
+            "open source"
+          ],
+          "isoDate": "2024-04-10T22:53:33.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Jakub Oleksy",
+          "title": "GitHub Availability Report: March 2024",
+          "link": "https://github.blog/2024-04-10-github-availability-report-march-2024/",
+          "pubDate": "Wed, 10 Apr 2024 20:15:17 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Jakub Oleksy",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=77425",
+          "categories": [
+            "Engineering",
+            "Enterprise",
+            "GitHub Availability Report"
+          ],
+          "isoDate": "2024-04-10T20:15:17.000Z",
+          "summary": ""
+        },
         {
           "creator": "Holger Staudacher",
           "title": "4 ways GitHub engineers use GitHub Copilot",
@@ -166,44 +203,6 @@
           ],
           "isoDate": "2024-04-04T16:00:07.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Jorge Rosillo",
-          "title": "Security research without ever leaving GitHub: From code scanning to CVE via Codespaces and private vulnerability reporting",
-          "link": "https://github.blog/2024-04-03-security-research-without-ever-leaving-github-from-code-scanning-to-cve-via-codespaces-and-private-vulnerability-reporting/",
-          "pubDate": "Wed, 03 Apr 2024 14:26:50 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Jorge Rosillo",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=77239",
-          "categories": [
-            "Security",
-            "GitHub Security Lab",
-            "security research"
-          ],
-          "isoDate": "2024-04-03T14:26:50.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "Tanmayee Kamath",
-          "title": "Bringing enterprise-level security and even more power to GitHub-hosted runners",
-          "link": "https://github.blog/2024-04-02-bringing-enterprise-level-security-and-even-more-power-to-github-hosted-runners/",
-          "pubDate": "Tue, 02 Apr 2024 16:35:24 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Tanmayee Kamath",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=77210",
-          "categories": [
-            "Product",
-            "GitHub Actions",
-            "GitHub-hosted runners"
-          ],
-          "isoDate": "2024-04-02T16:35:24.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://github.blog/feed/",
@@ -222,7 +221,7 @@
       "generator": "https://wordpress.org/?v=6.5.2",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Tue, 09 Apr 2024 16:21:31 +0000"
+      "lastBuildDate": "Wed, 10 Apr 2024 22:58:36 +0000"
     },
     "GitHub Blog Atom": {
       "items": [
@@ -423,11 +422,35 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Wed, 10 Apr 2024 06:50:36 GMT",
+      "lastBuildDate": "Thu, 11 Apr 2024 06:45:48 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "deadrabbbbit",
+          "title": "Image Stack Entrance Animations",
+          "link": "https://tympanus.net/codrops/2024/04/10/image-stack-entrance-animations/",
+          "pubDate": "Wed, 10 Apr 2024 10:50:20 +0000",
+          "enclosure": {
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/04/entrance01.mp4?x87314",
+            "length": "1315325",
+            "type": "video/mp4"
+          },
+          "dc:creator": "deadrabbbbit",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=76798",
+          "categories": [
+            "Playground",
+            "intro",
+            "stack"
+          ],
+          "isoDate": "2024-04-10T10:50:20.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Manoela Ilic",
           "title": "Collective #828",
@@ -500,30 +523,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "On-Scroll Expanding Image Animation within Typography",
-          "link": "https://tympanus.net/codrops/2024/04/02/on-scroll-expanding-image-animation-within-typography/",
-          "pubDate": "Tue, 02 Apr 2024 11:45:33 +0000",
-          "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/04/expandimage_opt.mp4?x87314",
-            "length": "2025035",
-            "type": "video/mp4"
-          },
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=76821",
-          "categories": [
-            "Playground",
-            "scroll",
-            "typography"
-          ],
-          "isoDate": "2024-04-02T11:45:33.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -535,7 +534,7 @@
       "generator": "https://wordpress.org/?v=6.4.4",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Mon, 08 Apr 2024 09:53:50 +0000"
+      "lastBuildDate": "Wed, 10 Apr 2024 10:50:22 +0000"
     },
     "DZone": {
       "items": [
@@ -621,6 +620,127 @@
     "itnext": {
       "items": [
         {
+          "creator": "Héla Ben Khalfallah",
+          "title": "Frontend Development Beyond React: Svelte (1/3)",
+          "link": "https://itnext.io/frontend-development-beyond-react-svelte-1-3-f47eda22cba5?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 10 Apr 2024 22:12:17 GMT",
+          "dc:creator": "Héla Ben Khalfallah",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/f47eda22cba5",
+          "categories": [
+            "front-end-development",
+            "svelte",
+            "optimization",
+            "sveltekit",
+            "frontend"
+          ],
+          "isoDate": "2024-04-10T22:12:17.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Youichi Fujimoto",
+          "title": "Making a MIDI Piano using Rust",
+          "link": "https://itnext.io/making-a-midi-piano-using-rust-a9b6e187c157?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 10 Apr 2024 15:48:23 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Youichi Fujimoto",
+          "guid": "https://medium.com/p/a9b6e187c157",
+          "categories": [
+            "programming",
+            "rust",
+            "midi"
+          ],
+          "isoDate": "2024-04-10T15:48:23.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Samuel Abada",
+          "title": "Testing in Flutter and Dart: Mocks and Fakes",
+          "link": "https://itnext.io/testing-in-flutter-and-dart-mocks-and-fakes-dc8f1d5ae540?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 10 Apr 2024 14:35:55 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Samuel Abada",
+          "guid": "https://medium.com/p/dc8f1d5ae540",
+          "categories": [
+            "testing",
+            "flutter",
+            "dart",
+            "test",
+            "flutter-app-development"
+          ],
+          "isoDate": "2024-04-10T14:35:55.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Benjamin Cane",
+          "title": "Short Reads: Optimizing time for Software Engineers",
+          "link": "https://itnext.io/short-reads-optimizing-time-for-software-engineers-9db984f3a310?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 10 Apr 2024 14:33:29 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Benjamin Cane",
+          "guid": "https://medium.com/p/9db984f3a310",
+          "categories": [
+            "software-development",
+            "software-engineering",
+            "technology",
+            "programming"
+          ],
+          "isoDate": "2024-04-10T14:33:29.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Pedro Paulino",
+          "title": "OutSystems Traditional to Reactive -What you need to know",
+          "link": "https://itnext.io/outsystems-traditional-to-reactive-what-you-need-to-know-800ee47b4ddf?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 10 Apr 2024 11:43:23 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Pedro Paulino",
+          "guid": "https://medium.com/p/800ee47b4ddf",
+          "categories": [
+            "outsystems",
+            "outsystems-reactive",
+            "outsystems-refactoring"
+          ],
+          "isoDate": "2024-04-10T11:43:23.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Tobias Wissmueller",
+          "title": "Local LLMs — Balancing Efficiency in Coding with Privacy and Security Concerns",
+          "link": "https://itnext.io/local-llms-balancing-efficiency-in-coding-with-privacy-and-security-concerns-57dffe222bb4?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 10 Apr 2024 09:15:24 GMT",
+          "dc:creator": "Tobias Wissmueller",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/57dffe222bb4",
+          "categories": [
+            "ollama",
+            "software-engineering",
+            "code-llama",
+            "large-language-models",
+            "artificial-intelligence"
+          ],
+          "isoDate": "2024-04-10T09:15:24.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Chris Karvouniaris",
           "title": "How to use Firebase Realtime Database Emulator via Python Admin SDK",
           "link": "https://itnext.io/how-to-use-firebase-realtime-database-emulator-via-python-admin-sdk-3e3de5cf3590?source=rss----5b301f10ddcd---4",
@@ -703,132 +823,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Martin Heinz",
-          "title": "Shell History Is Your Best Productivity Tool",
-          "link": "https://itnext.io/shell-history-is-your-best-productivity-tool-ed3824061efd?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 09 Apr 2024 08:02:33 GMT",
-          "dc:creator": "Martin Heinz",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/ed3824061efd",
-          "categories": [
-            "programming",
-            "linux",
-            "software-engineering",
-            "technology",
-            "devops"
-          ],
-          "isoDate": "2024-04-09T08:02:33.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Werner Dijkerman",
-          "title": "The ethics of Pull Requests, improving the Pull Requests process",
-          "link": "https://itnext.io/the-ethics-of-pull-requests-improving-the-pull-requests-process-4a5ed93e2d97?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 09 Apr 2024 08:01:22 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Werner Dijkerman",
-          "guid": "https://medium.com/p/4a5ed93e2d97",
-          "categories": [
-            "working-together",
-            "pull-request",
-            "development",
-            "ethics",
-            "pre-commit-hook"
-          ],
-          "isoDate": "2024-04-09T08:01:22.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ivan Franchin",
-          "title": "RSocket & Spring Boot: Implementing the Crypto Shell",
-          "link": "https://itnext.io/rsocket-spring-boot-implementing-the-crypto-shell-941567ca1412?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 09 Apr 2024 06:58:22 GMT",
-          "dc:creator": "Ivan Franchin",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/941567ca1412",
-          "categories": [
-            "rsocket",
-            "spring-shell",
-            "software-development",
-            "technology",
-            "spring-boot"
-          ],
-          "isoDate": "2024-04-09T06:58:22.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Saeed Zarinfam",
-          "title": "Why is OpenTelemetry important for Java applications?",
-          "link": "https://itnext.io/why-is-opentelemetry-important-for-java-applications-b0430c9f1552?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 08 Apr 2024 22:16:15 GMT",
-          "dc:creator": "Saeed Zarinfam",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/b0430c9f1552",
-          "categories": [
-            "opentelemetry",
-            "java",
-            "observability",
-            "otel-collector",
-            "otlp"
-          ],
-          "isoDate": "2024-04-08T22:16:15.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Dale Nguyen",
-          "title": "Utilize CloudFlare Worker AI in Analogjs",
-          "link": "https://itnext.io/utilize-cloudflare-worker-ai-in-analogjs-582d7f7f21fc?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 08 Apr 2024 19:00:03 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Dale Nguyen",
-          "guid": "https://medium.com/p/582d7f7f21fc",
-          "categories": [
-            "cloudflare-pages",
-            "angular",
-            "cloudflare",
-            "web-development",
-            "nx"
-          ],
-          "isoDate": "2024-04-08T19:00:03.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Alexey Boyko",
-          "title": "UI. Nuances of marker implementation in the DGRM.net flowchart editor",
-          "link": "https://itnext.io/ui-nuances-of-marker-implementation-in-the-dgrm-net-flowchart-editor-20da122bbfe0?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 08 Apr 2024 14:37:24 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Alexey Boyko",
-          "guid": "https://medium.com/p/20da122bbfe0",
-          "categories": [
-            "ui",
-            "ui-design",
-            "design",
-            "ux",
-            "ui-ux-design"
-          ],
-          "isoDate": "2024-04-08T14:37:24.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -845,189 +839,191 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Wed, 10 Apr 2024 07:05:17 GMT"
+      "lastBuildDate": "Thu, 11 Apr 2024 06:53:48 GMT"
     },
     "DEV Community": {
       "items": [
         {
           "creator": "dev.to staff",
-          "title": "How Do You Lead without Authority?",
-          "link": "https://dev.to/devteam/how-do-you-lead-without-authority-514a",
-          "pubDate": "Wed, 10 Apr 2024 07:00:00 +0000",
+          "title": "Are You Ready for These JavaScript Interview Puzzles?",
+          "link": "https://dev.to/devteam/are-you-ready-for-these-javascript-interview-puzzles-25k8",
+          "pubDate": "Thu, 11 Apr 2024 07:00:00 +0000",
           "dc:creator": "dev.to staff",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devteam/how-do-you-lead-without-authority-514a",
+          "guid": "https://dev.to/devteam/are-you-ready-for-these-javascript-interview-puzzles-25k8",
           "categories": [
-            "discuss"
-          ],
-          "isoDate": "2024-04-10T07:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "abhilaksh-arora",
-          "title": "Crafting Fast and Reliable Web Experiences with Progressive Web Apps (PWAs)",
-          "link": "https://dev.to/abhilaksharora/crafting-fast-and-reliable-web-experiences-with-progressive-web-apps-pwas-53ee",
-          "pubDate": "Wed, 10 Apr 2024 06:17:50 +0000",
-          "dc:creator": "abhilaksh-arora",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/abhilaksharora/crafting-fast-and-reliable-web-experiences-with-progressive-web-apps-pwas-53ee",
-          "categories": [
-            "webdev",
-            "pwa",
-            "pwabuilder"
-          ],
-          "isoDate": "2024-04-10T06:17:50.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "TANIAOKA, Akihiro",
-          "title": "１０章7",
-          "link": "https://dev.to/aaattt/10zhang-7-5b3e",
-          "pubDate": "Wed, 10 Apr 2024 06:04:34 +0000",
-          "dc:creator": "TANIAOKA, Akihiro",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/aaattt/10zhang-7-5b3e",
-          "isoDate": "2024-04-10T06:04:34.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Shivam Singh",
-          "title": "What is JavaScript",
-          "link": "https://dev.to/shivamblog/introduction-to-javascript-3fc5",
-          "pubDate": "Wed, 10 Apr 2024 05:55:57 +0000",
-          "dc:creator": "Shivam Singh",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/shivamblog/introduction-to-javascript-3fc5",
-          "categories": [
-            "javascript",
-            "react",
-            "web",
-            "webdev"
-          ],
-          "isoDate": "2024-04-10T05:55:57.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Emmmeline",
-          "title": "JS Study Notes(1) CN",
-          "link": "https://dev.to/emmelinexu/js-study-notes1-cn-19fd",
-          "pubDate": "Wed, 10 Apr 2024 05:55:25 +0000",
-          "dc:creator": "Emmmeline",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/emmelinexu/js-study-notes1-cn-19fd",
-          "isoDate": "2024-04-10T05:55:25.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Syed Muhammad Ali Raza",
-          "title": "Next js Styling",
-          "link": "https://dev.to/syedmuhammadaliraza/next-js-styling-2lpd",
-          "pubDate": "Wed, 10 Apr 2024 05:52:00 +0000",
-          "dc:creator": "Syed Muhammad Ali Raza",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/syedmuhammadaliraza/next-js-styling-2lpd",
-          "categories": [
-            "nextjs",
-            "react",
-            "webdev",
-            "softwaredevelopment"
-          ],
-          "isoDate": "2024-04-10T05:52:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "codingdudecom",
-          "title": "AI Character Generator",
-          "link": "https://dev.to/codingdudecom/ai-character-generator-4kgb",
-          "pubDate": "Wed, 10 Apr 2024 05:45:49 +0000",
-          "dc:creator": "codingdudecom",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/codingdudecom/ai-character-generator-4kgb",
-          "categories": [
-            "cloudflarechallenge",
-            "devchallenge",
-            "ai",
-            "node"
-          ],
-          "isoDate": "2024-04-10T05:45:49.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Rohit",
-          "title": "Promise in Javascript",
-          "link": "https://dev.to/rohiitbagal/promise-in-javascript-120p",
-          "pubDate": "Wed, 10 Apr 2024 05:41:15 +0000",
-          "dc:creator": "Rohit",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/rohiitbagal/promise-in-javascript-120p",
-          "categories": [
-            "webdev",
-            "javascript",
-            "programming",
-            "node"
-          ],
-          "isoDate": "2024-04-10T05:41:15.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Spacelift team",
-          "title": "Managing Infrastructure as Code (IaC) With Terraform",
-          "link": "https://dev.to/spacelift/managing-infrastructure-as-code-iac-with-terraform-530j",
-          "pubDate": "Wed, 10 Apr 2024 05:33:38 +0000",
-          "dc:creator": "Spacelift team",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/spacelift/managing-infrastructure-as-code-iac-with-terraform-530j",
-          "categories": [
-            "terraform",
-            "infrastructureascode",
-            "devops"
-          ],
-          "isoDate": "2024-04-10T05:33:38.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Vishnu Satheesh",
-          "title": "Controlled and Uncontrolled components in react",
-          "link": "https://dev.to/vishnusatheesh/controlled-and-uncontrolled-components-in-react-1me4",
-          "pubDate": "Wed, 10 Apr 2024 05:33:07 +0000",
-          "dc:creator": "Vishnu Satheesh",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/vishnusatheesh/controlled-and-uncontrolled-components-in-react-1me4",
-          "categories": [
-            "react",
-            "beginners",
-            "webdev",
+            "discuss",
+            "career",
             "javascript"
           ],
-          "isoDate": "2024-04-10T05:33:07.000Z",
+          "isoDate": "2024-04-11T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Tahsin Abrar",
+          "title": "How to Make Dynamic Bangla PDF using Laravel mPDF and Send Them via Email",
+          "link": "https://dev.to/tahsin000/how-to-make-dynamic-bangla-pdf-using-laravel-mpdf-1obe",
+          "pubDate": "Thu, 11 Apr 2024 05:43:52 +0000",
+          "dc:creator": "Tahsin Abrar",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/tahsin000/how-to-make-dynamic-bangla-pdf-using-laravel-mpdf-1obe",
+          "isoDate": "2024-04-11T05:43:52.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "cynthia",
+          "title": "Different Ways to Write CSS in React",
+          "link": "https://dev.to/cynthiabest/different-ways-to-write-css-in-react-57bp",
+          "pubDate": "Thu, 11 Apr 2024 05:21:18 +0000",
+          "dc:creator": "cynthia",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/cynthiabest/different-ways-to-write-css-in-react-57bp",
+          "isoDate": "2024-04-11T05:21:18.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Harshal Ranjhani",
+          "title": "Exploring Mojo CSS: A Developer’s Guide",
+          "link": "https://dev.to/codeparrot/exploring-mojo-css-a-developers-guide-hhn",
+          "pubDate": "Thu, 11 Apr 2024 05:14:50 +0000",
+          "dc:creator": "Harshal Ranjhani",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/codeparrot/exploring-mojo-css-a-developers-guide-hhn",
+          "categories": [
+            "webdev",
+            "mojocss",
+            "css",
+            "beginners"
+          ],
+          "isoDate": "2024-04-11T05:14:50.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Tirth Raval",
+          "title": "Building a Todo Application Backend with MongoDB and Express",
+          "link": "https://dev.to/tirthraval1999/building-a-todo-application-backend-with-mongodb-and-express-2k34",
+          "pubDate": "Thu, 11 Apr 2024 05:09:02 +0000",
+          "dc:creator": "Tirth Raval",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/tirthraval1999/building-a-todo-application-backend-with-mongodb-and-express-2k34",
+          "categories": [
+            "javascript",
+            "express",
+            "mongodb",
+            "webdev"
+          ],
+          "isoDate": "2024-04-11T05:09:02.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Pawel Kadluczka",
+          "title": "The self-inflicted pain of premature abstractions",
+          "link": "https://dev.to/moozzyk/the-self-inflicted-pain-of-premature-abstractions-1549",
+          "pubDate": "Thu, 11 Apr 2024 04:54:44 +0000",
+          "dc:creator": "Pawel Kadluczka",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/moozzyk/the-self-inflicted-pain-of-premature-abstractions-1549",
+          "categories": [
+            "productivity",
+            "softwareengineering",
+            "careerdevelopment"
+          ],
+          "isoDate": "2024-04-11T04:54:44.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Hamidul Islam",
+          "title": "Easy Guide to Becoming a Software Developer in 2024",
+          "link": "https://dev.to/hamidulislam/easy-guide-to-becoming-a-software-developer-in-2024-4m1g",
+          "pubDate": "Thu, 11 Apr 2024 04:42:33 +0000",
+          "dc:creator": "Hamidul Islam",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/hamidulislam/easy-guide-to-becoming-a-software-developer-in-2024-4m1g",
+          "categories": [
+            "developer",
+            "engineer",
+            "shortcut",
+            "webdev"
+          ],
+          "isoDate": "2024-04-11T04:42:33.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Anthony Wat",
+          "title": "How To Implement AWS SSB Controls in Terraform - Part 4",
+          "link": "https://dev.to/aws-builders/how-to-implement-aws-ssb-controls-in-terraform-part-4-3bl3",
+          "pubDate": "Thu, 11 Apr 2024 04:23:38 +0000",
+          "dc:creator": "Anthony Wat",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/aws-builders/how-to-implement-aws-ssb-controls-in-terraform-part-4-3bl3",
+          "categories": [
+            "aws",
+            "terraform",
+            "security"
+          ],
+          "isoDate": "2024-04-11T04:23:38.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Thad Guidry",
+          "title": "Expose your database as a REST API safely and without code",
+          "link": "https://dev.to/thadguidry/expose-your-database-as-a-rest-api-safely-and-without-code-5242",
+          "pubDate": "Thu, 11 Apr 2024 04:11:39 +0000",
+          "dc:creator": "Thad Guidry",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/thadguidry/expose-your-database-as-a-rest-api-safely-and-without-code-5242",
+          "categories": [
+            "restapi",
+            "sql",
+            "database",
+            "opensource"
+          ],
+          "isoDate": "2024-04-11T04:11:39.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Aniket Hingane",
+          "title": "How I Made AI Agents Engage in a Heated Debate",
+          "link": "https://dev.to/exploredataaiml/how-i-made-ai-agents-engage-in-a-heated-debate-3ob1",
+          "pubDate": "Thu, 11 Apr 2024 02:32:54 +0000",
+          "dc:creator": "Aniket Hingane",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/exploredataaiml/how-i-made-ai-agents-engage-in-a-heated-debate-3ob1",
+          "categories": [
+            "machinelearning",
+            "ai",
+            "systemdesign",
+            "tutorial"
+          ],
+          "isoDate": "2024-04-11T02:32:54.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1044,6 +1040,19 @@
     },
     "Digital Ocean Labs": {
       "items": [
+        {
+          "title": "Announcing the Public Launch of DigitalOcean’s Paid Bug Bounty Program",
+          "link": "https://www.digitalocean.com/blog/digitalocean-bug-bounty-program",
+          "pubDate": "2024-04-10T15:44:28.619Z",
+          "author": "ari-kalfus",
+          "content": "",
+          "contentSnippet": "",
+          "id": "tag:www.digitalocean.com,2005:/blog/digitalocean-bug-bounty-program",
+          "isoDate": "2024-04-10T15:44:28.619Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "Accelerate Your Business with DigitalOcean App Platform",
           "link": "https://www.digitalocean.com/blog/accelerate-your-businesss-digitalocean-app-platform",
@@ -1095,28 +1104,27 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "Introducing Software License Subscriptions on DigitalOcean Marketplace",
-          "link": "https://www.digitalocean.com/blog/introducing-software-license-subscriptions-on-digitalocean-marketplace",
-          "pubDate": "2024-03-18T20:12:05.211Z",
-          "author": "grace-morgan",
-          "content": "",
-          "contentSnippet": "",
-          "id": "tag:www.digitalocean.com,2005:/blog/introducing-software-license-subscriptions-on-digitalocean-marketplace",
-          "isoDate": "2024-03-18T20:12:05.211Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog.atom",
       "title": "The DigitalOcean Blog",
-      "lastBuildDate": "2024-04-09T20:32:30.032Z"
+      "lastBuildDate": "2024-04-10T23:24:37.118Z"
     },
     "Julia Evans": {
       "items": [
+        {
+          "title": "Notes on git's error messages",
+          "link": "https://jvns.ca/blog/2024/04/10/notes-on-git-error-messages/",
+          "pubDate": "2024-04-10T12:43:14.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "id": "https://jvns.ca/blog/2024/04/10/notes-on-git-error-messages/",
+          "isoDate": "2024-04-10T12:43:14.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "Making crochet cacti",
           "link": "https://jvns.ca/blog/2024/04/01/making-crochet-cacti/",
@@ -1164,24 +1172,12 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "Popular git config options",
-          "link": "https://jvns.ca/blog/2024/02/16/popular-git-config-options/",
-          "pubDate": "2024-02-16T10:42:27.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "id": "https://jvns.ca/blog/2024/02/16/popular-git-config-options/",
-          "isoDate": "2024-02-16T10:42:27.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "link": "http://jvns.ca/atom.xml",
       "feedUrl": "http://jvns.ca/atom.xml",
       "title": "Julia Evans",
-      "lastBuildDate": "2024-04-01T07:37:00+00:00"
+      "lastBuildDate": "2024-04-10T12:43:14+00:00"
     }
   }
 }
