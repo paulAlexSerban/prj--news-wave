@@ -104,7 +104,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Fri, 12 Apr 2024 05:04:01 GMT"
+      "lastBuildDate": "Sat, 13 Apr 2024 05:02:04 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -221,7 +221,7 @@
       "generator": "https://wordpress.org/?v=6.5.2",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Thu, 11 Apr 2024 20:54:33 +0000"
+      "lastBuildDate": "Fri, 12 Apr 2024 16:01:26 +0000"
     },
     "GitHub Blog Atom": {
       "items": [
@@ -312,6 +312,44 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Temani Afif)",
+          "title": "Sliding 3D Image Frames In CSS",
+          "link": "https://smashingmagazine.com/2024/04/sliding-3d-image-frames-css/",
+          "pubDate": "Fri, 12 Apr 2024 18:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Temani Afif)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/sliding-3d-image-frames-css/sliding-3d-image-frames-css.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/04/sliding-3d-image-frames-css/",
+          "isoDate": "2024-04-12T18:00:00.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
+          "title": "Penpot’s CSS Grid Layout: Designing With Superpowers",
+          "link": "https://smashingmagazine.com/2024/04/penpot-css-grid-layout-designing-superpowers/",
+          "pubDate": "Thu, 11 Apr 2024 08:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/penpot-css-grid-layout-designing-superpowers/penpot-css-grid-layout-designing-superpowers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/04/penpot-css-grid-layout-designing-superpowers/",
+          "isoDate": "2024-04-11T08:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Victor Yocco)",
           "title": "Connecting With Users: Applying Principles Of Communication To UX Research",
           "link": "https://smashingmagazine.com/2024/04/applying-principles-communication-ux-research/",
@@ -367,44 +405,6 @@
           "guid": "https://smashingmagazine.com/2024/04/iconography-design-systems-troubleshooting-maintenance/",
           "isoDate": "2024-04-03T08:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Silvestar Bistrović)",
-          "title": "Infinite-Scrolling Logos In Flat HTML And Pure CSS",
-          "link": "https://smashingmagazine.com/2024/04/infinite-scrolling-logos-html-css/",
-          "pubDate": "Tue, 02 Apr 2024 12:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Silvestar Bistrović)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/infinite-scrolling-logos-html-css/infinite-scrolling-logos-html-css.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/04/infinite-scrolling-logos-html-css/",
-          "isoDate": "2024-04-02T12:00:00.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Cosima Mielke)",
-          "title": "Colorful Blossoms And Rainy Days (April 2024 Wallpapers Edition)",
-          "link": "https://smashingmagazine.com/2024/03/desktop-wallpaper-calendars-april-2024/",
-          "pubDate": "Sun, 31 Mar 2024 08:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-april-2023/apr-22-swing-into-spring-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/03/desktop-wallpaper-calendars-april-2024/",
-          "isoDate": "2024-03-31T08:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -422,11 +422,25 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Fri, 12 Apr 2024 06:50:50 GMT",
+      "lastBuildDate": "Sat, 13 Apr 2024 06:35:56 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "Collective #829",
+          "link": "https://tympanus.net/codrops/collective/collective-829/",
+          "pubDate": "Fri, 12 Apr 2024 11:00:00 +0000",
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?post_type=collective&p=76858",
+          "isoDate": "2024-04-12T11:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "deadrabbbbit",
           "title": "Image Stack Entrance Animations",
@@ -506,20 +520,6 @@
             "website"
           ],
           "isoDate": "2024-04-06T11:29:04.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "Collective #827",
-          "link": "https://tympanus.net/codrops/collective/collective-827-2/",
-          "pubDate": "Fri, 05 Apr 2024 11:00:00 +0000",
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?post_type=collective&p=76856",
-          "isoDate": "2024-04-05T11:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -619,6 +619,48 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Abu",
+          "title": "Prevent Secret Leaks in source code",
+          "link": "https://itnext.io/prevent-secret-leaks-in-source-code-5b2b676ebbc5?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 12 Apr 2024 14:06:58 GMT",
+          "dc:creator": "Abu",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/5b2b676ebbc5",
+          "categories": [
+            "devsecops",
+            "software-development",
+            "devops",
+            "cybersecurity",
+            "security"
+          ],
+          "isoDate": "2024-04-12T14:06:58.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Benjamin Cane",
+          "title": "Side projects are a great investment in personal growth",
+          "link": "https://itnext.io/side-projects-are-a-great-investment-in-personal-growth-c8da5ba83542?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 12 Apr 2024 14:04:09 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Benjamin Cane",
+          "guid": "https://medium.com/p/c8da5ba83542",
+          "categories": [
+            "software-engineering",
+            "programming",
+            "coding",
+            "technology",
+            "software-development"
+          ],
+          "isoDate": "2024-04-12T14:04:09.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Daniel Glejzner",
           "title": "Always unsubscribe. No exceptions. Debate closed.",
@@ -785,46 +827,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Filippo Rivolta",
-          "title": "Navigating the JavaScript Call Stack and Execution Context",
-          "link": "https://itnext.io/navigating-the-javascript-call-stack-and-execution-context-ac38f86c3cb4?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 11 Apr 2024 14:23:08 GMT",
-          "dc:creator": "Filippo Rivolta",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/ac38f86c3cb4",
-          "categories": [
-            "vuejs",
-            "javascript",
-            "react",
-            "nextjs",
-            "typescript"
-          ],
-          "isoDate": "2024-04-11T14:23:08.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Matthijs Schokker",
-          "title": "Hurdles in migrating to ODC",
-          "link": "https://itnext.io/hurdles-in-migrating-to-odc-ce44896ebd9e?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 11 Apr 2024 09:04:09 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Matthijs Schokker",
-          "guid": "https://medium.com/p/ce44896ebd9e",
-          "categories": [
-            "software-migration",
-            "outsystems-development",
-            "outsystems"
-          ],
-          "isoDate": "2024-04-11T09:04:09.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -841,181 +843,195 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Fri, 12 Apr 2024 07:00:03 GMT"
+      "lastBuildDate": "Sat, 13 Apr 2024 06:54:21 GMT"
     },
     "DEV Community": {
       "items": [
         {
           "creator": "dev.to staff",
-          "title": "How Not to Kill Motivation",
-          "link": "https://dev.to/devteam/how-not-to-kill-motivation-k6i",
-          "pubDate": "Fri, 12 Apr 2024 07:00:00 +0000",
+          "title": "When Are Layoffs Good?",
+          "link": "https://dev.to/devteam/when-are-layoffs-good-38pp",
+          "pubDate": "Sat, 13 Apr 2024 07:00:00 +0000",
           "dc:creator": "dev.to staff",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devteam/how-not-to-kill-motivation-k6i",
+          "guid": "https://dev.to/devteam/when-are-layoffs-good-38pp",
           "categories": [
-            "discuss",
-            "motivation"
+            "discuss"
           ],
-          "isoDate": "2024-04-12T07:00:00.000Z",
+          "isoDate": "2024-04-13T07:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sh Raj",
-          "title": "JavaScript Arrays 🔥 Array Awesomeness",
-          "link": "https://dev.to/sh20raj/javascript-arrays-unlocking-javascript-magic-1gm5",
-          "pubDate": "Fri, 12 Apr 2024 06:47:33 +0000",
-          "dc:creator": "Sh Raj",
+          "creator": "Imran Khan",
+          "title": "10 Fun Browser Games to Play When You’re Bored",
+          "link": "https://dev.to/imrankh13332994/10-fun-browser-games-to-play-when-youre-bored-2pd2",
+          "pubDate": "Sat, 13 Apr 2024 06:43:04 +0000",
+          "dc:creator": "Imran Khan",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/sh20raj/javascript-arrays-unlocking-javascript-magic-1gm5",
+          "guid": "https://dev.to/imrankh13332994/10-fun-browser-games-to-play-when-youre-bored-2pd2",
           "categories": [
-            "javascript"
-          ],
-          "isoDate": "2024-04-12T06:47:33.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sh Raj",
-          "title": "JavaScript console methods for better debugging 🔮",
-          "link": "https://dev.to/sh20raj/javascript-console-methods-for-better-debugging-unlocking-javascript-magic-2fah",
-          "pubDate": "Fri, 12 Apr 2024 06:41:49 +0000",
-          "dc:creator": "Sh Raj",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/sh20raj/javascript-console-methods-for-better-debugging-unlocking-javascript-magic-2fah",
-          "categories": [
-            "javascript"
-          ],
-          "isoDate": "2024-04-12T06:41:49.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sh Raj",
-          "title": "JavaScript Optional Chaining! 🌟",
-          "link": "https://dev.to/sh20raj/unlocking-javascript-magicjavascript-optional-chaining-2ia",
-          "pubDate": "Fri, 12 Apr 2024 06:37:39 +0000",
-          "dc:creator": "Sh Raj",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/sh20raj/unlocking-javascript-magicjavascript-optional-chaining-2ia",
-          "categories": [
-            "javascript"
-          ],
-          "isoDate": "2024-04-12T06:37:39.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "isurojit",
-          "title": "Vite React Tailwind Starter Repository",
-          "link": "https://dev.to/isurojit/vite-react-tailwind-starter-repository-3nl1",
-          "pubDate": "Fri, 12 Apr 2024 06:27:46 +0000",
-          "dc:creator": "isurojit",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/isurojit/vite-react-tailwind-starter-repository-3nl1",
-          "categories": [
-            "react",
-            "tailwindcss",
-            "webdev",
-            "node"
-          ],
-          "isoDate": "2024-04-12T06:27:46.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Angelina Jasper",
-          "title": "A Beginner's Guide to Building Your First Flutter App",
-          "link": "https://dev.to/angelinajasper/a-beginners-guide-to-building-your-first-flutter-app-1fhp",
-          "pubDate": "Fri, 12 Apr 2024 06:08:20 +0000",
-          "dc:creator": "Angelina Jasper",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/angelinajasper/a-beginners-guide-to-building-your-first-flutter-app-1fhp",
-          "categories": [
-            "flutter",
-            "firstflutterapp",
-            "flutterappdevelopment",
-            "appdev"
-          ],
-          "isoDate": "2024-04-12T06:08:20.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Free Browser Games",
-          "title": "Free Browser Games You Need to Try In 2024",
-          "link": "https://dev.to/freebrowsergames/free-browser-games-you-need-to-try-in-2024-3hjf",
-          "pubDate": "Fri, 12 Apr 2024 06:07:06 +0000",
-          "dc:creator": "Free Browser Games",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/freebrowsergames/free-browser-games-you-need-to-try-in-2024-3hjf",
-          "isoDate": "2024-04-12T06:07:06.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "DE-CIX India Internet Exchange",
-          "title": "How Can Public Route Servers Simplify Your Network Management?",
-          "link": "https://dev.to/decix/how-can-public-route-servers-simplify-your-network-management-3hh0",
-          "pubDate": "Fri, 12 Apr 2024 06:05:34 +0000",
-          "dc:creator": "DE-CIX India Internet Exchange",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/decix/how-can-public-route-servers-simplify-your-network-management-3hh0",
-          "categories": [
-            "internetexchange",
-            "publicrouteservers"
-          ],
-          "isoDate": "2024-04-12T06:05:34.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sejal Jansari",
-          "title": "How Much Does It Cost To Build A Dating App In 2024?",
-          "link": "https://dev.to/sejaljansari/how-much-does-it-cost-to-build-a-dating-app-in-2024-38e8",
-          "pubDate": "Fri, 12 Apr 2024 06:01:42 +0000",
-          "dc:creator": "Sejal Jansari",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/sejaljansari/how-much-does-it-cost-to-build-a-dating-app-in-2024-38e8",
-          "isoDate": "2024-04-12T06:01:42.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Matt Miller",
-          "title": "Dino hack",
-          "link": "https://dev.to/r4nd3l/dino-hack-4i62",
-          "pubDate": "Fri, 12 Apr 2024 06:00:00 +0000",
-          "dc:creator": "Matt Miller",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/r4nd3l/dino-hack-4i62",
-          "categories": [
-            "chrome",
-            "dino",
+            "gaming",
+            "games",
             "javascript",
-            "browser"
+            "webdev"
           ],
-          "isoDate": "2024-04-12T06:00:00.000Z",
+          "isoDate": "2024-04-13T06:43:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Foodship",
+          "title": "App Market | Foodship",
+          "link": "https://dev.to/foodshipau/app-market-foodship-16fi",
+          "pubDate": "Sat, 13 Apr 2024 06:09:20 +0000",
+          "dc:creator": "Foodship",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/foodshipau/app-market-foodship-16fi",
+          "categories": [
+            "foodship",
+            "pointofsale",
+            "onlineorderingsystem",
+            "qrcodeordering"
+          ],
+          "isoDate": "2024-04-13T06:09:20.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sukhpinder Singh",
+          "title": "Day 23 of 30-Day .NET Challenge: Span<T> over Arrays",
+          "link": "https://dev.to/ssukhpinder/day-23-of-30-day-net-challenge-span-over-arrays-41go",
+          "pubDate": "Sat, 13 Apr 2024 06:06:00 +0000",
+          "dc:creator": "Sukhpinder Singh",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/ssukhpinder/day-23-of-30-day-net-challenge-span-over-arrays-41go",
+          "categories": [
+            "dotnet",
+            "csharp",
+            "beginners",
+            "programming"
+          ],
+          "isoDate": "2024-04-13T06:06:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "A",
+          "title": "React native and the JavaScript bridge.",
+          "link": "https://dev.to/amankumarsingh01/react-native-and-the-javascript-bridge-3ipj",
+          "pubDate": "Sat, 13 Apr 2024 06:03:16 +0000",
+          "dc:creator": "A",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/amankumarsingh01/react-native-and-the-javascript-bridge-3ipj",
+          "categories": [
+            "javascript",
+            "react",
+            "reactnative",
+            "mobile"
+          ],
+          "isoDate": "2024-04-13T06:03:16.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Nikolaos Gkogktzilas",
+          "title": "Automated Software Testing Strategy",
+          "link": "https://dev.to/gkogktzilas/automated-software-testing-strategy-1d2k",
+          "pubDate": "Sat, 13 Apr 2024 05:56:50 +0000",
+          "dc:creator": "Nikolaos Gkogktzilas",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/gkogktzilas/automated-software-testing-strategy-1d2k",
+          "categories": [
+            "testing",
+            "devops",
+            "softwaredevelopment"
+          ],
+          "isoDate": "2024-04-13T05:56:50.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "{ 'name': 'Sri' }",
+          "title": "HTML basics for absolute beginners",
+          "link": "https://dev.to/nsrisaimeher/html-basics-for-absolute-beginners-5b7a",
+          "pubDate": "Sat, 13 Apr 2024 05:45:48 +0000",
+          "dc:creator": "{ 'name': 'Sri' }",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/nsrisaimeher/html-basics-for-absolute-beginners-5b7a",
+          "categories": [
+            "beginners",
+            "webdev",
+            "html",
+            "codenewbie"
+          ],
+          "isoDate": "2024-04-13T05:45:48.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "julianandreszb",
+          "title": "AI collaborative storytelling + Image generator + Translate (English-Spanish)",
+          "link": "https://dev.to/julianandreszb/ai-collaborative-storytelling-image-generator-translate-english-spanish-939",
+          "pubDate": "Sat, 13 Apr 2024 05:43:28 +0000",
+          "dc:creator": "julianandreszb",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/julianandreszb/ai-collaborative-storytelling-image-generator-translate-english-spanish-939",
+          "categories": [
+            "cloudflarechallenge",
+            "devchallenge",
+            "ai"
+          ],
+          "isoDate": "2024-04-13T05:43:28.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "ishar19",
+          "title": "Tech I am learning in 2024",
+          "link": "https://dev.to/ishar19/tech-i-am-learning-in-2024-3pi9",
+          "pubDate": "Sat, 13 Apr 2024 05:27:53 +0000",
+          "dc:creator": "ishar19",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/ishar19/tech-i-am-learning-in-2024-3pi9",
+          "isoDate": "2024-04-13T05:27:53.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Brandon Carroll",
+          "title": "Securing the Cloud #26",
+          "link": "https://dev.to/8carroll/securing-the-cloud-26-2i8p",
+          "pubDate": "Sat, 13 Apr 2024 05:15:57 +0000",
+          "dc:creator": "Brandon Carroll",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/8carroll/securing-the-cloud-26-2i8p",
+          "categories": [
+            "security",
+            "career",
+            "learning",
+            "community"
+          ],
+          "isoDate": "2024-04-13T05:15:57.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
