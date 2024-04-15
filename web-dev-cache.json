@@ -104,7 +104,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sun, 14 Apr 2024 05:02:11 GMT"
+      "lastBuildDate": "Mon, 15 Apr 2024 07:03:29 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -422,11 +422,36 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sun, 14 Apr 2024 07:35:12 GMT",
+      "lastBuildDate": "Mon, 15 Apr 2024 06:34:56 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "UI Interactions & Animations Roundup #42",
+          "link": "https://tympanus.net/codrops/2024/04/14/ui-interactions-animations-roundup-42/",
+          "pubDate": "Sun, 14 Apr 2024 09:33:09 +0000",
+          "enclosure": {
+            "url": "https://cdn.dribbble.com/userupload/14066420/file/original-7253d3a4388ffe1e732e60b16f311b12.mp4",
+            "length": "16775004",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=76927",
+          "categories": [
+            "UI Interactions and Animations Roundups",
+            "inspiration",
+            "motion-design",
+            "roundup"
+          ],
+          "isoDate": "2024-04-14T09:33:09.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Manoela Ilic",
           "title": "Collective #829",
@@ -503,26 +528,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "Inspirational Websites Roundup #58",
-          "link": "https://tympanus.net/codrops/2024/04/06/inspirational-websites-roundup-58/",
-          "pubDate": "Sat, 06 Apr 2024 11:29:04 +0000",
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=76859",
-          "categories": [
-            "Websites Roundups",
-            "inspiration",
-            "roundup",
-            "website"
-          ],
-          "isoDate": "2024-04-06T11:29:04.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -534,7 +539,7 @@
       "generator": "https://wordpress.org/?v=6.4.4",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Wed, 10 Apr 2024 10:50:22 +0000"
+      "lastBuildDate": "Sun, 14 Apr 2024 09:33:10 +0000"
     },
     "DZone": {
       "items": [
@@ -619,6 +624,48 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Patrick Kalkman",
+          "title": "How To Conquer the 2024 Certified Kubernetes Security Specialist (CKS) Exam",
+          "link": "https://itnext.io/how-to-conquer-the-2024-certified-kubernetes-security-specialist-cks-exam-13d3a4c02575?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 15 Apr 2024 04:10:17 GMT",
+          "dc:creator": "Patrick Kalkman",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/13d3a4c02575",
+          "categories": [
+            "cybersecurity",
+            "kubernetes-cluster",
+            "kubernetes-security",
+            "kubernetes",
+            "cyber-security-awareness"
+          ],
+          "isoDate": "2024-04-15T04:10:17.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Juntao Qiu",
+          "title": "Top 10 Efficiency Tips for Aspiring Developers",
+          "link": "https://itnext.io/top-10-efficiency-tips-for-aspiring-developers-db10c1e7d5d8?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 15 Apr 2024 04:08:52 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Juntao Qiu",
+          "guid": "https://medium.com/p/db10c1e7d5d8",
+          "categories": [
+            "productivity",
+            "software-engineering",
+            "programming",
+            "software-development",
+            "front-end-development"
+          ],
+          "isoDate": "2024-04-15T04:08:52.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Patrick Kalkman",
           "title": "Mastering Kubernetes Audit Logs",
@@ -785,48 +832,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Abu",
-          "title": "Commit Signing for Enhanced Code Security",
-          "link": "https://itnext.io/commit-signing-for-enhanced-code-security-7bddb8787e3e?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 11 Apr 2024 16:38:06 GMT",
-          "dc:creator": "Abu",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/7bddb8787e3e",
-          "categories": [
-            "git",
-            "devops",
-            "devsecops",
-            "security",
-            "software-development"
-          ],
-          "isoDate": "2024-04-11T16:38:06.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Abu",
-          "title": "Your secrets have been leaked. Now what?",
-          "link": "https://itnext.io/your-secrets-have-been-leaked-now-what-5adad86ed03f?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 11 Apr 2024 16:37:19 GMT",
-          "dc:creator": "Abu",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/5adad86ed03f",
-          "categories": [
-            "security",
-            "cybersecurity",
-            "devops",
-            "incident-response",
-            "devsecops"
-          ],
-          "isoDate": "2024-04-11T16:37:19.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -843,196 +848,185 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sun, 14 Apr 2024 07:35:00 GMT"
+      "lastBuildDate": "Mon, 15 Apr 2024 07:03:47 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "sajjad hussain",
-          "title": "Unveiling Scammers’ Fake Versions of Exchanges, Celebrities, Brands, and Companies",
-          "link": "https://dev.to/epakconsultant/unveiling-scammers-fake-versions-of-exchanges-celebrities-brands-and-companies-5ham",
-          "pubDate": "Sun, 14 Apr 2024 07:19:59 +0000",
-          "dc:creator": "sajjad hussain",
+          "creator": "Giuliano1993",
+          "title": "Rivet - JS, AI and the agent builder we deserve",
+          "link": "https://dev.to/giuliano1993/rivet-js-ai-and-the-agent-builder-we-deserve-2f97",
+          "pubDate": "Mon, 15 Apr 2024 07:00:00 +0000",
+          "dc:creator": "Giuliano1993",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/epakconsultant/unveiling-scammers-fake-versions-of-exchanges-celebrities-brands-and-companies-5ham",
+          "guid": "https://dev.to/giuliano1993/rivet-js-ai-and-the-agent-builder-we-deserve-2f97",
           "categories": [
-            "scam",
-            "crypto",
-            "exchnage"
-          ],
-          "isoDate": "2024-04-14T07:19:59.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Abduvohid",
-          "title": "Algoritm. 1-hafta.",
-          "link": "https://dev.to/abduvohid/algoritm-1-hafta-na4",
-          "pubDate": "Sun, 14 Apr 2024 07:19:07 +0000",
-          "dc:creator": "Abduvohid",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/abduvohid/algoritm-1-hafta-na4",
-          "isoDate": "2024-04-14T07:19:07.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "jlerocher",
-          "title": "Understanding useReducer Hook in React – An introduction and a Comprehensive Guide for Web Developers",
-          "link": "https://dev.to/jlerocher/understanding-usereducer-hook-in-react-an-introduction-and-a-comprehensive-guide-for-web-developers-1j2g",
-          "pubDate": "Sun, 14 Apr 2024 07:00:09 +0000",
-          "dc:creator": "jlerocher",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/jlerocher/understanding-usereducer-hook-in-react-an-introduction-and-a-comprehensive-guide-for-web-developers-1j2g",
-          "categories": [
-            "react",
-            "webdev",
             "javascript",
-            "frontend"
-          ],
-          "isoDate": "2024-04-14T07:00:09.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Tarak ",
-          "title": "AI-business intelligence data platform designed for small and medium-sized business owners: how to get real benefits?",
-          "link": "https://dev.to/tarak/ai-business-intelligence-data-platform-designed-for-small-and-medium-sized-business-owners-how-to-get-real-benefits-ib3",
-          "pubDate": "Sun, 14 Apr 2024 07:00:00 +0000",
-          "dc:creator": "Tarak ",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/tarak/ai-business-intelligence-data-platform-designed-for-small-and-medium-sized-business-owners-how-to-get-real-benefits-ib3",
-          "categories": [
             "ai",
-            "data",
-            "smb",
-            "analytics"
+            "webdev",
+            "tooling"
           ],
-          "isoDate": "2024-04-14T07:00:00.000Z",
+          "isoDate": "2024-04-15T07:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
           "creator": "dev.to staff",
-          "title": "Do You Question Life's Unwritten Rules?",
-          "link": "https://dev.to/devteam/do-you-question-lifes-unwritten-rules-a8d",
-          "pubDate": "Sun, 14 Apr 2024 07:00:00 +0000",
+          "title": "How Do You Define \"Meaningful Work?\"",
+          "link": "https://dev.to/devteam/how-do-you-define-meaningful-work-36ha",
+          "pubDate": "Mon, 15 Apr 2024 07:00:00 +0000",
           "dc:creator": "dev.to staff",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devteam/do-you-question-lifes-unwritten-rules-a8d",
+          "guid": "https://dev.to/devteam/how-do-you-define-meaningful-work-36ha",
           "categories": [
             "discuss"
           ],
-          "isoDate": "2024-04-14T07:00:00.000Z",
+          "isoDate": "2024-04-15T07:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Azanul Haque",
-          "title": "Cooking concurrently with Python",
-          "link": "https://dev.to/azanul/cooking-concurrently-with-python-202b",
-          "pubDate": "Sun, 14 Apr 2024 06:32:48 +0000",
-          "dc:creator": "Azanul Haque",
+          "creator": "DbVisualizer",
+          "title": "Understanding SQL Subqueries: A Brief Overview",
+          "link": "https://dev.to/dbvismarketing/understanding-sql-subqueries-a-brief-overview-290j",
+          "pubDate": "Mon, 15 Apr 2024 07:00:00 +0000",
+          "dc:creator": "DbVisualizer",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/azanul/cooking-concurrently-with-python-202b",
+          "guid": "https://dev.to/dbvismarketing/understanding-sql-subqueries-a-brief-overview-290j",
           "categories": [
-            "python",
-            "programming",
-            "learning",
-            "coding"
+            "subqueries"
           ],
-          "isoDate": "2024-04-14T06:32:48.000Z",
+          "isoDate": "2024-04-15T07:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sukhpinder Singh",
-          "title": "Day 24 of 30-Day .NET Challenge: Avoid Exceptions in Flow Control",
-          "link": "https://dev.to/ssukhpinder/day-24-of-30-day-net-challenge-avoid-exceptions-in-flow-control-3gnb",
-          "pubDate": "Sun, 14 Apr 2024 06:12:00 +0000",
-          "dc:creator": "Sukhpinder Singh",
+          "creator": "Njabulo Majozi",
+          "title": "Facebook Introduces Meta AI in WhatsApp",
+          "link": "https://dev.to/njabulomajozi/facebook-introduces-meta-ai-in-whatsapp-31no",
+          "pubDate": "Mon, 15 Apr 2024 07:00:00 +0000",
+          "dc:creator": "Njabulo Majozi",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ssukhpinder/day-24-of-30-day-net-challenge-avoid-exceptions-in-flow-control-3gnb",
+          "guid": "https://dev.to/njabulomajozi/facebook-introduces-meta-ai-in-whatsapp-31no",
           "categories": [
-            "csharp",
-            "dotnet",
-            "beginners",
+            "meta",
+            "ai",
+            "whatsapp",
+            "facebook"
+          ],
+          "isoDate": "2024-04-15T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Davide Passafaro",
+          "title": "Angular Signal Queries: Simplifying DOM Querying",
+          "link": "https://dev.to/davidepassafaro/angular-signal-queries-simplifying-dom-querying-hmh",
+          "pubDate": "Mon, 15 Apr 2024 07:00:00 +0000",
+          "dc:creator": "Davide Passafaro",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/davidepassafaro/angular-signal-queries-simplifying-dom-querying-hmh",
+          "categories": [
+            "angular",
+            "frontend",
+            "webdev",
+            "javascript"
+          ],
+          "isoDate": "2024-04-15T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "saifeddine Rajhi",
+          "title": "Secure the software supply chain with AWS Signer for signing and validating OCI artifacts",
+          "link": "https://dev.to/aws-builders/secure-the-software-supply-chain-with-aws-signer-for-signing-and-validating-oci-artifacts-58l9",
+          "pubDate": "Mon, 15 Apr 2024 06:57:39 +0000",
+          "dc:creator": "saifeddine Rajhi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/aws-builders/secure-the-software-supply-chain-with-aws-signer-for-signing-and-validating-oci-artifacts-58l9",
+          "isoDate": "2024-04-15T06:57:39.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Gabor Szabo",
+          "title": "Perl Weekly #664 - German Perl Workshop",
+          "link": "https://dev.to/szabgab/perl-weekly-664-german-perl-workshop-408",
+          "pubDate": "Mon, 15 Apr 2024 06:52:12 +0000",
+          "dc:creator": "Gabor Szabo",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/szabgab/perl-weekly-664-german-perl-workshop-408",
+          "categories": [
+            "perl",
+            "news",
             "programming"
           ],
-          "isoDate": "2024-04-14T06:12:00.000Z",
+          "isoDate": "2024-04-15T06:52:12.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sanjay R",
-          "title": "JS Bites: Chapter 4 - Fetch API",
-          "link": "https://dev.to/sanx/js-bites-chapter-4-fetch-api-hil",
-          "pubDate": "Sun, 14 Apr 2024 06:11:25 +0000",
-          "dc:creator": "Sanjay R",
+          "creator": "Tadas Paplauskas",
+          "title": "TL;DR: How to reset a single file in git branch",
+          "link": "https://dev.to/tadaspaplauskas/tldr-how-to-reset-a-single-file-in-git-branch-95n",
+          "pubDate": "Mon, 15 Apr 2024 06:46:43 +0000",
+          "dc:creator": "Tadas Paplauskas",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/sanx/js-bites-chapter-4-fetch-api-hil",
+          "guid": "https://dev.to/tadaspaplauskas/tldr-how-to-reset-a-single-file-in-git-branch-95n",
           "categories": [
-            "javascript",
-            "webdev",
-            "programming",
-            "beginners"
+            "git",
+            "github",
+            "tips",
+            "tricks"
           ],
-          "isoDate": "2024-04-14T06:11:25.000Z",
+          "isoDate": "2024-04-15T06:46:43.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Onurhan",
-          "title": "How to Validate a Date Range Picker with Zod in TypeScript Projects",
-          "link": "https://dev.to/onurhandtr/how-to-validate-a-date-range-picker-with-zod-in-typescript-projects-4181",
-          "pubDate": "Sun, 14 Apr 2024 06:04:14 +0000",
-          "dc:creator": "Onurhan",
+          "creator": "Arvind",
+          "title": "Leveraging Dependency Injection for Clean and SOLID Code in Node.js",
+          "link": "https://dev.to/arvindkhadri/leveraging-dependency-injection-for-clean-and-solid-code-in-nodejs-40d4",
+          "pubDate": "Mon, 15 Apr 2024 06:31:55 +0000",
+          "dc:creator": "Arvind",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/onurhandtr/how-to-validate-a-date-range-picker-with-zod-in-typescript-projects-4181",
-          "categories": [
-            "typescript",
-            "zod",
-            "shadcnui",
-            "tutorial"
-          ],
-          "isoDate": "2024-04-14T06:04:14.000Z",
+          "guid": "https://dev.to/arvindkhadri/leveraging-dependency-injection-for-clean-and-solid-code-in-nodejs-40d4",
+          "isoDate": "2024-04-15T06:31:55.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Anish Ghimire",
-          "title": "Bun Runtime - Introduction (Part 1)",
-          "link": "https://dev.to/anishghimire862/bun-runtime-introduction-part-1-c1p",
-          "pubDate": "Sun, 14 Apr 2024 06:02:41 +0000",
-          "dc:creator": "Anish Ghimire",
+          "creator": "Temiloluwa Adediji",
+          "title": "DEPLOYING A LINUX VIRTUAL MACHINE IN AZURE",
+          "link": "https://dev.to/temiloluwa_adediji/deploying-a-linux-virtual-machine-in-azure-1gl9",
+          "pubDate": "Mon, 15 Apr 2024 06:24:10 +0000",
+          "dc:creator": "Temiloluwa Adediji",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/anishghimire862/bun-runtime-introduction-part-1-c1p",
+          "guid": "https://dev.to/temiloluwa_adediji/deploying-a-linux-virtual-machine-in-azure-1gl9",
           "categories": [
-            "bunjs",
-            "javascript",
-            "cleavr",
-            "typescript"
+            "azure",
+            "linux"
           ],
-          "isoDate": "2024-04-14T06:02:41.000Z",
+          "isoDate": "2024-04-15T06:24:10.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
