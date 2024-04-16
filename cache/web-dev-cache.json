@@ -104,7 +104,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Mon, 15 Apr 2024 07:03:29 GMT"
+      "lastBuildDate": "Tue, 16 Apr 2024 03:02:12 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -422,11 +422,28 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Mon, 15 Apr 2024 06:34:56 GMT",
+      "lastBuildDate": "Tue, 16 Apr 2024 06:35:07 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "Bridging Design and Code: The Power of Penpot’s CSS Grid Layout",
+          "link": "https://tympanus.net/codrops/2024/04/15/bridging-design-and-code-the-power-of-penpots-css-grid-layout/",
+          "pubDate": "Mon, 15 Apr 2024 10:17:14 +0000",
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=76837",
+          "categories": [
+            "Articles"
+          ],
+          "isoDate": "2024-04-15T10:17:14.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Manoela Ilic",
           "title": "UI Interactions & Animations Roundup #42",
@@ -472,7 +489,7 @@
           "link": "https://tympanus.net/codrops/2024/04/10/image-stack-entrance-animations/",
           "pubDate": "Wed, 10 Apr 2024 10:50:20 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/04/entrance01.mp4?x87314",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/04/entrance01.mp4?x32096",
             "length": "1315325",
             "type": "video/mp4"
           },
@@ -503,31 +520,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Michele Giorgi",
-          "title": "Case Study: 84—24",
-          "link": "https://tympanus.net/codrops/2024/04/08/case-study-84-24/",
-          "pubDate": "Mon, 08 Apr 2024 09:53:46 +0000",
-          "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/03/01.mp4?x87314",
-            "length": "3420941",
-            "type": "video/mp4"
-          },
-          "dc:creator": "Michele Giorgi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=76730",
-          "categories": [
-            "Articles",
-            "case-study",
-            "three.js",
-            "webgl"
-          ],
-          "isoDate": "2024-04-08T09:53:46.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -536,10 +528,10 @@
       },
       "title": "Codrops",
       "description": "Keeping web professionals inspired & up-to-date since 2009",
-      "generator": "https://wordpress.org/?v=6.4.4",
+      "generator": "https://wordpress.org/?v=6.5.2",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Sun, 14 Apr 2024 09:33:10 +0000"
+      "lastBuildDate": "Mon, 15 Apr 2024 10:17:18 +0000"
     },
     "DZone": {
       "items": [
@@ -624,6 +616,87 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Mirco | VerboseMode.dev",
+          "title": "Why (and How) I Conduct Personal Post-Mortems",
+          "link": "https://itnext.io/why-and-how-i-conduct-personal-post-mortems-0c539f77385c?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 15 Apr 2024 20:39:39 GMT",
+          "dc:creator": "Mirco | VerboseMode.dev",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/0c539f77385c",
+          "categories": [
+            "technology",
+            "software-development",
+            "personal-development",
+            "operations",
+            "devops"
+          ],
+          "isoDate": "2024-04-15T20:39:39.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ricardo Pereira",
+          "title": "Create disabled input widgets with scroll enabled in OutSystems",
+          "link": "https://itnext.io/create-disabled-input-widgets-with-scroll-enabled-in-outsystems-c4259c6f4361?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 15 Apr 2024 18:50:41 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Ricardo Pereira",
+          "guid": "https://medium.com/p/c4259c6f4361",
+          "categories": [
+            "outsystems-development",
+            "outsystems"
+          ],
+          "isoDate": "2024-04-15T18:50:41.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Chris Karvouniaris",
+          "title": "FastAPI: X(Twitter) Single Sign-On (SSO)",
+          "link": "https://itnext.io/fastapi-x-twitter-single-sign-on-sso-5725671ad180?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 15 Apr 2024 08:12:21 GMT",
+          "dc:creator": "Chris Karvouniaris",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/5725671ad180",
+          "categories": [
+            "software-engineering",
+            "python",
+            "programming",
+            "software-development",
+            "technology"
+          ],
+          "isoDate": "2024-04-15T08:12:21.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ivan Franchin",
+          "title": "Creating a Multiplayer Game with Socket.IO, Express.js and Phaser 3",
+          "link": "https://itnext.io/creating-a-multiplayer-game-with-socket-io-express-js-and-phaser-3-51e022d49326?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 15 Apr 2024 08:07:20 GMT",
+          "dc:creator": "Ivan Franchin",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/51e022d49326",
+          "categories": [
+            "technology",
+            "phaserjs",
+            "multiplayer",
+            "expressjs",
+            "socketio"
+          ],
+          "isoDate": "2024-04-15T08:07:20.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Patrick Kalkman",
           "title": "How To Conquer the 2024 Certified Kubernetes Security Specialist (CKS) Exam",
@@ -749,89 +822,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Samuel Abada",
-          "title": "Optimising Flutter Test Execution Time: A Comprehensive Guide",
-          "link": "https://itnext.io/optimising-flutter-test-execution-time-a-guide-afbecb14d1b9?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 11 Apr 2024 16:52:18 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Samuel Abada",
-          "guid": "https://medium.com/p/afbecb14d1b9",
-          "categories": [
-            "testing",
-            "mobile",
-            "flutter",
-            "programming",
-            "mobile-app-development"
-          ],
-          "isoDate": "2024-04-11T16:52:18.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Moshe Nadler",
-          "title": "Spinning WebAssembly Apps on Kubernetes — Let’s Peek into a Potential Future",
-          "link": "https://itnext.io/spinning-webassembly-apps-on-kubernetes-lets-peek-into-a-potential-future-d3f2f8c37a8e?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 11 Apr 2024 16:51:10 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Moshe Nadler",
-          "guid": "https://medium.com/p/d3f2f8c37a8e",
-          "categories": [
-            "webassembly",
-            "kubernetes",
-            "devops",
-            "containers"
-          ],
-          "isoDate": "2024-04-11T16:51:10.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Abu",
-          "title": "Container Image Signing",
-          "link": "https://itnext.io/container-image-signing-365f268a2e83?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 11 Apr 2024 16:44:36 GMT",
-          "dc:creator": "Abu",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/365f268a2e83",
-          "categories": [
-            "cloud",
-            "devsecops",
-            "cloud-native",
-            "devops",
-            "security"
-          ],
-          "isoDate": "2024-04-11T16:44:36.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Abu",
-          "title": "Scanning for Threats",
-          "link": "https://itnext.io/dso-scanning-for-threats-f70a4f51a6cd?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 11 Apr 2024 16:43:35 GMT",
-          "dc:creator": "Abu",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/f70a4f51a6cd",
-          "categories": [
-            "devsecops",
-            "cybersecurity",
-            "testing",
-            "devops",
-            "software-engineering"
-          ],
-          "isoDate": "2024-04-11T16:43:35.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -848,185 +838,196 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Mon, 15 Apr 2024 07:03:47 GMT"
+      "lastBuildDate": "Tue, 16 Apr 2024 07:06:32 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Giuliano1993",
-          "title": "Rivet - JS, AI and the agent builder we deserve",
-          "link": "https://dev.to/giuliano1993/rivet-js-ai-and-the-agent-builder-we-deserve-2f97",
-          "pubDate": "Mon, 15 Apr 2024 07:00:00 +0000",
-          "dc:creator": "Giuliano1993",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/giuliano1993/rivet-js-ai-and-the-agent-builder-we-deserve-2f97",
-          "categories": [
-            "javascript",
-            "ai",
-            "webdev",
-            "tooling"
-          ],
-          "isoDate": "2024-04-15T07:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
           "creator": "dev.to staff",
-          "title": "How Do You Define \"Meaningful Work?\"",
-          "link": "https://dev.to/devteam/how-do-you-define-meaningful-work-36ha",
-          "pubDate": "Mon, 15 Apr 2024 07:00:00 +0000",
+          "title": "Crack the Code: Can Anybody Learn?",
+          "link": "https://dev.to/devteam/crack-the-code-can-anybody-learn-4lmf",
+          "pubDate": "Tue, 16 Apr 2024 07:00:00 +0000",
           "dc:creator": "dev.to staff",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devteam/how-do-you-define-meaningful-work-36ha",
+          "guid": "https://dev.to/devteam/crack-the-code-can-anybody-learn-4lmf",
           "categories": [
             "discuss"
           ],
-          "isoDate": "2024-04-15T07:00:00.000Z",
+          "isoDate": "2024-04-16T07:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "DbVisualizer",
-          "title": "Understanding SQL Subqueries: A Brief Overview",
-          "link": "https://dev.to/dbvismarketing/understanding-sql-subqueries-a-brief-overview-290j",
-          "pubDate": "Mon, 15 Apr 2024 07:00:00 +0000",
-          "dc:creator": "DbVisualizer",
+          "creator": "Seth Phat",
+          "title": "Free API to render HTML to PDF - RenderPDF.io",
+          "link": "https://dev.to/sethsandaru/free-api-to-render-html-to-pdf-renderpdfio-4032",
+          "pubDate": "Tue, 16 Apr 2024 06:42:32 +0000",
+          "dc:creator": "Seth Phat",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/dbvismarketing/understanding-sql-subqueries-a-brief-overview-290j",
+          "guid": "https://dev.to/sethsandaru/free-api-to-render-html-to-pdf-renderpdfio-4032",
           "categories": [
-            "subqueries"
+            "programming",
+            "pdf",
+            "api",
+            "tutorial"
           ],
-          "isoDate": "2024-04-15T07:00:00.000Z",
+          "isoDate": "2024-04-16T06:42:32.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Njabulo Majozi",
-          "title": "Facebook Introduces Meta AI in WhatsApp",
-          "link": "https://dev.to/njabulomajozi/facebook-introduces-meta-ai-in-whatsapp-31no",
-          "pubDate": "Mon, 15 Apr 2024 07:00:00 +0000",
-          "dc:creator": "Njabulo Majozi",
+          "creator": "Jaime López",
+          "title": "Why AI Training for Employees Matters",
+          "link": "https://dev.to/jaloplo/why-ai-training-for-employees-matters-l1h",
+          "pubDate": "Tue, 16 Apr 2024 06:30:00 +0000",
+          "dc:creator": "Jaime López",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/njabulomajozi/facebook-introduces-meta-ai-in-whatsapp-31no",
+          "guid": "https://dev.to/jaloplo/why-ai-training-for-employees-matters-l1h",
           "categories": [
-            "meta",
             "ai",
-            "whatsapp",
-            "facebook"
+            "workplace"
           ],
-          "isoDate": "2024-04-15T07:00:00.000Z",
+          "isoDate": "2024-04-16T06:30:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Davide Passafaro",
-          "title": "Angular Signal Queries: Simplifying DOM Querying",
-          "link": "https://dev.to/davidepassafaro/angular-signal-queries-simplifying-dom-querying-hmh",
-          "pubDate": "Mon, 15 Apr 2024 07:00:00 +0000",
-          "dc:creator": "Davide Passafaro",
+          "creator": "Zorian",
+          "title": "CRM Comparison for Developers: Salesforce vs. HubSpot",
+          "link": "https://dev.to/zorian/crm-comparison-for-developers-salesforce-vs-hubspot-4388",
+          "pubDate": "Tue, 16 Apr 2024 06:25:24 +0000",
+          "dc:creator": "Zorian",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/davidepassafaro/angular-signal-queries-simplifying-dom-querying-hmh",
+          "guid": "https://dev.to/zorian/crm-comparison-for-developers-salesforce-vs-hubspot-4388",
           "categories": [
-            "angular",
-            "frontend",
             "webdev",
-            "javascript"
+            "crm",
+            "salesforce",
+            "hubspot"
           ],
-          "isoDate": "2024-04-15T07:00:00.000Z",
+          "isoDate": "2024-04-16T06:25:24.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "saifeddine Rajhi",
-          "title": "Secure the software supply chain with AWS Signer for signing and validating OCI artifacts",
-          "link": "https://dev.to/aws-builders/secure-the-software-supply-chain-with-aws-signer-for-signing-and-validating-oci-artifacts-58l9",
-          "pubDate": "Mon, 15 Apr 2024 06:57:39 +0000",
-          "dc:creator": "saifeddine Rajhi",
+          "creator": "Niraj Narkhede",
+          "title": "Crafting the Perfect Navigation Bar in React with a Hamburger Menu",
+          "link": "https://dev.to/nnnirajn/crafting-the-perfect-navigation-bar-in-react-a-comprehensive-guide-42o1",
+          "pubDate": "Tue, 16 Apr 2024 06:24:14 +0000",
+          "dc:creator": "Niraj Narkhede",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/aws-builders/secure-the-software-supply-chain-with-aws-signer-for-signing-and-validating-oci-artifacts-58l9",
-          "isoDate": "2024-04-15T06:57:39.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Gabor Szabo",
-          "title": "Perl Weekly #664 - German Perl Workshop",
-          "link": "https://dev.to/szabgab/perl-weekly-664-german-perl-workshop-408",
-          "pubDate": "Mon, 15 Apr 2024 06:52:12 +0000",
-          "dc:creator": "Gabor Szabo",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/szabgab/perl-weekly-664-german-perl-workshop-408",
+          "guid": "https://dev.to/nnnirajn/crafting-the-perfect-navigation-bar-in-react-a-comprehensive-guide-42o1",
           "categories": [
-            "perl",
-            "news",
+            "react",
+            "ui",
+            "uidesign",
+            "navigation"
+          ],
+          "isoDate": "2024-04-16T06:24:14.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sukhpinder Singh",
+          "title": "Day 26 of 30-Day .NET Challenge: Loop Unrolling",
+          "link": "https://dev.to/ssukhpinder/day-26-of-30-day-net-challenge-loop-unrolling-3jod",
+          "pubDate": "Tue, 16 Apr 2024 06:22:00 +0000",
+          "dc:creator": "Sukhpinder Singh",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/ssukhpinder/day-26-of-30-day-net-challenge-loop-unrolling-3jod",
+          "categories": [
+            "csharp",
+            "dotnet",
+            "beginners",
             "programming"
           ],
-          "isoDate": "2024-04-15T06:52:12.000Z",
+          "isoDate": "2024-04-16T06:22:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Tadas Paplauskas",
-          "title": "TL;DR: How to reset a single file in git branch",
-          "link": "https://dev.to/tadaspaplauskas/tldr-how-to-reset-a-single-file-in-git-branch-95n",
-          "pubDate": "Mon, 15 Apr 2024 06:46:43 +0000",
-          "dc:creator": "Tadas Paplauskas",
+          "creator": "Amit Kumar Rout ",
+          "title": "Implementing Redux in Next.js (App Router): A Comprehensive Guide",
+          "link": "https://dev.to/bladearya/implementing-redux-in-nextjs-app-router-a-comprehensive-guide-10ce",
+          "pubDate": "Tue, 16 Apr 2024 06:17:30 +0000",
+          "dc:creator": "Amit Kumar Rout ",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/tadaspaplauskas/tldr-how-to-reset-a-single-file-in-git-branch-95n",
+          "guid": "https://dev.to/bladearya/implementing-redux-in-nextjs-app-router-a-comprehensive-guide-10ce",
           "categories": [
-            "git",
-            "github",
-            "tips",
-            "tricks"
+            "nextjs",
+            "redux",
+            "react",
+            "javascript"
           ],
-          "isoDate": "2024-04-15T06:46:43.000Z",
+          "isoDate": "2024-04-16T06:17:30.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Arvind",
-          "title": "Leveraging Dependency Injection for Clean and SOLID Code in Node.js",
-          "link": "https://dev.to/arvindkhadri/leveraging-dependency-injection-for-clean-and-solid-code-in-nodejs-40d4",
-          "pubDate": "Mon, 15 Apr 2024 06:31:55 +0000",
-          "dc:creator": "Arvind",
+          "creator": "Paul SANTUS",
+          "title": "SecNumCloud / EUCS : plaidoyer pour une analyse de risques rationnelle",
+          "link": "https://dev.to/psantus/secnumcloud-eucs-plaidoyer-pour-une-analyse-de-risques-rationnelle-47f8",
+          "pubDate": "Tue, 16 Apr 2024 06:16:25 +0000",
+          "dc:creator": "Paul SANTUS",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/arvindkhadri/leveraging-dependency-injection-for-clean-and-solid-code-in-nodejs-40d4",
-          "isoDate": "2024-04-15T06:31:55.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Temiloluwa Adediji",
-          "title": "DEPLOYING A LINUX VIRTUAL MACHINE IN AZURE",
-          "link": "https://dev.to/temiloluwa_adediji/deploying-a-linux-virtual-machine-in-azure-1gl9",
-          "pubDate": "Mon, 15 Apr 2024 06:24:10 +0000",
-          "dc:creator": "Temiloluwa Adediji",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/temiloluwa_adediji/deploying-a-linux-virtual-machine-in-azure-1gl9",
+          "guid": "https://dev.to/psantus/secnumcloud-eucs-plaidoyer-pour-une-analyse-de-risques-rationnelle-47f8",
           "categories": [
-            "azure",
-            "linux"
+            "cloud",
+            "data",
+            "sovereignty",
+            "secnumcloud"
           ],
-          "isoDate": "2024-04-15T06:24:10.000Z",
+          "isoDate": "2024-04-16T06:16:25.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Matchsticks",
+          "title": "Designing for You: A Beginner's Guide to UI-UX",
+          "link": "https://dev.to/matchsticks123/designing-for-you-a-beginners-guide-to-ui-ux-4i4d",
+          "pubDate": "Tue, 16 Apr 2024 06:15:45 +0000",
+          "dc:creator": "Matchsticks",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/matchsticks123/designing-for-you-a-beginners-guide-to-ui-ux-4i4d",
+          "categories": [
+            "uiux"
+          ],
+          "isoDate": "2024-04-16T06:15:45.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Matchsticks",
+          "title": "Navigating the Lead Generation Journey: A Roadmap Through 4 Essential Stages",
+          "link": "https://dev.to/matchsticks123/navigating-the-lead-generation-journey-a-roadmap-through-4-essential-stages-5g4a",
+          "pubDate": "Tue, 16 Apr 2024 06:06:28 +0000",
+          "dc:creator": "Matchsticks",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/matchsticks123/navigating-the-lead-generation-journey-a-roadmap-through-4-essential-stages-5g4a",
+          "categories": [
+            "leadgeneration",
+            "digitalmarketing"
+          ],
+          "isoDate": "2024-04-16T06:06:28.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
