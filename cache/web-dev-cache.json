@@ -102,7 +102,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Wed, 17 Apr 2024 05:02:08 GMT"
+      "lastBuildDate": "Thu, 18 Apr 2024 05:29:27 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -309,6 +309,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Alexis Kypridemos)",
+          "title": "Converting Plain Text To Encoded HTML With Vanilla JavaScript",
+          "link": "https://smashingmagazine.com/2024/04/converting-text-encoded-html-vanilla-javascript/",
+          "pubDate": "Wed, 17 Apr 2024 13:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Alexis Kypridemos)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/converting-text-encoded-html-vanilla-javascript/converting-text-encoded-html-vanilla-javascript.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/04/converting-text-encoded-html-vanilla-javascript/",
+          "isoDate": "2024-04-17T13:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Matt Zeunert)",
           "title": "How To Monitor And Optimize Google Core Web Vitals",
           "link": "https://smashingmagazine.com/2024/04/monitor-optimize-google-core-web-vitals/",
@@ -383,25 +402,6 @@
           "guid": "https://smashingmagazine.com/2024/04/applying-principles-communication-ux-research/",
           "isoDate": "2024-04-09T10:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Preethi Sam)",
-          "title": "The Things Users Would Appreciate In Mobile Apps",
-          "link": "https://smashingmagazine.com/2024/04/things-users-would-appreciate-mobile-apps/",
-          "pubDate": "Fri, 05 Apr 2024 12:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Preethi Sam)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/things-users-would-appreciate-mobile-apps/things-users-would-appreciate-mobile-apps.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/04/things-users-would-appreciate-mobile-apps/",
-          "isoDate": "2024-04-05T12:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -419,11 +419,35 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Wed, 17 Apr 2024 06:35:14 GMT",
+      "lastBuildDate": "Thu, 18 Apr 2024 06:39:09 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "Some On-Scroll Text Highlight Animations",
+          "link": "https://tympanus.net/codrops/2024/04/17/some-on-scroll-text-highlight-animations/",
+          "pubDate": "Wed, 17 Apr 2024 12:13:22 +0000",
+          "enclosure": {
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/04/TextHighlight-1.mp4?x32096",
+            "length": "1772710",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=76961",
+          "categories": [
+            "Playground",
+            "scroll",
+            "typography"
+          ],
+          "isoDate": "2024-04-17T12:13:22.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Manoela Ilic",
           "title": "Collective #830",
@@ -493,30 +517,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "deadrabbbbit",
-          "title": "Image Stack Entrance Animations",
-          "link": "https://tympanus.net/codrops/2024/04/10/image-stack-entrance-animations/",
-          "pubDate": "Wed, 10 Apr 2024 10:50:20 +0000",
-          "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/04/entrance01.mp4?x32096",
-            "length": "1315325",
-            "type": "video/mp4"
-          },
-          "dc:creator": "deadrabbbbit",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=76798",
-          "categories": [
-            "Playground",
-            "intro",
-            "stack"
-          ],
-          "isoDate": "2024-04-10T10:50:20.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -528,7 +528,7 @@
       "generator": "https://wordpress.org/?v=6.5.2",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Tue, 16 Apr 2024 08:38:49 +0000"
+      "lastBuildDate": "Wed, 17 Apr 2024 12:13:25 +0000"
     },
     "DZone": {
       "items": [
@@ -614,6 +614,149 @@
     "itnext": {
       "items": [
         {
+          "creator": "Saeed Zarinfam",
+          "title": "Deprecated Methods in Java",
+          "link": "https://itnext.io/deprecated-methods-in-java-643cd1133868?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 17 Apr 2024 22:54:57 GMT",
+          "dc:creator": "Saeed Zarinfam",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/643cd1133868",
+          "categories": [
+            "versioning",
+            "programming",
+            "code-quality",
+            "java",
+            "maintainability"
+          ],
+          "isoDate": "2024-04-17T22:54:57.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Tobias Wissmueller",
+          "title": "Kotlin Multiplatform: Settings",
+          "link": "https://itnext.io/kotlin-multiplatform-settings-d45f90ecc4d4?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 17 Apr 2024 22:53:39 GMT",
+          "dc:creator": "Tobias Wissmueller",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/d45f90ecc4d4",
+          "categories": [
+            "settings",
+            "tutorial",
+            "kotlin",
+            "kotlin-multiplatform",
+            "mobile-development"
+          ],
+          "isoDate": "2024-04-17T22:53:39.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Nenad Borovčanin",
+          "title": "CSV/Formula Injection — Security For Web Application Developers",
+          "link": "https://itnext.io/csv-formula-injection-security-for-web-application-developers-4e1c2e2a64fa?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 17 Apr 2024 22:52:38 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Nenad Borovčanin",
+          "guid": "https://medium.com/p/4e1c2e2a64fa",
+          "categories": [
+            "security",
+            "programming",
+            "web-development",
+            "cybersecurity",
+            "secure-coding"
+          ],
+          "isoDate": "2024-04-17T22:52:38.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Stefan Weber",
+          "title": "OutSystems Developer Cloud REST Integration — To Code or not to Code",
+          "link": "https://itnext.io/outsystems-developer-cloud-rest-integration-to-code-or-not-to-code-8743f5bd6bd9?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 17 Apr 2024 22:50:46 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Stefan Weber",
+          "guid": "https://medium.com/p/8743f5bd6bd9",
+          "categories": [
+            "resilience",
+            "rest-api"
+          ],
+          "isoDate": "2024-04-17T22:50:46.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Piotr",
+          "title": "Build Your Own Kubernetes Co-Pilot",
+          "link": "https://itnext.io/build-your-own-kubernetes-co-pilot-53e4d6af6a8f?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 17 Apr 2024 22:49:33 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Piotr",
+          "guid": "https://medium.com/p/53e4d6af6a8f",
+          "categories": [
+            "openai",
+            "artificial-intelligence",
+            "software-development",
+            "ai",
+            "kubernetes"
+          ],
+          "isoDate": "2024-04-17T22:49:33.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Dominik Bulaj",
+          "title": "TIP: Dealing with Multiple SSH Key Repositories",
+          "link": "https://itnext.io/tip-dealing-with-multiple-ssh-key-repositories-f15f435fbf89?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 17 Apr 2024 22:47:32 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Dominik Bulaj",
+          "guid": "https://medium.com/p/f15f435fbf89",
+          "categories": [
+            "productivity",
+            "multiple-ssh-keys",
+            "ssh-keys",
+            "shell"
+          ],
+          "isoDate": "2024-04-17T22:47:32.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Jack Roper",
+          "title": "How to Manage Terraform State with GitLab",
+          "link": "https://itnext.io/how-to-manage-terraform-state-with-gitlab-c861e80ecab6?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 17 Apr 2024 10:20:13 GMT",
+          "dc:creator": "Jack Roper",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/c861e80ecab6",
+          "categories": [
+            "infrastructure-as-code",
+            "cloud-computing",
+            "terraform",
+            "devops",
+            "gitlab"
+          ],
+          "isoDate": "2024-04-17T10:20:13.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Chris Karvouniaris",
           "title": "Paginated Data Retrieval for Firebase Realtime Database via Python Admin SDK",
           "link": "https://itnext.io/paginated-data-retrieval-for-firebase-realtime-database-via-python-admin-sdk-92fc8087a771?source=rss----5b301f10ddcd---4",
@@ -674,150 +817,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Martin Mashatola",
-          "title": "How to have real time updates in your Mendix application with EZ Websockets: Real Time…",
-          "link": "https://itnext.io/how-to-have-real-time-updates-in-your-mendix-application-with-ez-websockets-real-time-cb5c637554b3?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 16 Apr 2024 08:15:20 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Martin Mashatola",
-          "guid": "https://medium.com/p/cb5c637554b3",
-          "categories": [
-            "tutorial",
-            "mendix",
-            "websocket",
-            "low-code",
-            "real-time-communication"
-          ],
-          "isoDate": "2024-04-16T08:15:20.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Mirco | VerboseMode.dev",
-          "title": "Why (and How) I Conduct Personal Post-Mortems",
-          "link": "https://itnext.io/why-and-how-i-conduct-personal-post-mortems-0c539f77385c?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 15 Apr 2024 20:39:39 GMT",
-          "dc:creator": "Mirco | VerboseMode.dev",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/0c539f77385c",
-          "categories": [
-            "technology",
-            "software-development",
-            "personal-development",
-            "operations",
-            "devops"
-          ],
-          "isoDate": "2024-04-15T20:39:39.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ricardo Pereira",
-          "title": "Create disabled input widgets with scroll enabled in OutSystems",
-          "link": "https://itnext.io/create-disabled-input-widgets-with-scroll-enabled-in-outsystems-c4259c6f4361?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 15 Apr 2024 18:50:41 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Ricardo Pereira",
-          "guid": "https://medium.com/p/c4259c6f4361",
-          "categories": [
-            "outsystems-development",
-            "outsystems"
-          ],
-          "isoDate": "2024-04-15T18:50:41.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Chris Karvouniaris",
-          "title": "FastAPI: X(Twitter) Single Sign-On (SSO)",
-          "link": "https://itnext.io/fastapi-x-twitter-single-sign-on-sso-5725671ad180?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 15 Apr 2024 08:12:21 GMT",
-          "dc:creator": "Chris Karvouniaris",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/5725671ad180",
-          "categories": [
-            "software-engineering",
-            "python",
-            "programming",
-            "software-development",
-            "technology"
-          ],
-          "isoDate": "2024-04-15T08:12:21.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ivan Franchin",
-          "title": "Creating a Multiplayer Game with Socket.IO, Express.js and Phaser 3",
-          "link": "https://itnext.io/creating-a-multiplayer-game-with-socket-io-express-js-and-phaser-3-51e022d49326?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 15 Apr 2024 08:07:20 GMT",
-          "dc:creator": "Ivan Franchin",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/51e022d49326",
-          "categories": [
-            "technology",
-            "phaserjs",
-            "multiplayer",
-            "expressjs",
-            "socketio"
-          ],
-          "isoDate": "2024-04-15T08:07:20.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Patrick Kalkman",
-          "title": "How To Conquer the 2024 Certified Kubernetes Security Specialist (CKS) Exam",
-          "link": "https://itnext.io/how-to-conquer-the-2024-certified-kubernetes-security-specialist-cks-exam-13d3a4c02575?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 15 Apr 2024 04:10:17 GMT",
-          "dc:creator": "Patrick Kalkman",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/13d3a4c02575",
-          "categories": [
-            "cybersecurity",
-            "kubernetes-cluster",
-            "kubernetes-security",
-            "kubernetes",
-            "cyber-security-awareness"
-          ],
-          "isoDate": "2024-04-15T04:10:17.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Juntao Qiu",
-          "title": "Top 10 Efficiency Tips for Aspiring Developers",
-          "link": "https://itnext.io/top-10-efficiency-tips-for-aspiring-developers-db10c1e7d5d8?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 15 Apr 2024 04:08:52 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Juntao Qiu",
-          "guid": "https://medium.com/p/db10c1e7d5d8",
-          "categories": [
-            "productivity",
-            "software-engineering",
-            "programming",
-            "software-development",
-            "front-end-development"
-          ],
-          "isoDate": "2024-04-15T04:08:52.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -834,202 +833,197 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Wed, 17 Apr 2024 06:52:50 GMT"
+      "lastBuildDate": "Thu, 18 Apr 2024 06:51:59 GMT"
     },
     "DEV Community": {
       "items": [
         {
           "creator": "dev.to staff",
-          "title": "Do People Even Get Bored Anymore?",
-          "link": "https://dev.to/devteam/do-people-even-get-bored-anymore-2949",
-          "pubDate": "Wed, 17 Apr 2024 07:00:00 +0000",
+          "title": "When to Hire More Engineers?",
+          "link": "https://dev.to/devteam/when-to-hire-more-engineers-1nhm",
+          "pubDate": "Thu, 18 Apr 2024 07:00:00 +0000",
           "dc:creator": "dev.to staff",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devteam/do-people-even-get-bored-anymore-2949",
+          "guid": "https://dev.to/devteam/when-to-hire-more-engineers-1nhm",
           "categories": [
             "discuss"
           ],
-          "isoDate": "2024-04-17T07:00:00.000Z",
+          "isoDate": "2024-04-18T07:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Yash Datir",
-          "title": "Building a Personalized Chatbot with a 3D Twist: A Developer's Journey",
-          "link": "https://dev.to/yashdatir/building-a-personalized-chatbot-with-a-3d-twist-a-developers-journey-466o",
-          "pubDate": "Wed, 17 Apr 2024 06:38:11 +0000",
-          "dc:creator": "Yash Datir",
+          "creator": "Jose Rodríguez",
+          "title": "Top 12 Mind Mapping Apps for Enhanced Productivity",
+          "link": "https://dev.to/stan8086/top-12-mind-mapping-apps-for-enhanced-productivity-1o3",
+          "pubDate": "Thu, 18 Apr 2024 06:51:12 +0000",
+          "dc:creator": "Jose Rodríguez",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/yashdatir/building-a-personalized-chatbot-with-a-3d-twist-a-developers-journey-466o",
+          "guid": "https://dev.to/stan8086/top-12-mind-mapping-apps-for-enhanced-productivity-1o3",
           "categories": [
-            "ai",
-            "chatgpt",
-            "chatbot",
+            "mindmapping",
+            "mindmappingapps",
+            "mindmap",
+            "productivity"
+          ],
+          "isoDate": "2024-04-18T06:51:12.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Aceld",
+          "title": "(Part 1) Golang Framework Hands-on - KisFlow Streaming Computing Framework - Overview",
+          "link": "https://dev.to/aceld/part-1-golang-framework-hands-on-kisflow-streaming-computing-framework-overview-8fh",
+          "pubDate": "Thu, 18 Apr 2024 06:39:29 +0000",
+          "dc:creator": "Aceld",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/aceld/part-1-golang-framework-hands-on-kisflow-streaming-computing-framework-overview-8fh",
+          "categories": [
+            "kisflow",
+            "go",
+            "stream",
+            "framework"
+          ],
+          "isoDate": "2024-04-18T06:39:29.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Thomas Hansen",
+          "title": "Plausible as an alternative to Google Analytics",
+          "link": "https://dev.to/polterguy/plausible-as-an-alternative-to-google-analytics-2l1p",
+          "pubDate": "Thu, 18 Apr 2024 06:37:18 +0000",
+          "dc:creator": "Thomas Hansen",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/polterguy/plausible-as-an-alternative-to-google-analytics-2l1p",
+          "categories": [
+            "discuss"
+          ],
+          "isoDate": "2024-04-18T06:37:18.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Aarzoo 🧑🏻‍💻",
+          "title": "Creating an Animated Loader Using HTML and CSS",
+          "link": "https://dev.to/withaarzoo/creating-an-animated-loader-using-html-and-css-57c1",
+          "pubDate": "Thu, 18 Apr 2024 06:20:03 +0000",
+          "dc:creator": "Aarzoo 🧑🏻‍💻",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/withaarzoo/creating-an-animated-loader-using-html-and-css-57c1",
+          "categories": [
+            "100daysofcode",
+            "webdev",
+            "javascript",
+            "beginners"
+          ],
+          "isoDate": "2024-04-18T06:20:03.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Jeisson F. Sanchez",
+          "title": "¿Por qué desarrollar en Ruby on Rails?",
+          "link": "https://dev.to/jfsan/por-que-desarrollar-en-ruby-on-rails-5hi2",
+          "pubDate": "Thu, 18 Apr 2024 06:19:36 +0000",
+          "dc:creator": "Jeisson F. Sanchez",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/jfsan/por-que-desarrollar-en-ruby-on-rails-5hi2",
+          "categories": [
+            "ruby",
+            "rails",
+            "management",
+            "marketing"
+          ],
+          "isoDate": "2024-04-18T06:19:36.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Maroon ",
+          "title": "The Ultimate Guide to Finding the Cheapest cPanel Hosting",
+          "link": "https://dev.to/maroon5/the-ultimate-guide-to-finding-the-cheapest-cpanel-hosting-3jok",
+          "pubDate": "Thu, 18 Apr 2024 06:17:16 +0000",
+          "dc:creator": "Maroon ",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/maroon5/the-ultimate-guide-to-finding-the-cheapest-cpanel-hosting-3jok",
+          "categories": [
+            "cheapcpanel",
+            "cheapestcpanel",
+            "cpanelcheap",
             "webdev"
           ],
-          "isoDate": "2024-04-17T06:38:11.000Z",
+          "isoDate": "2024-04-18T06:17:16.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Exercise Insights",
-          "title": "Running boosts memory",
-          "link": "https://dev.to/exerciseinsights/running-boosts-memory-417e",
-          "pubDate": "Wed, 17 Apr 2024 06:38:08 +0000",
-          "dc:creator": "Exercise Insights",
+          "creator": "Remi Kristelijn",
+          "title": "Most basic code formatting",
+          "link": "https://dev.to/rkristelijn/most-basic-code-formatting-3cmb",
+          "pubDate": "Thu, 18 Apr 2024 06:10:43 +0000",
+          "dc:creator": "Remi Kristelijn",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/exerciseinsights/running-boosts-memory-417e",
+          "guid": "https://dev.to/rkristelijn/most-basic-code-formatting-3cmb",
           "categories": [
-            "productivity",
-            "webdev",
-            "beginners",
-            "tutorial"
+            "editorconfig",
+            "prettier",
+            "format",
+            "linting"
           ],
-          "isoDate": "2024-04-17T06:38:08.000Z",
+          "isoDate": "2024-04-18T06:10:43.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Gergely Szerovay",
-          "title": "Angular Addicts #24: Angular 17.3, Signals and unit testing best practices, Storybook 8 & more",
-          "link": "https://dev.to/this-is-angular/angular-addicts-24-angular-173-signals-and-unit-testing-best-practices-storybook-8-more-jgj",
-          "pubDate": "Wed, 17 Apr 2024 06:23:58 +0000",
-          "dc:creator": "Gergely Szerovay",
+          "creator": "sajjad hussain",
+          "title": "AnyDesk: A Tool for Remote Access, Not Web Development",
+          "link": "https://dev.to/epakconsultant/anydesk-a-tool-for-remote-access-not-web-development-5bde",
+          "pubDate": "Thu, 18 Apr 2024 06:04:18 +0000",
+          "dc:creator": "sajjad hussain",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/this-is-angular/angular-addicts-24-angular-173-signals-and-unit-testing-best-practices-storybook-8-more-jgj",
+          "guid": "https://dev.to/epakconsultant/anydesk-a-tool-for-remote-access-not-web-development-5bde",
           "categories": [
-            "angular",
-            "typescript",
-            "ngrx",
-            "javascript"
+            "web3",
+            "webdev"
           ],
-          "isoDate": "2024-04-17T06:23:58.000Z",
+          "isoDate": "2024-04-18T06:04:18.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "SivaKumar00",
-          "title": "Unleashing the Power of React Custom Hooks",
-          "link": "https://dev.to/sivakumar00/unleashing-the-power-of-react-custom-hooks-5dp8",
-          "pubDate": "Wed, 17 Apr 2024 06:23:05 +0000",
-          "dc:creator": "SivaKumar00",
+          "creator": "Matt Miller",
+          "title": "Front-end specialisations: Performance",
+          "link": "https://dev.to/r4nd3l/front-end-specialisations-performance-b19",
+          "pubDate": "Thu, 18 Apr 2024 06:00:00 +0000",
+          "dc:creator": "Matt Miller",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/sivakumar00/unleashing-the-power-of-react-custom-hooks-5dp8",
+          "guid": "https://dev.to/r4nd3l/front-end-specialisations-performance-b19",
           "categories": [
-            "react",
-            "hooks",
-            "webdev",
-            "reactnative"
-          ],
-          "isoDate": "2024-04-17T06:23:05.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Keshav Khatri",
-          "title": "Mastering Frontend Web Development: Best Practices",
-          "link": "https://dev.to/keshavkhatri/mastering-frontend-web-development-best-practices-2nof",
-          "pubDate": "Wed, 17 Apr 2024 06:19:34 +0000",
-          "dc:creator": "Keshav Khatri",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/keshavkhatri/mastering-frontend-web-development-best-practices-2nof",
-          "categories": [
-            "webdev",
             "frontend",
-            "javascript",
-            "html"
+            "a11y",
+            "webdev"
           ],
-          "isoDate": "2024-04-17T06:19:34.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Aditya Mathur",
-          "title": "Pitfalls of Deploying Hono Js App on Vercel",
-          "link": "https://dev.to/mathuraditya7/pitfalls-of-deploying-hono-js-app-on-vercel-15h7",
-          "pubDate": "Wed, 17 Apr 2024 06:14:13 +0000",
-          "dc:creator": "Aditya Mathur",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/mathuraditya7/pitfalls-of-deploying-hono-js-app-on-vercel-15h7",
-          "categories": [
-            "javascript",
-            "webdev",
-            "serverless",
-            "node"
-          ],
-          "isoDate": "2024-04-17T06:14:13.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Syed Faran Mustafa",
-          "title": "Next Auth boilerplate TS",
-          "link": "https://dev.to/faranmustafa/next-auth-boilerplate-ts-4ndn",
-          "pubDate": "Wed, 17 Apr 2024 06:11:26 +0000",
-          "dc:creator": "Syed Faran Mustafa",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/faranmustafa/next-auth-boilerplate-ts-4ndn",
-          "categories": [
-            "nextjs",
-            "nextauthjs",
-            "typescript",
-            "javascript"
-          ],
-          "isoDate": "2024-04-17T06:11:26.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Enzo Garcia",
-          "title": "Protecting Your Business in the Digital Age: Why Office 365 Backup Solutions Are Non-Negotiable",
-          "link": "https://dev.to/eg7160284/protecting-your-business-in-the-digital-age-why-office-365-backup-solutions-are-non-negotiable-12c",
-          "pubDate": "Wed, 17 Apr 2024 06:07:27 +0000",
-          "dc:creator": "Enzo Garcia",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/eg7160284/protecting-your-business-in-the-digital-age-why-office-365-backup-solutions-are-non-negotiable-12c",
-          "categories": [
-            "office365",
-            "backupsolutions",
-            "datasecurity"
-          ],
-          "isoDate": "2024-04-17T06:07:27.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ambassador",
-          "title": "Master RBAC in Kubernetes",
-          "link": "https://dev.to/getambassador2024/master-rbac-in-kubernetes-288h",
-          "pubDate": "Wed, 17 Apr 2024 06:00:00 +0000",
-          "dc:creator": "Ambassador",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/getambassador2024/master-rbac-in-kubernetes-288h",
-          "categories": [
-            "rbac",
-            "kubernetes",
-            "deployment",
-            "authentication"
-          ],
-          "isoDate": "2024-04-17T06:00:00.000Z",
+          "isoDate": "2024-04-18T06:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1115,7 +1109,7 @@
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog.atom",
       "title": "The DigitalOcean Blog",
-      "lastBuildDate": "2024-04-16T22:10:16.047Z"
+      "lastBuildDate": "2024-04-17T22:03:37.623Z"
     },
     "Julia Evans": {
       "items": [
