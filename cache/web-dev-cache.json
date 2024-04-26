@@ -100,7 +100,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Thu, 25 Apr 2024 05:02:05 GMT"
+      "lastBuildDate": "Fri, 26 Apr 2024 06:20:50 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -312,6 +312,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Michele Williams)",
+          "title": "Conducting Accessibility Research In An Inaccessible Ecosystem",
+          "link": "https://smashingmagazine.com/2024/04/conducting-accessibility-research-inaccessible-ecosystem/",
+          "pubDate": "Thu, 25 Apr 2024 12:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Michele Williams)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/conducting-accessibility-research-inaccessible-ecosystem/conducting-accessibility-research-inaccessible-ecosystem.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/04/conducting-accessibility-research-inaccessible-ecosystem/",
+          "isoDate": "2024-04-25T12:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Pratik Joglekar)",
           "title": "Using AI For Neurodiversity And Building Inclusive Tools",
           "link": "https://smashingmagazine.com/2024/04/ai-neurodiversity-building-inclusive-tools/",
@@ -386,25 +405,6 @@
           "guid": "https://smashingmagazine.com/2024/04/converting-text-encoded-html-vanilla-javascript/",
           "isoDate": "2024-04-17T13:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Matt Zeunert)",
-          "title": "How To Monitor And Optimize Google Core Web Vitals",
-          "link": "https://smashingmagazine.com/2024/04/monitor-optimize-google-core-web-vitals/",
-          "pubDate": "Tue, 16 Apr 2024 10:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Matt Zeunert)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/monitor-optimize-google-core-web-vitals/monitor-optimize-google-core-web-vitals.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/04/monitor-optimize-google-core-web-vitals/",
-          "isoDate": "2024-04-16T10:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -422,11 +422,31 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Thu, 25 Apr 2024 06:34:59 GMT",
+      "lastBuildDate": "Fri, 26 Apr 2024 06:52:04 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "Inspirational Websites Roundup #59",
+          "link": "https://tympanus.net/codrops/2024/04/25/inspirational-websites-roundup-59/",
+          "pubDate": "Thu, 25 Apr 2024 11:05:00 +0000",
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=77014",
+          "categories": [
+            "Websites Roundups",
+            "inspiration",
+            "roundup",
+            "website"
+          ],
+          "isoDate": "2024-04-25T11:05:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Federico Valla",
           "title": "Case Study: Gabriel Contassot’s Portfolio — 2024",
@@ -498,30 +518,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "Some On-Scroll Text Highlight Animations",
-          "link": "https://tympanus.net/codrops/2024/04/17/some-on-scroll-text-highlight-animations/",
-          "pubDate": "Wed, 17 Apr 2024 12:13:22 +0000",
-          "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/04/TextHighlight-1.mp4?x32096",
-            "length": "1772710",
-            "type": "video/mp4"
-          },
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=76961",
-          "categories": [
-            "Playground",
-            "scroll",
-            "typography"
-          ],
-          "isoDate": "2024-04-17T12:13:22.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -533,7 +529,7 @@
       "generator": "https://wordpress.org/?v=6.5.2",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Wed, 24 Apr 2024 09:26:29 +0000"
+      "lastBuildDate": "Thu, 25 Apr 2024 09:11:20 +0000"
     },
     "DZone": {
       "items": [
@@ -618,6 +614,89 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Morgan Peat",
+          "title": "Why developers avoid your platform",
+          "link": "https://itnext.io/why-developers-avoid-your-platform-d9aa4a0eae65?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 25 Apr 2024 11:38:24 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Morgan Peat",
+          "guid": "https://medium.com/p/d9aa4a0eae65",
+          "categories": [
+            "cloud",
+            "people-process-technology",
+            "platform-engineering",
+            "thought-leadership"
+          ],
+          "isoDate": "2024-04-25T11:38:24.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "vald.vdaas.org",
+          "title": "Improving Vald Search Performance through Parameter Tuning",
+          "link": "https://itnext.io/improving-vald-search-performance-through-parameter-tuning-c529e49c9e6a?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 25 Apr 2024 09:38:16 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "vald.vdaas.org",
+          "guid": "https://medium.com/p/c529e49c9e6a",
+          "categories": [
+            "llm",
+            "bert",
+            "search-engine-optimizati",
+            "kubernetes",
+            "vald"
+          ],
+          "isoDate": "2024-04-25T09:38:16.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Samet Arslantürk",
+          "title": "Managing Kubernetes Secrets Dynamically from Vault via External Secrets Operator",
+          "link": "https://itnext.io/managing-kubernetes-secrets-dynamically-from-vault-via-external-secrets-operator-7e51d71b56cf?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 25 Apr 2024 09:30:20 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Samet Arslantürk",
+          "guid": "https://medium.com/p/7e51d71b56cf",
+          "categories": [
+            "external-secrets-operator",
+            "devops",
+            "devsecops",
+            "vault",
+            "kubernetes"
+          ],
+          "isoDate": "2024-04-25T09:30:20.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Christian Göhring",
+          "title": "Forge Stronger Code: Emulating Rust’s Approach for Unit Testing in C++",
+          "link": "https://itnext.io/forge-stronger-code-emulating-rusts-approach-for-unit-testing-in-c-cfccbdf2be16?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 25 Apr 2024 08:12:27 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Christian Göhring",
+          "guid": "https://medium.com/p/cfccbdf2be16",
+          "categories": [
+            "software-development",
+            "testing",
+            "cplusplus",
+            "draft-day-2024",
+            "unit-testing"
+          ],
+          "isoDate": "2024-04-25T08:12:27.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Artem Lajko",
           "title": "Sveltos: Argo CD and Flux CD are not the only GitOps Tools for Kubernetes",
@@ -743,90 +822,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Krzysztof Pranczk",
-          "title": "Web API Security Champion: Broken Object Level Authorization (OWASP TOP 10)",
-          "link": "https://itnext.io/web-api-security-champion-broken-object-level-authorization-owasp-top-10-bc1d369592e2?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 22 Apr 2024 20:53:27 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Krzysztof Pranczk",
-          "guid": "https://medium.com/p/bc1d369592e2",
-          "categories": [
-            "software-development",
-            "cybersecurity",
-            "application-security",
-            "programming",
-            "python"
-          ],
-          "isoDate": "2024-04-22T20:53:27.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Paige Niedringhaus",
-          "title": "Create a Custom Formatted CSV from Python Data",
-          "link": "https://itnext.io/create-a-custom-formatted-csv-from-python-data-8905b4f67ec9?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 22 Apr 2024 14:40:51 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Paige Niedringhaus",
-          "guid": "https://medium.com/p/8905b4f67ec9",
-          "categories": [
-            "csv",
-            "big-data",
-            "programming",
-            "python",
-            "web-scraping"
-          ],
-          "isoDate": "2024-04-22T14:40:51.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Jack Roper",
-          "title": "How to Use Ignore_Changes Argument in Terraform Lifecycle",
-          "link": "https://itnext.io/how-to-use-ignore-changes-argument-in-terraform-lifecycle-99775806f5e7?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 22 Apr 2024 07:41:42 GMT",
-          "dc:creator": "Jack Roper",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/99775806f5e7",
-          "categories": [
-            "cloud",
-            "devops",
-            "cloud-computing",
-            "terraform",
-            "infrastructure-as-code"
-          ],
-          "isoDate": "2024-04-22T07:41:42.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ivan Franchin",
-          "title": "Using Nginx to load balance requests to a Keycloak cluster",
-          "link": "https://itnext.io/using-nginx-to-load-balance-requests-to-a-keycloak-cluster-52174c89a0e4?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 22 Apr 2024 07:25:13 GMT",
-          "dc:creator": "Ivan Franchin",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/52174c89a0e4",
-          "categories": [
-            "software-development",
-            "technology",
-            "keycloak",
-            "nginx",
-            "load-balancing"
-          ],
-          "isoDate": "2024-04-22T07:25:13.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -843,196 +838,161 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Thu, 25 Apr 2024 06:51:30 GMT"
+      "lastBuildDate": "Fri, 26 Apr 2024 07:04:23 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Vrinsoft Pty Ltd",
-          "title": "6 Common Web Development Myths You Need to Stop Believing",
-          "link": "https://dev.to/techno_expert/6-common-web-development-myths-you-need-to-stop-believing-2392",
-          "pubDate": "Thu, 25 Apr 2024 06:47:15 +0000",
-          "dc:creator": "Vrinsoft Pty Ltd",
+          "creator": "Darkside",
+          "title": "Abnormal Y-axis display in the area chart of vchart library, where lower values appear higher",
+          "link": "https://dev.to/da730/abnormal-y-axis-display-in-the-area-chart-of-vchart-library-where-lower-values-appear-higher-2ij3",
+          "pubDate": "Fri, 26 Apr 2024 06:58:12 +0000",
+          "dc:creator": "Darkside",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/techno_expert/6-common-web-development-myths-you-need-to-stop-believing-2392",
-          "categories": [
-            "webdev",
-            "programming",
-            "websitedevelopment"
-          ],
-          "isoDate": "2024-04-25T06:47:15.000Z",
+          "guid": "https://dev.to/da730/abnormal-y-axis-display-in-the-area-chart-of-vchart-library-where-lower-values-appear-higher-2ij3",
+          "isoDate": "2024-04-26T06:58:12.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Wesley Chun (@wescpy)",
-          "title": "Gemini API 102: Next steps beyond \"Hello World!\"",
-          "link": "https://dev.to/wescpy/gemini-api-102-next-steps-beyond-hello-world-1pb7",
-          "pubDate": "Thu, 25 Apr 2024 06:38:41 +0000",
-          "dc:creator": "Wesley Chun (@wescpy)",
+          "creator": "Judy",
+          "title": "Types of equi-joins",
+          "link": "https://dev.to/esproc_spl/types-of-equi-joins-2k5d",
+          "pubDate": "Fri, 26 Apr 2024 06:38:08 +0000",
+          "dc:creator": "Judy",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/wescpy/gemini-api-102-next-steps-beyond-hello-world-1pb7",
+          "guid": "https://dev.to/esproc_spl/types-of-equi-joins-2k5d",
           "categories": [
-            "python",
-            "google",
-            "ai",
-            "googleapi"
-          ],
-          "isoDate": "2024-04-25T06:38:41.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Elizabeth Sobiya",
-          "title": "Let's Dive into the World of Web Sockets: A Beginner's Guide",
-          "link": "https://dev.to/elizabethsobiya/lets-dive-into-the-world-of-web-sockets-a-beginners-guide-f2c",
-          "pubDate": "Thu, 25 Apr 2024 06:38:23 +0000",
-          "dc:creator": "Elizabeth Sobiya",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/elizabethsobiya/lets-dive-into-the-world-of-web-sockets-a-beginners-guide-f2c",
-          "categories": [
-            "webdev",
-            "socket",
-            "javascript"
-          ],
-          "isoDate": "2024-04-25T06:38:23.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "EDIIIE",
-          "title": "Behind The Scene of Under Water Game Development Game Environment Development",
-          "link": "https://dev.to/ediiie/behind-the-scene-of-under-water-game-development-game-environment-development-2p8a",
-          "pubDate": "Thu, 25 Apr 2024 06:34:37 +0000",
-          "dc:creator": "EDIIIE",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/ediiie/behind-the-scene-of-under-water-game-development-game-environment-development-2p8a",
-          "categories": [
-            "gamedev",
-            "javascript",
-            "development",
-            "design"
-          ],
-          "isoDate": "2024-04-25T06:34:37.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "ChatGPT en Francais",
-          "title": "ChatGPT Français : Révolution dans le Paysage Linguistique",
-          "link": "https://dev.to/chatgptx/chatgpt-francais-revolution-dans-le-paysage-linguistique-jd1",
-          "pubDate": "Thu, 25 Apr 2024 06:25:08 +0000",
-          "dc:creator": "ChatGPT en Francais",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/chatgptx/chatgpt-francais-revolution-dans-le-paysage-linguistique-jd1",
-          "categories": [
-            "chatgptitaliano"
-          ],
-          "isoDate": "2024-04-25T06:25:08.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Choonho Son",
-          "title": "What is Next Item after Terraform?",
-          "link": "https://dev.to/choonho/what-is-next-item-after-terraform-3j7j",
-          "pubDate": "Thu, 25 Apr 2024 06:20:20 +0000",
-          "dc:creator": "Choonho Son",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/choonho/what-is-next-item-after-terraform-3j7j",
-          "categories": [
-            "terraform",
-            "cloud",
-            "cloudforet"
-          ],
-          "isoDate": "2024-04-25T06:20:20.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Abhay Chaturvedi",
-          "title": "Unveiling the Pinnacle Alternatives to BrowserStack for Efficient Software Testing",
-          "link": "https://dev.to/abhayit2000/unveiling-the-pinnacle-alternatives-to-browserstack-for-efficient-software-testing-624",
-          "pubDate": "Thu, 25 Apr 2024 06:15:03 +0000",
-          "dc:creator": "Abhay Chaturvedi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/abhayit2000/unveiling-the-pinnacle-alternatives-to-browserstack-for-efficient-software-testing-624",
-          "categories": [
-            "testing",
-            "mobile",
-            "automation",
+            "sql",
+            "join",
+            "eaui",
             "development"
           ],
-          "isoDate": "2024-04-25T06:15:03.000Z",
+          "isoDate": "2024-04-26T06:38:08.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Emanuele Bartolesi",
-          "title": "What's in my bag when I go to the office [April 2024 Edition]",
-          "link": "https://dev.to/this-is-learning/whats-in-my-bag-when-i-go-to-the-office-april-2024-edition-4edg",
-          "pubDate": "Thu, 25 Apr 2024 06:13:47 +0000",
-          "dc:creator": "Emanuele Bartolesi",
+          "creator": "Zane Chen",
+          "title": "Why Use \"kubectl proxy\" and What Is The Disadvantage?",
+          "link": "https://dev.to/u2633/why-use-kubectl-proxy-and-what-is-the-disadvantage-ll4",
+          "pubDate": "Fri, 26 Apr 2024 06:37:23 +0000",
+          "dc:creator": "Zane Chen",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/this-is-learning/whats-in-my-bag-when-i-go-to-the-office-april-2024-edition-4edg",
-          "categories": [
-            "productivity"
-          ],
-          "isoDate": "2024-04-25T06:13:47.000Z",
+          "guid": "https://dev.to/u2633/why-use-kubectl-proxy-and-what-is-the-disadvantage-ll4",
+          "isoDate": "2024-04-26T06:37:23.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Mohd Danish",
-          "title": "Search Engine For 200k+ Open Source Icons",
-          "link": "https://dev.to/mddanishyusuf/search-engine-for-200k-open-source-icons-4mfc",
-          "pubDate": "Thu, 25 Apr 2024 06:11:00 +0000",
-          "dc:creator": "Mohd Danish",
+          "creator": "TingLittleKang",
+          "title": "How to align bar chart labels to the left and keep their styles consistent in @visactor/vchart?",
+          "link": "https://dev.to/tinglittlekang/how-to-align-bar-chart-labels-to-the-left-and-keep-their-styles-consistent-in-visactorvchart-471k",
+          "pubDate": "Fri, 26 Apr 2024 06:34:47 +0000",
+          "dc:creator": "TingLittleKang",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/mddanishyusuf/search-engine-for-200k-open-source-icons-4mfc",
-          "categories": [
-            "design",
-            "search",
-            "opensource"
-          ],
-          "isoDate": "2024-04-25T06:11:00.000Z",
+          "guid": "https://dev.to/tinglittlekang/how-to-align-bar-chart-labels-to-the-left-and-keep-their-styles-consistent-in-visactorvchart-471k",
+          "isoDate": "2024-04-26T06:34:47.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "TusharShahi",
-          "title": "TypeScript Tip #3: Folder-wise config",
-          "link": "https://dev.to/tusharshahi/typescript-tip-3-folder-wise-config-2501",
-          "pubDate": "Thu, 25 Apr 2024 06:05:59 +0000",
-          "dc:creator": "TusharShahi",
+          "creator": "Robin.HB",
+          "title": "In-Depth Analysis of Interface Testing: From Principle to Practice",
+          "link": "https://dev.to/haibingwang/in-depth-analysis-of-interface-testing-from-principle-to-practice-3e68",
+          "pubDate": "Fri, 26 Apr 2024 06:32:56 +0000",
+          "dc:creator": "Robin.HB",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/tusharshahi/typescript-tip-3-folder-wise-config-2501",
+          "guid": "https://dev.to/haibingwang/in-depth-analysis-of-interface-testing-from-principle-to-practice-3e68",
+          "isoDate": "2024-04-26T06:32:56.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Kshitiz Rana",
+          "title": "Exploring Scopes in Functions in python: A Hands-On Guide",
+          "link": "https://dev.to/kshitizdev/exploring-scopes-in-functions-in-python-a-hands-on-guide-na4",
+          "pubDate": "Fri, 26 Apr 2024 06:32:46 +0000",
+          "dc:creator": "Kshitiz Rana",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/kshitizdev/exploring-scopes-in-functions-in-python-a-hands-on-guide-na4",
           "categories": [
-            "webdev",
-            "typescript",
-            "programming",
-            "beginners"
+            "python"
           ],
-          "isoDate": "2024-04-25T06:05:59.000Z",
+          "isoDate": "2024-04-26T06:32:46.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "TingLittleKang",
+          "title": "How to format axis labels in @visactor/vchart?",
+          "link": "https://dev.to/tinglittlekang/how-to-format-axis-labels-in-visactorvchart-1069",
+          "pubDate": "Fri, 26 Apr 2024 06:27:54 +0000",
+          "dc:creator": "TingLittleKang",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/tinglittlekang/how-to-format-axis-labels-in-visactorvchart-1069",
+          "isoDate": "2024-04-26T06:27:54.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "TingLittleKang",
+          "title": "How to sort data by specified fields in @visactor/vchart?",
+          "link": "https://dev.to/tinglittlekang/how-to-sort-data-by-specified-fields-in-visactorvchart-3oh6",
+          "pubDate": "Fri, 26 Apr 2024 06:25:12 +0000",
+          "dc:creator": "TingLittleKang",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/tinglittlekang/how-to-sort-data-by-specified-fields-in-visactorvchart-3oh6",
+          "isoDate": "2024-04-26T06:25:12.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Daniel J. Saldaña",
+          "title": "Cómo desplegar tu sitio web con Azure Static Web Apps y Terraform",
+          "link": "https://dev.to/danieljsaldana/como-desplegar-tu-sitio-web-con-azure-static-web-apps-y-terraform-1n6m",
+          "pubDate": "Fri, 26 Apr 2024 06:23:06 +0000",
+          "dc:creator": "Daniel J. Saldaña",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/danieljsaldana/como-desplegar-tu-sitio-web-con-azure-static-web-apps-y-terraform-1n6m",
+          "categories": [
+            "azure",
+            "terraform",
+            "automations",
+            "spanish"
+          ],
+          "isoDate": "2024-04-26T06:23:06.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Darkside",
+          "title": "How to position the chart at the far left of the canvas?",
+          "link": "https://dev.to/da730/how-to-position-the-chart-at-the-far-left-of-the-canvas-2l0i",
+          "pubDate": "Fri, 26 Apr 2024 06:14:02 +0000",
+          "dc:creator": "Darkside",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/da730/how-to-position-the-chart-at-the-far-left-of-the-canvas-2l0i",
+          "isoDate": "2024-04-26T06:14:02.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
