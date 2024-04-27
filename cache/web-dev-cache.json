@@ -100,10 +100,30 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Fri, 26 Apr 2024 06:20:50 GMT"
+      "lastBuildDate": "Sat, 27 Apr 2024 05:02:05 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
+        {
+          "creator": "Clay Nelson",
+          "title": "GitHub Actions, Arm64, and the future of automotive software development",
+          "link": "https://github.blog/2024-04-26-github-actions-arm64-and-the-future-of-automotive-software-development/",
+          "pubDate": "Fri, 26 Apr 2024 15:33:43 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Clay Nelson",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=77619",
+          "categories": [
+            "Enterprise",
+            "GitHub Actions",
+            "GitHub Enterprise",
+            "GitHub-hosted runners"
+          ],
+          "isoDate": "2024-04-26T15:33:43.000Z",
+          "summary": ""
+        },
         {
           "creator": "Mike Hanley",
           "title": "Securing millions of developers through 2FA",
@@ -185,24 +205,6 @@
           ],
           "isoDate": "2024-04-18T17:30:32.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Jeimy Ruiz",
-          "title": "The world’s fair of software: Join us at GitHub Universe 2024",
-          "link": "https://github.blog/2024-04-16-the-worlds-fair-of-software-join-us-at-github-universe-2024/",
-          "pubDate": "Tue, 16 Apr 2024 16:00:39 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Jeimy Ruiz",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=77511",
-          "categories": [
-            "Community",
-            "GitHub Universe"
-          ],
-          "isoDate": "2024-04-16T16:00:39.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://github.blog/feed/",
@@ -221,7 +223,7 @@
       "generator": "https://wordpress.org/?v=6.5.2",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Wed, 24 Apr 2024 20:10:24 +0000"
+      "lastBuildDate": "Fri, 26 Apr 2024 15:33:43 +0000"
     },
     "GitHub Blog Atom": {
       "items": [
@@ -312,6 +314,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
+          "title": "The End Of The Free Tier",
+          "link": "https://smashingmagazine.com/2024/04/end-of-free-tier/",
+          "pubDate": "Fri, 26 Apr 2024 08:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/end-of-free-tier/end-of-free-tier.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/04/end-of-free-tier/",
+          "isoDate": "2024-04-26T08:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Michele Williams)",
           "title": "Conducting Accessibility Research In An Inaccessible Ecosystem",
           "link": "https://smashingmagazine.com/2024/04/conducting-accessibility-research-inaccessible-ecosystem/",
@@ -386,25 +407,6 @@
           "guid": "https://smashingmagazine.com/2024/04/how-work-graphql-wordpress-2024/",
           "isoDate": "2024-04-19T10:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Alexis Kypridemos)",
-          "title": "Converting Plain Text To Encoded HTML With Vanilla JavaScript",
-          "link": "https://smashingmagazine.com/2024/04/converting-text-encoded-html-vanilla-javascript/",
-          "pubDate": "Wed, 17 Apr 2024 13:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Alexis Kypridemos)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/converting-text-encoded-html-vanilla-javascript/converting-text-encoded-html-vanilla-javascript.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/04/converting-text-encoded-html-vanilla-javascript/",
-          "isoDate": "2024-04-17T13:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -422,11 +424,25 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Fri, 26 Apr 2024 06:52:04 GMT",
+      "lastBuildDate": "Sat, 27 Apr 2024 06:35:38 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "Collective #833",
+          "link": "https://tympanus.net/codrops/collective/collective-833/",
+          "pubDate": "Fri, 26 Apr 2024 11:00:00 +0000",
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?post_type=collective&p=76986",
+          "isoDate": "2024-04-26T11:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Manoela Ilic",
           "title": "Inspirational Websites Roundup #59",
@@ -501,20 +517,6 @@
           "contentSnippet": "",
           "guid": "https://tympanus.net/codrops/?post_type=collective&p=76951",
           "isoDate": "2024-04-23T11:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "Collective #831",
-          "link": "https://tympanus.net/codrops/collective/collective-831/",
-          "pubDate": "Fri, 19 Apr 2024 11:00:00 +0000",
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?post_type=collective&p=76950",
-          "isoDate": "2024-04-19T11:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -614,6 +616,44 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Ricardo Pereira",
+          "title": "Block normal keyboard key behavior with JavaScript in OutSystems",
+          "link": "https://itnext.io/block-normal-keyboard-key-behavior-with-javascript-in-outsystems-207fa3c9740c?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 26 Apr 2024 19:13:33 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Ricardo Pereira",
+          "guid": "https://medium.com/p/207fa3c9740c",
+          "categories": [
+            "outsystems-development",
+            "outsystems-mvp",
+            "outsystems"
+          ],
+          "isoDate": "2024-04-26T19:13:33.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Nikita Goncear",
+          "title": "Styling SwiftUI Text like a Pro",
+          "link": "https://itnext.io/styling-swiftui-text-like-a-pro-0a800ca4425a?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 26 Apr 2024 14:41:40 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Nikita Goncear",
+          "guid": "https://medium.com/p/0a800ca4425a",
+          "categories": [
+            "swift",
+            "swiftui",
+            "ios"
+          ],
+          "isoDate": "2024-04-26T14:41:40.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Morgan Peat",
           "title": "Why developers avoid your platform",
@@ -780,48 +820,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "JPantsjoha",
-          "title": "Pass Google Cloud Machine Learning Exam, with this HowTo Human Learning Guide",
-          "link": "https://itnext.io/google-cloud-machine-learning-exam-prep-broken-down-by-learning-effort-levels-21f96088a274?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 23 Apr 2024 22:04:58 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "JPantsjoha",
-          "guid": "https://medium.com/p/21f96088a274",
-          "categories": [
-            "learning",
-            "google-cloud-platform",
-            "machine-learning",
-            "ml-certification",
-            "learning-and-development"
-          ],
-          "isoDate": "2024-04-23T22:04:58.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Lucas Soares",
-          "title": "OutSystems Security: Have you heard of “OutSystems Drive”?",
-          "link": "https://itnext.io/outsystems-security-have-you-heard-of-outsystems-drive-87538b47e8a1?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 23 Apr 2024 09:38:00 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Lucas Soares",
-          "guid": "https://medium.com/p/87538b47e8a1",
-          "categories": [
-            "outsystems-development",
-            "ethical-hacking",
-            "outsystems-partner",
-            "low-code",
-            "outsystems"
-          ],
-          "isoDate": "2024-04-23T09:38:00.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -838,161 +836,196 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Fri, 26 Apr 2024 07:04:23 GMT"
+      "lastBuildDate": "Sat, 27 Apr 2024 07:00:05 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Darkside",
-          "title": "Abnormal Y-axis display in the area chart of vchart library, where lower values appear higher",
-          "link": "https://dev.to/da730/abnormal-y-axis-display-in-the-area-chart-of-vchart-library-where-lower-values-appear-higher-2ij3",
-          "pubDate": "Fri, 26 Apr 2024 06:58:12 +0000",
-          "dc:creator": "Darkside",
+          "creator": "dev.to staff",
+          "title": "What Are Your C# Strategies?",
+          "link": "https://dev.to/devteam/what-are-your-c-strategies-41o2",
+          "pubDate": "Sat, 27 Apr 2024 07:00:00 +0000",
+          "dc:creator": "dev.to staff",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/da730/abnormal-y-axis-display-in-the-area-chart-of-vchart-library-where-lower-values-appear-higher-2ij3",
-          "isoDate": "2024-04-26T06:58:12.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Judy",
-          "title": "Types of equi-joins",
-          "link": "https://dev.to/esproc_spl/types-of-equi-joins-2k5d",
-          "pubDate": "Fri, 26 Apr 2024 06:38:08 +0000",
-          "dc:creator": "Judy",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/esproc_spl/types-of-equi-joins-2k5d",
+          "guid": "https://dev.to/devteam/what-are-your-c-strategies-41o2",
           "categories": [
-            "sql",
-            "join",
-            "eaui",
-            "development"
+            "discuss"
           ],
-          "isoDate": "2024-04-26T06:38:08.000Z",
+          "isoDate": "2024-04-27T07:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Zane Chen",
-          "title": "Why Use \"kubectl proxy\" and What Is The Disadvantage?",
-          "link": "https://dev.to/u2633/why-use-kubectl-proxy-and-what-is-the-disadvantage-ll4",
-          "pubDate": "Fri, 26 Apr 2024 06:37:23 +0000",
-          "dc:creator": "Zane Chen",
+          "creator": "Joseph Ochego ",
+          "title": "Bridging the Gap: Basic Design Principles for Developers",
+          "link": "https://dev.to/thejoernal/bridging-the-gap-basic-design-principles-for-developers-ipg",
+          "pubDate": "Sat, 27 Apr 2024 06:59:03 +0000",
+          "dc:creator": "Joseph Ochego ",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/u2633/why-use-kubectl-proxy-and-what-is-the-disadvantage-ll4",
-          "isoDate": "2024-04-26T06:37:23.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "TingLittleKang",
-          "title": "How to align bar chart labels to the left and keep their styles consistent in @visactor/vchart?",
-          "link": "https://dev.to/tinglittlekang/how-to-align-bar-chart-labels-to-the-left-and-keep-their-styles-consistent-in-visactorvchart-471k",
-          "pubDate": "Fri, 26 Apr 2024 06:34:47 +0000",
-          "dc:creator": "TingLittleKang",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/tinglittlekang/how-to-align-bar-chart-labels-to-the-left-and-keep-their-styles-consistent-in-visactorvchart-471k",
-          "isoDate": "2024-04-26T06:34:47.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Robin.HB",
-          "title": "In-Depth Analysis of Interface Testing: From Principle to Practice",
-          "link": "https://dev.to/haibingwang/in-depth-analysis-of-interface-testing-from-principle-to-practice-3e68",
-          "pubDate": "Fri, 26 Apr 2024 06:32:56 +0000",
-          "dc:creator": "Robin.HB",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/haibingwang/in-depth-analysis-of-interface-testing-from-principle-to-practice-3e68",
-          "isoDate": "2024-04-26T06:32:56.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Kshitiz Rana",
-          "title": "Exploring Scopes in Functions in python: A Hands-On Guide",
-          "link": "https://dev.to/kshitizdev/exploring-scopes-in-functions-in-python-a-hands-on-guide-na4",
-          "pubDate": "Fri, 26 Apr 2024 06:32:46 +0000",
-          "dc:creator": "Kshitiz Rana",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/kshitizdev/exploring-scopes-in-functions-in-python-a-hands-on-guide-na4",
+          "guid": "https://dev.to/thejoernal/bridging-the-gap-basic-design-principles-for-developers-ipg",
           "categories": [
-            "python"
+            "uidesign",
+            "typography",
+            "webdev",
+            "improve"
           ],
-          "isoDate": "2024-04-26T06:32:46.000Z",
+          "isoDate": "2024-04-27T06:59:03.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "TingLittleKang",
-          "title": "How to format axis labels in @visactor/vchart?",
-          "link": "https://dev.to/tinglittlekang/how-to-format-axis-labels-in-visactorvchart-1069",
-          "pubDate": "Fri, 26 Apr 2024 06:27:54 +0000",
-          "dc:creator": "TingLittleKang",
+          "creator": "Nirmalya Mondal",
+          "title": "Mastering GitHub: Cheatsheets, Commands, and Interview Prep",
+          "link": "https://dev.to/nirmalyax/mastering-github-cheatsheets-commands-and-interview-prep-49c9",
+          "pubDate": "Sat, 27 Apr 2024 06:39:55 +0000",
+          "dc:creator": "Nirmalya Mondal",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/tinglittlekang/how-to-format-axis-labels-in-visactorvchart-1069",
-          "isoDate": "2024-04-26T06:27:54.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "TingLittleKang",
-          "title": "How to sort data by specified fields in @visactor/vchart?",
-          "link": "https://dev.to/tinglittlekang/how-to-sort-data-by-specified-fields-in-visactorvchart-3oh6",
-          "pubDate": "Fri, 26 Apr 2024 06:25:12 +0000",
-          "dc:creator": "TingLittleKang",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/tinglittlekang/how-to-sort-data-by-specified-fields-in-visactorvchart-3oh6",
-          "isoDate": "2024-04-26T06:25:12.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Daniel J. Saldaña",
-          "title": "Cómo desplegar tu sitio web con Azure Static Web Apps y Terraform",
-          "link": "https://dev.to/danieljsaldana/como-desplegar-tu-sitio-web-con-azure-static-web-apps-y-terraform-1n6m",
-          "pubDate": "Fri, 26 Apr 2024 06:23:06 +0000",
-          "dc:creator": "Daniel J. Saldaña",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/danieljsaldana/como-desplegar-tu-sitio-web-con-azure-static-web-apps-y-terraform-1n6m",
+          "guid": "https://dev.to/nirmalyax/mastering-github-cheatsheets-commands-and-interview-prep-49c9",
           "categories": [
-            "azure",
-            "terraform",
-            "automations",
-            "spanish"
+            "git",
+            "github",
+            "githubactions",
+            "tutorial"
           ],
-          "isoDate": "2024-04-26T06:23:06.000Z",
+          "isoDate": "2024-04-27T06:39:55.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Darkside",
-          "title": "How to position the chart at the far left of the canvas?",
-          "link": "https://dev.to/da730/how-to-position-the-chart-at-the-far-left-of-the-canvas-2l0i",
-          "pubDate": "Fri, 26 Apr 2024 06:14:02 +0000",
-          "dc:creator": "Darkside",
+          "creator": "Kueiapp",
+          "title": "Why can e be used in the tab of input type=number?",
+          "link": "https://dev.to/kueiapp/why-can-e-be-used-in-the-tab-of-input-typenumber-1643",
+          "pubDate": "Sat, 27 Apr 2024 06:31:01 +0000",
+          "dc:creator": "Kueiapp",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/da730/how-to-position-the-chart-at-the-far-left-of-the-canvas-2l0i",
-          "isoDate": "2024-04-26T06:14:02.000Z",
+          "guid": "https://dev.to/kueiapp/why-can-e-be-used-in-the-tab-of-input-typenumber-1643",
+          "categories": [
+            "webdev",
+            "javascript",
+            "html"
+          ],
+          "isoDate": "2024-04-27T06:31:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Pepper Square",
+          "title": "The Importance of UI Prototyping: Designing for Success",
+          "link": "https://dev.to/pepper_square/the-importance-of-ui-prototyping-designing-for-success-4kf3",
+          "pubDate": "Sat, 27 Apr 2024 06:24:49 +0000",
+          "dc:creator": "Pepper Square",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/pepper_square/the-importance-of-ui-prototyping-designing-for-success-4kf3",
+          "categories": [
+            "webdev",
+            "ui",
+            "design",
+            "uiprototyping"
+          ],
+          "isoDate": "2024-04-27T06:24:49.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Anton Shvein",
+          "title": "Lama Bot (དླ་མ་བོཏ།) - helps to coup with depression with the help of Buddhist practice",
+          "link": "https://dev.to/t0ha/lama-bot-dl-m-bot-helps-to-coup-with-depression-with-the-help-of-buddhist-practice-2j94",
+          "pubDate": "Sat, 27 Apr 2024 06:08:26 +0000",
+          "dc:creator": "Anton Shvein",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/t0ha/lama-bot-dl-m-bot-helps-to-coup-with-depression-with-the-help-of-buddhist-practice-2j94",
+          "categories": [
+            "cozechallenge",
+            "devchallenge",
+            "ai",
+            "machinelearning"
+          ],
+          "isoDate": "2024-04-27T06:08:26.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sol Lee",
+          "title": "Logging Tips for Frontend",
+          "link": "https://dev.to/solleedata/logging-tips-for-frontend-4e9c",
+          "pubDate": "Sat, 27 Apr 2024 06:06:59 +0000",
+          "dc:creator": "Sol Lee",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/solleedata/logging-tips-for-frontend-4e9c",
+          "isoDate": "2024-04-27T06:06:59.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Hitesh Chawla",
+          "title": "Using Custom React hooks in NextJS?",
+          "link": "https://dev.to/hiteshchawla/using-custom-react-hooks-in-nextjs-3gjo",
+          "pubDate": "Sat, 27 Apr 2024 05:53:13 +0000",
+          "dc:creator": "Hitesh Chawla",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/hiteshchawla/using-custom-react-hooks-in-nextjs-3gjo",
+          "categories": [
+            "nextjs",
+            "webdev",
+            "react",
+            "javascript"
+          ],
+          "isoDate": "2024-04-27T05:53:13.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Nilanth",
+          "title": "Discover the 5 Exciting New Features Unveiled in ReactJS 19 Beta",
+          "link": "https://dev.to/nilanth/discover-the-5-exciting-new-features-unveiled-in-reactjs-19-beta-3a92",
+          "pubDate": "Sat, 27 Apr 2024 05:47:16 +0000",
+          "dc:creator": "Nilanth",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/nilanth/discover-the-5-exciting-new-features-unveiled-in-reactjs-19-beta-3a92",
+          "categories": [
+            "react",
+            "javascript",
+            "webdev",
+            "beginners"
+          ],
+          "isoDate": "2024-04-27T05:47:16.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Gustavo Favero",
+          "title": "Mastering Java Development in Visual Studio Code",
+          "link": "https://dev.to/gufvr/mastering-java-development-in-visual-studio-code-4jl6",
+          "pubDate": "Sat, 27 Apr 2024 05:43:20 +0000",
+          "dc:creator": "Gustavo Favero",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/gufvr/mastering-java-development-in-visual-studio-code-4jl6",
+          "categories": [
+            "java",
+            "vscode",
+            "programming",
+            "tutorial"
+          ],
+          "isoDate": "2024-04-27T05:43:20.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
