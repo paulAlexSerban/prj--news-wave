@@ -100,7 +100,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sun, 28 Apr 2024 05:02:07 GMT"
+      "lastBuildDate": "Mon, 29 Apr 2024 05:17:30 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -424,11 +424,36 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sun, 28 Apr 2024 06:34:59 GMT",
+      "lastBuildDate": "Mon, 29 Apr 2024 06:34:52 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "Recent Design Finds: Compact Navigation",
+          "link": "https://tympanus.net/codrops/2024/04/28/recent-design-finds-compact-navigation/",
+          "pubDate": "Sun, 28 Apr 2024 15:48:23 +0000",
+          "enclosure": {
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/04/faubourg.mp4?x31345",
+            "length": "1091685",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=77076",
+          "categories": [
+            "Articles",
+            "inspiration",
+            "menu",
+            "navigation"
+          ],
+          "isoDate": "2024-04-28T15:48:23.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Manoela Ilic",
           "title": "Collective #833",
@@ -531,7 +556,7 @@
       "generator": "https://wordpress.org/?v=6.5.2",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Thu, 25 Apr 2024 09:11:20 +0000"
+      "lastBuildDate": "Sun, 28 Apr 2024 15:48:27 +0000"
     },
     "DZone": {
       "items": [
@@ -616,6 +641,109 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Abhishek Gupta",
+          "title": "How to use Retrieval Augmented Generation (RAG) for Go applications",
+          "link": "https://itnext.io/how-to-use-retrieval-augmented-generation-rag-for-go-applications-236469b3bd3d?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 29 Apr 2024 06:56:25 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Abhishek Gupta",
+          "guid": "https://medium.com/p/236469b3bd3d",
+          "categories": [
+            "docker",
+            "database",
+            "go",
+            "langchain",
+            "machine-learning"
+          ],
+          "isoDate": "2024-04-29T06:56:25.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ivan Franchin",
+          "title": "Using Nginx to Load Balance Requests to a Spring Boot Web application",
+          "link": "https://itnext.io/using-nginx-to-load-balance-requests-to-a-spring-boot-web-application-83a497a2f8ab?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 29 Apr 2024 06:54:23 GMT",
+          "dc:creator": "Ivan Franchin",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/83a497a2f8ab",
+          "categories": [
+            "nginx",
+            "technology",
+            "load-balancing",
+            "software-development",
+            "spring-boot"
+          ],
+          "isoDate": "2024-04-29T06:54:23.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Héla Ben Khalfallah",
+          "title": "Frontend Development Beyond React: Solid (2/3)",
+          "link": "https://itnext.io/frontend-development-beyond-react-solid-2-3-bceebdc13c00?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 28 Apr 2024 22:18:14 GMT",
+          "dc:creator": "Héla Ben Khalfallah",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/bceebdc13c00",
+          "categories": [
+            "solid",
+            "frontend",
+            "frontend-development",
+            "solidjs"
+          ],
+          "isoDate": "2024-04-28T22:18:14.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Lucas Soares",
+          "title": "OutSystems Scan — See if your OS app is vulnerable.",
+          "link": "https://itnext.io/outsystems-scan-see-if-your-os-app-is-vulnerable-985068ff912a?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 28 Apr 2024 11:27:56 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Lucas Soares",
+          "guid": "https://medium.com/p/985068ff912a",
+          "categories": [
+            "outsystems",
+            "low-code",
+            "ethical-hacking",
+            "outsystems-development",
+            "outsystems-partner"
+          ],
+          "isoDate": "2024-04-28T11:27:56.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Nicolas Fränkel",
+          "title": "The try block in Rust",
+          "link": "https://itnext.io/the-try-block-in-rust-ca742f3c78bd?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 28 Apr 2024 11:26:48 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Nicolas Fränkel",
+          "guid": "https://medium.com/p/ca742f3c78bd",
+          "categories": [
+            "error-handling",
+            "error-management",
+            "try",
+            "rust"
+          ],
+          "isoDate": "2024-04-28T11:26:48.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Kliton Bare",
           "title": "Full stack Budget Tracker: NextJs , React,Typescript ,React-Query, Prisma — SQL, Recharts, Tailwind",
@@ -716,110 +844,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Morgan Peat",
-          "title": "Why developers avoid your platform",
-          "link": "https://itnext.io/why-developers-avoid-your-platform-d9aa4a0eae65?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 25 Apr 2024 11:38:24 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Morgan Peat",
-          "guid": "https://medium.com/p/d9aa4a0eae65",
-          "categories": [
-            "cloud",
-            "people-process-technology",
-            "platform-engineering",
-            "thought-leadership"
-          ],
-          "isoDate": "2024-04-25T11:38:24.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "vald.vdaas.org",
-          "title": "Improving Vald Search Performance through Parameter Tuning",
-          "link": "https://itnext.io/improving-vald-search-performance-through-parameter-tuning-c529e49c9e6a?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 25 Apr 2024 09:38:16 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "vald.vdaas.org",
-          "guid": "https://medium.com/p/c529e49c9e6a",
-          "categories": [
-            "llm",
-            "bert",
-            "search-engine-optimizati",
-            "kubernetes",
-            "vald"
-          ],
-          "isoDate": "2024-04-25T09:38:16.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Samet Arslantürk",
-          "title": "Managing Kubernetes Secrets Dynamically from Vault via External Secrets Operator",
-          "link": "https://itnext.io/managing-kubernetes-secrets-dynamically-from-vault-via-external-secrets-operator-7e51d71b56cf?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 25 Apr 2024 09:30:20 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Samet Arslantürk",
-          "guid": "https://medium.com/p/7e51d71b56cf",
-          "categories": [
-            "external-secrets-operator",
-            "devops",
-            "devsecops",
-            "vault",
-            "kubernetes"
-          ],
-          "isoDate": "2024-04-25T09:30:20.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Christian Göhring",
-          "title": "Forge Stronger Code: Emulating Rust’s Approach for Unit Testing in C++",
-          "link": "https://itnext.io/forge-stronger-code-emulating-rusts-approach-for-unit-testing-in-c-cfccbdf2be16?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 25 Apr 2024 08:12:27 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Christian Göhring",
-          "guid": "https://medium.com/p/cfccbdf2be16",
-          "categories": [
-            "software-development",
-            "testing",
-            "cplusplus",
-            "draft-day-2024",
-            "unit-testing"
-          ],
-          "isoDate": "2024-04-25T08:12:27.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Artem Lajko",
-          "title": "Sveltos: Argo CD and Flux CD are not the only GitOps Tools for Kubernetes",
-          "link": "https://itnext.io/sveltos-argo-cd-and-flux-cd-are-not-the-only-gitops-tools-for-kubernetes-fa2b94b2ea48?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 24 Apr 2024 19:32:55 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Artem Lajko",
-          "guid": "https://medium.com/p/fa2b94b2ea48",
-          "categories": [
-            "gitops",
-            "kubernetes",
-            "devops",
-            "cloud-computing",
-            "software-engineering"
-          ],
-          "isoDate": "2024-04-24T19:32:55.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -836,194 +860,182 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sun, 28 Apr 2024 07:05:25 GMT"
+      "lastBuildDate": "Mon, 29 Apr 2024 06:57:47 GMT"
     },
     "DEV Community": {
       "items": [
         {
           "creator": "dev.to staff",
-          "title": "Do You Procrastinate?",
-          "link": "https://dev.to/devteam/do-you-procrastinate-5bio",
-          "pubDate": "Sun, 28 Apr 2024 07:00:00 +0000",
+          "title": "Who Needs Coffee When You've Got...?",
+          "link": "https://dev.to/devteam/who-needs-coffee-when-youve-got-4nh2",
+          "pubDate": "Mon, 29 Apr 2024 07:00:00 +0000",
           "dc:creator": "dev.to staff",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devteam/do-you-procrastinate-5bio",
+          "guid": "https://dev.to/devteam/who-needs-coffee-when-youve-got-4nh2",
           "categories": [
             "discuss"
           ],
-          "isoDate": "2024-04-28T07:00:00.000Z",
+          "isoDate": "2024-04-29T07:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Avinash Valluru",
-          "title": "Understanding Angular Component Lifecycles",
-          "link": "https://dev.to/avinashvalluru/understanding-angular-component-lifecycles-3c5i",
-          "pubDate": "Sun, 28 Apr 2024 06:13:46 +0000",
-          "dc:creator": "Avinash Valluru",
+          "creator": "Davide Passafaro",
+          "title": "Redirecting Guards and Resolvers in Angular v18 with RedirectCommand",
+          "link": "https://dev.to/davidepassafaro/advanced-angular-navigation-redirect-guards-and-resolvers-in-angular-v18-15ne",
+          "pubDate": "Mon, 29 Apr 2024 07:00:00 +0000",
+          "dc:creator": "Davide Passafaro",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/avinashvalluru/understanding-angular-component-lifecycles-3c5i",
+          "guid": "https://dev.to/davidepassafaro/advanced-angular-navigation-redirect-guards-and-resolvers-in-angular-v18-15ne",
           "categories": [
             "angular",
-            "componentlifecycles",
-            "webdev",
-            "angularlifecycle"
-          ],
-          "isoDate": "2024-04-28T06:13:46.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Matt Miller",
-          "title": "Front-end specialisations: Design systems",
-          "link": "https://dev.to/r4nd3l/front-end-specialisations-design-systems-3oid",
-          "pubDate": "Sun, 28 Apr 2024 06:00:00 +0000",
-          "dc:creator": "Matt Miller",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/r4nd3l/front-end-specialisations-design-systems-3oid",
-          "categories": [
             "frontend",
-            "a11y",
+            "webdev",
+            "javascript"
+          ],
+          "isoDate": "2024-04-29T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "NFT Research",
+          "title": "NFT 101: What Is NFT Perps Trading?",
+          "link": "https://dev.to/nft_research/nft-101-what-is-nft-perps-trading-571e",
+          "pubDate": "Mon, 29 Apr 2024 06:28:47 +0000",
+          "dc:creator": "NFT Research",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/nft_research/nft-101-what-is-nft-perps-trading-571e",
+          "categories": [
+            "nft",
+            "web3"
+          ],
+          "isoDate": "2024-04-29T06:28:47.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "AMITH KUMAR S",
+          "title": "Help with flask, almost done. Almost!!",
+          "link": "https://dev.to/titanexasaur/help-with-flask-almost-done-almost-4lm0",
+          "pubDate": "Mon, 29 Apr 2024 06:26:29 +0000",
+          "dc:creator": "AMITH KUMAR S",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/titanexasaur/help-with-flask-almost-done-almost-4lm0",
+          "isoDate": "2024-04-29T06:26:29.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Gabriel Sena",
+          "title": "Frontend Challenge: Animated Globe CSS Art: Earth Day",
+          "link": "https://dev.to/gabrielsenadev/frontend-challenge-animated-globe-css-art-earth-day-329j",
+          "pubDate": "Mon, 29 Apr 2024 06:18:39 +0000",
+          "dc:creator": "Gabriel Sena",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/gabrielsenadev/frontend-challenge-animated-globe-css-art-earth-day-329j",
+          "categories": [
+            "frontendchallenge",
+            "devchallenge",
+            "css",
             "webdev"
           ],
-          "isoDate": "2024-04-28T06:00:00.000Z",
+          "isoDate": "2024-04-29T06:18:39.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Dan George",
-          "title": "Leveraging .htaccess on for Efficient API Routing in Main and Stage Environments on apache",
-          "link": "https://dev.to/dangeorge35/leveraging-htaccess-on-for-efficient-api-routing-in-main-and-stage-environments-on-apache-4k67",
-          "pubDate": "Sun, 28 Apr 2024 05:40:53 +0000",
-          "dc:creator": "Dan George",
+          "creator": "Okyza Maherdy Prabowo",
+          "title": "Tutorial: Cara Menarik Data Tabel Transportasi dari Situs Web dan Menyimpannya sebagai File CSV dengan Python",
+          "link": "https://dev.to/okyzaprabowo/tutorial-cara-menarik-data-tabel-transportasi-dari-situs-web-dan-menyimpannya-sebagai-file-csv-dengan-python-22fi",
+          "pubDate": "Mon, 29 Apr 2024 06:16:55 +0000",
+          "dc:creator": "Okyza Maherdy Prabowo",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/dangeorge35/leveraging-htaccess-on-for-efficient-api-routing-in-main-and-stage-environments-on-apache-4k67",
-          "isoDate": "2024-04-28T05:40:53.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Mince",
-          "title": "Amazing scroll effects only using CSS ! 😲",
-          "link": "https://dev.to/mince/amazing-scroll-effects-only-using-css--3ka7",
-          "pubDate": "Sun, 28 Apr 2024 05:14:33 +0000",
-          "dc:creator": "Mince",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/mince/amazing-scroll-effects-only-using-css--3ka7",
+          "guid": "https://dev.to/okyzaprabowo/tutorial-cara-menarik-data-tabel-transportasi-dari-situs-web-dan-menyimpannya-sebagai-file-csv-dengan-python-22fi",
           "categories": [
-            "webdev",
-            "beginners",
-            "javascript",
-            "css"
+            "indonesia",
+            "python",
+            "tutorial",
+            "programming"
           ],
-          "isoDate": "2024-04-28T05:14:33.000Z",
+          "isoDate": "2024-04-29T06:16:55.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Yugandhar Dasari 👋🏻",
-          "title": "Unlocking the Power of WebAssembly",
-          "link": "https://dev.to/yugandhar_dasari_93/unlocking-the-power-of-webassembly-5fo7",
-          "pubDate": "Sun, 28 Apr 2024 05:11:02 +0000",
-          "dc:creator": "Yugandhar Dasari 👋🏻",
+          "creator": "Ram",
+          "title": "How to analyze Node.js Garbage Collection traces?",
+          "link": "https://dev.to/ram_lakshmanan_001/how-to-analyze-nodejs-garbage-collection-traces-4696",
+          "pubDate": "Mon, 29 Apr 2024 06:15:35 +0000",
+          "dc:creator": "Ram",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/yugandhar_dasari_93/unlocking-the-power-of-webassembly-5fo7",
-          "categories": [
-            "webassembly",
-            "javascript",
-            "performanc"
-          ],
-          "isoDate": "2024-04-28T05:11:02.000Z",
+          "guid": "https://dev.to/ram_lakshmanan_001/how-to-analyze-nodejs-garbage-collection-traces-4696",
+          "isoDate": "2024-04-29T06:15:35.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Yugandhar Dasari 👋🏻",
-          "title": "Unlocking the Power of WebAssembly",
-          "link": "https://dev.to/yugandhar_dasari_93/unlocking-the-power-of-webassembly-bfl",
-          "pubDate": "Sun, 28 Apr 2024 05:10:58 +0000",
-          "dc:creator": "Yugandhar Dasari 👋🏻",
+          "creator": "Manu Muraleedharan",
+          "title": "AWS Detective",
+          "link": "https://dev.to/manumaan/aws-detective-3p1p",
+          "pubDate": "Mon, 29 Apr 2024 06:13:34 +0000",
+          "dc:creator": "Manu Muraleedharan",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/yugandhar_dasari_93/unlocking-the-power-of-webassembly-bfl",
+          "guid": "https://dev.to/manumaan/aws-detective-3p1p",
           "categories": [
-            "webassembly",
-            "javascript",
-            "performance",
-            "webdev"
+            "aws",
+            "detective",
+            "security"
           ],
-          "isoDate": "2024-04-28T05:10:58.000Z",
+          "isoDate": "2024-04-29T06:13:34.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ahmed Onour",
-          "title": "5 of the Best Free Coding Tutorials Out There",
-          "link": "https://dev.to/ahmed_onour/5-of-the-best-free-coding-tutorials-out-there-34ec",
-          "pubDate": "Sun, 28 Apr 2024 04:54:06 +0000",
-          "dc:creator": "Ahmed Onour",
+          "creator": "Vishu Kaur",
+          "title": "The Role of AI Code Reviews in Compliance and Coding Standards",
+          "link": "https://dev.to/coderabbitai/the-role-of-ai-code-reviews-in-compliance-and-coding-standards-28ib",
+          "pubDate": "Mon, 29 Apr 2024 06:11:30 +0000",
+          "dc:creator": "Vishu Kaur",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ahmed_onour/5-of-the-best-free-coding-tutorials-out-there-34ec",
-          "categories": [
-            "webdev",
-            "javascript",
-            "beginners",
-            "tutorial"
-          ],
-          "isoDate": "2024-04-28T04:54:06.000Z",
+          "guid": "https://dev.to/coderabbitai/the-role-of-ai-code-reviews-in-compliance-and-coding-standards-28ib",
+          "isoDate": "2024-04-29T06:11:30.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Abhinav Choudhary",
-          "title": "Crafting Your Own React Project: A Step-by-Step Guide for Frontend Developers",
-          "link": "https://dev.to/titaniummonk/crafting-your-own-react-project-a-step-by-step-guide-for-frontend-developers-1a0h",
-          "pubDate": "Sun, 28 Apr 2024 04:51:36 +0000",
-          "dc:creator": "Abhinav Choudhary",
+          "creator": "Bertha White",
+          "title": "Elevating Game Performance: Comprehensive Guide to Unity Game Testing",
+          "link": "https://dev.to/berthaw82414312/elevating-game-performance-comprehensive-guide-to-unity-game-testing-48bd",
+          "pubDate": "Mon, 29 Apr 2024 06:03:48 +0000",
+          "dc:creator": "Bertha White",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/titaniummonk/crafting-your-own-react-project-a-step-by-step-guide-for-frontend-developers-1a0h",
+          "guid": "https://dev.to/berthaw82414312/elevating-game-performance-comprehensive-guide-to-unity-game-testing-48bd",
           "categories": [
-            "react",
-            "bundler",
-            "parcel"
+            "gametesting",
+            "unittesting",
+            "unitygametesting",
+            "gametestingtools"
           ],
-          "isoDate": "2024-04-28T04:51:36.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Paritosh Chaudhari",
-          "title": "Exploring My Amazon Clone Project: A Journey via HTML and CSS",
-          "link": "https://dev.to/paritoshchaudhari/exploring-my-amazon-clone-project-a-journey-via-html-and-css-5fom",
-          "pubDate": "Sun, 28 Apr 2024 04:48:08 +0000",
-          "dc:creator": "Paritosh Chaudhari",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/paritoshchaudhari/exploring-my-amazon-clone-project-a-journey-via-html-and-css-5fom",
-          "categories": [
-            "beginners",
-            "webdev",
-            "learning",
-            "css"
-          ],
-          "isoDate": "2024-04-28T04:48:08.000Z",
+          "isoDate": "2024-04-29T06:03:48.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
