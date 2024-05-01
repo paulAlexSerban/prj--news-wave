@@ -394,13 +394,26 @@
       },
       "title": "Web Designer Depot",
       "description": "Web Design Resources and Tutorials",
-      "pubDate": "Mon, 29 Apr 2024 00:08:04 -0700",
+      "pubDate": "Wed, 01 May 2024 00:06:24 -0700",
       "link": "https://www.webdesignerdepot.com",
       "language": "en-us",
       "copyright": "Copyright Web Designer Depot, all rights reserved."
     },
     "Brad Frost": {
       "items": [
+        {
+          "title": "Don&#8217;t put crap in the design system",
+          "link": "https://bradfrost.com/blog/post/dont-put-crap-in-the-design-system/",
+          "pubDate": "2024-04-29T13:48:50.000Z",
+          "author": "Brad Frost",
+          "content": "",
+          "contentSnippet": "",
+          "summary": "",
+          "id": "https://bradfrost.com/?p=20042",
+          "isoDate": "2024-04-29T13:48:50.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": ""
+        },
         {
           "title": "Design Systems Smashing Magazine Discussion, April 2024",
           "link": "https://bradfrost.com/blog/link/design-systems-smashing-magazine-discussion-april-2024/",
@@ -452,25 +465,12 @@
           "isoDate": "2024-04-10T22:09:50.000Z",
           "content:encoded": "",
           "content:encodedSnippet": ""
-        },
-        {
-          "title": "The Value of Design Tokens in Modern Web Development &#124; Southleft, LLC",
-          "link": "https://bradfrost.com/blog/link/the-value-of-design-tokens-in-modern-web-development-southleft-llc/",
-          "pubDate": "2024-04-10T20:55:04.000Z",
-          "author": "Brad Frost",
-          "content": "",
-          "contentSnippet": "",
-          "summary": "",
-          "id": "https://bradfrost.com/?p=19922",
-          "isoDate": "2024-04-10T20:55:04.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": ""
         }
       ],
       "link": "https://bradfrost.com",
       "feedUrl": "https://bradfrost.com/feed/atom/",
       "title": "Brad Frost",
-      "lastBuildDate": "2024-04-25T13:27:52Z"
+      "lastBuildDate": "2024-04-29T18:43:40Z"
     },
     "Jonathan Suh": {
       "items": [
@@ -984,6 +984,30 @@
     "Go Make Things": {
       "items": [
         {
+          "title": "Web Component lifecycle methods",
+          "link": "https://gomakethings.com/the-web-component-lifecycle-methods/",
+          "pubDate": "Tue, 30 Apr 2024 10:30:00 -0400",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://gomakethings.com/the-web-component-lifecycle-methods/",
+          "isoDate": "2024-04-30T14:30:00.000Z",
+          "summary": ""
+        },
+        {
+          "title": "The different ways to instantiate a Web Component",
+          "link": "https://gomakethings.com/the-different-ways-to-instantiate-a-web-component/",
+          "pubDate": "Mon, 29 Apr 2024 10:30:00 -0400",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://gomakethings.com/the-different-ways-to-instantiate-a-web-component/",
+          "isoDate": "2024-04-29T14:30:00.000Z",
+          "summary": ""
+        },
+        {
           "title": "Progressively enhancing a Web Component",
           "link": "https://gomakethings.com/progressively-enhancing-a-web-component/",
           "pubDate": "Fri, 26 Apr 2024 10:30:00 -0400",
@@ -1018,30 +1042,6 @@
           "guid": "https://gomakethings.com/your-first-web-component/",
           "isoDate": "2024-04-23T14:30:00.000Z",
           "summary": ""
-        },
-        {
-          "title": "Will Web Components replace React and Vue?",
-          "link": "https://gomakethings.com/will-web-components-replace-react-and-vue/",
-          "pubDate": "Mon, 22 Apr 2024 10:30:00 -0400",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://gomakethings.com/will-web-components-replace-react-and-vue/",
-          "isoDate": "2024-04-22T14:30:00.000Z",
-          "summary": ""
-        },
-        {
-          "title": "The International Symposium on Making Websites Real Good",
-          "link": "https://gomakethings.com/the-international-symposium-on-making-websites-real-good/",
-          "pubDate": "Fri, 19 Apr 2024 10:30:00 -0400",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://gomakethings.com/the-international-symposium-on-making-websites-real-good/",
-          "isoDate": "2024-04-19T14:30:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://gomakethings.com/feed/index.xml",
@@ -1053,7 +1053,7 @@
       "generator": "Hugo -- gohugo.io",
       "link": "https://gomakethings.com/articles",
       "language": "en-us",
-      "lastBuildDate": "Mon, 29 Apr 2024 00:00:52 EST"
+      "lastBuildDate": "Wed, 01 May 2024 00:00:55 EST"
     }
   }
 }
