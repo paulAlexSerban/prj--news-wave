@@ -102,7 +102,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sat, 04 May 2024 05:02:13 GMT"
+      "lastBuildDate": "Sun, 05 May 2024 05:02:09 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -500,7 +500,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sat, 04 May 2024 06:35:25 GMT",
+      "lastBuildDate": "Sun, 05 May 2024 06:35:18 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -525,7 +525,7 @@
           "link": "https://tympanus.net/codrops/2024/05/02/model-texture-transition-and-procedural-radial-noise-using-webgl/",
           "pubDate": "Thu, 02 May 2024 10:22:21 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/04/noise-1.mp4?x53120",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/04/noise-1.mp4?x89705",
             "length": "1805575",
             "type": "video/mp4"
           },
@@ -550,7 +550,7 @@
           "link": "https://tympanus.net/codrops/2024/05/01/reaction-diffusion-compute-shader-in-webgpu/",
           "pubDate": "Wed, 01 May 2024 10:20:44 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/04/screenrecording.mp4?x53120",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/04/screenrecording.mp4?x89705",
             "length": "3889795",
             "type": "video/mp4"
           },
@@ -607,7 +607,7 @@
           "link": "https://tympanus.net/codrops/2024/04/28/recent-design-finds-compact-navigation/",
           "pubDate": "Sun, 28 Apr 2024 15:48:23 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/04/faubourg.mp4?x53120",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/04/faubourg.mp4?x89705",
             "length": "1091685",
             "type": "video/mp4"
           },
@@ -636,7 +636,7 @@
       "generator": "https://wordpress.org/?v=6.5.2",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Sat, 04 May 2024 06:37:04 +0000"
+      "lastBuildDate": "Sun, 05 May 2024 06:36:41 +0000"
     },
     "DZone": {
       "items": [
@@ -721,6 +721,66 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Pavel Sulimau",
+          "title": "Flutter: Choosing Mobile UI Tests Automation Tool",
+          "link": "https://itnext.io/flutter-choosing-ui-tests-automation-tool-1a42336b09d7?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 04 May 2024 21:33:59 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Pavel Sulimau",
+          "guid": "https://medium.com/p/1a42336b09d7",
+          "categories": [
+            "automation-testing",
+            "quality-assurance",
+            "flutter",
+            "ui-test-automation",
+            "mobile"
+          ],
+          "isoDate": "2024-05-04T21:33:59.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Tezov",
+          "title": "Compose, Animated sticky header",
+          "link": "https://itnext.io/compose-animated-sticky-header-56814f40c317?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 04 May 2024 21:32:50 GMT",
+          "dc:creator": "Tezov",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/56814f40c317",
+          "categories": [
+            "kotlin",
+            "jetpack-compose",
+            "android"
+          ],
+          "isoDate": "2024-05-04T21:32:50.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Igor Sorokin (srk1nn)",
+          "title": "A Coroutine Cheat Sheet",
+          "link": "https://itnext.io/a-coroutine-cheat-sheet-cdd31895264d?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 04 May 2024 21:31:17 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Igor Sorokin (srk1nn)",
+          "guid": "https://medium.com/p/cdd31895264d",
+          "categories": [
+            "software-development",
+            "concurrency",
+            "computer-science",
+            "programming"
+          ],
+          "isoDate": "2024-05-04T21:31:17.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Laurent Broudoux",
           "title": "Boost your API mocking workflow with Ollama and Microcks",
@@ -863,68 +923,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Šimon Tóth",
-          "title": "Daily bit(e) of C++ | Optimizing code to run 87x faster",
-          "link": "https://itnext.io/daily-bit-e-of-c-optimizing-code-to-run-87x-faster-7ef0b5bc64a1?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 30 Apr 2024 15:25:34 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Šimon Tóth",
-          "guid": "https://medium.com/p/7ef0b5bc64a1",
-          "categories": [
-            "software-development",
-            "performance",
-            "cpp",
-            "cplusplus",
-            "programming"
-          ],
-          "isoDate": "2024-04-30T15:25:34.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Giorgi Keratishvili",
-          "title": "How to Ace (KCSA) Kubernetes and Cloud Native Security Associate Exam",
-          "link": "https://itnext.io/how-to-ace-kcsa-kubernetes-and-cloud-native-security-associate-exam-c9fae3f5c6a1?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 29 Apr 2024 14:46:57 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Giorgi Keratishvili",
-          "guid": "https://medium.com/p/c9fae3f5c6a1",
-          "categories": [
-            "certification",
-            "security",
-            "kubernetes",
-            "containers"
-          ],
-          "isoDate": "2024-04-29T14:46:57.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Abhishek Gupta",
-          "title": "How to use Retrieval Augmented Generation (RAG) for Go applications",
-          "link": "https://itnext.io/how-to-use-retrieval-augmented-generation-rag-for-go-applications-236469b3bd3d?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 29 Apr 2024 06:56:25 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Abhishek Gupta",
-          "guid": "https://medium.com/p/236469b3bd3d",
-          "categories": [
-            "docker",
-            "database",
-            "go",
-            "langchain",
-            "machine-learning"
-          ],
-          "isoDate": "2024-04-29T06:56:25.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -941,195 +939,196 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sat, 04 May 2024 06:55:24 GMT"
+      "lastBuildDate": "Sun, 05 May 2024 06:58:39 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "brett jhonson",
-          "title": "Best Practices for Setting Up Bulk Email SMTP Server",
-          "link": "https://dev.to/brettjhonson01/best-practices-for-setting-up-bulk-email-smtp-server-2pkp",
-          "pubDate": "Sat, 04 May 2024 07:02:14 +0000",
-          "dc:creator": "brett jhonson",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/brettjhonson01/best-practices-for-setting-up-bulk-email-smtp-server-2pkp",
-          "categories": [
-            "smtp",
-            "email",
-            "smtpserver",
-            "programming"
-          ],
-          "isoDate": "2024-05-04T07:02:14.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
           "creator": "dev.to staff",
-          "title": "Spill the Space Tea on Your Star Wars Faves 🌌🍵",
-          "link": "https://dev.to/devteam/spill-the-space-tea-on-your-star-wars-faves-7fi",
-          "pubDate": "Sat, 04 May 2024 07:00:00 +0000",
+          "title": "What Guided Your DEV Path?",
+          "link": "https://dev.to/devteam/what-guided-your-dev-path-4h9o",
+          "pubDate": "Sun, 05 May 2024 07:00:00 +0000",
           "dc:creator": "dev.to staff",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devteam/spill-the-space-tea-on-your-star-wars-faves-7fi",
+          "guid": "https://dev.to/devteam/what-guided-your-dev-path-4h9o",
           "categories": [
             "discuss",
-            "watercooler"
+            "career"
           ],
-          "isoDate": "2024-05-04T07:00:00.000Z",
+          "isoDate": "2024-05-05T07:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Christophe Colombier",
-          "title": "Git commit helper: add emojis to your commits",
-          "link": "https://dev.to/ccoveille/git-commit-helper-add-emojis-to-your-commits-1aka",
-          "pubDate": "Sat, 04 May 2024 06:49:39 +0000",
-          "dc:creator": "Christophe Colombier",
+          "creator": "Corbin Taylor",
+          "title": "Long Time, No See.",
+          "link": "https://dev.to/cjtaylor1990/long-time-no-see-6h9",
+          "pubDate": "Sun, 05 May 2024 06:29:46 +0000",
+          "dc:creator": "Corbin Taylor",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ccoveille/git-commit-helper-add-emojis-to-your-commits-1aka",
+          "guid": "https://dev.to/cjtaylor1990/long-time-no-see-6h9",
           "categories": [
-            "git",
-            "tutorial",
-            "beginners",
-            "tooling"
+            "update",
+            "life",
+            "career"
           ],
-          "isoDate": "2024-05-04T06:49:39.000Z",
+          "isoDate": "2024-05-05T06:29:46.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Oludayo Adeoye",
-          "title": "Securing Data with Java Encryption",
-          "link": "https://dev.to/dbillion/securing-data-with-java-encryption-3kjl",
-          "pubDate": "Sat, 04 May 2024 06:36:55 +0000",
-          "dc:creator": "Oludayo Adeoye",
+          "creator": "Karthikeyan ",
+          "title": "Netlify Dynamic Site Challenge Submission: Dynamic Image Gallery with Netlify Image CDN Visual Feast",
+          "link": "https://dev.to/karthik_n/netlify-dynamic-site-challenge-submission-dynamic-image-gallery-with-netlify-image-cdn-visual-feast-34b4",
+          "pubDate": "Sun, 05 May 2024 06:18:17 +0000",
+          "dc:creator": "Karthikeyan ",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/dbillion/securing-data-with-java-encryption-3kjl",
+          "guid": "https://dev.to/karthik_n/netlify-dynamic-site-challenge-submission-dynamic-image-gallery-with-netlify-image-cdn-visual-feast-34b4",
           "categories": [
-            "java"
-          ],
-          "isoDate": "2024-05-04T06:36:55.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Bipin Rajbhar",
-          "title": "Lazy Loading Components In React",
-          "link": "https://dev.to/bipinrajbhar/lazy-loading-components-in-react-3g25",
-          "pubDate": "Sat, 04 May 2024 06:34:02 +0000",
-          "dc:creator": "Bipin Rajbhar",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/bipinrajbhar/lazy-loading-components-in-react-3g25",
-          "categories": [
+            "netlifychallenge",
+            "devchallenge",
             "webdev",
-            "react",
-            "javascript",
-            "programming"
+            "javascript"
           ],
-          "isoDate": "2024-05-04T06:34:02.000Z",
+          "isoDate": "2024-05-05T06:18:17.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ángel Quiroz",
-          "title": "Installing Multiple Versions of PHP on Ubuntu, Debian (also WSL).",
-          "link": "https://dev.to/angelalexqc/installing-multiple-versions-of-php-on-ubuntu-debian-also-wsl-5hjp",
-          "pubDate": "Sat, 04 May 2024 06:30:49 +0000",
-          "dc:creator": "Ángel Quiroz",
+          "creator": "chemisax",
+          "title": "¿Cómo guarda Laravel la cookie de sesión y csrf?",
+          "link": "https://dev.to/chemisax/como-guarda-laravel-la-cookie-de-sesion-y-csrf-3p17",
+          "pubDate": "Sun, 05 May 2024 06:17:22 +0000",
+          "dc:creator": "chemisax",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/angelalexqc/installing-multiple-versions-of-php-on-ubuntu-debian-also-wsl-5hjp",
-          "isoDate": "2024-05-04T06:30:49.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nhan Lam",
-          "title": "Features, future-proof and interoperable in TiniJS apps",
-          "link": "https://dev.to/lamnhan/features-future-proof-and-interoperable-in-tinijs-apps-48dh",
-          "pubDate": "Sat, 04 May 2024 06:27:23 +0000",
-          "dc:creator": "Nhan Lam",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/lamnhan/features-future-proof-and-interoperable-in-tinijs-apps-48dh",
+          "guid": "https://dev.to/chemisax/como-guarda-laravel-la-cookie-de-sesion-y-csrf-3p17",
           "categories": [
-            "javascript",
-            "lit",
-            "webcomponents",
+            "laravel",
+            "php"
+          ],
+          "isoDate": "2024-05-05T06:17:22.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "S M AL RABBI",
+          "title": "Top 20 React.JS interview questions.",
+          "link": "https://dev.to/smalrabbi/top-20-reactjs-interview-questions-ck9",
+          "pubDate": "Sun, 05 May 2024 06:14:54 +0000",
+          "dc:creator": "S M AL RABBI",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/smalrabbi/top-20-reactjs-interview-questions-ck9",
+          "categories": [
+            "react",
+            "nextjs"
+          ],
+          "isoDate": "2024-05-05T06:14:54.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "jogelin",
+          "title": "👥 Reproducible Nx Workspace with HugeNx’s Conventions",
+          "link": "https://dev.to/jogelin/reproducible-nx-workspace-with-hugenxs-conventions-8hm",
+          "pubDate": "Sun, 05 May 2024 06:13:02 +0000",
+          "dc:creator": "jogelin",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/jogelin/reproducible-nx-workspace-with-hugenxs-conventions-8hm",
+          "categories": [
+            "nx",
+            "angular",
+            "react",
+            "javascript"
+          ],
+          "isoDate": "2024-05-05T06:13:02.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sotiris Kourouklis",
+          "title": "Why Choose ULIDs Over Traditional UUIDs or IDs for Database Identification?",
+          "link": "https://dev.to/sotergreco/why-choose-ulids-over-traditional-uuids-or-ids-for-database-identification-dib",
+          "pubDate": "Sun, 05 May 2024 06:12:18 +0000",
+          "dc:creator": "Sotiris Kourouklis",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/sotergreco/why-choose-ulids-over-traditional-uuids-or-ids-for-database-identification-dib",
+          "categories": [
+            "database",
             "webdev"
           ],
-          "isoDate": "2024-05-04T06:27:23.000Z",
+          "isoDate": "2024-05-05T06:12:18.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Aleksander Wons",
-          "title": "Symfony 7 vs. .NET 8 - same-same but different?",
-          "link": "https://dev.to/awons/symfony-7-vs-net-8-same-same-but-different-9ob",
-          "pubDate": "Sat, 04 May 2024 06:16:20 +0000",
-          "dc:creator": "Aleksander Wons",
+          "creator": "Aadarsh Nagrath",
+          "title": "Simplifying Form Validation with Zod and React Hook Form",
+          "link": "https://dev.to/aadarsh-nagrath/simplifying-form-validation-with-zod-and-react-hook-form-24ba",
+          "pubDate": "Sun, 05 May 2024 05:57:18 +0000",
+          "dc:creator": "Aadarsh Nagrath",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/awons/symfony-7-vs-net-8-same-same-but-different-9ob",
+          "guid": "https://dev.to/aadarsh-nagrath/simplifying-form-validation-with-zod-and-react-hook-form-24ba",
           "categories": [
-            "php",
-            "dotnet",
-            "api",
-            "eventdriven"
+            "webdev",
+            "javascript",
+            "programming",
+            "tutorial"
           ],
-          "isoDate": "2024-05-04T06:16:20.000Z",
+          "isoDate": "2024-05-05T05:57:18.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Subhradeep Saha",
-          "title": "Solving a Leetcode problem daily - Day 1 | Pascal’s Triangle",
-          "link": "https://dev.to/subhradeep__saha/solving-a-leetcode-problem-daily-day-1-pascals-triangle-39d1",
-          "pubDate": "Sat, 04 May 2024 06:04:54 +0000",
-          "dc:creator": "Subhradeep Saha",
+          "creator": "Muhammad Haris Ahsan",
+          "title": "⚛️ Folder Structures in React Projects",
+          "link": "https://dev.to/harismughal_2403/folder-structures-in-react-projects-5gfn",
+          "pubDate": "Sun, 05 May 2024 05:54:15 +0000",
+          "dc:creator": "Muhammad Haris Ahsan",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/subhradeep__saha/solving-a-leetcode-problem-daily-day-1-pascals-triangle-39d1",
+          "guid": "https://dev.to/harismughal_2403/folder-structures-in-react-projects-5gfn",
           "categories": [
-            "beginners",
-            "cpp",
-            "leetcode",
-            "pascaltriangle"
+            "react",
+            "webdev",
+            "javascript",
+            "typescript"
           ],
-          "isoDate": "2024-05-04T06:04:54.000Z",
+          "isoDate": "2024-05-05T05:54:15.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ambassador",
-          "title": "Deploying Your First Application on Kubernetes: Step-by-Step Tutorial",
-          "link": "https://dev.to/getambassador2024/deploying-your-first-application-on-kubernetes-step-by-step-tutorial-jb0",
-          "pubDate": "Sat, 04 May 2024 06:00:00 +0000",
-          "dc:creator": "Ambassador",
+          "creator": "Jagadeesh K",
+          "title": "Navigating Unfamiliar Territory: Overcoming Challenges in a New Codebase",
+          "link": "https://dev.to/jagadeesh-k/navigating-unfamiliar-territory-overcoming-challenges-in-a-new-codebase-5bbb",
+          "pubDate": "Sun, 05 May 2024 05:44:02 +0000",
+          "dc:creator": "Jagadeesh K",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/getambassador2024/deploying-your-first-application-on-kubernetes-step-by-step-tutorial-jb0",
+          "guid": "https://dev.to/jagadeesh-k/navigating-unfamiliar-territory-overcoming-challenges-in-a-new-codebase-5bbb",
           "categories": [
-            "kubernetes",
-            "k8s",
-            "deployment",
-            "developers"
+            "development",
+            "software",
+            "programming"
           ],
-          "isoDate": "2024-05-04T06:00:00.000Z",
+          "isoDate": "2024-05-05T05:44:02.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
