@@ -394,7 +394,7 @@
       },
       "title": "Web Designer Depot",
       "description": "Web Design Resources and Tutorials",
-      "pubDate": "Sun, 05 May 2024 00:06:28 -0700",
+      "pubDate": "Tue, 07 May 2024 00:15:52 -0700",
       "link": "https://www.webdesignerdepot.com",
       "language": "en-us",
       "copyright": "Copyright Web Designer Depot, all rights reserved."
@@ -618,6 +618,18 @@
     "Dave Rupert": {
       "items": [
         {
+          "title": "A quick light-dark() experiment",
+          "link": "https://daverupert.com/2024/05/light-dark-experiment/",
+          "pubDate": "Sun, 05 May 2024 15:27:00 +0000",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://daverupert.com/2024/05/light-dark-experiment/",
+          "isoDate": "2024-05-05T15:27:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "Vibe Check №32",
           "link": "https://daverupert.com/2024/05/vibe-check-32/",
           "pubDate": "Sun, 05 May 2024 03:56:00 +0000",
@@ -661,18 +673,6 @@
           "contentSnippet": "",
           "guid": "https://daverupert.com/2024/04/download-our-native-app/",
           "isoDate": "2024-04-10T21:56:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "A weighted vest",
-          "link": "https://daverupert.com/2024/04/a-weighted-vest/",
-          "pubDate": "Wed, 10 Apr 2024 18:51:00 +0000",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://daverupert.com/2024/04/a-weighted-vest/",
-          "isoDate": "2024-04-10T18:51:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -899,6 +899,23 @@
     "Zell Wel": {
       "items": [
         {
+          "title": "Collecting Payments with Stripe while using Astro",
+          "link": "https://zellwk.com/blog/stripe-astro-recipe/",
+          "pubDate": "Mon, 06 May 2024 00:00:00 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://zellwk.com/blog/stripe-astro-recipe/",
+          "categories": [
+            "Stripe",
+            "Astro",
+            "Astro recipe"
+          ],
+          "isoDate": "2024-05-06T00:00:00.000Z",
+          "summary": ""
+        },
+        {
           "title": "Easy way to remove inline styles",
           "link": "https://zellwk.com/blog/remove-inline-styles/",
           "pubDate": "Wed, 17 Apr 2024 00:00:00 GMT",
@@ -960,21 +977,6 @@
           ],
           "isoDate": "2024-03-29T00:00:00.000Z",
           "summary": ""
-        },
-        {
-          "title": "No more waiting",
-          "link": "https://zellwk.com/blog/no-more-waiting/",
-          "pubDate": "Fri, 29 Mar 2024 00:00:00 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://zellwk.com/blog/no-more-waiting/",
-          "categories": [
-            "Musings"
-          ],
-          "isoDate": "2024-03-29T00:00:00.000Z",
-          "summary": ""
         }
       ],
       "title": "Zell Liew",
@@ -983,6 +985,18 @@
     },
     "Go Make Things": {
       "items": [
+        {
+          "title": "Learn all about Web Components with me",
+          "link": "https://gomakethings.com/learn-all-about-web-components-with-me/",
+          "pubDate": "Mon, 06 May 2024 10:30:00 -0400",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://gomakethings.com/learn-all-about-web-components-with-me/",
+          "isoDate": "2024-05-06T14:30:00.000Z",
+          "summary": ""
+        },
         {
           "title": "How to get different Web Components to talk to each other (part 2)",
           "link": "https://gomakethings.com/how-to-get-different-web-components-to-talk-to-each-other-part-2/",
@@ -1030,18 +1044,6 @@
           "guid": "https://gomakethings.com/the-web-component-lifecycle-methods/",
           "isoDate": "2024-04-30T14:30:00.000Z",
           "summary": ""
-        },
-        {
-          "title": "The different ways to instantiate a Web Component",
-          "link": "https://gomakethings.com/the-different-ways-to-instantiate-a-web-component/",
-          "pubDate": "Mon, 29 Apr 2024 10:30:00 -0400",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://gomakethings.com/the-different-ways-to-instantiate-a-web-component/",
-          "isoDate": "2024-04-29T14:30:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://gomakethings.com/feed/index.xml",
@@ -1053,7 +1055,7 @@
       "generator": "Hugo -- gohugo.io",
       "link": "https://gomakethings.com/articles",
       "language": "en-us",
-      "lastBuildDate": "Sun, 05 May 2024 00:01:08 EST"
+      "lastBuildDate": "Tue, 07 May 2024 00:01:03 EST"
     }
   }
 }
