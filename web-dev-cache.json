@@ -4,6 +4,25 @@
     "SitePoint": {
       "items": [
         {
+          "creator": "Vultr",
+          "title": "How to Deploy Apache Airflow on Vultr Using Anaconda",
+          "link": "https://www.sitepoint.com/deploy-apache-airflow-vultr-anaconda/?utm_source=rss",
+          "pubDate": "Tue, 14 May 2024 17:00:33 GMT",
+          "dc:creator": "Vultr",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "/?p=480472",
+          "categories": [
+            "Databases",
+            "Programming",
+            "Web"
+          ],
+          "isoDate": "2024-05-14T17:00:33.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Dave Neary, Aaron Williams",
           "title": "Cloud Native: How Ampere Is Improving Nightly Arm64 Builds",
           "link": "https://www.sitepoint.com/cloud-native-how-ampere-is-improving-nightly-arm64-builds/?utm_source=rss",
@@ -74,24 +93,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Daine Mawer",
-          "title": "Creating Fluid Typography with the CSS clamp() Function",
-          "link": "https://www.sitepoint.com/fluid-typography-css-clamp-function/?utm_source=rss",
-          "pubDate": "Mon, 22 Apr 2024 20:00:43 GMT",
-          "dc:creator": "Daine Mawer",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "/?p=480373",
-          "categories": [
-            "CSS",
-            "HTML & CSS"
-          ],
-          "isoDate": "2024-04-22T20:00:43.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.sitepoint.com/sitepoint.rss",
@@ -102,7 +103,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Wed, 15 May 2024 05:02:05 GMT"
+      "lastBuildDate": "Thu, 16 May 2024 05:02:13 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -199,26 +200,6 @@
             "GitHub Copilot"
           ],
           "isoDate": "2024-05-09T16:00:24.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "Cynthia Lo",
-          "title": "Just launched: Second cohort of the DPG Open Source Community Manager Program!",
-          "link": "https://github.blog/2024-05-08-just-launched-second-cohort-of-the-dpg-open-source-community-manager-program/",
-          "pubDate": "Wed, 08 May 2024 16:07:23 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Cynthia Lo",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=77950",
-          "categories": [
-            "Community",
-            "digital public goods",
-            "open source",
-            "social impact"
-          ],
-          "isoDate": "2024-05-08T16:07:23.000Z",
           "summary": ""
         }
       ],
@@ -329,6 +310,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Chris Day)",
+          "title": "Transforming The Relationship Between Designers And Developers",
+          "link": "https://smashingmagazine.com/2024/05/transforming-relationship-between-designers-developers/",
+          "pubDate": "Wed, 15 May 2024 10:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Chris Day)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/transforming-relationship-between-designers-developers/transforming-relationship-between-designers-developers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/05/transforming-relationship-between-designers-developers/",
+          "isoDate": "2024-05-15T10:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Vitaly Friedman)",
           "title": "Why Designers Aren’t Understood",
           "link": "https://smashingmagazine.com/2024/05/designers-business-ux-language/",
@@ -403,25 +403,6 @@
           "guid": "https://smashingmagazine.com/2024/05/forensics-react-server-components/",
           "isoDate": "2024-05-09T13:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "title": "How To Run UX Research Without Access To Users",
-          "link": "https://smashingmagazine.com/2024/05/how-run-ux-research-without-access-users/",
-          "pubDate": "Tue, 07 May 2024 12:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-run-ux-research-without-access-users/how-run-ux-research-without-access-users.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/05/how-run-ux-research-without-access-users/",
-          "isoDate": "2024-05-07T12:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -439,11 +420,36 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Wed, 15 May 2024 06:36:51 GMT",
+      "lastBuildDate": "Thu, 16 May 2024 07:03:10 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "UI Interactions & Animations Roundup #43",
+          "link": "https://tympanus.net/codrops/2024/05/15/ui-interactions-animations-roundup-43/",
+          "pubDate": "Wed, 15 May 2024 10:53:52 +0000",
+          "enclosure": {
+            "url": "https://cdn.dribbble.com/userupload/14545137/file/original-265ac69d17bfac8dd3243e400a9a37a6.mp4",
+            "length": "5872553",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=77673",
+          "categories": [
+            "UI Interactions and Animations Roundups",
+            "inspiration",
+            "motion-design",
+            "roundup"
+          ],
+          "isoDate": "2024-05-15T10:53:52.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Manoela Ilic",
           "title": "Collective #838",
@@ -500,7 +506,7 @@
           "link": "https://tympanus.net/codrops/2024/05/13/design-finds-creative-slideshows/",
           "pubDate": "Mon, 13 May 2024 12:56:30 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/05/anaiwood-details-slideshow.mp4?x89705",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/05/anaiwood-details-slideshow.mp4?x82873",
             "length": "442092",
             "type": "video/mp4"
           },
@@ -549,31 +555,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Nine",
-          "title": "Exploring a 3D Text Distortion Effect With React Three Fiber",
-          "link": "https://tympanus.net/codrops/2024/05/08/exploring-a-3d-text-distortion-effect-with-react-three-fiber/",
-          "pubDate": "Wed, 08 May 2024 14:20:08 +0000",
-          "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/05/Screen-Recording-2024-05-07-at-16.59.22.mp4?x89705",
-            "length": "842769",
-            "type": "video/mp4"
-          },
-          "dc:creator": "Nine",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=76947",
-          "categories": [
-            "Tutorials",
-            "3d",
-            "react-three-fiber",
-            "webgl"
-          ],
-          "isoDate": "2024-05-08T14:20:08.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -585,7 +566,7 @@
       "generator": "https://wordpress.org/?v=6.5.3",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Tue, 14 May 2024 11:55:07 +0000"
+      "lastBuildDate": "Wed, 15 May 2024 10:53:56 +0000"
     },
     "DZone": {
       "items": [
@@ -670,6 +651,68 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Sylvain Witmeyer",
+          "title": "Mastering FinOps: 10 Expert Tips for Maximizing Your AWS Cost Efficiency",
+          "link": "https://itnext.io/mastering-finops-10-expert-tips-for-maximizing-your-aws-cost-efficiency-bfed07f01033?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 15 May 2024 17:30:53 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Sylvain Witmeyer",
+          "guid": "https://medium.com/p/bfed07f01033",
+          "categories": [
+            "finops",
+            "cost-optimization",
+            "aws",
+            "cost-saving-tips",
+            "cost-savings"
+          ],
+          "isoDate": "2024-05-15T17:30:53.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Param Rajani",
+          "title": "Building a Production Grade Workflow Orchestrator with Celery",
+          "link": "https://itnext.io/building-a-production-grade-workflow-orchestrator-with-celery-ad2d48aa054d?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 15 May 2024 15:53:07 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Param Rajani",
+          "guid": "https://medium.com/p/ad2d48aa054d",
+          "categories": [
+            "software-development",
+            "software-architecture",
+            "kubernetes",
+            "data-engineering",
+            "microservices"
+          ],
+          "isoDate": "2024-05-15T15:53:07.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Hrishikesh Pathak",
+          "title": "Authenticate and verify age of a user in your Next.js application",
+          "link": "https://itnext.io/authenticate-and-verify-age-of-a-user-in-your-next-js-application-f4199eef5ada?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 15 May 2024 12:08:17 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Hrishikesh Pathak",
+          "guid": "https://medium.com/p/f4199eef5ada",
+          "categories": [
+            "nextjs",
+            "auth",
+            "javscript",
+            "ai"
+          ],
+          "isoDate": "2024-05-15T12:08:17.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Santosh Pai",
           "title": "Logging and Admin Processes — The Final Pillars of 12-factor Microservices",
@@ -814,69 +857,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Antim Prisăcaru",
-          "title": "Architecting Angular: Part 2 — Querying and Managing State with NgRx SignalStore",
-          "link": "https://itnext.io/architecting-angular-part-2-querying-and-managing-state-with-ngrx-signalstore-1c931ad309c4?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 13 May 2024 11:24:05 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Antim Prisăcaru",
-          "guid": "https://medium.com/p/1c931ad309c4",
-          "categories": [
-            "state-management",
-            "angular",
-            "front-end-development",
-            "signal",
-            "ngrx"
-          ],
-          "isoDate": "2024-05-13T11:24:05.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Antim Prisăcaru",
-          "title": "Architecting Angular: Part 1 — GraphQL with Apollo Client",
-          "link": "https://itnext.io/architecting-angular-part-1-graphql-with-apollo-client-bcf2f1b888a8?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 13 May 2024 11:23:01 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Antim Prisăcaru",
-          "guid": "https://medium.com/p/bcf2f1b888a8",
-          "categories": [
-            "graphql",
-            "apollo",
-            "software-development",
-            "angular",
-            "typescript"
-          ],
-          "isoDate": "2024-05-13T11:23:01.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Saeed Zarinfam",
-          "title": "True Test Coverage with Tracing",
-          "link": "https://itnext.io/true-test-coverage-with-tracing-af0a5fee1ded?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sun, 12 May 2024 21:01:03 GMT",
-          "dc:creator": "Saeed Zarinfam",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/af0a5fee1ded",
-          "categories": [
-            "java",
-            "digma",
-            "test-coverage",
-            "spring-boot",
-            "tracing"
-          ],
-          "isoDate": "2024-05-12T21:01:03.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -893,202 +873,194 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Wed, 15 May 2024 07:11:18 GMT"
+      "lastBuildDate": "Thu, 16 May 2024 07:01:12 GMT"
     },
     "DEV Community": {
       "items": [
         {
+          "creator": "Florian M.",
+          "title": "Building Safe Communities with AI-powered Content Moderation",
+          "link": "https://dev.to/exoapi/building-safe-communities-with-ai-powered-content-moderation-5e2k",
+          "pubDate": "Thu, 16 May 2024 07:00:00 +0000",
+          "dc:creator": "Florian M.",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/exoapi/building-safe-communities-with-ai-powered-content-moderation-5e2k",
+          "categories": [
+            "ai",
+            "javascript",
+            "developer",
+            "tutorial"
+          ],
+          "isoDate": "2024-05-16T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "DbVisualizer",
+          "title": "Database Drivers: What You Need to Know",
+          "link": "https://dev.to/dbvismarketing/database-drivers-what-you-need-to-know-f1j",
+          "pubDate": "Thu, 16 May 2024 07:00:00 +0000",
+          "dc:creator": "DbVisualizer",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/dbvismarketing/database-drivers-what-you-need-to-know-f1j",
+          "isoDate": "2024-05-16T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "dev.to staff",
-          "title": "Mental Burnout: Can We Beat It?",
-          "link": "https://dev.to/devteam/mental-burnout-can-we-beat-it-2k2o",
-          "pubDate": "Wed, 15 May 2024 07:00:00 +0000",
+          "title": "Is Life without Screens Possible?",
+          "link": "https://dev.to/devteam/is-life-without-screens-possible-5fb1",
+          "pubDate": "Thu, 16 May 2024 07:00:00 +0000",
           "dc:creator": "dev.to staff",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devteam/mental-burnout-can-we-beat-it-2k2o",
+          "guid": "https://dev.to/devteam/is-life-without-screens-possible-5fb1",
           "categories": [
             "discuss"
           ],
-          "isoDate": "2024-05-15T07:00:00.000Z",
+          "isoDate": "2024-05-16T07:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Rishi Kumar",
-          "title": "Why I moved from CloudWatch to Errsole!",
-          "link": "https://dev.to/mrrishimeena/why-i-moved-from-cloudwatch-to-errsole-769",
-          "pubDate": "Wed, 15 May 2024 06:39:19 +0000",
-          "dc:creator": "Rishi Kumar",
+          "creator": "Tijani Sodiq Olamide",
+          "title": "Understanding Consensus Algorithms In Blockchain",
+          "link": "https://dev.to/syntheticwizard2244/understanding-consensus-algorithms-in-blockchain-48mn",
+          "pubDate": "Thu, 16 May 2024 06:56:11 +0000",
+          "dc:creator": "Tijani Sodiq Olamide",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/mrrishimeena/why-i-moved-from-cloudwatch-to-errsole-769",
+          "guid": "https://dev.to/syntheticwizard2244/understanding-consensus-algorithms-in-blockchain-48mn",
           "categories": [
-            "opensource",
-            "javascript",
             "devops",
-            "aws"
+            "learning",
+            "database",
+            "machinelearning"
           ],
-          "isoDate": "2024-05-15T06:39:19.000Z",
+          "isoDate": "2024-05-16T06:56:11.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Oliver Li",
-          "title": "Java Code Change Impact Analysis",
-          "link": "https://dev.to/oliver_li/java-code-change-impact-analysis-3i64",
-          "pubDate": "Wed, 15 May 2024 06:36:12 +0000",
-          "dc:creator": "Oliver Li",
+          "creator": "Anurag Affection",
+          "title": "Simple Project Setup in Go",
+          "link": "https://dev.to/anuragaffection/simple-project-setup-in-go-43en",
+          "pubDate": "Thu, 16 May 2024 06:56:02 +0000",
+          "dc:creator": "Anurag Affection",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/oliver_li/java-code-change-impact-analysis-3i64",
+          "guid": "https://dev.to/anuragaffection/simple-project-setup-in-go-43en",
           "categories": [
-            "opensource",
-            "testing",
+            "go"
+          ],
+          "isoDate": "2024-05-16T06:56:02.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Alysa ",
+          "title": "Find First and Last Position of Element in Sorted Array | LeetCode | Java",
+          "link": "https://dev.to/tanujav/find-first-and-last-position-of-element-in-sorted-array-leetcode-java-1aaj",
+          "pubDate": "Thu, 16 May 2024 06:50:53 +0000",
+          "dc:creator": "Alysa ",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/tanujav/find-first-and-last-position-of-element-in-sorted-array-leetcode-java-1aaj",
+          "categories": [
+            "leetcode",
             "java",
-            "python"
+            "binarysearch",
+            "algorithms"
           ],
-          "isoDate": "2024-05-15T06:36:12.000Z",
+          "isoDate": "2024-05-16T06:50:53.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "JT Dev",
-          "title": "8-Step Sales Process in 5 min",
-          "link": "https://dev.to/jetthoughts/8-step-sales-process-in-5-min-581g",
-          "pubDate": "Wed, 15 May 2024 06:34:53 +0000",
-          "dc:creator": "JT Dev",
+          "creator": "Sakib Bin Kamal",
+          "title": "Mastering the job hunting strategy: Tips for aspiring developers.",
+          "link": "https://dev.to/terrancoder/mastering-the-job-hunting-strategy-tips-for-aspiring-developers-5b7m",
+          "pubDate": "Thu, 16 May 2024 06:39:34 +0000",
+          "dc:creator": "Sakib Bin Kamal",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/jetthoughts/8-step-sales-process-in-5-min-581g",
+          "guid": "https://dev.to/terrancoder/mastering-the-job-hunting-strategy-tips-for-aspiring-developers-5b7m",
           "categories": [
-            "sales",
-            "productivity",
-            "checklist"
-          ],
-          "isoDate": "2024-05-15T06:34:53.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Incerro ",
-          "title": "Frontend Web Security - Protecting Against Common Threats",
-          "link": "https://dev.to/incerro111/frontend-web-security-protecting-against-common-threats-4kb4",
-          "pubDate": "Wed, 15 May 2024 06:33:03 +0000",
-          "dc:creator": "Incerro ",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/incerro111/frontend-web-security-protecting-against-common-threats-4kb4",
-          "categories": [
-            "javascript",
-            "frontend",
-            "security",
-            "webdev"
-          ],
-          "isoDate": "2024-05-15T06:33:03.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Olatunji Ayodele Abidemi",
-          "title": "How to create an Artificial Intelligence - powered antivirus for mobile applications",
-          "link": "https://dev.to/olatunjiayodel9/how-to-create-an-artificial-intelligence-powered-antivirus-for-mobile-applications-688",
-          "pubDate": "Wed, 15 May 2024 06:30:26 +0000",
-          "dc:creator": "Olatunji Ayodele Abidemi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/olatunjiayodel9/how-to-create-an-artificial-intelligence-powered-antivirus-for-mobile-applications-688",
-          "categories": [
-            "tutorial",
-            "python",
-            "ai",
-            "learning"
-          ],
-          "isoDate": "2024-05-15T06:30:26.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "JT Dev",
-          "title": "How does the onboarding look like in JetThoughts?",
-          "link": "https://dev.to/jetthoughts/how-does-the-onboarding-look-like-in-jetthoughts-21ld",
-          "pubDate": "Wed, 15 May 2024 06:29:41 +0000",
-          "dc:creator": "JT Dev",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/jetthoughts/how-does-the-onboarding-look-like-in-jetthoughts-21ld",
-          "categories": [
-            "productivity",
-            "startup",
-            "remote",
-            "onboarding"
-          ],
-          "isoDate": "2024-05-15T06:29:41.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "antd-ts-admin",
-          "title": "how to use i18n in ant design pro project",
-          "link": "https://dev.to/antd-ts-admin-pro/how-to-use-i18n-in-ant-design-pro-project-apo",
-          "pubDate": "Wed, 15 May 2024 06:24:42 +0000",
-          "dc:creator": "antd-ts-admin",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/antd-ts-admin-pro/how-to-use-i18n-in-ant-design-pro-project-apo",
-          "categories": [
-            "react",
-            "javascript",
             "beginners",
+            "productivity",
+            "learning",
+            "career"
+          ],
+          "isoDate": "2024-05-16T06:39:34.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sakib Bin Kamal",
+          "title": "Effective living for better coding, Successful Career Change and landing a job",
+          "link": "https://dev.to/terrancoder/effective-living-for-better-coding-successful-career-change-and-landing-a-job-k1g",
+          "pubDate": "Thu, 16 May 2024 06:33:07 +0000",
+          "dc:creator": "Sakib Bin Kamal",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/terrancoder/effective-living-for-better-coding-successful-career-change-and-landing-a-job-k1g",
+          "categories": [
+            "beginners",
+            "productivity",
+            "learning",
+            "career"
+          ],
+          "isoDate": "2024-05-16T06:33:07.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Onumaku Chibuike Victory ",
+          "title": "Unlock your career in data analytics 2024",
+          "link": "https://dev.to/onumaku_bobby/unlock-your-career-in-data-analytics-2024-2ij8",
+          "pubDate": "Thu, 16 May 2024 06:32:28 +0000",
+          "dc:creator": "Onumaku Chibuike Victory ",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/onumaku_bobby/unlock-your-career-in-data-analytics-2024-2ij8",
+          "categories": [
+            "database",
+            "sql",
+            "python",
             "programming"
           ],
-          "isoDate": "2024-05-15T06:24:42.000Z",
+          "isoDate": "2024-05-16T06:32:28.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Zorian",
-          "title": "8 Influential Software Development Technologies for Developers in 2024 and Beyond",
-          "link": "https://dev.to/zorian/7-influential-software-development-technologies-for-developers-in-2024-and-beyond-2bc9",
-          "pubDate": "Wed, 15 May 2024 06:16:29 +0000",
-          "dc:creator": "Zorian",
+          "creator": "Robiul",
+          "title": "Did Kafka Just Get Easier?",
+          "link": "https://dev.to/robiulman/did-kafka-just-get-easier-4hm4",
+          "pubDate": "Thu, 16 May 2024 06:23:09 +0000",
+          "dc:creator": "Robiul",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/zorian/7-influential-software-development-technologies-for-developers-in-2024-and-beyond-2bc9",
+          "guid": "https://dev.to/robiulman/did-kafka-just-get-easier-4hm4",
           "categories": [
+            "kafka",
             "webdev",
-            "softwaredevelopment",
-            "techtrends",
-            "technologies"
+            "backend",
+            "devops"
           ],
-          "isoDate": "2024-05-15T06:16:29.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "JT Dev",
-          "title": "React Native Testing Options Overview",
-          "link": "https://dev.to/jetthoughts/react-native-testing-options-overview-5fna",
-          "pubDate": "Wed, 15 May 2024 06:05:36 +0000",
-          "dc:creator": "JT Dev",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/jetthoughts/react-native-testing-options-overview-5fna",
-          "categories": [
-            "testing",
-            "react",
-            "jest",
-            "detox"
-          ],
-          "isoDate": "2024-05-15T06:05:36.000Z",
+          "isoDate": "2024-05-16T06:23:09.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1105,6 +1077,19 @@
     },
     "Digital Ocean Labs": {
       "items": [
+        {
+          "title": "Transforming Data Protection: Unveiling Faster, More Reliable Backups and Snapshots",
+          "link": "https://www.digitalocean.com/blog/transforming-data-protection-more-reliable-backups-and-snapshots",
+          "pubDate": "2024-05-15T19:50:31.219Z",
+          "author": "Jawaad Tariq",
+          "content": "",
+          "contentSnippet": "",
+          "id": "tag:www.digitalocean.com,2005:/blog/transforming-data-protection-more-reliable-backups-and-snapshots",
+          "isoDate": "2024-05-15T19:50:31.219Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "How We Implemented the Dedicated Egress Feature on App Platform",
           "link": "https://www.digitalocean.com/blog/implementing-the-dedicated-egress-feature-on-app-platform",
@@ -1156,25 +1141,12 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "Top 10 Reasons to Choose DigitalOcean’s Managed Kafka Solution",
-          "link": "https://www.digitalocean.com/blog/choose-digitalocean-managed-kafka-solution",
-          "pubDate": "2024-04-23T00:00:00.000Z",
-          "author": "Faye Hutsell",
-          "content": "",
-          "contentSnippet": "",
-          "id": "tag:www.digitalocean.com,2005:/blog/choose-digitalocean-managed-kafka-solution",
-          "isoDate": "2024-04-23T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog.atom",
       "title": "The DigitalOcean Blog",
-      "lastBuildDate": "2024-05-14T15:51:16.179Z"
+      "lastBuildDate": "2024-05-15T22:59:18.967Z"
     },
     "Julia Evans": {
       "items": [
