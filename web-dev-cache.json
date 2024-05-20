@@ -103,7 +103,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sun, 19 May 2024 05:02:11 GMT"
+      "lastBuildDate": "Mon, 20 May 2024 05:02:26 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -418,7 +418,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sun, 19 May 2024 06:34:36 GMT",
+      "lastBuildDate": "Mon, 20 May 2024 06:35:11 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -632,8 +632,71 @@
     "itnext": {
       "items": [
         {
+          "creator": "Tyler",
+          "title": "Two-node HA Kubernetes for edge computing cost savings",
+          "link": "https://itnext.io/two-node-ha-kubernetes-for-edge-computing-cost-savings-9a009eb076ac?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 20 May 2024 06:21:51 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Tyler",
+          "guid": "https://medium.com/p/9a009eb076ac",
+          "categories": [
+            "edge",
+            "high-availability",
+            "cost-optimization",
+            "edge-computing",
+            "kubernetes"
+          ],
+          "isoDate": "2024-05-20T06:21:51.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Saeed Zarinfam",
+          "title": "Protobuf validation in gRPC,  Java, and Spring Boot",
+          "link": "https://itnext.io/protobuf-validation-in-grpc-java-and-spring-boot-bce526c8edab?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 19 May 2024 20:38:33 GMT",
+          "dc:creator": "Saeed Zarinfam",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/bce526c8edab",
+          "categories": [
+            "validation",
+            "spring-boot",
+            "aop",
+            "protobuf",
+            "grpc"
+          ],
+          "isoDate": "2024-05-19T20:38:33.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Lucas Soares",
+          "title": "OutSystems Security: Vulnerability in NASA that would be prevented using OutSystems",
+          "link": "https://itnext.io/outsystems-security-vulnerability-in-nasa-that-would-be-prevented-using-outsystems-ff89d96ba1a1?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 19 May 2024 16:15:34 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Lucas Soares",
+          "guid": "https://medium.com/p/ff89d96ba1a1",
+          "categories": [
+            "low-code",
+            "nasa",
+            "security",
+            "outsystems",
+            "ethical-hacking"
+          ],
+          "isoDate": "2024-05-19T16:15:34.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Tezov",
-          "title": "Android: Sending Emails, Texts, Initiating Calls, and Opening Links Using Intents and Coroutines",
+          "title": "Android: Sending Emails, Text, Initiating Calls, and Opening Links Using Intents and Coroutines",
           "link": "https://itnext.io/android-sending-emails-texts-initiating-calls-and-opening-links-using-intents-and-coroutines-780d9fdf360b?source=rss----5b301f10ddcd---4",
           "pubDate": "Sat, 18 May 2024 21:44:26 GMT",
           "content:encoded": "",
@@ -774,67 +837,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Christopher Bazley",
-          "title": "strb_t: A new string buffer type (1 of 2)",
-          "link": "https://itnext.io/strb-t-a-new-string-buffer-type-1-of-2-be785a0de4d6?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 16 May 2024 12:47:04 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Christopher Bazley",
-          "guid": "https://medium.com/p/be785a0de4d6",
-          "categories": [
-            "standardization",
-            "c-programming-language",
-            "strings-in-c",
-            "c",
-            "c-programming"
-          ],
-          "isoDate": "2024-05-16T12:47:04.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Mahdi Mallaki",
-          "title": "Customizing the Backstage Kubernetes Plugin",
-          "link": "https://itnext.io/customizing-the-backstage-kubernetes-plugin-1c8e2d7ad802?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 16 May 2024 08:34:31 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Mahdi Mallaki",
-          "guid": "https://medium.com/p/1c8e2d7ad802",
-          "categories": [
-            "devops",
-            "kubernetes",
-            "backstage"
-          ],
-          "isoDate": "2024-05-16T08:34:31.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Param Rajani",
-          "title": "Back to the future: The future might not just be Serverless after all",
-          "link": "https://itnext.io/back-to-the-future-the-future-might-not-just-be-serverless-after-all-b8165d6e84c2?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 16 May 2024 07:06:51 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Param Rajani",
-          "guid": "https://medium.com/p/b8165d6e84c2",
-          "categories": [
-            "aws",
-            "data-engineering",
-            "software-development",
-            "software-engineering",
-            "devops"
-          ],
-          "isoDate": "2024-05-16T07:06:51.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -851,192 +853,199 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sun, 19 May 2024 07:05:02 GMT"
+      "lastBuildDate": "Mon, 20 May 2024 06:54:03 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Ugo",
-          "title": "Thinking of how we should follow AI.",
-          "link": "https://dev.to/ugo/thinking-of-how-we-should-follow-ai-3e19",
-          "pubDate": "Sun, 19 May 2024 06:32:34 +0000",
-          "dc:creator": "Ugo",
+          "creator": "niketan wadaskar",
+          "title": "Understanding Error Boundaries in React: A Beginner’s Guide",
+          "link": "https://dev.to/niketanwadaskar/understanding-error-boundaries-in-react-a-beginners-guide-4pg8",
+          "pubDate": "Mon, 20 May 2024 06:37:19 +0000",
+          "dc:creator": "niketan wadaskar",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ugo/thinking-of-how-we-should-follow-ai-3e19",
+          "guid": "https://dev.to/niketanwadaskar/understanding-error-boundaries-in-react-a-beginners-guide-4pg8",
           "categories": [
-            "ai",
-            "programming",
-            "productivity",
-            "career"
-          ],
-          "isoDate": "2024-05-19T06:32:34.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Navindu Abhishek",
-          "title": "How to fix 'process' is not defined (React+Vite)",
-          "link": "https://dev.to/navinduabhishek/how-to-fix-process-is-not-defined-reactvite-1nn4",
-          "pubDate": "Sun, 19 May 2024 06:27:53 +0000",
-          "dc:creator": "Navindu Abhishek",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/navinduabhishek/how-to-fix-process-is-not-defined-reactvite-1nn4",
-          "categories": [
-            "react",
-            "vite",
-            "webdev",
-            "env"
-          ],
-          "isoDate": "2024-05-19T06:27:53.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Rutam Bhagat",
-          "title": "Langchain: Data Protection",
-          "link": "https://dev.to/rutamstwt/langchain-data-protection-op9",
-          "pubDate": "Sun, 19 May 2024 06:27:41 +0000",
-          "dc:creator": "Rutam Bhagat",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/rutamstwt/langchain-data-protection-op9",
-          "categories": [
-            "langchain",
-            "chatbot",
-            "ai",
-            "machinelearning"
-          ],
-          "isoDate": "2024-05-19T06:27:41.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nadun Udaraka",
-          "title": "Python \"argparse\" library",
-          "link": "https://dev.to/nadun96/python-argparse-library-2c1c",
-          "pubDate": "Sun, 19 May 2024 06:24:04 +0000",
-          "dc:creator": "Nadun Udaraka",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/nadun96/python-argparse-library-2c1c",
-          "categories": [
-            "python",
+            "javascript",
             "beginners",
-            "scripting"
+            "programming",
+            "react"
           ],
-          "isoDate": "2024-05-19T06:24:04.000Z",
+          "isoDate": "2024-05-20T06:37:19.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Mo",
-          "title": "The Evolution of .NET, C#, and the CLR",
-          "link": "https://dev.to/ipazooki/the-evolution-of-net-c-and-the-clr-3p8h",
-          "pubDate": "Sun, 19 May 2024 06:23:43 +0000",
-          "dc:creator": "Mo",
+          "creator": "JayPansuriya",
+          "title": "What's New in Angular 18: Key Features and Updates",
+          "link": "https://dev.to/jaypansuriya/whats-new-in-angular-18-key-features-and-updates-f1d",
+          "pubDate": "Mon, 20 May 2024 06:36:55 +0000",
+          "dc:creator": "JayPansuriya",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ipazooki/the-evolution-of-net-c-and-the-clr-3p8h",
-          "categories": [
-            "tutorial",
-            "csharp",
-            "dotnet"
-          ],
-          "isoDate": "2024-05-19T06:23:43.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Raaz",
-          "title": "Overcoming Placement Challenges for Tier 3 College Students",
-          "link": "https://dev.to/raazketan/overcoming-placement-challenges-for-tier-3-college-students-28cp",
-          "pubDate": "Sun, 19 May 2024 06:22:56 +0000",
-          "dc:creator": "Raaz",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/raazketan/overcoming-placement-challenges-for-tier-3-college-students-28cp",
-          "isoDate": "2024-05-19T06:22:56.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Travis",
-          "title": "Side Hustle Ideas for Developers in 2024",
-          "link": "https://dev.to/lilxyzz/side-hustle-ideas-for-developers-in-2024-jh5",
-          "pubDate": "Sun, 19 May 2024 06:22:51 +0000",
-          "dc:creator": "Travis",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/lilxyzz/side-hustle-ideas-for-developers-in-2024-jh5",
-          "categories": [
-            "webdev",
-            "opensource",
-            "learning",
-            "tutorial"
-          ],
-          "isoDate": "2024-05-19T06:22:51.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Raaz",
-          "title": "Getting Started with React: A Beginner's Guide",
-          "link": "https://dev.to/raazketan/getting-started-with-react-a-beginners-guide-463i",
-          "pubDate": "Sun, 19 May 2024 06:16:04 +0000",
-          "dc:creator": "Raaz",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/raazketan/getting-started-with-react-a-beginners-guide-463i",
-          "isoDate": "2024-05-19T06:16:04.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Dharmen Shah",
-          "title": "Video: Using Material 3 (M3) with Angular",
-          "link": "https://dev.to/ngmaterialdev/video-using-material-3-m3-with-angular-jg0",
-          "pubDate": "Sun, 19 May 2024 06:10:56 +0000",
-          "dc:creator": "Dharmen Shah",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/ngmaterialdev/video-using-material-3-m3-with-angular-jg0",
+          "guid": "https://dev.to/jaypansuriya/whats-new-in-angular-18-key-features-and-updates-f1d",
           "categories": [
             "angular",
-            "angularmaterial",
-            "typescript",
-            "webdev"
+            "javascript",
+            "webdev",
+            "programming"
           ],
-          "isoDate": "2024-05-19T06:10:56.000Z",
+          "isoDate": "2024-05-20T06:36:55.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ozodbek",
-          "title": "Access Modifiers | C# da",
-          "link": "https://dev.to/ozodbek_soft/access-modifiers-c-da-pdm",
-          "pubDate": "Sun, 19 May 2024 06:09:15 +0000",
-          "dc:creator": "Ozodbek",
+          "creator": "Neha Jangid",
+          "title": "Adorn Your Wrist with the Splendor of Moonphase Watches",
+          "link": "https://dev.to/nehajangid9087/adorn-your-wrist-with-the-splendor-of-moonphase-watches-27oj",
+          "pubDate": "Mon, 20 May 2024 06:31:47 +0000",
+          "dc:creator": "Neha Jangid",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ozodbek_soft/access-modifiers-c-da-pdm",
+          "guid": "https://dev.to/nehajangid9087/adorn-your-wrist-with-the-splendor-of-moonphase-watches-27oj",
           "categories": [
-            "access",
-            "modifiers",
-            "dotnet",
-            "csharp"
+            "moonphase",
+            "watches",
+            "wristwatches"
           ],
-          "isoDate": "2024-05-19T06:09:15.000Z",
+          "isoDate": "2024-05-20T06:31:47.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "ANDGOEDU",
+          "title": "How to Compress .glb File to Draco Compressed Format",
+          "link": "https://dev.to/andgoedu/how-to-compress-glb-file-to-draco-compressed-format-24bk",
+          "pubDate": "Mon, 20 May 2024 06:28:04 +0000",
+          "dc:creator": "ANDGOEDU",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/andgoedu/how-to-compress-glb-file-to-draco-compressed-format-24bk",
+          "isoDate": "2024-05-20T06:28:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Alysa ",
+          "title": "Merge Sort in Java (With Intuition + Dry run + Code)",
+          "link": "https://dev.to/tanujav/merge-sort-in-java-with-intuition-dry-run-code-18c5",
+          "pubDate": "Mon, 20 May 2024 06:27:25 +0000",
+          "dc:creator": "Alysa ",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/tanujav/merge-sort-in-java-with-intuition-dry-run-code-18c5",
+          "categories": [
+            "mergesort",
+            "programming",
+            "beginners",
+            "algorithms"
+          ],
+          "isoDate": "2024-05-20T06:27:25.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Haider Aftab",
+          "title": "How to Use Notion: And become a 10x developer",
+          "link": "https://dev.to/hayyanstudio/how-to-use-notion-and-become-a-10x-developer-3hkf",
+          "pubDate": "Mon, 20 May 2024 06:27:01 +0000",
+          "dc:creator": "Haider Aftab",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/hayyanstudio/how-to-use-notion-and-become-a-10x-developer-3hkf",
+          "categories": [
+            "webdev",
+            "beginners",
+            "programming",
+            "tutorial"
+          ],
+          "isoDate": "2024-05-20T06:27:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Steeve",
+          "title": "🇫🇷 Utiliser RiotJS avec BeerCSS Material Design 3",
+          "link": "https://dev.to/steeve/utiliser-riotjs-avec-beercss-material-design-3-2b83",
+          "pubDate": "Mon, 20 May 2024 06:20:40 +0000",
+          "dc:creator": "Steeve",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/steeve/utiliser-riotjs-avec-beercss-material-design-3-2b83",
+          "categories": [
+            "riotjs",
+            "frontend",
+            "french",
+            "javascript"
+          ],
+          "isoDate": "2024-05-20T06:20:40.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Dharmendra Kumar",
+          "title": "React State Management Toolkit: Simplifying State Management",
+          "link": "https://dev.to/dharamgfx/react-state-management-toolkit-simplifying-state-management-200g",
+          "pubDate": "Mon, 20 May 2024 06:11:48 +0000",
+          "dc:creator": "Dharmendra Kumar",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/dharamgfx/react-state-management-toolkit-simplifying-state-management-200g",
+          "categories": [
+            "react",
+            "beginners",
+            "webdev",
+            "javascript"
+          ],
+          "isoDate": "2024-05-20T06:11:48.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Corki",
+          "title": "Kanban's Challenges in Software Project Scheduling",
+          "link": "https://dev.to/cactus77/kanbans-challenges-in-software-project-scheduling-37no",
+          "pubDate": "Mon, 20 May 2024 06:11:24 +0000",
+          "dc:creator": "Corki",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/cactus77/kanbans-challenges-in-software-project-scheduling-37no",
+          "categories": [
+            "kanban",
+            "agile",
+            "developers",
+            "productivity"
+          ],
+          "isoDate": "2024-05-20T06:11:24.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "CodingPanda",
+          "title": "Trick to get Free SSL certificate for azure application gateway",
+          "link": "https://dev.to/c0dingpanda/trick-to-get-free-ssl-certificate-for-azure-application-gateway-5b8p",
+          "pubDate": "Mon, 20 May 2024 06:06:21 +0000",
+          "dc:creator": "CodingPanda",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/c0dingpanda/trick-to-get-free-ssl-certificate-for-azure-application-gateway-5b8p",
+          "categories": [
+            "azure",
+            "cloud",
+            "security",
+            "ssl"
+          ],
+          "isoDate": "2024-05-20T06:06:21.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
