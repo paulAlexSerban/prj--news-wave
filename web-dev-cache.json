@@ -103,7 +103,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Wed, 22 May 2024 05:02:03 GMT"
+      "lastBuildDate": "Thu, 23 May 2024 05:02:10 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -311,6 +311,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Brecht De Ruyte)",
+          "title": "Modern CSS Layouts: You Might Not Need A Framework For That",
+          "link": "https://smashingmagazine.com/2024/05/modern-css-layouts-no-framework-needed/",
+          "pubDate": "Wed, 22 May 2024 15:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Brecht De Ruyte)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/modern-css-layouts-no-framework-needed/modern-css-layouts-no-framework-needed.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/05/modern-css-layouts-no-framework-needed/",
+          "isoDate": "2024-05-22T15:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Vitaly Friedman)",
           "title": "Hidden vs. Disabled In UX",
           "link": "https://smashingmagazine.com/2024/05/hidden-vs-disabled-ux/",
@@ -385,25 +404,6 @@
           "guid": "https://smashingmagazine.com/2024/05/transforming-relationship-between-designers-developers/",
           "isoDate": "2024-05-15T10:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "title": "Why Designers Aren’t Understood",
-          "link": "https://smashingmagazine.com/2024/05/designers-business-ux-language/",
-          "pubDate": "Tue, 14 May 2024 12:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designers-business-ux-language/designers-business-ux-language.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/05/designers-business-ux-language/",
-          "isoDate": "2024-05-14T12:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -421,7 +421,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Wed, 22 May 2024 06:34:58 GMT",
+      "lastBuildDate": "Thu, 23 May 2024 06:49:39 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -607,6 +607,46 @@
     "itnext": {
       "items": [
         {
+          "creator": "Ricardo Pereira",
+          "title": "The power of the Discovery tool in OutSystems 11",
+          "link": "https://itnext.io/the-power-of-the-discovery-tool-in-outsystems-11-1d1486f9cf83?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 22 May 2024 10:03:44 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Ricardo Pereira",
+          "guid": "https://medium.com/p/1d1486f9cf83",
+          "categories": [
+            "outsystems-mvp",
+            "outsystems-discovery",
+            "outsystems",
+            "outsystems-architecture",
+            "outsystems-development"
+          ],
+          "isoDate": "2024-05-22T10:03:44.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Zhimin Wen",
+          "title": "Expose OpenShift Route/Service Partially",
+          "link": "https://itnext.io/expose-openshift-service-partially-c5d91feacfd0?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 22 May 2024 07:03:45 GMT",
+          "dc:creator": "Zhimin Wen",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/c5d91feacfd0",
+          "categories": [
+            "openshift",
+            "traefik",
+            "reverse-proxy"
+          ],
+          "isoDate": "2024-05-22T07:03:45.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Thomas Schuetz",
           "title": "Unlocking Your Tech Wonderland by Combining GitOps, Platforms and AI",
           "link": "https://itnext.io/unlocking-your-tech-wonderland-by-combining-gitops-platforms-and-ai-a200d0e0449b?source=rss----5b301f10ddcd---4",
@@ -764,48 +804,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Asher Sterkin",
-          "title": "Managing Winglang Libraries with AWS CodeArtifact",
-          "link": "https://itnext.io/managing-winglang-libraries-with-aws-codeartifact-e0929ee94fe9?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 21 May 2024 07:14:31 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Asher Sterkin",
-          "guid": "https://medium.com/p/e0929ee94fe9",
-          "categories": [
-            "aws-codeartifact",
-            "npm",
-            "automation",
-            "winglang",
-            "cloud-computing"
-          ],
-          "isoDate": "2024-05-21T07:14:31.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Emilien Lancelot",
-          "title": "Shielding Your Kubernetes Network: Mastering iptables for Enhanced Security",
-          "link": "https://itnext.io/shielding-your-kubernetes-network-mastering-iptables-for-enhanced-security-7286540b2f17?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 21 May 2024 07:11:21 GMT",
-          "dc:creator": "Emilien Lancelot",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/7286540b2f17",
-          "categories": [
-            "kubernetes-security",
-            "iptables",
-            "network",
-            "kubernetes",
-            "network-security"
-          ],
-          "isoDate": "2024-05-21T07:11:21.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -822,176 +820,197 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Wed, 22 May 2024 06:54:58 GMT"
+      "lastBuildDate": "Thu, 23 May 2024 06:57:44 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Mitchell Mutandah",
-          "title": "My Take: Speed vs Quality (The Scope Secret)",
-          "link": "https://dev.to/mitchiemt11/my-take-speed-vs-quality-the-scope-secret-n9p",
-          "pubDate": "Wed, 22 May 2024 06:46:45 +0000",
-          "dc:creator": "Mitchell Mutandah",
+          "creator": "Neha Gupta",
+          "title": "Descriptive Statistics || Part 1(Central Tendency and Dispersion)",
+          "link": "https://dev.to/ngneha09/descriptive-statistics-part-1central-tendency-and-dispersion-35j8",
+          "pubDate": "Thu, 23 May 2024 06:30:33 +0000",
+          "dc:creator": "Neha Gupta",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/mitchiemt11/my-take-speed-vs-quality-the-scope-secret-n9p",
+          "guid": "https://dev.to/ngneha09/descriptive-statistics-part-1central-tendency-and-dispersion-35j8",
           "categories": [
-            "management",
-            "development",
-            "startup",
-            "agile"
+            "beginners",
+            "tutorial",
+            "datascience",
+            "machinelearning"
           ],
-          "isoDate": "2024-05-22T06:46:45.000Z",
+          "isoDate": "2024-05-23T06:30:33.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Alysa ",
-          "title": "How to stop taking things \"So\" personally",
-          "link": "https://dev.to/tanujav/how-to-stop-taking-things-so-personally-57dk",
-          "pubDate": "Wed, 22 May 2024 06:42:23 +0000",
-          "dc:creator": "Alysa ",
+          "creator": "Siddhant Khare",
+          "title": "How to Set Up a MySQL Master-Slave Replication in Docker",
+          "link": "https://dev.to/siddhantkcode/how-to-set-up-a-mysql-master-slave-replication-in-docker-4n0a",
+          "pubDate": "Thu, 23 May 2024 06:29:19 +0000",
+          "dc:creator": "Siddhant Khare",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/tanujav/how-to-stop-taking-things-so-personally-57dk",
+          "guid": "https://dev.to/siddhantkcode/how-to-set-up-a-mysql-master-slave-replication-in-docker-4n0a",
           "categories": [
+            "database",
+            "mysql",
+            "docker",
+            "learning"
+          ],
+          "isoDate": "2024-05-23T06:29:19.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Kazys",
+          "title": "EasyTdd 0.4.0 Release: Introducing the Incremental Builder",
+          "link": "https://dev.to/easytdd/easytdd-040-release-introducing-the-incremental-builder-4k09",
+          "pubDate": "Thu, 23 May 2024 06:29:04 +0000",
+          "dc:creator": "Kazys",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/easytdd/easytdd-040-release-introducing-the-incremental-builder-4k09",
+          "categories": [
+            "tdd",
+            "visualstudio",
+            "dotnet",
+            "testing"
+          ],
+          "isoDate": "2024-05-23T06:29:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Szymon Hałucha",
+          "title": "Fast string case transformation for the C#",
+          "link": "https://dev.to/szymonhalucha/fast-string-case-transformation-for-the-c-3b4e",
+          "pubDate": "Thu, 23 May 2024 06:25:43 +0000",
+          "dc:creator": "Szymon Hałucha",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/szymonhalucha/fast-string-case-transformation-for-the-c-3b4e",
+          "categories": [
+            "dotnet",
+            "csharp",
+            "showdev"
+          ],
+          "isoDate": "2024-05-23T06:25:43.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sandeep Balachandran",
+          "title": "⭐Angular 18 Features ⭐",
+          "link": "https://dev.to/sandeepbalachandran/angular-18-features-5ajm",
+          "pubDate": "Thu, 23 May 2024 06:24:30 +0000",
+          "dc:creator": "Sandeep Balachandran",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/sandeepbalachandran/angular-18-features-5ajm",
+          "categories": [
+            "javascript",
+            "angular",
+            "beginners",
+            "webdev"
+          ],
+          "isoDate": "2024-05-23T06:24:30.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Daxesh Italiya",
+          "title": "Component-based coding vs repeated code",
+          "link": "https://dev.to/daxesh/component-based-coding-2i59",
+          "pubDate": "Thu, 23 May 2024 06:24:15 +0000",
+          "dc:creator": "Daxesh Italiya",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/daxesh/component-based-coding-2i59",
+          "isoDate": "2024-05-23T06:24:15.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sudha Subramaniam",
+          "title": "How to create a .env file in an ASP.NET Core Web API project and use its values in the application configuration",
+          "link": "https://dev.to/sudha533/how-to-create-a-env-file-in-an-aspnet-core-web-api-project-and-use-its-values-in-the-application-configuration-fam",
+          "pubDate": "Thu, 23 May 2024 06:19:08 +0000",
+          "dc:creator": "Sudha Subramaniam",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/sudha533/how-to-create-a-env-file-in-an-aspnet-core-web-api-project-and-use-its-values-in-the-application-configuration-fam",
+          "categories": [
+            "aspdotnet",
+            "softwaredevelopment",
+            "azure",
+            "environmentvariables"
+          ],
+          "isoDate": "2024-05-23T06:19:08.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "jchristopher0033",
+          "title": "Mastering Value Creation: Essential Tips for MSPs",
+          "link": "https://dev.to/jchristopher0033/mastering-value-creation-essential-tips-for-msps-5567",
+          "pubDate": "Thu, 23 May 2024 06:13:07 +0000",
+          "dc:creator": "jchristopher0033",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/jchristopher0033/mastering-value-creation-essential-tips-for-msps-5567",
+          "categories": [
+            "proactivesolutions",
+            "msp",
+            "businesscontinuity",
+            "cybersecurity"
+          ],
+          "isoDate": "2024-05-23T06:13:07.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "David Fagbuyiro",
+          "title": "Increase Your Code Coverage with Cover-Agent",
+          "link": "https://dev.to/davidking/increase-your-code-coverage-with-cover-agent-3g0p",
+          "pubDate": "Thu, 23 May 2024 06:12:57 +0000",
+          "dc:creator": "David Fagbuyiro",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/davidking/increase-your-code-coverage-with-cover-agent-3g0p",
+          "categories": [
+            "machinelearning",
+            "ai",
             "productivity",
-            "programming",
-            "beginners",
-            "discuss"
+            "testing"
           ],
-          "isoDate": "2024-05-22T06:42:23.000Z",
+          "isoDate": "2024-05-23T06:12:57.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Md Pervez Hossain",
-          "title": "JavaScript Function , First Class function / First Class Citizen in JavaScript",
-          "link": "https://dev.to/pervez/javascript-function-first-class-function-first-class-citizen-in-javascript-55i8",
-          "pubDate": "Wed, 22 May 2024 06:32:09 +0000",
-          "dc:creator": "Md Pervez Hossain",
+          "creator": "Charlotte Towell",
+          "title": "Clustering in BigQuery (Dynamic Filters & External Queries)",
+          "link": "https://dev.to/charlottetowell/clustering-in-bigquery-dynamic-filters-external-queries-gol",
+          "pubDate": "Thu, 23 May 2024 06:12:05 +0000",
+          "dc:creator": "Charlotte Towell",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/pervez/javascript-function-first-class-function-first-class-citizen-in-javascript-55i8",
-          "isoDate": "2024-05-22T06:32:09.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Birusha Ndegeya",
-          "title": "TypeScript Function",
-          "link": "https://dev.to/birusha/typescript-function-4eh8",
-          "pubDate": "Wed, 22 May 2024 06:27:45 +0000",
-          "dc:creator": "Birusha Ndegeya",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/birusha/typescript-function-4eh8",
+          "guid": "https://dev.to/charlottetowell/clustering-in-bigquery-dynamic-filters-external-queries-gol",
           "categories": [
-            "typescript",
-            "webdev",
-            "beginners",
-            "tutorial"
+            "bigquery",
+            "gcp"
           ],
-          "isoDate": "2024-05-22T06:27:45.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Saddle Online",
-          "title": "Finding the Perfect Kids Saddle for Your Young Equestrian",
-          "link": "https://dev.to/saddleonline/finding-the-perfect-kids-saddle-for-your-young-equestrian-4ck1",
-          "pubDate": "Wed, 22 May 2024 06:22:09 +0000",
-          "dc:creator": "Saddle Online",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/saddleonline/finding-the-perfect-kids-saddle-for-your-young-equestrian-4ck1",
-          "isoDate": "2024-05-22T06:22:09.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Dominic Toretto ",
-          "title": "Best AI Tools for Personal Productivity and Time Management",
-          "link": "https://dev.to/marandagarner21/best-ai-tools-for-personal-productivity-and-time-management-om9",
-          "pubDate": "Wed, 22 May 2024 06:22:07 +0000",
-          "dc:creator": "Dominic Toretto ",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/marandagarner21/best-ai-tools-for-personal-productivity-and-time-management-om9",
-          "isoDate": "2024-05-22T06:22:07.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "A_Lucas",
-          "title": "Elasticsearch Tutorial: A Deep Dive into Filters and Compound Queries",
-          "link": "https://dev.to/a_lucas/elasticsearch-tutorial-a-deep-dive-into-filters-and-compound-queries-4hc0",
-          "pubDate": "Wed, 22 May 2024 06:21:33 +0000",
-          "dc:creator": "A_Lucas",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/a_lucas/elasticsearch-tutorial-a-deep-dive-into-filters-and-compound-queries-4hc0",
-          "isoDate": "2024-05-22T06:21:33.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "T Sudhish Nair",
-          "title": "How we fixed the Cypress \"Out of memory\" error for Chromium browsers.",
-          "link": "https://dev.to/tsudhishnair/how-we-fixed-the-cypress-out-of-memory-error-for-chromium-browsers-54b6",
-          "pubDate": "Wed, 22 May 2024 06:11:17 +0000",
-          "dc:creator": "T Sudhish Nair",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/tsudhishnair/how-we-fixed-the-cypress-out-of-memory-error-for-chromium-browsers-54b6",
-          "categories": [
-            "testing",
-            "cypress",
-            "automation",
-            "qa"
-          ],
-          "isoDate": "2024-05-22T06:11:17.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Joe de Moraes",
-          "title": "High Agency in Software Engineering",
-          "link": "https://dev.to/joedemoraes/high-agency-in-software-engineering-3cef",
-          "pubDate": "Wed, 22 May 2024 06:06:53 +0000",
-          "dc:creator": "Joe de Moraes",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/joedemoraes/high-agency-in-software-engineering-3cef",
-          "isoDate": "2024-05-22T06:06:53.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Thomas Cansino",
-          "title": "[DAY 6-8] I Learned CSS Colors, HTML Forms, & Built A Survey Form Project",
-          "link": "https://dev.to/thomascansino/day-6-8-i-learned-css-colors-html-forms-built-a-survey-form-project-4io7",
-          "pubDate": "Wed, 22 May 2024 06:04:55 +0000",
-          "dc:creator": "Thomas Cansino",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/thomascansino/day-6-8-i-learned-css-colors-html-forms-built-a-survey-form-project-4io7",
-          "categories": [
-            "beginners",
-            "learning",
-            "html",
-            "css"
-          ],
-          "isoDate": "2024-05-22T06:04:55.000Z",
+          "isoDate": "2024-05-23T06:12:05.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1077,7 +1096,7 @@
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog.atom",
       "title": "The DigitalOcean Blog",
-      "lastBuildDate": "2024-05-21T23:44:40.875Z"
+      "lastBuildDate": "2024-05-22T21:53:22.876Z"
     },
     "Julia Evans": {
       "items": [
