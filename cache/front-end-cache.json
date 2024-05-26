@@ -130,6 +130,18 @@
     "CSS In Real Life": {
       "items": [
         {
+          "title": "Perspective",
+          "link": "https://css-irl.info/perspective/",
+          "pubDate": "2024-05-24T00:00:00.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "id": "https://css-irl.info/perspective/",
+          "isoDate": "2024-05-24T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "Anchor Positioning and the Popover API for a JS-Free Site Menu",
           "link": "https://css-irl.info/anchor-positioning-and-the-popover-api/",
           "pubDate": "2024-05-14T00:00:00.000Z",
@@ -176,24 +188,12 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "The Perfect Site Doesn’t Exist",
-          "link": "https://css-irl.info/the-perfect-site-doesnt-exist/",
-          "pubDate": "2024-05-03T00:00:00.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "id": "https://css-irl.info/the-perfect-site-doesnt-exist/",
-          "isoDate": "2024-05-03T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "link": "https://css-irl.info/rss.xml/",
       "feedUrl": "https://css-irl.info/rss.xml/",
       "title": "CSS In Real Life",
-      "lastBuildDate": "2024-05-14T00:00:00Z"
+      "lastBuildDate": "2024-05-24T00:00:00Z"
     },
     "A list Apart": {
       "items": [
@@ -394,13 +394,26 @@
       },
       "title": "Web Designer Depot",
       "description": "Web Design Resources and Tutorials",
-      "pubDate": "Thu, 23 May 2024 00:07:31 -0700",
+      "pubDate": "Sun, 26 May 2024 00:06:25 -0700",
       "link": "https://www.webdesignerdepot.com",
       "language": "en-us",
       "copyright": "Copyright Web Designer Depot, all rights reserved."
     },
     "Brad Frost": {
       "items": [
+        {
+          "title": "Be gone, vile rectangle!",
+          "link": "https://bradfrost.com/blog/post/be-gone-vile-rectangle/",
+          "pubDate": "2024-05-23T13:58:09.000Z",
+          "author": "Brad Frost",
+          "content": "",
+          "contentSnippet": "",
+          "summary": "",
+          "id": "https://bradfrost.com/?p=20241",
+          "isoDate": "2024-05-23T13:58:09.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": ""
+        },
         {
           "title": "Every Sample from Paul’s Boutique by the Beastie Boys",
           "link": "https://bradfrost.com/blog/link/every-sample-from-pauls-boutique-by-the-beastie-boys/",
@@ -452,25 +465,12 @@
           "isoDate": "2024-05-16T13:57:45.000Z",
           "content:encoded": "",
           "content:encodedSnippet": ""
-        },
-        {
-          "title": "Transparent borders",
-          "link": "https://bradfrost.com/blog/post/transparent-borders/",
-          "pubDate": "2024-05-07T17:56:11.000Z",
-          "author": "Brad Frost",
-          "content": "",
-          "contentSnippet": "",
-          "summary": "",
-          "id": "https://bradfrost.com/?p=20194",
-          "isoDate": "2024-05-07T17:56:11.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": ""
         }
       ],
       "link": "https://bradfrost.com",
       "feedUrl": "https://bradfrost.com/feed/atom/",
       "title": "Brad Frost",
-      "lastBuildDate": "2024-05-22T20:26:14Z"
+      "lastBuildDate": "2024-05-23T14:39:07Z"
     },
     "Jonathan Suh": {
       "items": [
@@ -987,6 +987,30 @@
     "Go Make Things": {
       "items": [
         {
+          "title": "Data portability: API getter and setter methods",
+          "link": "https://gomakethings.com/data-portability-api-getter-and-setter-methods/",
+          "pubDate": "Fri, 24 May 2024 10:30:00 -0400",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://gomakethings.com/data-portability-api-getter-and-setter-methods/",
+          "isoDate": "2024-05-24T14:30:00.000Z",
+          "summary": ""
+        },
+        {
+          "title": "Why paying down tech debt matters",
+          "link": "https://gomakethings.com/why-paying-down-tech-debt-matters/",
+          "pubDate": "Thu, 23 May 2024 10:30:00 -0400",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://gomakethings.com/why-paying-down-tech-debt-matters/",
+          "isoDate": "2024-05-23T14:30:00.000Z",
+          "summary": ""
+        },
+        {
           "title": "Creating a vanilla JavaScript signal() with Proxies",
           "link": "https://gomakethings.com/creating-a-vanilla-javascript-signal-with-proxies/",
           "pubDate": "Wed, 22 May 2024 10:30:00 -0400",
@@ -1021,30 +1045,6 @@
           "guid": "https://gomakethings.com/the-new-and-improved-lean-web-club/",
           "isoDate": "2024-05-20T14:30:00.000Z",
           "summary": ""
-        },
-        {
-          "title": "How to listen to multiple events in a Web Component with the handleEvent() method",
-          "link": "https://gomakethings.com/how-to-listen-to-multiple-events-in-a-web-component-with-the-handleevent-method/",
-          "pubDate": "Fri, 17 May 2024 10:30:00 -0400",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://gomakethings.com/how-to-listen-to-multiple-events-in-a-web-component-with-the-handleevent-method/",
-          "isoDate": "2024-05-17T14:30:00.000Z",
-          "summary": ""
-        },
-        {
-          "title": "What about Lit for Web Components?",
-          "link": "https://gomakethings.com/what-about-lit-for-web-components/",
-          "pubDate": "Thu, 16 May 2024 10:30:00 -0400",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://gomakethings.com/what-about-lit-for-web-components/",
-          "isoDate": "2024-05-16T14:30:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://gomakethings.com/feed/index.xml",
@@ -1056,7 +1056,7 @@
       "generator": "Hugo -- gohugo.io",
       "link": "https://gomakethings.com/articles",
       "language": "en-us",
-      "lastBuildDate": "Thu, 23 May 2024 00:01:04 EST"
+      "lastBuildDate": "Sun, 26 May 2024 00:00:55 EST"
     }
   }
 }
