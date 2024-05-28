@@ -103,10 +103,30 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Mon, 27 May 2024 05:02:09 GMT"
+      "lastBuildDate": "Tue, 28 May 2024 05:02:03 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
+        {
+          "creator": "Kedasha Kerr",
+          "title": "What is Git? Our beginner’s guide to version control",
+          "link": "https://github.blog/2024-05-27-what-is-git-our-beginners-guide-to-version-control/",
+          "pubDate": "Mon, 27 May 2024 14:25:55 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Kedasha Kerr",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=78178",
+          "categories": [
+            "Education",
+            "Git",
+            "GitHub Skills",
+            "skilling"
+          ],
+          "isoDate": "2024-05-27T14:25:55.000Z",
+          "summary": ""
+        },
         {
           "creator": "Stormy Peters",
           "title": "2024 GitHub Accelerator: Meet the 11 projects shaping open source AI",
@@ -184,25 +204,6 @@
           ],
           "isoDate": "2024-05-14T17:07:49.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Ya Gao",
-          "title": "Research: Quantifying GitHub Copilot’s impact in the enterprise with Accenture",
-          "link": "https://github.blog/2024-05-13-research-quantifying-github-copilots-impact-in-the-enterprise-with-accenture/",
-          "pubDate": "Mon, 13 May 2024 18:27:34 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Ya Gao",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=78014",
-          "categories": [
-            "Product",
-            "GitHub Copilot",
-            "research"
-          ],
-          "isoDate": "2024-05-13T18:27:34.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://github.blog/feed/",
@@ -221,7 +222,7 @@
       "generator": "https://wordpress.org/?v=6.5.3",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Thu, 23 May 2024 16:28:34 +0000"
+      "lastBuildDate": "Mon, 27 May 2024 14:25:55 +0000"
     },
     "GitHub Blog Atom": {
       "items": [
@@ -422,7 +423,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Mon, 27 May 2024 06:34:54 GMT",
+      "lastBuildDate": "Tue, 28 May 2024 07:05:40 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -610,6 +611,87 @@
     "itnext": {
       "items": [
         {
+          "creator": "Gergely Szerovay",
+          "title": "What’s new in Angular 18",
+          "link": "https://itnext.io/whats-new-in-angular-18-49bd955217d8?source=rss----5b301f10ddcd---4",
+          "pubDate": "Tue, 28 May 2024 06:59:50 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Gergely Szerovay",
+          "guid": "https://medium.com/p/49bd955217d8",
+          "categories": [
+            "angular",
+            "typescript",
+            "javascript"
+          ],
+          "isoDate": "2024-05-28T06:59:50.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Kristian Tuusjarvi",
+          "title": "Guide on testing new Dart / Flutter feature: Macros (JsonCodable)",
+          "link": "https://itnext.io/guide-on-testing-new-dart-flutter-feature-macros-jsoncodable-6b206e384525?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 27 May 2024 06:58:08 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Kristian Tuusjarvi",
+          "guid": "https://medium.com/p/6b206e384525",
+          "categories": [
+            "flutter-web",
+            "flutter",
+            "programming",
+            "macro",
+            "dart"
+          ],
+          "isoDate": "2024-05-27T06:58:08.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mahdi Mallaki",
+          "title": "Prometheus At Scale with Promxy + Cortex",
+          "link": "https://itnext.io/prometheus-at-scale-with-promxy-cortex-41fa230dbbf5?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 27 May 2024 06:56:56 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Mahdi Mallaki",
+          "guid": "https://medium.com/p/41fa230dbbf5",
+          "categories": [
+            "monitoring",
+            "prometheus",
+            "promxy",
+            "cortex"
+          ],
+          "isoDate": "2024-05-27T06:56:56.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ivan Franchin",
+          "title": "Reduce the Startup Time and Memory Footprint of your Java App by 20%",
+          "link": "https://itnext.io/reduce-the-startup-time-and-memory-footprint-of-your-java-app-by-20-49fc530f9c9d?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 27 May 2024 06:55:16 GMT",
+          "dc:creator": "Ivan Franchin",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/49fc530f9c9d",
+          "categories": [
+            "technology",
+            "jvm",
+            "spring-boot",
+            "java",
+            "software-development"
+          ],
+          "isoDate": "2024-05-27T06:55:16.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Nikolay Nikolov",
           "title": "Should I Train for Writing Clean Code?",
           "link": "https://itnext.io/should-i-train-for-writing-clean-code-93ffaa5c550c?source=rss----5b301f10ddcd---4",
@@ -733,90 +815,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Piotr",
-          "title": "Getting Started with vCluster",
-          "link": "https://itnext.io/getting-started-with-vcluster-b0c25e0efdaf?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 24 May 2024 19:31:14 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Piotr",
-          "guid": "https://medium.com/p/b0c25e0efdaf",
-          "categories": [
-            "architecture",
-            "kubernetes",
-            "virtualization",
-            "getting-started",
-            "cncf"
-          ],
-          "isoDate": "2024-05-24T19:31:14.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nasim Salmany",
-          "title": "Using traces to avoid breaking changes",
-          "link": "https://itnext.io/using-traces-to-avoid-breaking-changes-95eea642edb0?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 24 May 2024 15:43:07 GMT",
-          "dc:creator": "Nasim Salmany",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/95eea642edb0",
-          "categories": [
-            "observability-tools",
-            "spring-boot-project",
-            "software-engineering",
-            "opentelemetry",
-            "tracing"
-          ],
-          "isoDate": "2024-05-24T15:43:07.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Abhinav Sonkar",
-          "title": "Securing Modular Monolith with OAuth2 and Spring Security",
-          "link": "https://itnext.io/securing-modular-monolith-with-oauth2-and-spring-security-43f2504c4e2e?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 24 May 2024 07:00:14 GMT",
-          "dc:creator": "Abhinav Sonkar",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/43f2504c4e2e",
-          "categories": [
-            "oauth",
-            "spring-security",
-            "spring-boot",
-            "java",
-            "modular-monolith"
-          ],
-          "isoDate": "2024-05-24T07:00:14.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Benjamin Cane",
-          "title": "You probably shouldn’t use log.Fatal to shutdown your Go services",
-          "link": "https://itnext.io/you-probably-shouldnt-use-log-fatal-to-shutdown-your-go-services-3df582208d89?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 23 May 2024 13:41:29 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Benjamin Cane",
-          "guid": "https://medium.com/p/3df582208d89",
-          "categories": [
-            "coding",
-            "software-engineering",
-            "golang",
-            "software-development",
-            "programming"
-          ],
-          "isoDate": "2024-05-23T13:41:29.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -833,200 +831,198 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Mon, 27 May 2024 06:53:17 GMT"
+      "lastBuildDate": "Tue, 28 May 2024 07:09:54 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Palomino",
-          "title": "Build Nuxt authentication with Logto",
-          "link": "https://dev.to/logto/build-nuxt-authentication-with-logto-5g9h",
-          "pubDate": "Mon, 27 May 2024 06:34:29 +0000",
-          "dc:creator": "Palomino",
+          "creator": "Shehzad Hussain",
+          "title": "Uncontrolled vs Controlled React Components",
+          "link": "https://dev.to/shehzadhussain/uncontrolled-vs-controlled-react-components-4295",
+          "pubDate": "Tue, 28 May 2024 07:00:00 +0000",
+          "dc:creator": "Shehzad Hussain",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/logto/build-nuxt-authentication-with-logto-5g9h",
-          "categories": [
-            "nuxt",
-            "webdev",
-            "programming",
-            "opensource"
-          ],
-          "isoDate": "2024-05-27T06:34:29.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "david wyatt",
-          "title": "Hacked by a Power Automate Trojan Virus",
-          "link": "https://dev.to/wyattdave/hacked-by-a-power-automate-trojan-virus-15kc",
-          "pubDate": "Mon, 27 May 2024 06:31:27 +0000",
-          "dc:creator": "david wyatt",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/wyattdave/hacked-by-a-power-automate-trojan-virus-15kc",
-          "categories": [
-            "powerplatform",
-            "powerautomate",
-            "hacked",
-            "lowcode"
-          ],
-          "isoDate": "2024-05-27T06:31:27.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "sndp",
-          "title": "News posting website with AWS Amplify",
-          "link": "https://dev.to/lizardkinglk/news-posting-website-with-aws-amplify-2oi8",
-          "pubDate": "Mon, 27 May 2024 06:30:38 +0000",
-          "dc:creator": "sndp",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/lizardkinglk/news-posting-website-with-aws-amplify-2oi8",
-          "categories": [
-            "devchallenge",
-            "awschallenge",
-            "amplify",
-            "fullstack"
-          ],
-          "isoDate": "2024-05-27T06:30:38.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Mila Wu",
-          "title": "🔧Top Open Source AI Web Scrapers to Fire Up Your Market Research🔥",
-          "link": "https://dev.to/milasuperstar/top-open-source-ai-web-scrapers-to-fire-up-your-market-research-161m",
-          "pubDate": "Mon, 27 May 2024 06:27:44 +0000",
-          "dc:creator": "Mila Wu",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/milasuperstar/top-open-source-ai-web-scrapers-to-fire-up-your-market-research-161m",
-          "categories": [
-            "programming",
-            "ai",
-            "productivity",
-            "opensource"
-          ],
-          "isoDate": "2024-05-27T06:27:44.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Alphonse KAZADI",
-          "title": "Tailwindcss is powerfull",
-          "link": "https://dev.to/alphonsekazadi/tailwindcss-is-powerfull-37bk",
-          "pubDate": "Mon, 27 May 2024 06:26:51 +0000",
-          "dc:creator": "Alphonse KAZADI",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/alphonsekazadi/tailwindcss-is-powerfull-37bk",
+          "guid": "https://dev.to/shehzadhussain/uncontrolled-vs-controlled-react-components-4295",
           "categories": [
             "webdev",
-            "tailwindcss",
             "javascript",
+            "react",
+            "beginners"
+          ],
+          "isoDate": "2024-05-28T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Hizrawan Dwi Oka",
+          "title": "Game Development Diary #8 : Still Second Course",
+          "link": "https://dev.to/hizrawandwioka/game-development-diary-8-still-second-course-5g85",
+          "pubDate": "Tue, 28 May 2024 07:00:00 +0000",
+          "dc:creator": "Hizrawan Dwi Oka",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/hizrawandwioka/game-development-diary-8-still-second-course-5g85",
+          "categories": [
+            "gamedev",
+            "godot",
+            "godotengine",
+            "newbie"
+          ],
+          "isoDate": "2024-05-28T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Lohith",
+          "title": "Creating Line Plots with Object-Oriented API and Subplot Function in Python",
+          "link": "https://dev.to/lohith0512/creating-line-plots-with-object-oriented-api-and-subplot-function-in-python-4nel",
+          "pubDate": "Tue, 28 May 2024 06:59:43 +0000",
+          "dc:creator": "Lohith",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/lohith0512/creating-line-plots-with-object-oriented-api-and-subplot-function-in-python-4nel",
+          "categories": [
+            "numpy",
+            "beginners",
+            "matplotlib",
+            "python"
+          ],
+          "isoDate": "2024-05-28T06:59:43.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Rajat Patel",
+          "title": "Top 10 Code Review Tools for Developers",
+          "link": "https://dev.to/hyscaler/top-10-code-review-tools-for-developers-26o4",
+          "pubDate": "Tue, 28 May 2024 06:58:01 +0000",
+          "dc:creator": "Rajat Patel",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/hyscaler/top-10-code-review-tools-for-developers-26o4",
+          "categories": [
+            "developers",
+            "coding",
+            "testing",
             "programming"
           ],
-          "isoDate": "2024-05-27T06:26:51.000Z",
+          "isoDate": "2024-05-28T06:58:01.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Aishna Joshi",
-          "title": "The Journey of Entrepreneurship: Navigating the Path of Innovation and Resilience",
-          "link": "https://dev.to/techstuff/the-journey-of-entrepreneurship-navigating-the-path-of-innovation-and-resilience-4fm2",
-          "pubDate": "Mon, 27 May 2024 06:20:18 +0000",
-          "dc:creator": "Aishna Joshi",
+          "creator": "Mohsen Bazmi",
+          "title": "Writing High Quality Tests to Foster Abstractions to Evolve",
+          "link": "https://dev.to/mohsenbazmi/writing-high-quality-tests-to-foster-abstractions-to-evolve-4b2k",
+          "pubDate": "Tue, 28 May 2024 06:52:21 +0000",
+          "dc:creator": "Mohsen Bazmi",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/techstuff/the-journey-of-entrepreneurship-navigating-the-path-of-innovation-and-resilience-4fm2",
-          "isoDate": "2024-05-27T06:20:18.000Z",
+          "guid": "https://dev.to/mohsenbazmi/writing-high-quality-tests-to-foster-abstractions-to-evolve-4b2k",
+          "isoDate": "2024-05-28T06:52:21.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Harsh Bangari Rawat",
-          "title": "Implementing SSL Pinning in Flutter",
-          "link": "https://dev.to/harsh8088/implementing-ssl-pinning-in-flutter-3e8a",
-          "pubDate": "Mon, 27 May 2024 06:14:45 +0000",
-          "dc:creator": "Harsh Bangari Rawat",
+          "creator": "lewisblakeney",
+          "title": "Key Competencies for React Developers in 2024: What You Should Learn",
+          "link": "https://dev.to/lewisblakeney/key-competencies-for-react-developers-in-2024-what-you-should-learn-27h2",
+          "pubDate": "Tue, 28 May 2024 06:48:35 +0000",
+          "dc:creator": "lewisblakeney",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/harsh8088/implementing-ssl-pinning-in-flutter-3e8a",
+          "guid": "https://dev.to/lewisblakeney/key-competencies-for-react-developers-in-2024-what-you-should-learn-27h2",
           "categories": [
-            "security",
-            "sslpinning",
-            "appsecurity",
-            "flutter"
-          ],
-          "isoDate": "2024-05-27T06:14:45.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Warun C. ⚡",
-          "title": "Building a Map Marker PWA with Amplify Gen 2 (Auth, Geo and CI/CD)",
-          "link": "https://dev.to/ubinix_warun/building-a-map-marker-pwa-with-amplify-gen-2-auth-geo-and-cicd-2712",
-          "pubDate": "Mon, 27 May 2024 06:09:46 +0000",
-          "dc:creator": "Warun C. ⚡",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/ubinix_warun/building-a-map-marker-pwa-with-amplify-gen-2-auth-geo-and-cicd-2712",
-          "categories": [
-            "devchallenge",
-            "awschallenge",
-            "amplify",
-            "fullstack"
-          ],
-          "isoDate": "2024-05-27T06:09:46.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nicholas Winston",
-          "title": "Front-End Development: Making Intelligence Visible by Design",
-          "link": "https://dev.to/nicholaswinst14/front-end-development-making-intelligence-visible-by-design-4mj",
-          "pubDate": "Mon, 27 May 2024 06:06:13 +0000",
-          "dc:creator": "Nicholas Winston",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/nicholaswinst14/front-end-development-making-intelligence-visible-by-design-4mj",
-          "categories": [
-            "frontend",
+            "react",
             "webdev",
-            "pwa",
-            "design"
+            "reactjsdevelopment"
           ],
-          "isoDate": "2024-05-27T06:06:13.000Z",
+          "isoDate": "2024-05-28T06:48:35.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Rad Ghost",
-          "title": "TrackNChat - Look up your tracking numbers in one place",
-          "link": "https://dev.to/radghost/tracknchat-look-up-your-tracking-numbers-in-one-place-53eb",
-          "pubDate": "Mon, 27 May 2024 06:03:58 +0000",
-          "dc:creator": "Rad Ghost",
+          "creator": "Manav Codaty",
+          "title": "Building a Command-Line Interface (CLI) Application with Click in Python",
+          "link": "https://dev.to/manavcodaty/building-a-command-line-interface-cli-application-with-click-in-python-475b",
+          "pubDate": "Tue, 28 May 2024 06:45:42 +0000",
+          "dc:creator": "Manav Codaty",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/radghost/tracknchat-look-up-your-tracking-numbers-in-one-place-53eb",
+          "guid": "https://dev.to/manavcodaty/building-a-command-line-interface-cli-application-with-click-in-python-475b",
           "categories": [
-            "devchallenge",
-            "awschallenge",
-            "amplify",
-            "fullstack"
+            "python",
+            "cli",
+            "click",
+            "programming"
           ],
-          "isoDate": "2024-05-27T06:03:58.000Z",
+          "isoDate": "2024-05-28T06:45:42.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "krzwiatrzyk",
+          "title": "Template Kubernetes manifests with dynamic data using Gomplate functions",
+          "link": "https://dev.to/krzwiatrzyk/template-kubernetes-manifests-with-dynamic-data-using-gomplate-functions-4egn",
+          "pubDate": "Tue, 28 May 2024 06:39:44 +0000",
+          "dc:creator": "krzwiatrzyk",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/krzwiatrzyk/template-kubernetes-manifests-with-dynamic-data-using-gomplate-functions-4egn",
+          "categories": [
+            "kubernetes",
+            "gitops",
+            "aws"
+          ],
+          "isoDate": "2024-05-28T06:39:44.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Yoram Kornatzky",
+          "title": "Use SharpAPI for Translating E-Commerce Product Info",
+          "link": "https://dev.to/kornatzky/use-sharpapi-for-translating-e-commerce-product-info-40e8",
+          "pubDate": "Tue, 28 May 2024 06:38:30 +0000",
+          "dc:creator": "Yoram Kornatzky",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/kornatzky/use-sharpapi-for-translating-e-commerce-product-info-40e8",
+          "categories": [
+            "laravel",
+            "ai",
+            "php",
+            "ecommerce"
+          ],
+          "isoDate": "2024-05-28T06:38:30.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "lordronjuyal",
+          "title": "day 09",
+          "link": "https://dev.to/lordronjuyal/day-09-1gl6",
+          "pubDate": "Tue, 28 May 2024 06:30:40 +0000",
+          "dc:creator": "lordronjuyal",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/lordronjuyal/day-09-1gl6",
+          "categories": [
+            "python",
+            "oop",
+            "newbie",
+            "beginners"
+          ],
+          "isoDate": "2024-05-28T06:30:40.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
