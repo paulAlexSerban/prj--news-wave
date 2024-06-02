@@ -104,7 +104,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sat, 01 Jun 2024 05:02:03 GMT"
+      "lastBuildDate": "Sun, 02 Jun 2024 05:01:49 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -424,7 +424,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sat, 01 Jun 2024 06:34:50 GMT",
+      "lastBuildDate": "Sun, 02 Jun 2024 07:05:34 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -614,6 +614,27 @@
     "itnext": {
       "items": [
         {
+          "creator": "Emilien Lancelot",
+          "title": "Calling code with local LLM is a hoax",
+          "link": "https://itnext.io/calling-code-with-local-llm-is-a-hoax-098abc6b85bf?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 01 Jun 2024 09:04:50 GMT",
+          "dc:creator": "Emilien Lancelot",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/098abc6b85bf",
+          "categories": [
+            "ollama",
+            "llm-agent",
+            "llm",
+            "chatgpt",
+            "ai"
+          ],
+          "isoDate": "2024-06-01T09:04:50.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Theodor Sioustis",
           "title": "Building a Full-Stack Application with Blazor and CQRS: Frontend Development (Part 2)",
           "link": "https://itnext.io/building-a-full-stack-application-with-blazor-and-cqrs-frontend-development-part-2-17f5acbd1edd?source=rss----5b301f10ddcd---4",
@@ -791,27 +812,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Piotr",
-          "title": "How to Simplify Kubernetes Deployments with Kluctl:",
-          "link": "https://itnext.io/how-to-simplify-kubernetes-deployments-with-kluctl-2c3f71d4b71a?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 30 May 2024 14:32:43 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Piotr",
-          "guid": "https://medium.com/p/2c3f71d4b71a",
-          "categories": [
-            "kubernetes",
-            "devops",
-            "command-line",
-            "cloud-computing",
-            "software-development"
-          ],
-          "isoDate": "2024-05-30T14:32:43.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -828,157 +828,195 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sat, 01 Jun 2024 06:55:40 GMT"
+      "lastBuildDate": "Sun, 02 Jun 2024 06:59:19 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Magesh Sri",
-          "title": "My Journey Through the AWS Cloud Practitioner Course",
-          "link": "https://dev.to/magesh_sri_2bf29ab9cdbbc8/my-journey-through-the-aws-cloud-practitioner-course-22if",
-          "pubDate": "Sat, 01 Jun 2024 06:36:27 +0000",
-          "dc:creator": "Magesh Sri",
+          "creator": "Simon Green",
+          "title": "Maximizing the 1 bits",
+          "link": "https://dev.to/simongreennet/maximizing-the-1-bits-m8a",
+          "pubDate": "Sun, 02 Jun 2024 06:32:00 +0000",
+          "dc:creator": "Simon Green",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/magesh_sri_2bf29ab9cdbbc8/my-journey-through-the-aws-cloud-practitioner-course-22if",
-          "isoDate": "2024-06-01T06:36:27.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ishwarya Ishwarya",
-          "title": "Embarking on the AWS Cloud Quest: A Journey Towards Cloud Proficiency",
-          "link": "https://dev.to/ishwarya_ishwarya_49961ca/embarking-on-the-aws-cloud-quest-a-journey-towards-cloud-proficiency-1gkj",
-          "pubDate": "Sat, 01 Jun 2024 06:34:08 +0000",
-          "dc:creator": "Ishwarya Ishwarya",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/ishwarya_ishwarya_49961ca/embarking-on-the-aws-cloud-quest-a-journey-towards-cloud-proficiency-1gkj",
-          "isoDate": "2024-06-01T06:34:08.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Mark",
-          "title": "Building Message Component in Vue3",
-          "link": "https://dev.to/markliu2013/building-message-component-in-vue3-4b4d",
-          "pubDate": "Sat, 01 Jun 2024 06:32:56 +0000",
-          "dc:creator": "Mark",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/markliu2013/building-message-component-in-vue3-4b4d",
+          "guid": "https://dev.to/simongreennet/maximizing-the-1-bits-m8a",
           "categories": [
-            "vue",
-            "vue3",
-            "message",
-            "component"
+            "perl",
+            "python",
+            "theweeklychallenge",
+            "githubcopilot"
           ],
-          "isoDate": "2024-06-01T06:32:56.000Z",
+          "isoDate": "2024-06-02T06:32:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ayaz mohammad",
-          "title": "Unlocking the Power of the Cloud: My Journey to AWS Cloud Practitioner Certification\"",
-          "link": "https://dev.to/ayaz_mohammad_4ca3950e052/unlocking-the-power-of-the-cloud-my-journey-to-aws-cloud-practitioner-certification-3ofk",
-          "pubDate": "Sat, 01 Jun 2024 06:32:28 +0000",
-          "dc:creator": "Ayaz mohammad",
+          "creator": "PRANKUR PANDEY",
+          "title": "Building your own Productivity app using React JS and Mock API's",
+          "link": "https://dev.to/prankurpandeyy/building-your-own-productivity-app-using-react-js-and-mock-apis-3hd2",
+          "pubDate": "Sun, 02 Jun 2024 05:50:59 +0000",
+          "dc:creator": "PRANKUR PANDEY",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ayaz_mohammad_4ca3950e052/unlocking-the-power-of-the-cloud-my-journey-to-aws-cloud-practitioner-certification-3ofk",
-          "isoDate": "2024-06-01T06:32:28.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Priyalakshmi R",
-          "title": "Navigating the Cloud: My Journey with AWS Cloud Quest Practitioner",
-          "link": "https://dev.to/priyalakshmi_r_257b44ee43/navigating-the-cloud-my-journey-with-aws-cloud-quest-practitioner-50fm",
-          "pubDate": "Sat, 01 Jun 2024 06:30:38 +0000",
-          "dc:creator": "Priyalakshmi R",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/priyalakshmi_r_257b44ee43/navigating-the-cloud-my-journey-with-aws-cloud-quest-practitioner-50fm",
-          "isoDate": "2024-06-01T06:30:38.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "prasanna 2003",
-          "title": "Journey into Cloud Computing: A Student's Experience with AWS Cloud",
-          "link": "https://dev.to/prasanna_2003_1a0dd37d366/journey-into-cloud-computing-a-students-experience-with-aws-cloud-3nb",
-          "pubDate": "Sat, 01 Jun 2024 06:29:56 +0000",
-          "dc:creator": "prasanna 2003",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/prasanna_2003_1a0dd37d366/journey-into-cloud-computing-a-students-experience-with-aws-cloud-3nb",
-          "isoDate": "2024-06-01T06:29:56.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Muhammed Sheik Ashraf",
-          "title": "My AWS Cloud Quest Journey: A Transformative Experience",
-          "link": "https://dev.to/muhammed_sheikashraf_537/my-aws-cloud-quest-journey-a-transformative-experience-48ih",
-          "pubDate": "Sat, 01 Jun 2024 06:28:42 +0000",
-          "dc:creator": "Muhammed Sheik Ashraf",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/muhammed_sheikashraf_537/my-aws-cloud-quest-journey-a-transformative-experience-48ih",
-          "isoDate": "2024-06-01T06:28:42.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Caroline A",
-          "title": "Navigating the Cloud: My AWS Cloud Quest Journey",
-          "link": "https://dev.to/caroline_a_1c7cbd989ae47a/navigating-the-cloud-my-aws-cloud-quest-journey-518e",
-          "pubDate": "Sat, 01 Jun 2024 06:26:26 +0000",
-          "dc:creator": "Caroline A",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/caroline_a_1c7cbd989ae47a/navigating-the-cloud-my-aws-cloud-quest-journey-518e",
-          "isoDate": "2024-06-01T06:26:26.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Amirtha Varshinii",
-          "title": "My AWS Cloud Practitioner Journey: Learning Through Fun and Games",
-          "link": "https://dev.to/amirtha_varshinii_cbc8182/my-aws-cloud-practitioner-journey-learning-through-fun-and-games-1poc",
-          "pubDate": "Sat, 01 Jun 2024 06:21:21 +0000",
-          "dc:creator": "Amirtha Varshinii",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/amirtha_varshinii_cbc8182/my-aws-cloud-practitioner-journey-learning-through-fun-and-games-1poc",
-          "isoDate": "2024-06-01T06:21:21.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Michael Andreuzza",
-          "title": "How to create a swatch clock with Tailwind CSS",
-          "link": "https://dev.to/mike_andreuzza/how-to-create-a-swatch-clock-with-tailwind-css-42jc",
-          "pubDate": "Sat, 01 Jun 2024 06:19:10 +0000",
-          "dc:creator": "Michael Andreuzza",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/mike_andreuzza/how-to-create-a-swatch-clock-with-tailwind-css-42jc",
+          "guid": "https://dev.to/prankurpandeyy/building-your-own-productivity-app-using-react-js-and-mock-apis-3hd2",
           "categories": [
-            "tutorial",
+            "productivity",
+            "react",
             "tailwindcss",
-            "design"
+            "api"
           ],
-          "isoDate": "2024-06-01T06:19:10.000Z",
+          "isoDate": "2024-06-02T05:50:59.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Benjamin Zelnick",
+          "title": "Keyoxide Identity Proof",
+          "link": "https://dev.to/zelnickb/keyoxide-identity-proof-22b0",
+          "pubDate": "Sun, 02 Jun 2024 05:40:10 +0000",
+          "dc:creator": "Benjamin Zelnick",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/zelnickb/keyoxide-identity-proof-22b0",
+          "isoDate": "2024-06-02T05:40:10.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "bytebantz",
+          "title": "Reactive vs. Template-Driven Approaches: Exploring Angular Forms",
+          "link": "https://dev.to/bytebantz/reactive-vs-template-driven-approaches-exploring-angular-forms-e2f",
+          "pubDate": "Sun, 02 Jun 2024 05:39:21 +0000",
+          "dc:creator": "bytebantz",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/bytebantz/reactive-vs-template-driven-approaches-exploring-angular-forms-e2f",
+          "categories": [
+            "angular",
+            "webdev",
+            "javascript"
+          ],
+          "isoDate": "2024-06-02T05:39:21.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "FullStackJava",
+          "title": "Understanding Nodes in Java: The Building Blocks of Data Structures",
+          "link": "https://dev.to/fullstackjava/understanding-nodes-in-java-the-building-blocks-of-data-structures-5di3",
+          "pubDate": "Sun, 02 Jun 2024 05:19:49 +0000",
+          "dc:creator": "FullStackJava",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/fullstackjava/understanding-nodes-in-java-the-building-blocks-of-data-structures-5di3",
+          "categories": [
+            "dsa",
+            "programming",
+            "career",
+            "java"
+          ],
+          "isoDate": "2024-06-02T05:19:49.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "harshchandwani",
+          "title": "Middleware to Asp.net Core MVC Application + Custom Middleware",
+          "link": "https://dev.to/harshchandwani/middleware-to-aspnet-core-mvc-application-custom-middleware-4k4h",
+          "pubDate": "Sun, 02 Jun 2024 05:02:01 +0000",
+          "dc:creator": "harshchandwani",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/harshchandwani/middleware-to-aspnet-core-mvc-application-custom-middleware-4k4h",
+          "categories": [
+            "aspdotnet",
+            "middleware",
+            "programming",
+            "webdev"
+          ],
+          "isoDate": "2024-06-02T05:02:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Xuân Hoài Tống",
+          "title": "The best personal Note-taking app 📙 Fast 🚀 Secure 🔐 and Free 💯",
+          "link": "https://dev.to/hoaitx/the-best-personal-note-taking-app-fast-secure-and-free-257k",
+          "pubDate": "Sun, 02 Jun 2024 04:41:59 +0000",
+          "dc:creator": "Xuân Hoài Tống",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/hoaitx/the-best-personal-note-taking-app-fast-secure-and-free-257k",
+          "categories": [
+            "note",
+            "notetalking",
+            "opensource"
+          ],
+          "isoDate": "2024-06-02T04:41:59.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Chandra Shettigar",
+          "title": "Rails on Docker - Simplify Your Development with Docker and DevContainers",
+          "link": "https://dev.to/shettigarc/simplify-your-rails-development-with-docker-and-vscode-3ld8",
+          "pubDate": "Sun, 02 Jun 2024 04:38:21 +0000",
+          "dc:creator": "Chandra Shettigar",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/shettigarc/simplify-your-rails-development-with-docker-and-vscode-3ld8",
+          "categories": [
+            "devcontainers",
+            "vscode",
+            "docker",
+            "rails"
+          ],
+          "isoDate": "2024-06-02T04:38:21.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "kamesh",
+          "title": "let vs var vs Const",
+          "link": "https://dev.to/kameshoff/let-vs-var-vs-const-197c",
+          "pubDate": "Sun, 02 Jun 2024 04:23:32 +0000",
+          "dc:creator": "kamesh",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/kameshoff/let-vs-var-vs-const-197c",
+          "categories": [
+            "javascript",
+            "programming",
+            "beginners",
+            "webdev"
+          ],
+          "isoDate": "2024-06-02T04:23:32.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ross-Li",
+          "title": "Mobilizing Others: Some Reflections",
+          "link": "https://dev.to/rossli/mobilizing-others-some-reflections-eic",
+          "pubDate": "Sun, 02 Jun 2024 04:02:35 +0000",
+          "dc:creator": "Ross-Li",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/rossli/mobilizing-others-some-reflections-eic",
+          "categories": [
+            "management"
+          ],
+          "isoDate": "2024-06-02T04:02:35.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
