@@ -104,7 +104,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sun, 02 Jun 2024 05:01:49 GMT"
+      "lastBuildDate": "Mon, 03 Jun 2024 05:02:04 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -424,7 +424,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sun, 02 Jun 2024 07:05:34 GMT",
+      "lastBuildDate": "Mon, 03 Jun 2024 06:35:17 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -614,6 +614,27 @@
     "itnext": {
       "items": [
         {
+          "creator": "Mahdi Mallaki",
+          "title": "Helm + Kustomize + Raw Manifests Combination",
+          "link": "https://itnext.io/helm-kustomize-raw-manifests-combination-570f81acf996?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 02 Jun 2024 07:20:40 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Mahdi Mallaki",
+          "guid": "https://medium.com/p/570f81acf996",
+          "categories": [
+            "gitlab",
+            "helm",
+            "kubernetes",
+            "devops",
+            "kustomize"
+          ],
+          "isoDate": "2024-06-02T07:20:40.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Emilien Lancelot",
           "title": "Calling code with local LLM is a hoax",
           "link": "https://itnext.io/calling-code-with-local-llm-is-a-hoax-098abc6b85bf?source=rss----5b301f10ddcd---4",
@@ -791,27 +812,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Gapur Kassym",
-          "title": "Building Microservices with NestJS, TCP and Typescript",
-          "link": "https://itnext.io/building-microservices-with-nestjs-tcp-and-typescript-dda33aad8b89?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 30 May 2024 14:37:18 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Gapur Kassym",
-          "guid": "https://medium.com/p/dda33aad8b89",
-          "categories": [
-            "microservices",
-            "nestjs",
-            "microservice-architecture",
-            "programming",
-            "typescript"
-          ],
-          "isoDate": "2024-05-30T14:37:18.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -828,195 +828,199 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sun, 02 Jun 2024 06:59:19 GMT"
+      "lastBuildDate": "Mon, 03 Jun 2024 07:00:14 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Simon Green",
-          "title": "Maximizing the 1 bits",
-          "link": "https://dev.to/simongreennet/maximizing-the-1-bits-m8a",
-          "pubDate": "Sun, 02 Jun 2024 06:32:00 +0000",
-          "dc:creator": "Simon Green",
+          "creator": "Madhuri Patil",
+          "title": "Histogram: Your first statistical Analysis",
+          "link": "https://dev.to/madhuripatil/histogram-your-first-statistical-analysis-1af2",
+          "pubDate": "Mon, 03 Jun 2024 06:51:27 +0000",
+          "dc:creator": "Madhuri Patil",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/simongreennet/maximizing-the-1-bits-m8a",
+          "guid": "https://dev.to/madhuripatil/histogram-your-first-statistical-analysis-1af2",
           "categories": [
-            "perl",
+            "histogram",
+            "datascience",
             "python",
-            "theweeklychallenge",
-            "githubcopilot"
+            "seaborn"
           ],
-          "isoDate": "2024-06-02T06:32:00.000Z",
+          "isoDate": "2024-06-03T06:51:27.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "PRANKUR PANDEY",
-          "title": "Building your own Productivity app using React JS and Mock API's",
-          "link": "https://dev.to/prankurpandeyy/building-your-own-productivity-app-using-react-js-and-mock-apis-3hd2",
-          "pubDate": "Sun, 02 Jun 2024 05:50:59 +0000",
-          "dc:creator": "PRANKUR PANDEY",
+          "creator": "Zeeve ",
+          "title": "Zeeve Partners with LightHouse to Bring Low Cost Perpetual Cloud Storage Services for Rollups and AppChains",
+          "link": "https://dev.to/zeeve/zeeve-partners-with-lighthouse-to-bring-low-cost-perpetual-cloud-storage-services-for-rollups-and-appchains-np1",
+          "pubDate": "Mon, 03 Jun 2024 06:38:02 +0000",
+          "dc:creator": "Zeeve ",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/prankurpandeyy/building-your-own-productivity-app-using-react-js-and-mock-apis-3hd2",
+          "guid": "https://dev.to/zeeve/zeeve-partners-with-lighthouse-to-bring-low-cost-perpetual-cloud-storage-services-for-rollups-and-appchains-np1",
           "categories": [
-            "productivity",
-            "react",
-            "tailwindcss",
-            "api"
+            "announcement",
+            "zeeve",
+            "lighthouse"
           ],
-          "isoDate": "2024-06-02T05:50:59.000Z",
+          "isoDate": "2024-06-03T06:38:02.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Benjamin Zelnick",
-          "title": "Keyoxide Identity Proof",
-          "link": "https://dev.to/zelnickb/keyoxide-identity-proof-22b0",
-          "pubDate": "Sun, 02 Jun 2024 05:40:10 +0000",
-          "dc:creator": "Benjamin Zelnick",
+          "creator": "Akriti Keswani",
+          "title": "Annotations in Java Spring",
+          "link": "https://dev.to/akritikeswani/annotations-in-java-spring-1d0h",
+          "pubDate": "Mon, 03 Jun 2024 06:37:29 +0000",
+          "dc:creator": "Akriti Keswani",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/zelnickb/keyoxide-identity-proof-22b0",
-          "isoDate": "2024-06-02T05:40:10.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "bytebantz",
-          "title": "Reactive vs. Template-Driven Approaches: Exploring Angular Forms",
-          "link": "https://dev.to/bytebantz/reactive-vs-template-driven-approaches-exploring-angular-forms-e2f",
-          "pubDate": "Sun, 02 Jun 2024 05:39:21 +0000",
-          "dc:creator": "bytebantz",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/bytebantz/reactive-vs-template-driven-approaches-exploring-angular-forms-e2f",
+          "guid": "https://dev.to/akritikeswani/annotations-in-java-spring-1d0h",
           "categories": [
-            "angular",
+            "programming",
+            "learning",
+            "java",
+            "backenddevelopment"
+          ],
+          "isoDate": "2024-06-03T06:37:29.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Judy",
+          "title": "Which Scenarios Does ClickHouse Applies to?",
+          "link": "https://dev.to/esproc_spl/which-scenarios-does-clickhouse-applies-to-3mp5",
+          "pubDate": "Mon, 03 Jun 2024 06:36:26 +0000",
+          "dc:creator": "Judy",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/esproc_spl/which-scenarios-does-clickhouse-applies-to-3mp5",
+          "categories": [
+            "clickhouse",
+            "development",
+            "lauguage",
+            "beginners"
+          ],
+          "isoDate": "2024-06-03T06:36:26.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Elaine Bennett",
+          "title": "Streamlining Software Development with Efficient Email Archiving Solutions",
+          "link": "https://dev.to/elainecbennet/streamlining-software-development-with-efficient-email-archiving-solutions-29c5",
+          "pubDate": "Mon, 03 Jun 2024 06:36:08 +0000",
+          "dc:creator": "Elaine Bennett",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/elainecbennet/streamlining-software-development-with-efficient-email-archiving-solutions-29c5",
+          "categories": [
+            "emailarchiving",
+            "softwaredevelopment",
+            "development"
+          ],
+          "isoDate": "2024-06-03T06:36:08.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sebastian",
+          "title": "LLM Fine-Tuning Workshop: Improve Question-Answering Skills",
+          "link": "https://dev.to/admantium/llm-fine-tuning-workshop-improve-question-answering-skills-1h18",
+          "pubDate": "Mon, 03 Jun 2024 06:30:29 +0000",
+          "dc:creator": "Sebastian",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/admantium/llm-fine-tuning-workshop-improve-question-answering-skills-1h18",
+          "categories": [
+            "llm"
+          ],
+          "isoDate": "2024-06-03T06:30:29.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Zeeve ",
+          "title": "Step-by-step guide to Build an OP Stack Rollup DevNet with Zeeve RaaS",
+          "link": "https://dev.to/zeeve/step-by-step-guide-to-build-an-op-stack-rollup-devnet-with-zeeve-raas-n95",
+          "pubDate": "Mon, 03 Jun 2024 06:27:02 +0000",
+          "dc:creator": "Zeeve ",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/zeeve/step-by-step-guide-to-build-an-op-stack-rollup-devnet-with-zeeve-raas-n95",
+          "categories": [
+            "optimisticrollups",
+            "rollups"
+          ],
+          "isoDate": "2024-06-03T06:27:02.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ryoichi Homma",
+          "title": "Why I Switched from GitHub Pages to Netlify for Deploying Static Websites",
+          "link": "https://dev.to/ryoichihomma/why-i-switched-from-github-pages-to-netlify-for-deploying-static-websites-2lnn",
+          "pubDate": "Mon, 03 Jun 2024 06:25:39 +0000",
+          "dc:creator": "Ryoichi Homma",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/ryoichihomma/why-i-switched-from-github-pages-to-netlify-for-deploying-static-websites-2lnn",
+          "categories": [
+            "netlify",
+            "deployment",
+            "staticwebapps",
+            "github"
+          ],
+          "isoDate": "2024-06-03T06:25:39.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Hideki Ikeda",
+          "title": "Build OAuth 2.0 Server & API Server with Authlete + Spring Boot",
+          "link": "https://dev.to/authlete/build-oauth-20-server-api-server-with-authlete-spring-boot-5aj4",
+          "pubDate": "Mon, 03 Jun 2024 06:13:28 +0000",
+          "dc:creator": "Hideki Ikeda",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/authlete/build-oauth-20-server-api-server-with-authlete-spring-boot-5aj4",
+          "categories": [
+            "oauth",
+            "security",
+            "java",
+            "spring"
+          ],
+          "isoDate": "2024-06-03T06:13:28.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Codequiry",
+          "title": "Understanding the Importance of Code Plagiarism Checkers",
+          "link": "https://dev.to/codequiry/understanding-the-importance-of-code-plagiarism-checkers-ebm",
+          "pubDate": "Mon, 03 Jun 2024 06:05:44 +0000",
+          "dc:creator": "Codequiry",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/codequiry/understanding-the-importance-of-code-plagiarism-checkers-ebm",
+          "categories": [
             "webdev",
-            "javascript"
+            "codeplagiarismchecker",
+            "codeplagiarism",
+            "codequiry"
           ],
-          "isoDate": "2024-06-02T05:39:21.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "FullStackJava",
-          "title": "Understanding Nodes in Java: The Building Blocks of Data Structures",
-          "link": "https://dev.to/fullstackjava/understanding-nodes-in-java-the-building-blocks-of-data-structures-5di3",
-          "pubDate": "Sun, 02 Jun 2024 05:19:49 +0000",
-          "dc:creator": "FullStackJava",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/fullstackjava/understanding-nodes-in-java-the-building-blocks-of-data-structures-5di3",
-          "categories": [
-            "dsa",
-            "programming",
-            "career",
-            "java"
-          ],
-          "isoDate": "2024-06-02T05:19:49.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "harshchandwani",
-          "title": "Middleware to Asp.net Core MVC Application + Custom Middleware",
-          "link": "https://dev.to/harshchandwani/middleware-to-aspnet-core-mvc-application-custom-middleware-4k4h",
-          "pubDate": "Sun, 02 Jun 2024 05:02:01 +0000",
-          "dc:creator": "harshchandwani",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/harshchandwani/middleware-to-aspnet-core-mvc-application-custom-middleware-4k4h",
-          "categories": [
-            "aspdotnet",
-            "middleware",
-            "programming",
-            "webdev"
-          ],
-          "isoDate": "2024-06-02T05:02:01.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Xuân Hoài Tống",
-          "title": "The best personal Note-taking app 📙 Fast 🚀 Secure 🔐 and Free 💯",
-          "link": "https://dev.to/hoaitx/the-best-personal-note-taking-app-fast-secure-and-free-257k",
-          "pubDate": "Sun, 02 Jun 2024 04:41:59 +0000",
-          "dc:creator": "Xuân Hoài Tống",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/hoaitx/the-best-personal-note-taking-app-fast-secure-and-free-257k",
-          "categories": [
-            "note",
-            "notetalking",
-            "opensource"
-          ],
-          "isoDate": "2024-06-02T04:41:59.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Chandra Shettigar",
-          "title": "Rails on Docker - Simplify Your Development with Docker and DevContainers",
-          "link": "https://dev.to/shettigarc/simplify-your-rails-development-with-docker-and-vscode-3ld8",
-          "pubDate": "Sun, 02 Jun 2024 04:38:21 +0000",
-          "dc:creator": "Chandra Shettigar",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/shettigarc/simplify-your-rails-development-with-docker-and-vscode-3ld8",
-          "categories": [
-            "devcontainers",
-            "vscode",
-            "docker",
-            "rails"
-          ],
-          "isoDate": "2024-06-02T04:38:21.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "kamesh",
-          "title": "let vs var vs Const",
-          "link": "https://dev.to/kameshoff/let-vs-var-vs-const-197c",
-          "pubDate": "Sun, 02 Jun 2024 04:23:32 +0000",
-          "dc:creator": "kamesh",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/kameshoff/let-vs-var-vs-const-197c",
-          "categories": [
-            "javascript",
-            "programming",
-            "beginners",
-            "webdev"
-          ],
-          "isoDate": "2024-06-02T04:23:32.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ross-Li",
-          "title": "Mobilizing Others: Some Reflections",
-          "link": "https://dev.to/rossli/mobilizing-others-some-reflections-eic",
-          "pubDate": "Sun, 02 Jun 2024 04:02:35 +0000",
-          "dc:creator": "Ross-Li",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/rossli/mobilizing-others-some-reflections-eic",
-          "categories": [
-            "management"
-          ],
-          "isoDate": "2024-06-02T04:02:35.000Z",
+          "isoDate": "2024-06-03T06:05:44.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
