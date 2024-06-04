@@ -4,6 +4,27 @@
     "CSS Tricks": {
       "items": [
         {
+          "creator": "Geoff Graham",
+          "title": "CSS Length Units",
+          "link": "https://css-tricks.com/css-length-units/",
+          "pubDate": "Mon, 03 Jun 2024 19:22:02 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Geoff Graham",
+          "comments": "https://css-tricks.com/css-length-units/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://css-tricks.com/?p=375815",
+          "categories": [
+            "Article",
+            "Guide Collection",
+            "container units",
+            "units"
+          ],
+          "isoDate": "2024-06-03T19:22:02.000Z",
+          "summary": ""
+        },
+        {
           "creator": "Chris DeMars",
           "title": "Demystifying Screen Readers: Accessible Forms & Best Practices",
           "link": "https://css-tricks.com/demystifying-screen-readers-accessible-forms-best-practices/",
@@ -86,27 +107,6 @@
           ],
           "isoDate": "2024-03-22T18:52:31.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Neal Fennimore",
-          "title": "Passkeys: What the Heck and Why?",
-          "link": "https://css-tricks.com/passkeys-what-the-heck-and-why/",
-          "pubDate": "Wed, 12 Apr 2023 17:41:53 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Neal Fennimore",
-          "comments": "https://css-tricks.com/passkeys-what-the-heck-and-why/#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://css-tricks.com/?p=377305",
-          "categories": [
-            "Article",
-            "passkeys",
-            "security",
-            "webauthn"
-          ],
-          "isoDate": "2023-04-12T17:41:53.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://css-tricks.com/feed/",
@@ -125,7 +125,7 @@
       "generator": "https://wordpress.org/?v=6.5.2",
       "link": "https://css-tricks.com",
       "language": "en-US",
-      "lastBuildDate": "Fri, 17 May 2024 19:27:50 +0000"
+      "lastBuildDate": "Mon, 03 Jun 2024 19:23:58 +0000"
     },
     "CSS In Real Life": {
       "items": [
@@ -321,6 +321,26 @@
           "summary": ""
         },
         {
+          "title": "How to Reduce The Carbon Footprint of Your Website",
+          "link": "https://www.webdesignerdepot.com/reduce-website-carbon-footprints/",
+          "pubDate": "Thu, 16 May 2024 05:30:00 -0700",
+          "enclosure": {
+            "url": "https://www.webdesignerdepot.com/assets/posts/featured/green-laptop.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.webdesignerdepot.com/reduce-website-carbon-footprints/",
+          "categories": [
+            "Development"
+          ],
+          "isoDate": "2024-05-16T12:30:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "20 Best New Websites, May 2024",
           "link": "https://www.webdesignerdepot.com/best-websites-may-2024/",
           "pubDate": "Mon, 13 May 2024 05:30:00 -0700",
@@ -341,41 +361,21 @@
           "summary": ""
         },
         {
-          "title": "Exciting New Tools for Designers, May 2024",
-          "link": "https://www.webdesignerdepot.com/tools-designers-may-2024/",
-          "pubDate": "Mon, 06 May 2024 05:30:00 -0700",
+          "title": "Has AI Killed User Testing?",
+          "link": "https://www.webdesignerdepot.com/ai-user-testing/",
+          "pubDate": "Wed, 08 May 2024 05:30:00 -0700",
           "enclosure": {
-            "url": "https://www.webdesignerdepot.com/assets/posts/featured/musho.jpg",
+            "url": "https://www.webdesignerdepot.com/assets/posts/featured/ai-user-testing.jpg",
             "length": "0",
             "type": "image/jpg"
           },
           "content": "",
           "contentSnippet": "",
-          "guid": "https://www.webdesignerdepot.com/tools-designers-may-2024/",
-          "categories": [
-            "Compilations"
-          ],
-          "isoDate": "2024-05-06T12:30:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Using AI to Predict Design Trends",
-          "link": "https://www.webdesignerdepot.com/ai-predict-design-trends/",
-          "pubDate": "Wed, 01 May 2024 05:30:00 -0700",
-          "enclosure": {
-            "url": "https://www.webdesignerdepot.com/assets/posts/featured/ai-predictive-analytics.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.webdesignerdepot.com/ai-predict-design-trends/",
+          "guid": "https://www.webdesignerdepot.com/ai-user-testing/",
           "categories": [
             "AI"
           ],
-          "isoDate": "2024-05-01T12:30:00.000Z",
+          "isoDate": "2024-05-08T12:30:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -394,7 +394,7 @@
       },
       "title": "Web Designer Depot",
       "description": "Web Design Resources and Tutorials",
-      "pubDate": "Mon, 03 Jun 2024 00:11:19 -0700",
+      "pubDate": "Tue, 04 Jun 2024 00:10:47 -0700",
       "link": "https://www.webdesignerdepot.com",
       "language": "en-us",
       "copyright": "Copyright Web Designer Depot, all rights reserved."
@@ -987,6 +987,18 @@
     "Go Make Things": {
       "items": [
         {
+          "title": "Every dependency is a potential vulnerability",
+          "link": "https://gomakethings.com/every-dependency-is-a-potential-vulnerability/",
+          "pubDate": "Mon, 03 Jun 2024 10:30:00 -0400",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://gomakethings.com/every-dependency-is-a-potential-vulnerability/",
+          "isoDate": "2024-06-03T14:30:00.000Z",
+          "summary": ""
+        },
+        {
           "title": "The different static site generators (and which one to choose)",
           "link": "https://gomakethings.com/the-different-static-site-generators-and-which-one-to-choose/",
           "pubDate": "Fri, 31 May 2024 10:30:00 -0400",
@@ -1033,18 +1045,6 @@
           "guid": "https://gomakethings.com/your-site-or-app-should-work-as-much-as-possible-without-javascript/",
           "isoDate": "2024-05-28T14:30:00.000Z",
           "summary": ""
-        },
-        {
-          "title": "Data portability: API getter and setter methods",
-          "link": "https://gomakethings.com/data-portability-api-getter-and-setter-methods/",
-          "pubDate": "Fri, 24 May 2024 10:30:00 -0400",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://gomakethings.com/data-portability-api-getter-and-setter-methods/",
-          "isoDate": "2024-05-24T14:30:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://gomakethings.com/feed/index.xml",
@@ -1056,7 +1056,7 @@
       "generator": "Hugo -- gohugo.io",
       "link": "https://gomakethings.com/articles",
       "language": "en-us",
-      "lastBuildDate": "Mon, 03 Jun 2024 00:00:37 EST"
+      "lastBuildDate": "Tue, 04 Jun 2024 00:00:53 EST"
     }
   }
 }
