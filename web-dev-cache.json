@@ -104,7 +104,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sat, 08 Jun 2024 05:02:07 GMT"
+      "lastBuildDate": "Sun, 09 Jun 2024 05:02:07 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -424,7 +424,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sat, 08 Jun 2024 06:34:52 GMT",
+      "lastBuildDate": "Sun, 09 Jun 2024 06:35:11 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -543,6 +543,20 @@
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Tom Smith",
+          "title": "Harnessing the Power of Gen AI: Real-World Applications and Best Practices",
+          "link": "https://dzone.com/articles/harnessing-the-power-of-gen-ai-real-world",
+          "pubDate": "Sat, 08 Jun 2024 12:00:02 GMT",
+          "dc:creator": "Tom Smith",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3460564",
+          "isoDate": "2024-06-08T12:00:02.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Vijay Panwar",
           "title": "Using AWS Data Lake and S3 With SQL Server: A Detailed Guide With Research Paper Dataset Example",
@@ -668,20 +682,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Dmitry Narizhnykh",
-          "title": "ChatGPT: Your Guide to SQL Query Translation Between Databases",
-          "link": "https://dzone.com/articles/chatgpt-sql-query-translation-between-databases",
-          "pubDate": "Fri, 07 Jun 2024 12:00:01 GMT",
-          "dc:creator": "Dmitry Narizhnykh",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3462988",
-          "isoDate": "2024-06-07T12:00:01.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -695,8 +695,69 @@
     "itnext": {
       "items": [
         {
+          "creator": "Mahdi Mallaki",
+          "title": "Public Key Infrastructure for On-Premises",
+          "link": "https://itnext.io/public-key-infrastructure-for-on-premises-1026a115edbb?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 08 Jun 2024 23:51:51 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Mahdi Mallaki",
+          "guid": "https://medium.com/p/1026a115edbb",
+          "categories": [
+            "pki-solution",
+            "kubernetes",
+            "openssl"
+          ],
+          "isoDate": "2024-06-08T23:51:51.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Dale Nguyen",
+          "title": "Building PDF Open Source Services with Angular & GCP — Deploy services to Cloud Run",
+          "link": "https://itnext.io/building-pdf-open-source-services-with-angular-gcp-deploy-services-to-cloud-run-686b5b8fb87b?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 08 Jun 2024 23:49:36 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Dale Nguyen",
+          "guid": "https://medium.com/p/686b5b8fb87b",
+          "categories": [
+            "gcp",
+            "angular",
+            "firebase",
+            "open-source",
+            "pdf"
+          ],
+          "isoDate": "2024-06-08T23:49:36.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Piotr",
+          "title": "Master Command Orchestration",
+          "link": "https://itnext.io/master-command-orchestration-16f4a117ce05?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 08 Jun 2024 13:38:44 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Piotr",
+          "guid": "https://medium.com/p/16f4a117ce05",
+          "categories": [
+            "command-line",
+            "automation",
+            "development",
+            "open-source",
+            "devops"
+          ],
+          "isoDate": "2024-06-08T13:38:44.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Guillermo Quiros",
-          "title": "K8Studio CloudMaps: Using Maps to master Kubernetes observability",
+          "title": "Using Maps to master Kubernetes observability",
           "link": "https://itnext.io/k8studio-cloudmaps-using-maps-to-master-kubernetes-observability-c879a49440d4?source=rss----5b301f10ddcd---4",
           "pubDate": "Fri, 07 Jun 2024 17:47:22 GMT",
           "content:encoded": "",
@@ -835,67 +896,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "António Carvalho",
-          "title": "Why I do not use OutSystems UI",
-          "link": "https://itnext.io/why-i-do-not-use-outsystems-ui-185ce587184d?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 06 Jun 2024 07:01:47 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "António Carvalho",
-          "guid": "https://medium.com/p/185ce587184d",
-          "categories": [
-            "outsystems-frontend",
-            "outsystems",
-            "outsystems-development",
-            "frontend-development"
-          ],
-          "isoDate": "2024-06-06T07:01:47.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Gonçalo Palma",
-          "title": "Firestore and NoSQL — The challenges of structuring our data",
-          "link": "https://itnext.io/firestore-and-nosql-the-challenges-of-structuring-our-data-c812f1f1a961?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 05 Jun 2024 16:23:31 GMT",
-          "dc:creator": "Gonçalo Palma",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/c812f1f1a961",
-          "categories": [
-            "firebase",
-            "nosql",
-            "database",
-            "flutter"
-          ],
-          "isoDate": "2024-06-05T16:23:31.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ben \"The Hosk\" Hosking",
-          "title": "What Developers Can Learn From Slime Molds And Fungi",
-          "link": "https://itnext.io/what-developers-can-learn-from-slime-molds-and-fungi-b0f4bad64122?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 05 Jun 2024 13:31:34 GMT",
-          "dc:creator": "Ben \"The Hosk\" Hosking",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/b0f4bad64122",
-          "categories": [
-            "programming",
-            "software-development",
-            "development",
-            "software-engineering",
-            "technology"
-          ],
-          "isoDate": "2024-06-05T13:31:34.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -912,194 +912,186 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sat, 08 Jun 2024 06:53:37 GMT"
+      "lastBuildDate": "Sun, 09 Jun 2024 06:57:07 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Santosh Shelar",
-          "title": "🚫 8 Signs Programming Might Not Be Your Jam 🚫",
-          "link": "https://dev.to/learn_with_santosh/8-signs-programming-might-not-be-your-jam-g9m",
-          "pubDate": "Sat, 08 Jun 2024 06:59:30 +0000",
-          "dc:creator": "Santosh Shelar",
+          "creator": "schBenedikt",
+          "title": "I created my own search engine",
+          "link": "https://dev.to/schbenedikt/i-created-my-own-search-engine-go4",
+          "pubDate": "Sun, 09 Jun 2024 06:42:44 +0000",
+          "dc:creator": "schBenedikt",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/learn_with_santosh/8-signs-programming-might-not-be-your-jam-g9m",
+          "guid": "https://dev.to/schbenedikt/i-created-my-own-search-engine-go4",
           "categories": [
-            "programming",
-            "guide",
-            "development"
-          ],
-          "isoDate": "2024-06-08T06:59:30.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Rishabh Agarwal",
-          "title": "Relational Databases: PostgreSQL Vs. MariaDB Vs. MySQL Vs. SQLite",
-          "link": "https://dev.to/strapi/relational-databases-postgresql-vs-mariadb-vs-mysql-vs-sqlite-5dn7",
-          "pubDate": "Sat, 08 Jun 2024 06:37:54 +0000",
-          "dc:creator": "Rishabh Agarwal",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/strapi/relational-databases-postgresql-vs-mariadb-vs-mysql-vs-sqlite-5dn7",
-          "categories": [
-            "beginners",
-            "database",
-            "coding",
-            "sql"
-          ],
-          "isoDate": "2024-06-08T06:37:54.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Mark Smith",
-          "title": "Latest Newsletter: Collaborating on a Rocky Road (Issue #167)",
-          "link": "https://dev.to/mjgs/latest-newsletter-collaborating-on-a-rocky-road-issue-167-3ph5",
-          "pubDate": "Sat, 08 Jun 2024 06:22:59 +0000",
-          "dc:creator": "Mark Smith",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/mjgs/latest-newsletter-collaborating-on-a-rocky-road-issue-167-3ph5",
-          "categories": [
-            "javascript",
-            "tech",
+            "bootstrap",
+            "python",
             "webdev",
-            "discuss"
-          ],
-          "isoDate": "2024-06-08T06:22:59.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Andrew David Carnahan",
-          "title": "My Pen on CodePen",
-          "link": "https://dev.to/dog_man/my-pen-on-codepen-30e5",
-          "pubDate": "Sat, 08 Jun 2024 06:22:34 +0000",
-          "dc:creator": "Andrew David Carnahan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/dog_man/my-pen-on-codepen-30e5",
-          "categories": [
-            "codepen"
-          ],
-          "isoDate": "2024-06-08T06:22:34.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "amalkabraham001",
-          "title": "Configuring Hibernate for Azure Virtual Desktop (AVD) | Step-by-Step Guide",
-          "link": "https://dev.to/amalkabraham001/configuring-hibernate-for-azure-virtual-desktop-avd-step-by-step-guide-67a",
-          "pubDate": "Sat, 08 Jun 2024 06:20:49 +0000",
-          "dc:creator": "amalkabraham001",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/amalkabraham001/configuring-hibernate-for-azure-virtual-desktop-avd-step-by-step-guide-67a",
-          "categories": [
-            "avd",
-            "microsoft",
-            "azure"
-          ],
-          "isoDate": "2024-06-08T06:20:49.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Manthan Ankolekar",
-          "title": "Exploring Angular Directives: A Comprehensive Guide",
-          "link": "https://dev.to/manthanank/exploring-angular-directives-a-comprehensive-guide-4bia",
-          "pubDate": "Sat, 08 Jun 2024 06:15:00 +0000",
-          "dc:creator": "Manthan Ankolekar",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/manthanank/exploring-angular-directives-a-comprehensive-guide-4bia",
-          "categories": [
-            "webdev",
-            "javascript",
-            "beginners",
-            "angular"
-          ],
-          "isoDate": "2024-06-08T06:15:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "johnrs",
-          "title": "What other skills does industry need in ML?",
-          "link": "https://dev.to/johnrs/what-other-skills-does-industry-need-in-ml-1995",
-          "pubDate": "Sat, 08 Jun 2024 06:14:43 +0000",
-          "dc:creator": "johnrs",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/johnrs/what-other-skills-does-industry-need-in-ml-1995",
-          "categories": [
-            "machinelearning",
-            "datascience",
-            "help",
-            "expert"
-          ],
-          "isoDate": "2024-06-08T06:14:43.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Dharmendra Kumar",
-          "title": "JavaScript Performance: Making Websites Fast and Responsive🚀🚀🚀",
-          "link": "https://dev.to/dharamgfx/javascript-performance-making-websites-fast-and-responsive-g9",
-          "pubDate": "Sat, 08 Jun 2024 06:12:09 +0000",
-          "dc:creator": "Dharmendra Kumar",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/dharamgfx/javascript-performance-making-websites-fast-and-responsive-g9",
-          "categories": [
-            "webdev",
-            "javascript",
-            "beginners",
             "programming"
           ],
-          "isoDate": "2024-06-08T06:12:09.000Z",
+          "isoDate": "2024-06-09T06:42:44.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ryoichi Homma",
-          "title": "How to Remain the Defined Text Color on iOS Devices",
-          "link": "https://dev.to/ryoichihomma/how-to-remain-the-desired-text-color-on-ios-devices-53pj",
-          "pubDate": "Sat, 08 Jun 2024 06:08:25 +0000",
-          "dc:creator": "Ryoichi Homma",
+          "creator": "Akram Ghaleb",
+          "title": "laravel-nuxt-template",
+          "link": "https://dev.to/akramghaleb/laravel-nuxt-template-1c6j",
+          "pubDate": "Sun, 09 Jun 2024 06:33:40 +0000",
+          "dc:creator": "Akram Ghaleb",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ryoichihomma/how-to-remain-the-desired-text-color-on-ios-devices-53pj",
-          "isoDate": "2024-06-08T06:08:25.000Z",
+          "guid": "https://dev.to/akramghaleb/laravel-nuxt-template-1c6j",
+          "isoDate": "2024-06-09T06:33:40.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Richard A. Allen",
-          "title": "Drupal FunctionalJavascript testing",
-          "link": "https://dev.to/drupalista/drupal-functionaljavascript-testing-1fo7",
-          "pubDate": "Sat, 08 Jun 2024 06:06:43 +0000",
-          "dc:creator": "Richard A. Allen",
+          "creator": "Aritra Das",
+          "title": "Performance Optimization of LazyColumn in Jetpack Compose",
+          "link": "https://dev.to/aritradas/performance-optimization-of-lazycolumn-in-jetpack-compose-2pf2",
+          "pubDate": "Sun, 09 Jun 2024 06:32:42 +0000",
+          "dc:creator": "Aritra Das",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/drupalista/drupal-functionaljavascript-testing-1fo7",
+          "guid": "https://dev.to/aritradas/performance-optimization-of-lazycolumn-in-jetpack-compose-2pf2",
           "categories": [
-            "drupal",
-            "docker",
-            "php"
+            "android",
+            "jetpackcompose",
+            "kotlin",
+            "performance"
           ],
-          "isoDate": "2024-06-08T06:06:43.000Z",
+          "isoDate": "2024-06-09T06:32:42.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Haruka Kakiuchi",
+          "title": "Tabs",
+          "link": "https://dev.to/kakimaru/tabs-2e6l",
+          "pubDate": "Sun, 09 Jun 2024 06:30:53 +0000",
+          "dc:creator": "Haruka Kakiuchi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/kakimaru/tabs-2e6l",
+          "isoDate": "2024-06-09T06:30:53.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sakib Bin Kamal",
+          "title": "Python Cheat Sheet: Essential Guide for Beginners",
+          "link": "https://dev.to/terrancoder/python-cheat-sheet-essential-guide-for-beginners-2bdl",
+          "pubDate": "Sun, 09 Jun 2024 06:25:52 +0000",
+          "dc:creator": "Sakib Bin Kamal",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/terrancoder/python-cheat-sheet-essential-guide-for-beginners-2bdl",
+          "categories": [
+            "python",
+            "coding",
+            "codenewbie",
+            "tutorial"
+          ],
+          "isoDate": "2024-06-09T06:25:52.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "useapi.net",
+          "title": "Create breath-taking videos with PixVerse AI",
+          "link": "https://dev.to/useapi/create-breath-taking-videos-with-pixverse-ai-41l2",
+          "pubDate": "Sun, 09 Jun 2024 06:19:23 +0000",
+          "dc:creator": "useapi.net",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/useapi/create-breath-taking-videos-with-pixverse-ai-41l2",
+          "categories": [
+            "pixverse",
+            "discord",
+            "ai",
+            "webdev"
+          ],
+          "isoDate": "2024-06-09T06:19:23.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Spring-0",
+          "title": "Exposing the Deception: Discord Account Generator with Hidden Malware",
+          "link": "https://dev.to/spring93/exposing-the-deception-discord-account-generator-with-hidden-malware-2l8n",
+          "pubDate": "Sun, 09 Jun 2024 06:11:27 +0000",
+          "dc:creator": "Spring-0",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/spring93/exposing-the-deception-discord-account-generator-with-hidden-malware-2l8n",
+          "categories": [
+            "cybersecurity",
+            "security",
+            "opensource"
+          ],
+          "isoDate": "2024-06-09T06:11:27.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Olivia Georgia",
+          "title": "How to Optimize Performance of Linux VPS Server?",
+          "link": "https://dev.to/oliviageorgia98/how-to-optimize-performance-of-linux-vps-server-18pj",
+          "pubDate": "Sun, 09 Jun 2024 06:11:01 +0000",
+          "dc:creator": "Olivia Georgia",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/oliviageorgia98/how-to-optimize-performance-of-linux-vps-server-18pj",
+          "categories": [
+            "vps",
+            "vpshosting",
+            "linux"
+          ],
+          "isoDate": "2024-06-09T06:11:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "max prehoda",
+          "title": "AI CSS Animations",
+          "link": "https://dev.to/max_prehoda_9cb09ea7c8d07/ai-css-animations-21pl",
+          "pubDate": "Sun, 09 Jun 2024 06:04:27 +0000",
+          "dc:creator": "max prehoda",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/max_prehoda_9cb09ea7c8d07/ai-css-animations-21pl",
+          "categories": [
+            "webdev",
+            "design",
+            "css",
+            "ai"
+          ],
+          "isoDate": "2024-06-09T06:04:27.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "vdelitz",
+          "title": "Passkeys: How to work with CBOR & COSE",
+          "link": "https://dev.to/corbado/passkeys-how-to-work-with-cbor-cose-26h",
+          "pubDate": "Sun, 09 Jun 2024 06:00:00 +0000",
+          "dc:creator": "vdelitz",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/corbado/passkeys-how-to-work-with-cbor-cose-26h",
+          "isoDate": "2024-06-09T06:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
