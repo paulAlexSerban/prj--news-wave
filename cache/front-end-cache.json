@@ -121,7 +121,7 @@
       "generator": "https://wordpress.org/?v=6.5.2",
       "link": "https://css-tricks.com",
       "language": "en-US",
-      "lastBuildDate": "Tue, 11 Jun 2024 21:22:47 +0000"
+      "lastBuildDate": "Fri, 14 Jun 2024 15:31:04 +0000"
     },
     "CSS In Real Life": {
       "items": [
@@ -390,13 +390,26 @@
       },
       "title": "Web Designer Depot",
       "description": "Web Design Resources and Tutorials",
-      "pubDate": "Fri, 14 Jun 2024 00:06:12 -0700",
+      "pubDate": "Sat, 15 Jun 2024 00:05:47 -0700",
       "link": "https://www.webdesignerdepot.com",
       "language": "en-us",
       "copyright": "Copyright Web Designer Depot, all rights reserved."
     },
     "Brad Frost": {
       "items": [
+        {
+          "title": "Sidebar is taking a break",
+          "link": "https://bradfrost.com/blog/link/sidebar-is-taking-a-break/",
+          "pubDate": "2024-06-14T20:03:05.000Z",
+          "author": "Brad Frost",
+          "content": "",
+          "contentSnippet": "",
+          "summary": "",
+          "id": "https://bradfrost.com/?p=20298",
+          "isoDate": "2024-06-14T20:03:05.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": ""
+        },
         {
           "title": "A rare use case for em units",
           "link": "https://bradfrost.com/blog/post/a-rare-use-case-for-em-units/",
@@ -448,25 +461,12 @@
           "isoDate": "2024-05-22T20:26:14.000Z",
           "content:encoded": "",
           "content:encodedSnippet": ""
-        },
-        {
-          "title": "The age of average (encore) — Alex Murrell",
-          "link": "https://bradfrost.com/blog/link/the-age-of-average-encore-alex-murrell/",
-          "pubDate": "2024-05-17T20:15:02.000Z",
-          "author": "Brad Frost",
-          "content": "",
-          "contentSnippet": "",
-          "summary": "",
-          "id": "https://bradfrost.com/?p=20227",
-          "isoDate": "2024-05-17T20:15:02.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": ""
         }
       ],
       "link": "https://bradfrost.com",
       "feedUrl": "https://bradfrost.com/feed/atom/",
       "title": "Brad Frost",
-      "lastBuildDate": "2024-06-04T19:52:23Z"
+      "lastBuildDate": "2024-06-14T20:03:05Z"
     },
     "Jonathan Suh": {
       "items": [
@@ -983,6 +983,18 @@
     "Go Make Things": {
       "items": [
         {
+          "title": "JavaScript Promises Crash Course",
+          "link": "https://gomakethings.com/javascript-promises-crash-course/",
+          "pubDate": "Fri, 14 Jun 2024 10:30:00 -0400",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://gomakethings.com/javascript-promises-crash-course/",
+          "isoDate": "2024-06-14T14:30:00.000Z",
+          "summary": ""
+        },
+        {
           "title": "Every website and web app should have a service worker",
           "link": "https://gomakethings.com/every-website-and-web-app-should-have-a-service-worker/",
           "pubDate": "Thu, 13 Jun 2024 10:30:00 -0400",
@@ -1029,18 +1041,6 @@
           "guid": "https://gomakethings.com/what-is-the-grain-of-the-web/",
           "isoDate": "2024-06-10T14:30:00.000Z",
           "summary": ""
-        },
-        {
-          "title": "The challenge with Netlify, Vercel, Cloudflare, and so on",
-          "link": "https://gomakethings.com/the-challenge-with-netlify-vercel-cloudflare-and-so-on/",
-          "pubDate": "Thu, 06 Jun 2024 10:30:00 -0400",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://gomakethings.com/the-challenge-with-netlify-vercel-cloudflare-and-so-on/",
-          "isoDate": "2024-06-06T14:30:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://gomakethings.com/feed/index.xml",
@@ -1052,7 +1052,7 @@
       "generator": "Hugo -- gohugo.io",
       "link": "https://gomakethings.com/articles",
       "language": "en-us",
-      "lastBuildDate": "Fri, 14 Jun 2024 00:00:42 EST"
+      "lastBuildDate": "Sat, 15 Jun 2024 00:00:38 EST"
     }
   }
 }
