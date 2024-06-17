@@ -100,7 +100,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sun, 16 Jun 2024 05:02:18 GMT"
+      "lastBuildDate": "Mon, 17 Jun 2024 06:16:02 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -436,7 +436,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sun, 16 Jun 2024 06:34:57 GMT",
+      "lastBuildDate": "Mon, 17 Jun 2024 06:34:51 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -461,7 +461,7 @@
           "link": "https://tympanus.net/codrops/2024/06/12/shape-lens-blur-effect-with-sdfs-and-webgl/",
           "pubDate": "Wed, 12 Jun 2024 09:47:35 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/05/sdf-lens-blur-step-mouse-1.mp4?x98267",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/05/sdf-lens-blur-step-mouse-1.mp4?x97002",
             "length": "444560",
             "type": "video/mp4"
           },
@@ -501,7 +501,7 @@
           "link": "https://tympanus.net/codrops/2024/06/11/case-study-toyfight-2024/",
           "pubDate": "Tue, 11 Jun 2024 10:16:49 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/06/iterations.mp4?x98267",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/06/iterations.mp4?x97002",
             "length": "365778",
             "type": "video/mp4"
           },
@@ -548,6 +548,20 @@
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Sai Krishna Reddy Chityala",
+          "title": "Custom Health Checks in Spring Boot",
+          "link": "https://dzone.com/articles/custom-health-checks-in-spring-boot",
+          "pubDate": "Sun, 16 Jun 2024 11:00:00 GMT",
+          "dc:creator": "Sai Krishna Reddy Chityala",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3466500",
+          "isoDate": "2024-06-16T11:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Faisal Khatri",
           "title": "How To Use Builder Design Pattern and DataFaker Library for Test Data Generation in Automation Testing",
@@ -673,20 +687,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Max Shash",
-          "title": "Building an Internal TLS and SSL Certificate Monitoring Agent: From Concept to Deployment",
-          "link": "https://dzone.com/articles/building-an-internal-tls-and-ssl-certificate",
-          "pubDate": "Fri, 14 Jun 2024 13:00:01 GMT",
-          "dc:creator": "Max Shash",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3464315",
-          "isoDate": "2024-06-14T13:00:01.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -699,6 +699,27 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Saeed Zarinfam",
+          "title": "Top 4 features of Spring Boot 3.3",
+          "link": "https://itnext.io/top-4-features-of-spring-boot-3-3-04da9b5089ca?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 16 Jun 2024 22:23:36 GMT",
+          "dc:creator": "Saeed Zarinfam",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/04da9b5089ca",
+          "categories": [
+            "cd",
+            "spring-framework",
+            "docker-compose",
+            "websocket",
+            "spring-boot"
+          ],
+          "isoDate": "2024-06-16T22:23:36.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Pavel Sulimau",
           "title": "Flutter: Detecting Cyclic Dependencies in a Monorepo",
@@ -885,27 +906,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Mirco | VerboseMode.dev",
-          "title": "Weekly Tech Tidbits #2: Disagree and Commit, Spotless, and Error Handling in Kotlin.",
-          "link": "https://itnext.io/weekly-tech-tidbits-2-disagree-and-commit-spotless-and-error-handling-in-kotlin-08f39c2d8651?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 12 Jun 2024 08:15:13 GMT",
-          "dc:creator": "Mirco | VerboseMode.dev",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/08f39c2d8651",
-          "categories": [
-            "programming",
-            "functional-programming",
-            "tech",
-            "kotlin",
-            "meetings"
-          ],
-          "isoDate": "2024-06-12T08:15:13.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -922,198 +922,190 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sun, 16 Jun 2024 07:00:48 GMT"
+      "lastBuildDate": "Mon, 17 Jun 2024 06:59:34 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Hasan",
-          "title": "Best Practices for Creating Reusable Custom Hooks in React",
-          "link": "https://dev.to/hasancse/best-practices-for-creating-reusable-custom-hooks-in-react-37nj",
-          "pubDate": "Sun, 16 Jun 2024 06:48:37 +0000",
-          "dc:creator": "Hasan",
+          "creator": "Sandeep Kumar",
+          "title": ".NET 8.0 - JWT Token Authentication Using The Example API",
+          "link": "https://dev.to/techiesdiary/net-60-jwt-token-authentication-using-the-example-api-91l",
+          "pubDate": "Mon, 17 Jun 2024 06:34:04 +0000",
+          "dc:creator": "Sandeep Kumar",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/hasancse/best-practices-for-creating-reusable-custom-hooks-in-react-37nj",
+          "guid": "https://dev.to/techiesdiary/net-60-jwt-token-authentication-using-the-example-api-91l",
+          "categories": [
+            "dotnet",
+            "api",
+            "security",
+            "programming"
+          ],
+          "isoDate": "2024-06-17T06:34:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Tres Bien",
+          "title": "The Joy Of (Digital) \"Painting\"",
+          "link": "https://dev.to/tremartin/the-joy-of-digital-painting-33ia",
+          "pubDate": "Mon, 17 Jun 2024 06:31:34 +0000",
+          "dc:creator": "Tres Bien",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/tremartin/the-joy-of-digital-painting-33ia",
+          "isoDate": "2024-06-17T06:31:34.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Abhishek Sachan",
+          "title": "I'm building a collection of Awesome Frontend Resources, and need contributors.",
+          "link": "https://dev.to/asachanfbd/im-building-a-collection-of-awesome-frontend-resources-and-need-contributors-3bmd",
+          "pubDate": "Mon, 17 Jun 2024 06:29:28 +0000",
+          "dc:creator": "Abhishek Sachan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/asachanfbd/im-building-a-collection-of-awesome-frontend-resources-and-need-contributors-3bmd",
           "categories": [
             "webdev",
-            "programming",
-            "react",
-            "typescript"
+            "javascript",
+            "beginners",
+            "programming"
           ],
-          "isoDate": "2024-06-16T06:48:37.000Z",
+          "isoDate": "2024-06-17T06:29:28.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sachith Fernando",
-          "title": "Amazon RDS Multi-AZ Deployments vs Read Replica",
-          "link": "https://dev.to/sachithmayantha/amazon-rds-multi-az-deployments-vs-read-replica-1ki3",
-          "pubDate": "Sun, 16 Jun 2024 06:39:18 +0000",
-          "dc:creator": "Sachith Fernando",
+          "creator": "Abhishek Sachan",
+          "title": "I'm building a collection of Awesome Frontend Resources, and need contributors.",
+          "link": "https://dev.to/asachanfbd/im-building-a-collection-of-awesome-frontend-resources-and-need-contributors-4337",
+          "pubDate": "Mon, 17 Jun 2024 06:29:28 +0000",
+          "dc:creator": "Abhishek Sachan",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/sachithmayantha/amazon-rds-multi-az-deployments-vs-read-replica-1ki3",
-          "categories": [
-            "aws",
-            "rds"
-          ],
-          "isoDate": "2024-06-16T06:39:18.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sameer Sayyed ",
-          "title": "Duo Studio UI clone 🚀",
-          "link": "https://dev.to/sameer07x19/duo-studio-ui-clone-1ldk",
-          "pubDate": "Sun, 16 Jun 2024 06:38:38 +0000",
-          "dc:creator": "Sameer Sayyed ",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/sameer07x19/duo-studio-ui-clone-1ldk",
+          "guid": "https://dev.to/asachanfbd/im-building-a-collection-of-awesome-frontend-resources-and-need-contributors-4337",
           "categories": [
             "webdev",
+            "javascript",
             "beginners",
-            "gsap",
-            "javascript"
+            "programming"
           ],
-          "isoDate": "2024-06-16T06:38:38.000Z",
+          "isoDate": "2024-06-17T06:29:28.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Keshav Prajapati",
-          "title": "Problem : - Your project requires a newer version of the Kotlin Gradle plugin in Flutter.",
-          "link": "https://dev.to/ozonexkeshav07/problem-your-project-requires-a-newer-version-of-the-kotlin-gradle-plugin-in-flutter-5da3",
-          "pubDate": "Sun, 16 Jun 2024 06:29:40 +0000",
-          "dc:creator": "Keshav Prajapati",
+          "creator": "Adam",
+          "title": "Stay ahead in web development: latest news, tools, and insights #37",
+          "link": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-37-3i5e",
+          "pubDate": "Mon, 17 Jun 2024 06:28:27 +0000",
+          "dc:creator": "Adam",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ozonexkeshav07/problem-your-project-requires-a-newer-version-of-the-kotlin-gradle-plugin-in-flutter-5da3",
+          "guid": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-37-3i5e",
           "categories": [
-            "kotlin",
-            "dart",
-            "flutter",
-            "development"
+            "webdev",
+            "weeklyfoo",
+            "javascript",
+            "node"
           ],
-          "isoDate": "2024-06-16T06:29:40.000Z",
+          "isoDate": "2024-06-17T06:28:27.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Anwar Sadat Ayub",
-          "title": "Mastering PHP File Paths: Simplifying Your Project's Structure",
-          "link": "https://dev.to/anwar_sadat/mastering-php-file-paths-simplifying-your-projects-structure-650",
-          "pubDate": "Sun, 16 Jun 2024 06:28:10 +0000",
-          "dc:creator": "Anwar Sadat Ayub",
+          "creator": "Eduard Krivanek",
+          "title": "Advanced RxJs operators you know but not well enough",
+          "link": "https://dev.to/krivanek06/advanced-rxjs-operators-you-know-but-not-well-enough-1ela",
+          "pubDate": "Mon, 17 Jun 2024 06:28:25 +0000",
+          "dc:creator": "Eduard Krivanek",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/anwar_sadat/mastering-php-file-paths-simplifying-your-projects-structure-650",
+          "guid": "https://dev.to/krivanek06/advanced-rxjs-operators-you-know-but-not-well-enough-1ela",
           "categories": [
-            "php",
-            "backenddevelopment",
-            "tutorial",
-            "beginners"
-          ],
-          "isoDate": "2024-06-16T06:28:10.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Hejun Wong",
-          "title": "Implement a DevSecOps Pipeline with GitHub Actions",
-          "link": "https://dev.to/herjean7/implement-a-devsecops-pipeline-with-github-actions-2lbb",
-          "pubDate": "Sun, 16 Jun 2024 06:24:22 +0000",
-          "dc:creator": "Hejun Wong",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/herjean7/implement-a-devsecops-pipeline-with-github-actions-2lbb",
-          "categories": [
-            "devsecops",
-            "githubactions",
-            "node",
-            "cicd"
-          ],
-          "isoDate": "2024-06-16T06:24:22.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "rathod ketan",
-          "title": "Finding the Largest Sum Subarray: Step-by-Step Guide Using Kadane's Algorithm",
-          "link": "https://dev.to/rk042/finding-the-largest-sum-subarray-step-by-step-guide-using-kadanes-algorithm-1nc1",
-          "pubDate": "Sun, 16 Jun 2024 06:12:08 +0000",
-          "dc:creator": "rathod ketan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/rk042/finding-the-largest-sum-subarray-step-by-step-guide-using-kadanes-algorithm-1nc1",
-          "categories": [
-            "programming",
-            "career",
-            "algorithms",
-            "interview"
-          ],
-          "isoDate": "2024-06-16T06:12:08.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Maruf Hossain",
-          "title": "Containerization Conquest: How Netflix Leverages Docker for Speedy Deployments",
-          "link": "https://dev.to/marufhossain/containerization-conquest-how-netflix-leverages-docker-for-speedy-deployments-gch",
-          "pubDate": "Sun, 16 Jun 2024 06:08:53 +0000",
-          "dc:creator": "Maruf Hossain",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/marufhossain/containerization-conquest-how-netflix-leverages-docker-for-speedy-deployments-gch",
-          "isoDate": "2024-06-16T06:08:53.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "bingecoder89",
-          "title": "Why Rust is More Than Just a Hype: A Developer’s Perspective",
-          "link": "https://dev.to/bingecoder89/why-rust-is-more-than-just-a-hype-a-developers-perspective-9o0",
-          "pubDate": "Sun, 16 Jun 2024 06:08:43 +0000",
-          "dc:creator": "bingecoder89",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/bingecoder89/why-rust-is-more-than-just-a-hype-a-developers-perspective-9o0",
-          "categories": [
-            "rust",
-            "beginners",
-            "programming",
-            "codenewbie"
-          ],
-          "isoDate": "2024-06-16T06:08:43.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "dwivedialind",
-          "title": "Database1",
-          "link": "https://dev.to/dwivedialind/database1-5h91",
-          "pubDate": "Sun, 16 Jun 2024 06:03:11 +0000",
-          "dc:creator": "dwivedialind",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/dwivedialind/database1-5h91",
-          "categories": [
-            "beginners",
+            "rxjs",
+            "angular",
             "learning",
-            "database",
-            "sql"
+            "webdev"
           ],
-          "isoDate": "2024-06-16T06:03:11.000Z",
+          "isoDate": "2024-06-17T06:28:25.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Bala Madhusoodhanan",
+          "title": "My TakeAway from The AI Summit - London",
+          "link": "https://dev.to/balagmadhu/my-takeaway-from-the-ai-summit-london-36e8",
+          "pubDate": "Mon, 17 Jun 2024 06:27:50 +0000",
+          "dc:creator": "Bala Madhusoodhanan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/balagmadhu/my-takeaway-from-the-ai-summit-london-36e8",
+          "categories": [
+            "conference",
+            "ai"
+          ],
+          "isoDate": "2024-06-17T06:27:50.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Christian Lechner",
+          "title": "Terramate this SAP BTP!",
+          "link": "https://dev.to/lechnerc77/terramate-this-sap-btp-5a8p",
+          "pubDate": "Mon, 17 Jun 2024 06:26:07 +0000",
+          "dc:creator": "Christian Lechner",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/lechnerc77/terramate-this-sap-btp-5a8p",
+          "categories": [
+            "sap",
+            "btp",
+            "terraform",
+            "terramate"
+          ],
+          "isoDate": "2024-06-17T06:26:07.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "SignMyCode",
+          "title": "In-Depth Guide about What is EV Code Signing & Its Impact on Enterprises",
+          "link": "https://dev.to/sign_my_code/in-depth-guide-for-what-is-ev-code-signing-its-impact-on-enterprises-400n",
+          "pubDate": "Mon, 17 Jun 2024 06:23:28 +0000",
+          "dc:creator": "SignMyCode",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/sign_my_code/in-depth-guide-for-what-is-ev-code-signing-its-impact-on-enterprises-400n",
+          "categories": [
+            "evcodesigning",
+            "codesigning"
+          ],
+          "isoDate": "2024-06-17T06:23:28.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "ccaldwell11",
+          "title": "CAPTCHA",
+          "link": "https://dev.to/ccwell11/captcha-49hb",
+          "pubDate": "Mon, 17 Jun 2024 06:19:14 +0000",
+          "dc:creator": "ccaldwell11",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/ccwell11/captcha-49hb",
+          "isoDate": "2024-06-17T06:19:14.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
