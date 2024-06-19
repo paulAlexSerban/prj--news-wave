@@ -121,10 +121,22 @@
       "generator": "https://wordpress.org/?v=6.5.2",
       "link": "https://css-tricks.com",
       "language": "en-US",
-      "lastBuildDate": "Mon, 17 Jun 2024 18:28:35 +0000"
+      "lastBuildDate": "Tue, 18 Jun 2024 23:40:40 +0000"
     },
     "CSS In Real Life": {
       "items": [
+        {
+          "title": "Modern CSS Layout is Awesome: Talking and Thinking About CSS Layout",
+          "link": "https://css-irl.info/modern-css-layout-is-awesome/",
+          "pubDate": "2024-06-18T00:00:00.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "id": "https://css-irl.info/modern-css-layout-is-awesome/",
+          "isoDate": "2024-06-18T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "Another Anchor Positioning Demo: Multiple Anchors",
           "link": "https://css-irl.info/another-anchor-positioning-demo-multiple-anchors/",
@@ -172,24 +184,12 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "RSS is Good, Isn’t It?!",
-          "link": "https://css-irl.info/rss-is-good-isnt-it/",
-          "pubDate": "2024-05-13T00:00:00.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "id": "https://css-irl.info/rss-is-good-isnt-it/",
-          "isoDate": "2024-05-13T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "link": "https://css-irl.info/rss.xml/",
       "feedUrl": "https://css-irl.info/rss.xml/",
       "title": "CSS In Real Life",
-      "lastBuildDate": "2024-06-12T00:00:00Z"
+      "lastBuildDate": "2024-06-18T00:00:00Z"
     },
     "A list Apart": {
       "items": [
@@ -277,6 +277,26 @@
     "Web Designer Depot": {
       "items": [
         {
+          "title": "15 Best New Fonts, June 2024",
+          "link": "https://www.webdesignerdepot.com/best-fonts-june-2024/",
+          "pubDate": "Mon, 17 Jun 2024 05:30:00 -0700",
+          "enclosure": {
+            "url": "https://www.webdesignerdepot.com/assets/posts/featured/06-paradisian.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.webdesignerdepot.com/best-fonts-june-2024/",
+          "categories": [
+            "Fonts"
+          ],
+          "isoDate": "2024-06-17T12:30:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "20 Best New Websites, June 2024",
           "link": "https://www.webdesignerdepot.com/20-best-new-websites-june-2024/",
           "pubDate": "Mon, 10 Jun 2024 00:00:00 -0700",
@@ -355,26 +375,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "How to Reduce The Carbon Footprint of Your Website",
-          "link": "https://www.webdesignerdepot.com/reduce-website-carbon-footprints/",
-          "pubDate": "Thu, 16 May 2024 05:30:00 -0700",
-          "enclosure": {
-            "url": "https://www.webdesignerdepot.com/assets/posts/featured/green-laptop.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.webdesignerdepot.com/reduce-website-carbon-footprints/",
-          "categories": [
-            "Development"
-          ],
-          "isoDate": "2024-05-16T12:30:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.webdesignerdepot.com/feed.rss",
@@ -390,7 +390,7 @@
       },
       "title": "Web Designer Depot",
       "description": "Web Design Resources and Tutorials",
-      "pubDate": "Tue, 18 Jun 2024 00:08:55 -0700",
+      "pubDate": "Wed, 19 Jun 2024 00:07:42 -0700",
       "link": "https://www.webdesignerdepot.com",
       "language": "en-us",
       "copyright": "Copyright Web Designer Depot, all rights reserved."
@@ -983,6 +983,18 @@
     "Go Make Things": {
       "items": [
         {
+          "title": "Evergreen tech is an asset (and dependencies are a liability)",
+          "link": "https://gomakethings.com/evergreen-tech-is-an-asset-and-dependencies-are-a-liability/",
+          "pubDate": "Tue, 18 Jun 2024 10:30:00 -0400",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://gomakethings.com/evergreen-tech-is-an-asset-and-dependencies-are-a-liability/",
+          "isoDate": "2024-06-18T14:30:00.000Z",
+          "summary": ""
+        },
+        {
           "title": "React myth: React gives your code more structure",
           "link": "https://gomakethings.com/react-myth-react-gives-your-code-more-structure/",
           "pubDate": "Mon, 17 Jun 2024 10:30:00 -0400",
@@ -1029,18 +1041,6 @@
           "guid": "https://gomakethings.com/state-based-ui-is-an-anti-pattern/",
           "isoDate": "2024-06-12T14:30:00.000Z",
           "summary": ""
-        },
-        {
-          "title": "The web of yesteryear",
-          "link": "https://gomakethings.com/the-web-of-yesteryear/",
-          "pubDate": "Tue, 11 Jun 2024 10:30:00 -0400",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://gomakethings.com/the-web-of-yesteryear/",
-          "isoDate": "2024-06-11T14:30:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://gomakethings.com/feed/index.xml",
@@ -1052,7 +1052,7 @@
       "generator": "Hugo -- gohugo.io",
       "link": "https://gomakethings.com/articles",
       "language": "en-us",
-      "lastBuildDate": "Tue, 18 Jun 2024 00:00:36 EST"
+      "lastBuildDate": "Wed, 19 Jun 2024 00:00:39 EST"
     }
   }
 }
