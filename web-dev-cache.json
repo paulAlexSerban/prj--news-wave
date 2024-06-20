@@ -100,7 +100,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Wed, 19 Jun 2024 05:02:20 GMT"
+      "lastBuildDate": "Thu, 20 Jun 2024 05:02:12 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -305,6 +305,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "title": "T-Shaped vs. V-Shaped Designers",
+          "link": "https://smashingmagazine.com/2024/06/t-shaped-vs-v-shaped-designers/",
+          "pubDate": "Wed, 19 Jun 2024 12:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/t-shaped-vs-v-shaped-designers/t-shaped-vs-v-shaped-designers.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/06/t-shaped-vs-v-shaped-designers/",
+          "isoDate": "2024-06-19T12:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Cosima Mielke)",
           "title": "Useful Email Newsletters For Designers",
           "link": "https://smashingmagazine.com/2024/06/useful-email-newsletters-for-designers/",
@@ -379,25 +398,6 @@
           "guid": "https://smashingmagazine.com/2024/06/scent-ux-unrealized-potential-olfactory-design/",
           "isoDate": "2024-06-12T13:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Salma Alam-Naylor)",
-          "title": "How To Hack Your Google Lighthouse Scores In 2024",
-          "link": "https://smashingmagazine.com/2024/06/how-hack-google-lighthouse-scores-2024/",
-          "pubDate": "Tue, 11 Jun 2024 18:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Salma Alam-Naylor)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-hack-google-lighthouse-scores-2024/how-hack-google-lighthouse-scores-2024.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/06/how-hack-google-lighthouse-scores-2024/",
-          "isoDate": "2024-06-11T18:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -415,11 +415,35 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Wed, 19 Jun 2024 06:35:36 GMT",
+      "lastBuildDate": "Thu, 20 Jun 2024 06:35:20 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "Hover Animations for Terminal-like Typography",
+          "link": "https://tympanus.net/codrops/2024/06/19/hover-animations-for-terminal-like-typography/",
+          "pubDate": "Wed, 19 Jun 2024 13:53:52 +0000",
+          "enclosure": {
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/06/terminaltexteffect03.mp4?x97002",
+            "length": "326721",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=78645",
+          "categories": [
+            "Playground",
+            "hover",
+            "typography"
+          ],
+          "isoDate": "2024-06-19T13:53:52.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Manoela Ilic",
           "title": "Collective #848",
@@ -489,32 +513,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Guillaume Lanier",
-          "title": "Shape Lens Blur Effect with SDFs and WebGL",
-          "link": "https://tympanus.net/codrops/2024/06/12/shape-lens-blur-effect-with-sdfs-and-webgl/",
-          "pubDate": "Wed, 12 Jun 2024 09:47:35 +0000",
-          "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/05/sdf-lens-blur-step-mouse-1.mp4?x97002",
-            "length": "444560",
-            "type": "video/mp4"
-          },
-          "dc:creator": "Guillaume Lanier",
-          "comments": "https://tympanus.net/codrops/2024/06/12/shape-lens-blur-effect-with-sdfs-and-webgl/#respond",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=77970",
-          "categories": [
-            "Tutorials",
-            "shaders",
-            "three.js",
-            "webgl"
-          ],
-          "isoDate": "2024-06-12T09:47:35.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -526,146 +524,146 @@
       "generator": "https://wordpress.org/?v=6.5.4",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Tue, 18 Jun 2024 09:32:26 +0000"
+      "lastBuildDate": "Wed, 19 Jun 2024 13:58:30 +0000"
     },
     "DZone": {
       "items": [
         {
-          "creator": "Pavan Vemuri",
-          "title": "MLOps in Software-Defined Vehicles: A Centralized Platform Approach",
-          "link": "https://dzone.com/articles/mlops-in-software-defined-vehicles",
-          "pubDate": "Tue, 18 Jun 2024 21:00:00 GMT",
-          "dc:creator": "Pavan Vemuri",
+          "creator": "Naga Santhosh Reddy Vootukuri",
+          "title": "How GitHub Codespaces Helps in Reducing Development Setup Time",
+          "link": "https://dzone.com/articles/getting-started-with-github-codespaces",
+          "pubDate": "Wed, 19 Jun 2024 21:00:00 GMT",
+          "dc:creator": "Naga Santhosh Reddy Vootukuri",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3466603",
-          "isoDate": "2024-06-18T21:00:00.000Z",
+          "guid": "https://dzone.com/articles/3461479",
+          "isoDate": "2024-06-19T21:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Deepa Ajish",
-          "title": "Building Resilient Security Systems: Composable Security",
-          "link": "https://dzone.com/articles/building-resilient-security-systems-composable",
-          "pubDate": "Tue, 18 Jun 2024 20:00:00 GMT",
-          "dc:creator": "Deepa Ajish",
+          "creator": "Rose Chege",
+          "title": "Consuming GraphQL API With React.js",
+          "link": "https://dzone.com/articles/consuming-graphql-api-with-reactjs",
+          "pubDate": "Wed, 19 Jun 2024 20:00:00 GMT",
+          "dc:creator": "Rose Chege",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3467589",
-          "isoDate": "2024-06-18T20:00:00.000Z",
+          "guid": "https://dzone.com/articles/3468581",
+          "isoDate": "2024-06-19T20:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Gunter Rotsaert",
-          "title": "Cucumber and Spring Boot Integration: Passing Arguments To Step Definitions Explained",
-          "link": "https://dzone.com/articles/cucumber-and-spring-boot-integration-passing-arguments",
-          "pubDate": "Tue, 18 Jun 2024 19:00:01 GMT",
-          "dc:creator": "Gunter Rotsaert",
+          "creator": "Abhinav Garg",
+          "title": "Using CNTI/CNF Test Catalog for Non-Telco Cloud-Native Microservices",
+          "link": "https://dzone.com/articles/using-cnticnf-test-catalog-for-non-telco-cloud-nat",
+          "pubDate": "Wed, 19 Jun 2024 19:00:00 GMT",
+          "dc:creator": "Abhinav Garg",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3466598",
-          "isoDate": "2024-06-18T19:00:01.000Z",
+          "guid": "https://dzone.com/articles/3466455",
+          "isoDate": "2024-06-19T19:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Abhishek Gupta",
-          "title": "Getting Started With Valkey Using JavaScript",
-          "link": "https://dzone.com/articles/getting-started-with-valkey-using-javascript",
-          "pubDate": "Tue, 18 Jun 2024 18:00:00 GMT",
-          "dc:creator": "Abhishek Gupta",
+          "creator": "Aftab Shaikh",
+          "title": "GenAI: Spring Boot Integration With LocalAI for Code Conversion",
+          "link": "https://dzone.com/articles/spring-boot-integration-with-localai-for-code-conversion",
+          "pubDate": "Wed, 19 Jun 2024 18:00:00 GMT",
+          "dc:creator": "Aftab Shaikh",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3468619",
-          "isoDate": "2024-06-18T18:00:00.000Z",
+          "guid": "https://dzone.com/articles/3467585",
+          "isoDate": "2024-06-19T18:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Stefan Wolpers",
-          "title": "Scrum Master JobGPT",
-          "link": "https://dzone.com/articles/scrum-master-jobgpt",
-          "pubDate": "Tue, 18 Jun 2024 17:00:01 GMT",
-          "dc:creator": "Stefan Wolpers",
+          "creator": "Sanjay Poddar",
+          "title": "Transforming Modern Networking: The Unmatched Security of Secure Access Service Edge (SASE)",
+          "link": "https://dzone.com/articles/transforming-modern-networking-the-unmatched",
+          "pubDate": "Wed, 19 Jun 2024 17:00:00 GMT",
+          "dc:creator": "Sanjay Poddar",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3468624",
-          "isoDate": "2024-06-18T17:00:01.000Z",
+          "guid": "https://dzone.com/articles/3466605",
+          "isoDate": "2024-06-19T17:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Tom Smith",
-          "title": "Tobiko Data: Revolutionizing Data Transformation With SQLMesh",
-          "link": "https://dzone.com/articles/tobiko-data-revolutionizing-data-transformation",
-          "pubDate": "Tue, 18 Jun 2024 16:00:02 GMT",
-          "dc:creator": "Tom Smith",
+          "creator": "Lalithkumar Prakashchand",
+          "title": "Navigating Conflicts: The Software Engineer’s Guide to Harmony",
+          "link": "https://dzone.com/articles/navigating-conflicts-the-software-engineers-guide",
+          "pubDate": "Wed, 19 Jun 2024 16:00:00 GMT",
+          "dc:creator": "Lalithkumar Prakashchand",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3464320",
-          "isoDate": "2024-06-18T16:00:02.000Z",
+          "guid": "https://dzone.com/articles/3468600",
+          "isoDate": "2024-06-19T16:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Shai Almog",
-          "title": "Debugging Kubernetes: Troubleshooting Guide",
-          "link": "https://dzone.com/articles/debugging-kubernetes-troubleshooting-guide",
-          "pubDate": "Tue, 18 Jun 2024 15:00:02 GMT",
-          "dc:creator": "Shai Almog",
+          "creator": "Otavio Santana",
+          "title": "Efficient Data Management With Offset and Cursor-Based Pagination in Modern Applications",
+          "link": "https://dzone.com/articles/data-management-with-offset-and-cursor-based-pagination",
+          "pubDate": "Wed, 19 Jun 2024 15:00:01 GMT",
+          "dc:creator": "Otavio Santana",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3468678",
-          "isoDate": "2024-06-18T15:00:02.000Z",
+          "guid": "https://dzone.com/articles/3468580",
+          "isoDate": "2024-06-19T15:00:01.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Harsha Patil",
-          "title": "Resource Management in Kubernetes",
-          "link": "https://dzone.com/articles/resource-management-in-kubernetes",
-          "pubDate": "Tue, 18 Jun 2024 15:00:00 GMT",
-          "dc:creator": "Harsha Patil",
+          "creator": "Kishore Babu Karumanchi",
+          "title": "Building Powerful AI Applications With Amazon Bedrock: Enhanced Chatbots and Image Generation Use Cases",
+          "link": "https://dzone.com/articles/building-powerful-ai-applications-with-amazon",
+          "pubDate": "Wed, 19 Jun 2024 14:00:00 GMT",
+          "dc:creator": "Kishore Babu Karumanchi",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3467563",
-          "isoDate": "2024-06-18T15:00:00.000Z",
+          "guid": "https://dzone.com/articles/3468609",
+          "isoDate": "2024-06-19T14:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Lakshmanan Sethu Sankaranarayanan",
-          "title": "A Framework for Building Semantic Search Applications With Generative AI",
-          "link": "https://dzone.com/articles/build-semantic-search-apps-with-genai",
-          "pubDate": "Tue, 18 Jun 2024 14:00:00 GMT",
-          "dc:creator": "Lakshmanan Sethu Sankaranarayanan",
+          "creator": "Yogesh Solanki",
+          "title": "Load Testing Made Easy: A Comprehensive Introduction",
+          "link": "https://dzone.com/articles/load-testing-made-easy-an-introduction",
+          "pubDate": "Wed, 19 Jun 2024 13:00:00 GMT",
+          "dc:creator": "Yogesh Solanki",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3463091",
-          "isoDate": "2024-06-18T14:00:00.000Z",
+          "guid": "https://dzone.com/articles/3468611",
+          "isoDate": "2024-06-19T13:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Indrajit Bhattacharya",
-          "title": "Unmasking the Danger: 10 Ways AI Can Go Rogue (And How to Spot Them)",
-          "link": "https://dzone.com/articles/unmasking-the-danger-10-ways-ai-can-go-rogue",
-          "pubDate": "Tue, 18 Jun 2024 13:00:00 GMT",
-          "dc:creator": "Indrajit Bhattacharya",
+          "creator": "Alexander Sharov",
+          "title": "How To Manage Terraform Versions",
+          "link": "https://dzone.com/articles/how-to-manage-terraform-versions-1",
+          "pubDate": "Wed, 19 Jun 2024 12:00:00 GMT",
+          "dc:creator": "Alexander Sharov",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3466548",
-          "isoDate": "2024-06-18T13:00:00.000Z",
+          "guid": "https://dzone.com/articles/3466611",
+          "isoDate": "2024-06-19T12:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -681,6 +679,65 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Brian Grant",
+          "title": "Kubernetes: The Road to 1.0",
+          "link": "https://itnext.io/kubernetes-the-road-to-1-0-525a9420fdf0?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 19 Jun 2024 17:06:11 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Brian Grant",
+          "guid": "https://medium.com/p/525a9420fdf0",
+          "categories": [
+            "kubernetes"
+          ],
+          "isoDate": "2024-06-19T17:06:11.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Piotr",
+          "title": "Why Fast Feedback Loops Matter When Working with Kubernetes",
+          "link": "https://itnext.io/why-fast-feedback-loops-matter-when-working-with-kubernetes-58b8d2cb8e8e?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 19 Jun 2024 13:35:08 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Piotr",
+          "guid": "https://medium.com/p/58b8d2cb8e8e",
+          "categories": [
+            "cloud-computing",
+            "kubernetes",
+            "open-source",
+            "software-development",
+            "tools"
+          ],
+          "isoDate": "2024-06-19T13:35:08.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mirco | VerboseMode.dev",
+          "title": "Minto Pyramid, Talk Recommendation and Slow Productivity — Weekly Tech Tidbits #3",
+          "link": "https://itnext.io/minto-pyramid-talk-recommendation-and-slow-productivity-weekly-tech-tidbits-3-c8eb11235859?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 19 Jun 2024 07:10:59 GMT",
+          "dc:creator": "Mirco | VerboseMode.dev",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/c8eb11235859",
+          "categories": [
+            "devops",
+            "technology",
+            "communication",
+            "operations",
+            "productivity"
+          ],
+          "isoDate": "2024-06-19T07:10:59.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Krzysztof Pranczk",
           "title": "Unrestricted Resource Consumption in a Password Reset — Web API Security Champion Part IV",
@@ -824,69 +881,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Tobias Uhlig",
-          "title": "Sharing real-time WebSocket data across multiple browser windows",
-          "link": "https://itnext.io/sharing-real-time-websocket-data-across-multiple-browser-windows-4e0538dd7563?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 17 Jun 2024 11:20:17 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Tobias Uhlig",
-          "guid": "https://medium.com/p/4e0538dd7563",
-          "categories": [
-            "data-science",
-            "software-development",
-            "software-engineering",
-            "data-visualization",
-            "javascript"
-          ],
-          "isoDate": "2024-06-17T11:20:17.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Abhishek Gupta",
-          "title": "Getting started with Valkey using JavaScript",
-          "link": "https://itnext.io/getting-started-with-valkey-using-javascript-d039f5b24977?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 17 Jun 2024 07:16:26 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Abhishek Gupta",
-          "guid": "https://medium.com/p/d039f5b24977",
-          "categories": [
-            "javascript",
-            "langchain",
-            "nosql",
-            "database",
-            "redis"
-          ],
-          "isoDate": "2024-06-17T07:16:26.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Saeed Zarinfam",
-          "title": "Top 4 features of Spring Boot 3.3",
-          "link": "https://itnext.io/top-4-features-of-spring-boot-3-3-04da9b5089ca?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sun, 16 Jun 2024 22:23:36 GMT",
-          "dc:creator": "Saeed Zarinfam",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/04da9b5089ca",
-          "categories": [
-            "cd",
-            "spring-framework",
-            "docker-compose",
-            "websocket",
-            "spring-boot"
-          ],
-          "isoDate": "2024-06-16T22:23:36.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -903,199 +897,196 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Wed, 19 Jun 2024 07:00:37 GMT"
+      "lastBuildDate": "Thu, 20 Jun 2024 07:04:14 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Shivam Chhuneja",
-          "title": "5 Free AI Coding Copilots to Help You Fly Out of the Dev Blackhole",
-          "link": "https://dev.to/middleware/5-free-ai-coding-copilots-to-help-you-fly-out-of-the-dev-blackhole-4p53",
-          "pubDate": "Wed, 19 Jun 2024 06:53:43 +0000",
-          "dc:creator": "Shivam Chhuneja",
+          "creator": "DbVisualizer",
+          "title": "Key Data Structures for SQL Database Efficiency",
+          "link": "https://dev.to/dbvismarketing/key-data-structures-for-sql-database-efficiency-4om4",
+          "pubDate": "Thu, 20 Jun 2024 07:00:00 +0000",
+          "dc:creator": "DbVisualizer",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/middleware/5-free-ai-coding-copilots-to-help-you-fly-out-of-the-dev-blackhole-4p53",
+          "guid": "https://dev.to/dbvismarketing/key-data-structures-for-sql-database-efficiency-4om4",
+          "isoDate": "2024-06-20T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Huy Nguyen",
+          "title": "Introducing Django Headless CMS: A Powerful and Flexible CMS Solution",
+          "link": "https://dev.to/huynguyengl99/introducing-django-headless-cms-a-powerful-and-flexible-cms-solution-82d",
+          "pubDate": "Thu, 20 Jun 2024 06:39:52 +0000",
+          "dc:creator": "Huy Nguyen",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/huynguyengl99/introducing-django-headless-cms-a-powerful-and-flexible-cms-solution-82d",
           "categories": [
-            "coding",
-            "ai",
-            "productivity",
-            "tooling"
+            "django",
+            "cms",
+            "opensource",
+            "python"
           ],
-          "isoDate": "2024-06-19T06:53:43.000Z",
+          "isoDate": "2024-06-20T06:39:52.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Vidyarathna Bhat",
+          "title": "Understanding Virtual Environments in Python",
+          "link": "https://dev.to/vidyarathna/understanding-virtual-environments-in-python-l5a",
+          "pubDate": "Thu, 20 Jun 2024 06:29:48 +0000",
+          "dc:creator": "Vidyarathna Bhat",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/vidyarathna/understanding-virtual-environments-in-python-l5a",
+          "categories": [
+            "python",
+            "virtualenvironments",
+            "pythondevelopment",
+            "virtualenv"
+          ],
+          "isoDate": "2024-06-20T06:29:48.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Terry Tan",
+          "title": "I wish Google work this way",
+          "link": "https://dev.to/terrytanys/i-wish-google-work-this-way-9od",
+          "pubDate": "Thu, 20 Jun 2024 06:26:36 +0000",
+          "dc:creator": "Terry Tan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/terrytanys/i-wish-google-work-this-way-9od",
+          "categories": [
+            "llm",
+            "google",
+            "serp"
+          ],
+          "isoDate": "2024-06-20T06:26:36.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Julian Gaston",
+          "title": "Big O Short Explanation",
+          "link": "https://dev.to/jgdevelopments/big-o-short-explanation-5hln",
+          "pubDate": "Thu, 20 Jun 2024 06:23:16 +0000",
+          "dc:creator": "Julian Gaston",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/jgdevelopments/big-o-short-explanation-5hln",
+          "categories": [
+            "devchallenge",
+            "cschallenge",
+            "computerscience",
+            "beginners"
+          ],
+          "isoDate": "2024-06-20T06:23:16.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ariel Mejia",
+          "title": "Debug Filament Search Query",
+          "link": "https://dev.to/arielmejiadev/debug-filament-search-query-1aed",
+          "pubDate": "Thu, 20 Jun 2024 06:18:20 +0000",
+          "dc:creator": "Ariel Mejia",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/arielmejiadev/debug-filament-search-query-1aed",
+          "categories": [
+            "php",
+            "laravel",
+            "filament"
+          ],
+          "isoDate": "2024-06-20T06:18:20.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "ItechT.Shahzaib",
+          "title": "How Modern Web Development with iTechTribe International Solves Common Business Challenges",
+          "link": "https://dev.to/itechtshahzaib_1a2c1cd10/how-modern-web-development-with-itechtribe-international-solves-common-business-challenges-3bp1",
+          "pubDate": "Thu, 20 Jun 2024 06:17:08 +0000",
+          "dc:creator": "ItechT.Shahzaib",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/itechtshahzaib_1a2c1cd10/how-modern-web-development-with-itechtribe-international-solves-common-business-challenges-3bp1",
+          "categories": [
+            "webdev",
+            "programming",
+            "devops",
+            "devchallenge"
+          ],
+          "isoDate": "2024-06-20T06:17:08.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Tanisk Annpurna",
+          "title": "Day1-100 series - Learning System Design for Interviews.",
+          "link": "https://dev.to/taniskannpurna/day1-100-series-learning-system-design-for-interviews-19im",
+          "pubDate": "Thu, 20 Jun 2024 06:12:25 +0000",
+          "dc:creator": "Tanisk Annpurna",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/taniskannpurna/day1-100-series-learning-system-design-for-interviews-19im",
+          "categories": [
+            "systemdesign",
+            "systems"
+          ],
+          "isoDate": "2024-06-20T06:12:25.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "wasifali",
+          "title": "HTML form attributes",
+          "link": "https://dev.to/wasifali/html-form-attributes-55po",
+          "pubDate": "Thu, 20 Jun 2024 06:10:50 +0000",
+          "dc:creator": "wasifali",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/wasifali/html-form-attributes-55po",
+          "categories": [
+            "webdev",
+            "css",
+            "learning",
+            "html"
+          ],
+          "isoDate": "2024-06-20T06:10:50.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
           "creator": "Deepak Kumar",
-          "title": "Top 9 Websites for Remote Developer Job Opportunities",
-          "link": "https://dev.to/dk119819/top-9-websites-for-remote-developer-job-opportunities-3d4i",
-          "pubDate": "Wed, 19 Jun 2024 06:50:09 +0000",
+          "title": "Firebase Authentication Made Simple: Detailed Code Examples",
+          "link": "https://dev.to/dk119819/firebase-authentication-made-simple-detailed-code-examples-31gl",
+          "pubDate": "Thu, 20 Jun 2024 06:08:40 +0000",
           "dc:creator": "Deepak Kumar",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/dk119819/top-9-websites-for-remote-developer-job-opportunities-3d4i",
-          "categories": [
-            "100daysofcode",
-            "opensource",
-            "beginners",
-            "programming"
-          ],
-          "isoDate": "2024-06-19T06:50:09.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Akshat Sharma",
-          "title": "Day 19 of 30 of JavaScript",
-          "link": "https://dev.to/akshat0610/day-19-of-30-of-javascript-2bki",
-          "pubDate": "Wed, 19 Jun 2024 06:49:56 +0000",
-          "dc:creator": "Akshat Sharma",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/akshat0610/day-19-of-30-of-javascript-2bki",
-          "categories": [
-            "webdev",
-            "javascript",
-            "beginners",
-            "tutorial"
-          ],
-          "isoDate": "2024-06-19T06:49:56.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Alana Edwards",
-          "title": "TIL: Max/MSP/Jitter",
-          "link": "https://dev.to/prettyalana/til-maxmspjitter-36l2",
-          "pubDate": "Wed, 19 Jun 2024 06:36:02 +0000",
-          "dc:creator": "Alana Edwards",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/prettyalana/til-maxmspjitter-36l2",
-          "categories": [
-            "todayilearned",
-            "programming",
-            "learning",
-            "development"
-          ],
-          "isoDate": "2024-06-19T06:36:02.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Atsushi",
-          "title": "Created a plugin to display embedded YouTube URLs in GROWI",
-          "link": "https://dev.to/goofmint/created-a-plugin-to-display-embedded-youtube-urls-in-growi-45ij",
-          "pubDate": "Wed, 19 Jun 2024 06:31:51 +0000",
-          "dc:creator": "Atsushi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/goofmint/created-a-plugin-to-display-embedded-youtube-urls-in-growi-45ij",
-          "categories": [
-            "growi",
-            "opensource",
-            "plugin",
-            "typescript"
-          ],
-          "isoDate": "2024-06-19T06:31:51.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Vinkal Prajapati ",
-          "title": "Death Calculator",
-          "link": "https://dev.to/vinkalprajapati/death-calculator-5f3",
-          "pubDate": "Wed, 19 Jun 2024 06:30:21 +0000",
-          "dc:creator": "Vinkal Prajapati ",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/vinkalprajapati/death-calculator-5f3",
-          "categories": [
-            "codepen",
-            "deathcalculator",
-            "vinkal041",
-            "vinkalprajapati"
-          ],
-          "isoDate": "2024-06-19T06:30:21.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Atsushi",
-          "title": "Developing GROWI Plug-ins (Scripting)",
-          "link": "https://dev.to/goofmint/developing-growi-plug-ins-scripting-56b9",
-          "pubDate": "Wed, 19 Jun 2024 06:26:59 +0000",
-          "dc:creator": "Atsushi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/goofmint/developing-growi-plug-ins-scripting-56b9",
-          "categories": [
-            "growi",
-            "typescript",
-            "opensource"
-          ],
-          "isoDate": "2024-06-19T06:26:59.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "BekmuhammadDev",
-          "title": "constructor / Errors",
-          "link": "https://dev.to/bekmuhammaddev/constructor-errors-9bc",
-          "pubDate": "Wed, 19 Jun 2024 06:26:30 +0000",
-          "dc:creator": "BekmuhammadDev",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/bekmuhammaddev/constructor-errors-9bc",
+          "guid": "https://dev.to/dk119819/firebase-authentication-made-simple-detailed-code-examples-31gl",
           "categories": [
             "javascript",
-            "webdev",
-            "aripovdev",
-            "engwebdev"
-          ],
-          "isoDate": "2024-06-19T06:26:30.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Upal",
-          "title": "The Future of AI: Unveiling the Advantages",
-          "link": "https://dev.to/upal123/the-future-of-ai-unveiling-the-advantages-k83",
-          "pubDate": "Wed, 19 Jun 2024 06:18:37 +0000",
-          "dc:creator": "Upal",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/upal123/the-future-of-ai-unveiling-the-advantages-k83",
-          "isoDate": "2024-06-19T06:18:37.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Tanuja V",
-          "title": "Number of Islands | LeetCode",
-          "link": "https://dev.to/tanujav/number-of-islands-leetcode-2a42",
-          "pubDate": "Wed, 19 Jun 2024 06:15:31 +0000",
-          "dc:creator": "Tanuja V",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/tanujav/number-of-islands-leetcode-2a42",
-          "categories": [
-            "java",
-            "leetcode",
             "beginners",
-            "algorithms"
+            "tutorial",
+            "100daysofcode"
           ],
-          "isoDate": "2024-06-19T06:15:31.000Z",
+          "isoDate": "2024-06-20T06:08:40.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
