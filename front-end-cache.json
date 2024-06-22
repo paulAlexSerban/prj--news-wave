@@ -126,6 +126,18 @@
     "CSS In Real Life": {
       "items": [
         {
+          "title": "Feedback",
+          "link": "https://css-irl.info/feedback/",
+          "pubDate": "2024-06-20T00:00:00.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "id": "https://css-irl.info/feedback/",
+          "isoDate": "2024-06-20T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "Modern CSS Layout is Awesome: Talking and Thinking About CSS Layout",
           "link": "https://css-irl.info/modern-css-layout-is-awesome/",
           "pubDate": "2024-06-18T00:00:00.000Z",
@@ -172,24 +184,12 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "Anchor Positioning and the Popover API for a JS-Free Site Menu",
-          "link": "https://css-irl.info/anchor-positioning-and-the-popover-api/",
-          "pubDate": "2024-05-14T00:00:00.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "id": "https://css-irl.info/anchor-positioning-and-the-popover-api/",
-          "isoDate": "2024-05-14T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "link": "https://css-irl.info/rss.xml/",
       "feedUrl": "https://css-irl.info/rss.xml/",
       "title": "CSS In Real Life",
-      "lastBuildDate": "2024-06-18T00:00:00Z"
+      "lastBuildDate": "2024-06-20T00:00:00Z"
     },
     "A list Apart": {
       "items": [
@@ -390,7 +390,7 @@
       },
       "title": "Web Designer Depot",
       "description": "Web Design Resources and Tutorials",
-      "pubDate": "Fri, 21 Jun 2024 00:09:54 -0700",
+      "pubDate": "Sat, 22 Jun 2024 00:06:10 -0700",
       "link": "https://www.webdesignerdepot.com",
       "language": "en-us",
       "copyright": "Copyright Web Designer Depot, all rights reserved."
@@ -466,7 +466,7 @@
       "link": "https://bradfrost.com",
       "feedUrl": "https://bradfrost.com/feed/atom/",
       "title": "Brad Frost",
-      "lastBuildDate": "2024-06-15T16:57:04Z"
+      "lastBuildDate": "2024-06-21T17:29:29Z"
     },
     "Jonathan Suh": {
       "items": [
@@ -983,6 +983,18 @@
     "Go Make Things": {
       "items": [
         {
+          "title": "Keeping state in the DOM vs. state in a JavaScript object",
+          "link": "https://gomakethings.com/keeping-state-in-the-dom-vs.-state-in-a-javascript-object/",
+          "pubDate": "Fri, 21 Jun 2024 10:30:00 -0400",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://gomakethings.com/keeping-state-in-the-dom-vs.-state-in-a-javascript-object/",
+          "isoDate": "2024-06-21T14:30:00.000Z",
+          "summary": ""
+        },
+        {
           "title": "Can you build a modern web app with just vanilla Web Components in 2024?",
           "link": "https://gomakethings.com/can-you-build-a-modern-web-app-with-just-vanilla-web-components-in-2024/",
           "pubDate": "Thu, 20 Jun 2024 10:30:00 -0400",
@@ -1029,18 +1041,6 @@
           "guid": "https://gomakethings.com/react-myth-react-gives-your-code-more-structure/",
           "isoDate": "2024-06-17T14:30:00.000Z",
           "summary": ""
-        },
-        {
-          "title": "JavaScript Promises Crash Course",
-          "link": "https://gomakethings.com/javascript-promises-crash-course/",
-          "pubDate": "Fri, 14 Jun 2024 10:30:00 -0400",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://gomakethings.com/javascript-promises-crash-course/",
-          "isoDate": "2024-06-14T14:30:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://gomakethings.com/feed/index.xml",
@@ -1052,7 +1052,7 @@
       "generator": "Hugo -- gohugo.io",
       "link": "https://gomakethings.com/articles",
       "language": "en-us",
-      "lastBuildDate": "Fri, 21 Jun 2024 00:00:49 EST"
+      "lastBuildDate": "Sat, 22 Jun 2024 00:00:49 EST"
     }
   }
 }
