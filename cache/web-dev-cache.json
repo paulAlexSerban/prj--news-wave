@@ -100,7 +100,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sun, 23 Jun 2024 05:02:15 GMT"
+      "lastBuildDate": "Mon, 24 Jun 2024 05:02:16 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -416,7 +416,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sun, 23 Jun 2024 06:34:47 GMT",
+      "lastBuildDate": "Mon, 24 Jun 2024 06:35:13 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -441,7 +441,7 @@
           "link": "https://tympanus.net/codrops/2024/06/19/hover-animations-for-terminal-like-typography/",
           "pubDate": "Wed, 19 Jun 2024 13:53:52 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/06/terminaltexteffect03.mp4?x97002",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/06/terminaltexteffect03.mp4?x20054",
             "length": "326721",
             "type": "video/mp4"
           },
@@ -499,7 +499,7 @@
           "link": "https://tympanus.net/codrops/2024/06/17/how-to-visual-test-websites-with-chromatic-and-playwright/",
           "pubDate": "Mon, 17 Jun 2024 09:22:21 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/06/visual-testing-greenbg.mp4?x97002",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/06/visual-testing-greenbg.mp4?x20054",
             "length": "172312",
             "type": "video/mp4"
           },
@@ -529,6 +529,20 @@
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Tom Smith",
+          "title": "Celebrating the Trailblazers: International Women in Engineering Day 2024",
+          "link": "https://dzone.com/articles/celebrating-the-trailblazers-intl-women-in-engineering-day",
+          "pubDate": "Sun, 23 Jun 2024 12:00:03 GMT",
+          "dc:creator": "Tom Smith",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3467756",
+          "isoDate": "2024-06-23T12:00:03.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Tom Smith",
           "title": "MaxLinear Empowers High-Speed Connectivity and Data Acceleration Solutions for Next-Gen Computing",
@@ -654,20 +668,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "John Vester",
-          "title": "When You Need More Power Than a Lambda Provides",
-          "link": "https://dzone.com/articles/when-you-need-more-power-than-a-lambda-provides",
-          "pubDate": "Fri, 21 Jun 2024 13:00:01 GMT",
-          "dc:creator": "John Vester",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3466679",
-          "isoDate": "2024-06-21T13:00:01.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -680,6 +680,48 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "David Campbell",
+          "title": "Beyond ‘Gotcha’ Questions: The LRU Cache Challenge for Real-World Skills",
+          "link": "https://itnext.io/beyond-gotcha-questions-the-lru-cache-challenge-for-real-world-skills-e7e19113e5cf?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 23 Jun 2024 21:51:34 GMT",
+          "dc:creator": "David Campbell",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/e7e19113e5cf",
+          "categories": [
+            "programming",
+            "jobs",
+            "interview",
+            "technology",
+            "career-advice"
+          ],
+          "isoDate": "2024-06-23T21:51:34.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Arseny Zinchenko (setevoy)",
+          "title": "AWS: Karpenter and SSH for Kubernetes WorkerNodes",
+          "link": "https://itnext.io/aws-karpenter-and-ssh-for-kubernetes-workernodes-9a73bb5c3aa7?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 23 Jun 2024 11:01:06 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Arseny Zinchenko (setevoy)",
+          "guid": "https://medium.com/p/9a73bb5c3aa7",
+          "categories": [
+            "security",
+            "aws",
+            "ssh",
+            "kubernetes",
+            "devops"
+          ],
+          "isoDate": "2024-06-23T11:01:06.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Raphael Yoshiga",
           "title": "AI-Powered Software Development",
@@ -842,46 +884,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "David Campbell",
-          "title": "Why Take Home Tests Suck: A Developer’s Perspective on Hiring Practices",
-          "link": "https://itnext.io/why-take-home-tests-suck-a-developers-perspective-on-hiring-practices-daed731806b7?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 18 Jun 2024 17:04:52 GMT",
-          "dc:creator": "David Campbell",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/daed731806b7",
-          "categories": [
-            "interview",
-            "software-development",
-            "programming",
-            "self",
-            "life"
-          ],
-          "isoDate": "2024-06-18T17:04:52.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ricardo Pereira",
-          "title": "Patterns for mobile UI development with OutSystems",
-          "link": "https://itnext.io/patterns-for-mobile-ui-development-with-outsystems-ed97521b3162?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 18 Jun 2024 16:16:48 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Ricardo Pereira",
-          "guid": "https://medium.com/p/ed97521b3162",
-          "categories": [
-            "outsystems-mobile",
-            "outsystems-mvp",
-            "outsystems"
-          ],
-          "isoDate": "2024-06-18T16:16:48.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -898,185 +900,187 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sun, 23 Jun 2024 06:52:21 GMT"
+      "lastBuildDate": "Mon, 24 Jun 2024 06:55:48 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "mahdi",
-          "title": "What is Threads and its use in Node.js",
-          "link": "https://dev.to/m__mdy__m/what-is-threads-and-its-use-in-nodejs-3j8p",
-          "pubDate": "Sun, 23 Jun 2024 06:59:56 +0000",
-          "dc:creator": "mahdi",
+          "creator": "Samuel-Zacharie FAURE",
+          "title": "🕸 Networking is easy, fun, and probably not what you think it is.",
+          "link": "https://dev.to/samuelfaure/networking-is-easy-fun-and-probably-not-what-you-think-it-is-2ijc",
+          "pubDate": "Mon, 24 Jun 2024 06:54:49 +0000",
+          "dc:creator": "Samuel-Zacharie FAURE",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/m__mdy__m/what-is-threads-and-its-use-in-nodejs-3j8p",
+          "guid": "https://dev.to/samuelfaure/networking-is-easy-fun-and-probably-not-what-you-think-it-is-2ijc",
           "categories": [
-            "node",
-            "javascript",
-            "programming",
-            "webdev"
-          ],
-          "isoDate": "2024-06-23T06:59:56.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "friday",
-          "title": "A Comprehensive Guide to Using Arrays in JavaScript",
-          "link": "https://dev.to/fridaymeng/a-comprehensive-guide-to-using-arrays-in-javascript-2i88",
-          "pubDate": "Sun, 23 Jun 2024 06:23:21 +0000",
-          "dc:creator": "friday",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/fridaymeng/a-comprehensive-guide-to-using-arrays-in-javascript-2i88",
-          "categories": [
-            "javascript"
-          ],
-          "isoDate": "2024-06-23T06:23:21.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "aryan015",
-          "title": "BEST CSS🧡GUIDELINES BY Aryan🤣",
-          "link": "https://dev.to/aryan015/best-cssguidelines-by-aryan-5cie",
-          "pubDate": "Sun, 23 Jun 2024 06:13:21 +0000",
-          "dc:creator": "aryan015",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/aryan015/best-cssguidelines-by-aryan-5cie",
-          "categories": [
-            "css",
-            "scss",
-            "webdev",
-            "react"
-          ],
-          "isoDate": "2024-06-23T06:13:21.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "NISHARGA KABIR",
-          "title": "Debounce Method for Searching",
-          "link": "https://dev.to/nisharga_kabir/debounce-method-for-searching-25nc",
-          "pubDate": "Sun, 23 Jun 2024 06:11:44 +0000",
-          "dc:creator": "NISHARGA KABIR",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/nisharga_kabir/debounce-method-for-searching-25nc",
-          "categories": [
-            "searching",
-            "javascript",
-            "debounce",
-            "debouncing"
-          ],
-          "isoDate": "2024-06-23T06:11:44.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "cuongnp",
-          "title": "5 log parsing commands",
-          "link": "https://dev.to/cuongnp/5-log-parsing-commands-3oc1",
-          "pubDate": "Sun, 23 Jun 2024 06:00:05 +0000",
-          "dc:creator": "cuongnp",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/cuongnp/5-log-parsing-commands-3oc1",
-          "categories": [
-            "linux",
+            "career",
             "beginners",
-            "development",
-            "programming"
+            "learning",
+            "community"
           ],
-          "isoDate": "2024-06-23T06:00:05.000Z",
+          "isoDate": "2024-06-24T06:54:49.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ryan Lee",
-          "title": "One Byte Explainer: Caesar Cipher",
-          "link": "https://dev.to/ryanlwh/one-byte-explainer-caesar-cipher-cg0",
-          "pubDate": "Sun, 23 Jun 2024 05:59:50 +0000",
-          "dc:creator": "Ryan Lee",
+          "creator": "Ethan",
+          "title": "Creating a CRUD App With Go",
+          "link": "https://dev.to/ethand91/creating-a-crud-app-with-go-4dc3",
+          "pubDate": "Mon, 24 Jun 2024 06:51:51 +0000",
+          "dc:creator": "Ethan",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ryanlwh/one-byte-explainer-caesar-cipher-cg0",
+          "guid": "https://dev.to/ethand91/creating-a-crud-app-with-go-4dc3",
+          "categories": [
+            "go",
+            "beginners",
+            "crud",
+            "tutorial"
+          ],
+          "isoDate": "2024-06-24T06:51:51.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Suyash Srivastava",
+          "title": "Very Own bookmarks",
+          "link": "https://dev.to/suyashsrivastavadev/very-own-bookmarks-f4c",
+          "pubDate": "Mon, 24 Jun 2024 06:43:30 +0000",
+          "dc:creator": "Suyash Srivastava",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/suyashsrivastavadev/very-own-bookmarks-f4c",
           "categories": [
             "devchallenge",
-            "cschallenge",
-            "computerscience",
-            "beginners"
+            "twiliochallenge",
+            "ai",
+            "twilio"
           ],
-          "isoDate": "2024-06-23T05:59:50.000Z",
+          "isoDate": "2024-06-24T06:43:30.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Emmanuel Joseph",
-          "title": "Understanding the Complexity of Recursive Functions in Python",
-          "link": "https://dev.to/emmanuelj/understanding-the-complexity-of-recursive-functions-in-python-198m",
-          "pubDate": "Sun, 23 Jun 2024 05:51:07 +0000",
-          "dc:creator": "Emmanuel Joseph",
+          "creator": "Judith-Excel-Sharing",
+          "title": "In Excel, Parse Hexadecimal Numbers And Make Queries",
+          "link": "https://dev.to/judith677/in-excel-parse-hexadecimal-numbers-and-make-queries-4ljk",
+          "pubDate": "Mon, 24 Jun 2024 06:39:16 +0000",
+          "dc:creator": "Judith-Excel-Sharing",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/emmanuelj/understanding-the-complexity-of-recursive-functions-in-python-198m",
-          "isoDate": "2024-06-23T05:51:07.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Rakesh Reddy Peddamallu",
-          "title": "Docker",
-          "link": "https://dev.to/rakeshreddy512/docker-4co0",
-          "pubDate": "Sun, 23 Jun 2024 05:49:24 +0000",
-          "dc:creator": "Rakesh Reddy Peddamallu",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/rakeshreddy512/docker-4co0",
+          "guid": "https://dev.to/judith677/in-excel-parse-hexadecimal-numbers-and-make-queries-4ljk",
           "categories": [
-            "docker"
+            "beginners",
+            "programming",
+            "tutorial",
+            "productivity"
           ],
-          "isoDate": "2024-06-23T05:49:24.000Z",
+          "isoDate": "2024-06-24T06:39:16.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Rakesh Reddy Peddamallu",
-          "title": "Kubernetes",
-          "link": "https://dev.to/rakeshreddy512/kubernetes-4i66",
-          "pubDate": "Sun, 23 Jun 2024 05:49:06 +0000",
-          "dc:creator": "Rakesh Reddy Peddamallu",
+          "creator": "harshit-lyzr",
+          "title": "Building an AI-Powered Product Scheduler using Lyzr and OpenAI",
+          "link": "https://dev.to/harshitlyzr/building-an-ai-powered-product-scheduler-using-lyzr-and-openai-3fml",
+          "pubDate": "Mon, 24 Jun 2024 06:38:49 +0000",
+          "dc:creator": "harshit-lyzr",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/rakeshreddy512/kubernetes-4i66",
+          "guid": "https://dev.to/harshitlyzr/building-an-ai-powered-product-scheduler-using-lyzr-and-openai-3fml",
+          "isoDate": "2024-06-24T06:38:49.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "harshit-lyzr",
+          "title": "Enhancing Workplace Safety with AI: A Worker Safety Monitoring Application",
+          "link": "https://dev.to/harshitlyzr/enhancing-workplace-safety-with-ai-a-worker-safety-monitoring-application-5ckm",
+          "pubDate": "Mon, 24 Jun 2024 06:35:16 +0000",
+          "dc:creator": "harshit-lyzr",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/harshitlyzr/enhancing-workplace-safety-with-ai-a-worker-safety-monitoring-application-5ckm",
+          "isoDate": "2024-06-24T06:35:16.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Salvation Maduka ",
+          "title": "WHAT NEXT AFTER LEARNING SOFTWARE DEVELOPMENT?",
+          "link": "https://dev.to/salvation_m/what-next-after-learning-software-development-3mm5",
+          "pubDate": "Mon, 24 Jun 2024 06:35:01 +0000",
+          "dc:creator": "Salvation Maduka ",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/salvation_m/what-next-after-learning-software-development-3mm5",
           "categories": [
-            "kubernetes"
+            "webdev",
+            "beginners",
+            "softwaredevelopment"
           ],
-          "isoDate": "2024-06-23T05:49:06.000Z",
+          "isoDate": "2024-06-24T06:35:01.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "J.R. de Guzman",
-          "title": "AWS Firewalls 101: Stateful vs. Stateless",
-          "link": "https://dev.to/jtorresdeguzman14/aws-firewalls-101-stateful-vs-stateless-3k1h",
-          "pubDate": "Sun, 23 Jun 2024 05:44:30 +0000",
-          "dc:creator": "J.R. de Guzman",
+          "creator": "Infrasity Learning",
+          "title": "ReactJS Best Practices for Developers",
+          "link": "https://dev.to/infrasity-learning/reactjs-best-practices-for-developers-5gjf",
+          "pubDate": "Mon, 24 Jun 2024 06:33:29 +0000",
+          "dc:creator": "Infrasity Learning",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/jtorresdeguzman14/aws-firewalls-101-stateful-vs-stateless-3k1h",
-          "isoDate": "2024-06-23T05:44:30.000Z",
+          "guid": "https://dev.to/infrasity-learning/reactjs-best-practices-for-developers-5gjf",
+          "categories": [
+            "react",
+            "bestpractices",
+            "solidprinciples",
+            "reactjsdevelopment"
+          ],
+          "isoDate": "2024-06-24T06:33:29.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Paul",
+          "title": "Django website templates - Speed up your Development",
+          "link": "https://dev.to/paul_freeman/django-website-templates-speed-up-your-development-4lko",
+          "pubDate": "Mon, 24 Jun 2024 06:32:08 +0000",
+          "dc:creator": "Paul",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/paul_freeman/django-website-templates-speed-up-your-development-4lko",
+          "categories": [
+            "webdev",
+            "django",
+            "beginners",
+            "opensource"
+          ],
+          "isoDate": "2024-06-24T06:32:08.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "harshit-lyzr",
+          "title": "Introducing the Insurance Underwriting Expert: Your Go-To Solution for Risk Assessment",
+          "link": "https://dev.to/harshitlyzr/introducing-the-insurance-underwriting-expert-your-go-to-solution-for-risk-assessment-1omd",
+          "pubDate": "Mon, 24 Jun 2024 06:32:03 +0000",
+          "dc:creator": "harshit-lyzr",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/harshitlyzr/introducing-the-insurance-underwriting-expert-your-go-to-solution-for-risk-assessment-1omd",
+          "isoDate": "2024-06-24T06:32:03.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
