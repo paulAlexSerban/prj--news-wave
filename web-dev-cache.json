@@ -100,10 +100,29 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Mon, 24 Jun 2024 05:02:16 GMT"
+      "lastBuildDate": "Tue, 25 Jun 2024 05:02:17 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
+        {
+          "creator": "Kedasha Kerr",
+          "title": "Beginner’s guide to GitHub repositories: How to create your first repo",
+          "link": "https://github.blog/2024-06-24-beginners-guide-to-github-repositories-how-to-create-your-first-repo/",
+          "pubDate": "Mon, 24 Jun 2024 13:00:43 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Kedasha Kerr",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=78590",
+          "categories": [
+            "Education",
+            "GitHub for beginners",
+            "repositories"
+          ],
+          "isoDate": "2024-06-24T13:00:43.000Z",
+          "summary": ""
+        },
         {
           "creator": "Peter Stöckli",
           "title": "Execute commands by sending JSON? Learn how unsafe deserialization vulnerabilities work in Ruby projects",
@@ -177,26 +196,6 @@
           ],
           "isoDate": "2024-06-12T19:00:30.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Camaley Jennings",
-          "title": "Leveraging technology on the frontlines of emergency: How communities of developers are taking action",
-          "link": "https://github.blog/2024-06-12-leveraging-technology-on-the-frontlines-of-emergency-how-communities-of-developers-are-taking-action/",
-          "pubDate": "Wed, 12 Jun 2024 16:37:15 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Camaley Jennings",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=78369",
-          "categories": [
-            "Community",
-            "open source",
-            "social impact",
-            "Tech for Social Good"
-          ],
-          "isoDate": "2024-06-12T16:37:15.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://github.blog/feed/",
@@ -212,10 +211,10 @@
       },
       "title": "The GitHub Blog",
       "description": "Updates, ideas, and inspiration from GitHub to help developers build and design software.",
-      "generator": "https://wordpress.org/?v=6.5.4",
+      "generator": "https://wordpress.org/?v=6.5.5",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Fri, 21 Jun 2024 15:52:49 +0000"
+      "lastBuildDate": "Mon, 24 Jun 2024 13:02:05 +0000"
     },
     "GitHub Blog Atom": {
       "items": [
@@ -306,6 +305,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Paul Boag)",
+          "title": "So Your Website Or App Is Live… Now What?",
+          "link": "https://smashingmagazine.com/2024/06/website-improvement-after-launch/",
+          "pubDate": "Mon, 24 Jun 2024 18:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/website-improvement-after-launch/analytics.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/06/website-improvement-after-launch/",
+          "isoDate": "2024-06-24T18:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Frederick O’Brien)",
           "title": "MDX Or: How I Learned To Stop Worrying And Love Multimedia Writing",
           "link": "https://smashingmagazine.com/2024/06/mdx-or-how-i-learned-love-multimedia-writing/",
@@ -328,7 +346,7 @@
           "creator": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
           "title": "Uniting Web And Native Apps With 4 Unknown JavaScript APIs",
           "link": "https://smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
-          "pubDate": "Thu, 20 Jun 2024 11:00:00 GMT",
+          "pubDate": "Thu, 20 Jun 2024 18:00:00 GMT",
           "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
           "content:encoded": "",
           "content:encodedSnippet": "",
@@ -340,7 +358,7 @@
           "content": "",
           "contentSnippet": "",
           "guid": "https://smashingmagazine.com/2024/06/uniting-web-native-apps-unknown-javascript-apis/",
-          "isoDate": "2024-06-20T11:00:00.000Z",
+          "isoDate": "2024-06-20T18:00:00.000Z",
           "summary": ""
         },
         {
@@ -380,25 +398,6 @@
           "guid": "https://smashingmagazine.com/2024/06/useful-email-newsletters-for-designers/",
           "isoDate": "2024-06-17T18:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
-          "title": "What Are CSS Container Style Queries Good For?",
-          "link": "https://smashingmagazine.com/2024/06/what-are-css-container-style-queries-good-for/",
-          "pubDate": "Fri, 14 Jun 2024 11:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Juan Diego Rodríguez)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/what-are-css-container-style-queries-good-for/what-are-css-container-style-queries-good-for.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/06/what-are-css-container-style-queries-good-for/",
-          "isoDate": "2024-06-14T11:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -416,7 +415,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Mon, 24 Jun 2024 06:35:13 GMT",
+      "lastBuildDate": "Tue, 25 Jun 2024 07:05:09 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -522,7 +521,7 @@
       },
       "title": "Codrops",
       "description": "Keeping web professionals inspired & up-to-date since 2009",
-      "generator": "https://wordpress.org/?v=6.5.4",
+      "generator": "https://wordpress.org/?v=6.5.5",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
       "lastBuildDate": "Wed, 19 Jun 2024 13:58:30 +0000"
@@ -530,141 +529,141 @@
     "DZone": {
       "items": [
         {
-          "creator": "Tom Smith",
-          "title": "Celebrating the Trailblazers: International Women in Engineering Day 2024",
-          "link": "https://dzone.com/articles/celebrating-the-trailblazers-intl-women-in-engineering-day",
-          "pubDate": "Sun, 23 Jun 2024 12:00:03 GMT",
-          "dc:creator": "Tom Smith",
+          "creator": "Danny Logsdon",
+          "title": "Query SQL and NoSQL Databases Using Artificial Intelligence",
+          "link": "https://dzone.com/articles/query-sql-and-nosql-databases-using-artificial-int",
+          "pubDate": "Mon, 24 Jun 2024 21:55:16 GMT",
+          "dc:creator": "Danny Logsdon",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3467756",
-          "isoDate": "2024-06-23T12:00:03.000Z",
+          "guid": "https://dzone.com/articles/3466730",
+          "isoDate": "2024-06-24T21:55:16.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ayush Thakur",
+          "title": "An Interactive Guide to CSS Hover Effects",
+          "link": "https://dzone.com/articles/an-interactive-guide-to-css-hover-effects",
+          "pubDate": "Mon, 24 Jun 2024 21:00:00 GMT",
+          "dc:creator": "Ayush Thakur",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3461241",
+          "isoDate": "2024-06-24T21:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Alec Gall",
+          "title": "The Best C# .NET Reporting Tools",
+          "link": "https://dzone.com/articles/the-best-c-net-reporting-tools",
+          "pubDate": "Mon, 24 Jun 2024 20:00:00 GMT",
+          "dc:creator": "Alec Gall",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3468740",
+          "isoDate": "2024-06-24T20:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Thomas Vitale",
+          "title": "Open-Source Dapr for Spring Boot Developers",
+          "link": "https://dzone.com/articles/open-source-dapr-for-spring-boot-developers",
+          "pubDate": "Mon, 24 Jun 2024 19:00:01 GMT",
+          "dc:creator": "Thomas Vitale",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3467718",
+          "isoDate": "2024-06-24T19:00:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Nazneen Ahmad",
+          "title": "Test Plan vs. Test Case: Key Differences",
+          "link": "https://dzone.com/articles/test-plan-vs-test-case-key-differences",
+          "pubDate": "Mon, 24 Jun 2024 18:00:00 GMT",
+          "dc:creator": "Nazneen Ahmad",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3468757",
+          "isoDate": "2024-06-24T18:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Egor Dubchenko",
+          "title": "Why I Chose Supabase as BaaS for My Projects",
+          "link": "https://dzone.com/articles/why-i-chose-supabase-as-baas-for-my-projects",
+          "pubDate": "Mon, 24 Jun 2024 17:00:00 GMT",
+          "dc:creator": "Egor Dubchenko",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3466725",
+          "isoDate": "2024-06-24T17:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Tejas Patel",
+          "title": "Setting up CI/CD Pipelines: A Step-By-Step Guide",
+          "link": "https://dzone.com/articles/setting-up-cicd-pipelines-a-step-by-step-guide",
+          "pubDate": "Mon, 24 Jun 2024 16:00:00 GMT",
+          "dc:creator": "Tejas Patel",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3468615",
+          "isoDate": "2024-06-24T16:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Frank Z",
+          "title": "Steps To Industry-Leading Query Speed: Evolution of the Apache Doris Execution Engine",
+          "link": "https://dzone.com/articles/steps-to-industry-leading-query-speed-evolution",
+          "pubDate": "Mon, 24 Jun 2024 15:00:00 GMT",
+          "dc:creator": "Frank Z",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3467721",
+          "isoDate": "2024-06-24T15:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
           "creator": "Tom Smith",
-          "title": "MaxLinear Empowers High-Speed Connectivity and Data Acceleration Solutions for Next-Gen Computing",
-          "link": "https://dzone.com/articles/maxlinear-empowers-high-speed-connectivity",
-          "pubDate": "Sat, 22 Jun 2024 11:00:02 GMT",
+          "title": "Mastering Unstructured Data Chaos With Datadobi StorageMAP 7.0",
+          "link": "https://dzone.com/articles/mastering-unstructured-data-chaos-with-datadobi",
+          "pubDate": "Mon, 24 Jun 2024 14:00:02 GMT",
           "dc:creator": "Tom Smith",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3466608",
-          "isoDate": "2024-06-22T11:00:02.000Z",
+          "guid": "https://dzone.com/articles/3466634",
+          "isoDate": "2024-06-24T14:00:02.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Anuj Tyagi",
-          "title": "Books To Start Your Career in Cloud, DevOps, or SRE in 2024",
-          "link": "https://dzone.com/articles/books-to-start-career-in-cloud-devops-or-sre",
-          "pubDate": "Fri, 21 Jun 2024 21:00:00 GMT",
-          "dc:creator": "Anuj Tyagi",
+          "creator": "Sergey Platonov",
+          "title": "Optimizing InfiniBand Bandwidth Utilization for NVIDIA DGX Systems Using Software RAID Solutions",
+          "link": "https://dzone.com/articles/optimizing-infiniband-bandwidth-utilization",
+          "pubDate": "Mon, 24 Jun 2024 13:00:00 GMT",
+          "dc:creator": "Sergey Platonov",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3466708",
-          "isoDate": "2024-06-21T21:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Romain Pelisse",
-          "title": "Automate Message Queue Deployment on JBoss EAP",
-          "link": "https://dzone.com/articles/automate-message-queue-deployment-on-jboss-eap",
-          "pubDate": "Fri, 21 Jun 2024 20:00:00 GMT",
-          "dc:creator": "Romain Pelisse",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3467674",
-          "isoDate": "2024-06-21T20:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Jaswinder Singh Saini",
-          "title": "Block Size and Its Impact on Storage Performance",
-          "link": "https://dzone.com/articles/block-size-and-its-impact-on-storage-performance",
-          "pubDate": "Fri, 21 Jun 2024 19:00:01 GMT",
-          "dc:creator": "Jaswinder Singh Saini",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3467711",
-          "isoDate": "2024-06-21T19:00:01.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Michael Bogan",
-          "title": "5 Simple Steps To Get Your Test Suite Running in Heroku CI",
-          "link": "https://dzone.com/articles/5-simple-steps-to-get-your-test-suite-running",
-          "pubDate": "Fri, 21 Jun 2024 18:00:00 GMT",
-          "dc:creator": "Michael Bogan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3466688",
-          "isoDate": "2024-06-21T18:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Bhanuprakash Jirra",
-          "title": "Migrating Data From Amazon Neptune to PostgreSQL Using AWS Services",
-          "link": "https://dzone.com/articles/migrating-data-from-amazon-neptune-to-postgresql",
-          "pubDate": "Fri, 21 Jun 2024 17:00:00 GMT",
-          "dc:creator": "Bhanuprakash Jirra",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3467690",
-          "isoDate": "2024-06-21T17:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Brian O'Neill",
-          "title": "How To Compare DOCX Documents in Java",
-          "link": "https://dzone.com/articles/how-to-compare-docx-documents-in-java",
-          "pubDate": "Fri, 21 Jun 2024 16:00:01 GMT",
-          "dc:creator": "Brian O'Neill",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3468655",
-          "isoDate": "2024-06-21T16:00:01.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Abhinav Garg",
-          "title": "Enhancing Testing Efficiency: Transitioning From Traditional Code Coverage to Code Change Coverage",
-          "link": "https://dzone.com/articles/maximizing-testing-efficiency-with-code-change",
-          "pubDate": "Fri, 21 Jun 2024 15:00:00 GMT",
-          "dc:creator": "Abhinav Garg",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3466347",
-          "isoDate": "2024-06-21T15:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Josephine Eskaline Joyce",
-          "title": "Optimizing Your Cloud Resources, Part 2: Resource Management via IBM Cloud Projects",
-          "link": "https://dzone.com/articles/optimizing-your-cloud-resources-part-2",
-          "pubDate": "Fri, 21 Jun 2024 14:00:00 GMT",
-          "dc:creator": "Josephine Eskaline Joyce",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3463320",
-          "isoDate": "2024-06-21T14:00:00.000Z",
+          "guid": "https://dzone.com/articles/3466398",
+          "isoDate": "2024-06-24T13:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -680,6 +679,110 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Saeed Zarinfam",
+          "title": "10 Spring Boot Performance Best Practices",
+          "link": "https://itnext.io/10-spring-boot-performance-best-practices-c392f32497e8?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 24 Jun 2024 12:01:07 GMT",
+          "dc:creator": "Saeed Zarinfam",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/c392f32497e8",
+          "categories": [
+            "spring-mvc",
+            "performance",
+            "spring-boot",
+            "graalvm",
+            "observability"
+          ],
+          "isoDate": "2024-06-24T12:01:07.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Jonathan Gelin",
+          "title": " Deep Dive into Nx Affected",
+          "link": "https://itnext.io/deep-dive-into-nx-affected-b3c29c715d41?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 24 Jun 2024 10:14:52 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Jonathan Gelin",
+          "guid": "https://medium.com/p/b3c29c715d41",
+          "categories": [
+            "angular",
+            "nx",
+            "monorepo",
+            "nodejs",
+            "typescript"
+          ],
+          "isoDate": "2024-06-24T10:14:52.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Valery Ponomarenko",
+          "title": "Unlocking the Power of Observability in Your Flutter App",
+          "link": "https://itnext.io/unlocking-the-power-of-observability-in-your-flutter-app-9525ee873953?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 24 Jun 2024 08:51:35 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Valery Ponomarenko",
+          "guid": "https://medium.com/p/9525ee873953",
+          "categories": [
+            "new-relic",
+            "flutter",
+            "crashlytics",
+            "observability"
+          ],
+          "isoDate": "2024-06-24T08:51:35.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Arseny Zinchenko (setevoy)",
+          "title": "Pritunl: launching a VPN in AWS on EC2 with Terraform",
+          "link": "https://itnext.io/pritunl-launching-a-vpn-in-aws-on-ec2-with-terraform-ebce8bb78558?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 24 Jun 2024 07:42:12 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Arseny Zinchenko (setevoy)",
+          "guid": "https://medium.com/p/ebce8bb78558",
+          "categories": [
+            "aws",
+            "terraform",
+            "vpn",
+            "devops",
+            "security"
+          ],
+          "isoDate": "2024-06-24T07:42:12.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Keiran Smith",
+          "title": "Writing a custom staged sliver loader with rust",
+          "link": "https://itnext.io/writing-a-custom-staged-sliver-loader-with-rust-3675b36d9ad7?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 24 Jun 2024 07:41:14 GMT",
+          "dc:creator": "Keiran Smith",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/3675b36d9ad7",
+          "categories": [
+            "rust-programming-language",
+            "windows",
+            "red-team",
+            "penetration-testing",
+            "hacking"
+          ],
+          "isoDate": "2024-06-24T07:41:14.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "David Campbell",
           "title": "Beyond ‘Gotcha’ Questions: The LRU Cache Challenge for Real-World Skills",
@@ -784,106 +887,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Douglas Mendez",
-          "title": "Networking and Sockets: Endianness",
-          "link": "https://itnext.io/networking-and-sockets-endianness-ee70e28b9a62?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 20 Jun 2024 21:48:30 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Douglas Mendez",
-          "guid": "https://medium.com/p/ee70e28b9a62",
-          "categories": [
-            "networking",
-            "rust",
-            "linux",
-            "sockets"
-          ],
-          "isoDate": "2024-06-20T21:48:30.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Brian Grant",
-          "title": "Kubernetes: The Road to 1.0",
-          "link": "https://itnext.io/kubernetes-the-road-to-1-0-525a9420fdf0?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 19 Jun 2024 17:06:11 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Brian Grant",
-          "guid": "https://medium.com/p/525a9420fdf0",
-          "categories": [
-            "kubernetes"
-          ],
-          "isoDate": "2024-06-19T17:06:11.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Piotr",
-          "title": "Why Fast Feedback Loops Matter When Working with Kubernetes",
-          "link": "https://itnext.io/why-fast-feedback-loops-matter-when-working-with-kubernetes-58b8d2cb8e8e?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 19 Jun 2024 13:35:08 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Piotr",
-          "guid": "https://medium.com/p/58b8d2cb8e8e",
-          "categories": [
-            "cloud-computing",
-            "kubernetes",
-            "open-source",
-            "software-development",
-            "tools"
-          ],
-          "isoDate": "2024-06-19T13:35:08.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Mirco | VerboseMode.dev",
-          "title": "Minto Pyramid, Talk Recommendation and Slow Productivity — Weekly Tech Tidbits #3",
-          "link": "https://itnext.io/minto-pyramid-talk-recommendation-and-slow-productivity-weekly-tech-tidbits-3-c8eb11235859?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 19 Jun 2024 07:10:59 GMT",
-          "dc:creator": "Mirco | VerboseMode.dev",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/c8eb11235859",
-          "categories": [
-            "devops",
-            "technology",
-            "communication",
-            "operations",
-            "productivity"
-          ],
-          "isoDate": "2024-06-19T07:10:59.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Krzysztof Pranczk",
-          "title": "Unrestricted Resource Consumption in a Password Reset — Web API Security Champion Part IV",
-          "link": "https://itnext.io/unrestricted-resource-consumption-in-a-password-reset-web-api-security-champion-part-iv-2408ee67e573?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 18 Jun 2024 21:45:44 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Krzysztof Pranczk",
-          "guid": "https://medium.com/p/2408ee67e573",
-          "categories": [
-            "python",
-            "programming",
-            "cybersecurity",
-            "application-security",
-            "software-development"
-          ],
-          "isoDate": "2024-06-18T21:45:44.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -900,187 +903,180 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Mon, 24 Jun 2024 06:55:48 GMT"
+      "lastBuildDate": "Tue, 25 Jun 2024 07:01:04 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Samuel-Zacharie FAURE",
-          "title": "🕸 Networking is easy, fun, and probably not what you think it is.",
-          "link": "https://dev.to/samuelfaure/networking-is-easy-fun-and-probably-not-what-you-think-it-is-2ijc",
-          "pubDate": "Mon, 24 Jun 2024 06:54:49 +0000",
-          "dc:creator": "Samuel-Zacharie FAURE",
+          "creator": "Deepak Kumar",
+          "title": "Beginner's Guide to Playing Snake: Rules and Strategies",
+          "link": "https://dev.to/dk119819/beginners-guide-to-playing-snake-rules-and-strategies-jkf",
+          "pubDate": "Tue, 25 Jun 2024 06:54:28 +0000",
+          "dc:creator": "Deepak Kumar",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/samuelfaure/networking-is-easy-fun-and-probably-not-what-you-think-it-is-2ijc",
+          "guid": "https://dev.to/dk119819/beginners-guide-to-playing-snake-rules-and-strategies-jkf",
           "categories": [
-            "career",
+            "javascript",
             "beginners",
-            "learning",
-            "community"
+            "tutorial",
+            "gamedev"
           ],
-          "isoDate": "2024-06-24T06:54:49.000Z",
+          "isoDate": "2024-06-25T06:54:28.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ethan",
-          "title": "Creating a CRUD App With Go",
-          "link": "https://dev.to/ethand91/creating-a-crud-app-with-go-4dc3",
-          "pubDate": "Mon, 24 Jun 2024 06:51:51 +0000",
-          "dc:creator": "Ethan",
+          "creator": "Shivam Sahu",
+          "title": "javascript string manipulation Interview Questions",
+          "link": "https://dev.to/shivam_sahu_704d021337aec/javascript-string-manipulation-interview-questions-26oo",
+          "pubDate": "Tue, 25 Jun 2024 06:54:21 +0000",
+          "dc:creator": "Shivam Sahu",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ethand91/creating-a-crud-app-with-go-4dc3",
-          "categories": [
-            "go",
-            "beginners",
-            "crud",
-            "tutorial"
-          ],
-          "isoDate": "2024-06-24T06:51:51.000Z",
+          "guid": "https://dev.to/shivam_sahu_704d021337aec/javascript-string-manipulation-interview-questions-26oo",
+          "isoDate": "2024-06-25T06:54:21.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Suyash Srivastava",
-          "title": "Very Own bookmarks",
-          "link": "https://dev.to/suyashsrivastavadev/very-own-bookmarks-f4c",
-          "pubDate": "Mon, 24 Jun 2024 06:43:30 +0000",
-          "dc:creator": "Suyash Srivastava",
+          "creator": "Lana",
+          "title": "Openshift Kubernetes Distribution (OKD)",
+          "link": "https://dev.to/lanamaulanna/openshift-kubernetes-distribution-okd-4g23",
+          "pubDate": "Tue, 25 Jun 2024 06:31:45 +0000",
+          "dc:creator": "Lana",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/suyashsrivastavadev/very-own-bookmarks-f4c",
-          "categories": [
-            "devchallenge",
-            "twiliochallenge",
-            "ai",
-            "twilio"
-          ],
-          "isoDate": "2024-06-24T06:43:30.000Z",
+          "guid": "https://dev.to/lanamaulanna/openshift-kubernetes-distribution-okd-4g23",
+          "isoDate": "2024-06-25T06:31:45.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Judith-Excel-Sharing",
-          "title": "In Excel, Parse Hexadecimal Numbers And Make Queries",
-          "link": "https://dev.to/judith677/in-excel-parse-hexadecimal-numbers-and-make-queries-4ljk",
-          "pubDate": "Mon, 24 Jun 2024 06:39:16 +0000",
-          "dc:creator": "Judith-Excel-Sharing",
+          "creator": "Jaime López",
+          "title": "5 Unsuspected Ways You Can Already Be Documenting Your Projects (Without Even Knowing!)",
+          "link": "https://dev.to/jaloplo/5-unsuspected-ways-you-can-already-be-documenting-your-projects-without-even-knowing-23af",
+          "pubDate": "Tue, 25 Jun 2024 06:30:00 +0000",
+          "dc:creator": "Jaime López",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/judith677/in-excel-parse-hexadecimal-numbers-and-make-queries-4ljk",
+          "guid": "https://dev.to/jaloplo/5-unsuspected-ways-you-can-already-be-documenting-your-projects-without-even-knowing-23af",
           "categories": [
+            "microsoft365",
+            "management"
+          ],
+          "isoDate": "2024-06-25T06:30:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Tofail Ahmed Sayem ",
+          "title": "Event loop in Node.js",
+          "link": "https://dev.to/tofail/event-loop-in-nodejs-eoa",
+          "pubDate": "Tue, 25 Jun 2024 06:26:45 +0000",
+          "dc:creator": "Tofail Ahmed Sayem ",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/tofail/event-loop-in-nodejs-eoa",
+          "categories": [
+            "eventloop",
+            "node",
+            "javascript",
+            "webdev"
+          ],
+          "isoDate": "2024-06-25T06:26:45.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Nadim Chowdhury",
+          "title": "How to create fully functional Learning Management System React Native Mobile App?",
+          "link": "https://dev.to/nadim_ch0wdhury/how-to-create-fully-functional-learning-management-system-react-native-mobile-app-3o16",
+          "pubDate": "Tue, 25 Jun 2024 06:26:08 +0000",
+          "dc:creator": "Nadim Chowdhury",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/nadim_ch0wdhury/how-to-create-fully-functional-learning-management-system-react-native-mobile-app-3o16",
+          "isoDate": "2024-06-25T06:26:08.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Karl Esi",
+          "title": "Thank You For 10k followers on Dev.to!",
+          "link": "https://dev.to/thekarlesi/thank-you-for-10k-followers-2ek2",
+          "pubDate": "Tue, 25 Jun 2024 06:21:29 +0000",
+          "dc:creator": "Karl Esi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/thekarlesi/thank-you-for-10k-followers-2ek2",
+          "categories": [
+            "webdev",
             "beginners",
             "programming",
-            "tutorial",
-            "productivity"
+            "html"
           ],
-          "isoDate": "2024-06-24T06:39:16.000Z",
+          "isoDate": "2024-06-25T06:21:29.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "harshit-lyzr",
-          "title": "Building an AI-Powered Product Scheduler using Lyzr and OpenAI",
-          "link": "https://dev.to/harshitlyzr/building-an-ai-powered-product-scheduler-using-lyzr-and-openai-3fml",
-          "pubDate": "Mon, 24 Jun 2024 06:38:49 +0000",
-          "dc:creator": "harshit-lyzr",
+          "creator": "Devluc",
+          "title": "5 Best Websites for Free Django Templates",
+          "link": "https://dev.to/devluc/5-best-websites-for-free-django-templates-27mn",
+          "pubDate": "Tue, 25 Jun 2024 06:19:49 +0000",
+          "dc:creator": "Devluc",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/harshitlyzr/building-an-ai-powered-product-scheduler-using-lyzr-and-openai-3fml",
-          "isoDate": "2024-06-24T06:38:49.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "harshit-lyzr",
-          "title": "Enhancing Workplace Safety with AI: A Worker Safety Monitoring Application",
-          "link": "https://dev.to/harshitlyzr/enhancing-workplace-safety-with-ai-a-worker-safety-monitoring-application-5ckm",
-          "pubDate": "Mon, 24 Jun 2024 06:35:16 +0000",
-          "dc:creator": "harshit-lyzr",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/harshitlyzr/enhancing-workplace-safety-with-ai-a-worker-safety-monitoring-application-5ckm",
-          "isoDate": "2024-06-24T06:35:16.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Salvation Maduka ",
-          "title": "WHAT NEXT AFTER LEARNING SOFTWARE DEVELOPMENT?",
-          "link": "https://dev.to/salvation_m/what-next-after-learning-software-development-3mm5",
-          "pubDate": "Mon, 24 Jun 2024 06:35:01 +0000",
-          "dc:creator": "Salvation Maduka ",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/salvation_m/what-next-after-learning-software-development-3mm5",
+          "guid": "https://dev.to/devluc/5-best-websites-for-free-django-templates-27mn",
           "categories": [
+            "python",
+            "django",
             "webdev",
-            "beginners",
-            "softwaredevelopment"
+            "frontend"
           ],
-          "isoDate": "2024-06-24T06:35:01.000Z",
+          "isoDate": "2024-06-25T06:19:49.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Infrasity Learning",
-          "title": "ReactJS Best Practices for Developers",
-          "link": "https://dev.to/infrasity-learning/reactjs-best-practices-for-developers-5gjf",
-          "pubDate": "Mon, 24 Jun 2024 06:33:29 +0000",
-          "dc:creator": "Infrasity Learning",
+          "creator": "Sayyed Asad Ullah",
+          "title": "React Magical trick with useCotext and understand prop drilling.",
+          "link": "https://dev.to/sayyedasad786/react-magical-trick-with-usecotext-and-understand-prop-drilling-4fod",
+          "pubDate": "Tue, 25 Jun 2024 06:19:16 +0000",
+          "dc:creator": "Sayyed Asad Ullah",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/infrasity-learning/reactjs-best-practices-for-developers-5gjf",
+          "guid": "https://dev.to/sayyedasad786/react-magical-trick-with-usecotext-and-understand-prop-drilling-4fod",
           "categories": [
             "react",
-            "bestpractices",
-            "solidprinciples",
-            "reactjsdevelopment"
-          ],
-          "isoDate": "2024-06-24T06:33:29.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Paul",
-          "title": "Django website templates - Speed up your Development",
-          "link": "https://dev.to/paul_freeman/django-website-templates-speed-up-your-development-4lko",
-          "pubDate": "Mon, 24 Jun 2024 06:32:08 +0000",
-          "dc:creator": "Paul",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/paul_freeman/django-website-templates-speed-up-your-development-4lko",
-          "categories": [
             "webdev",
-            "django",
-            "beginners",
-            "opensource"
+            "programming",
+            "javascript"
           ],
-          "isoDate": "2024-06-24T06:32:08.000Z",
+          "isoDate": "2024-06-25T06:19:16.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "harshit-lyzr",
-          "title": "Introducing the Insurance Underwriting Expert: Your Go-To Solution for Risk Assessment",
-          "link": "https://dev.to/harshitlyzr/introducing-the-insurance-underwriting-expert-your-go-to-solution-for-risk-assessment-1omd",
-          "pubDate": "Mon, 24 Jun 2024 06:32:03 +0000",
-          "dc:creator": "harshit-lyzr",
+          "creator": "Christopher",
+          "title": "Enhancing User Experience with Real-Time Features in ASP.NET Core Applications in 2024",
+          "link": "https://dev.to/christopher075/enhancing-user-experience-with-real-time-features-in-aspnet-core-applications-in-2024-1d44",
+          "pubDate": "Tue, 25 Jun 2024 06:14:17 +0000",
+          "dc:creator": "Christopher",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/harshitlyzr/introducing-the-insurance-underwriting-expert-your-go-to-solution-for-risk-assessment-1omd",
-          "isoDate": "2024-06-24T06:32:03.000Z",
+          "guid": "https://dev.to/christopher075/enhancing-user-experience-with-real-time-features-in-aspnet-core-applications-in-2024-1d44",
+          "isoDate": "2024-06-25T06:14:17.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1097,6 +1093,19 @@
     },
     "Digital Ocean Labs": {
       "items": [
+        {
+          "title": "Introducing Managed OpenSearch: Gain Control of Your Cloud with Powerful Log Analysis",
+          "link": "https://www.digitalocean.com/blog/introducing-managed-opensearch",
+          "pubDate": "2024-06-18T17:40:57.431Z",
+          "author": "Devneel Vaidya",
+          "content": "",
+          "contentSnippet": "",
+          "id": "tag:www.digitalocean.com,2005:/blog/introducing-managed-opensearch",
+          "isoDate": "2024-06-18T17:40:57.431Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "Announcing Log Forwarding for Managed Databases",
           "link": "https://www.digitalocean.com/blog/digitalocean-log-forwarding-for-managed-databases-and-app-platform",
@@ -1148,25 +1157,12 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "DigitalOcean and PureDome partner to deliver improved security against cyberattacks",
-          "link": "https://www.digitalocean.com/blog/digitalocean-puredome-partner-improved-security",
-          "pubDate": "2024-06-10T22:51:02.472Z",
-          "author": "DigitalOcean",
-          "content": "",
-          "contentSnippet": "",
-          "id": "tag:www.digitalocean.com,2005:/blog/digitalocean-puredome-partner-improved-security",
-          "isoDate": "2024-06-10T22:51:02.472Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog.atom",
       "title": "The DigitalOcean Blog",
-      "lastBuildDate": "2024-06-18T15:50:48.436Z"
+      "lastBuildDate": "2024-06-24T13:35:10.133Z"
     },
     "Julia Evans": {
       "items": [
