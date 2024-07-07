@@ -103,7 +103,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sat, 06 Jul 2024 05:02:19 GMT"
+      "lastBuildDate": "Sun, 07 Jul 2024 05:02:21 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -420,7 +420,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sat, 06 Jul 2024 06:41:23 GMT",
+      "lastBuildDate": "Sun, 07 Jul 2024 06:35:05 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -557,6 +557,20 @@
     "DZone": {
       "items": [
         {
+          "creator": "Roger Oriol",
+          "title": "Build an Advanced RAG App: Query Rewriting",
+          "link": "https://dzone.com/articles/build-an-advanced-rag-app-query-rewriting",
+          "pubDate": "Sat, 06 Jul 2024 12:00:01 GMT",
+          "dc:creator": "Roger Oriol",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3471818",
+          "isoDate": "2024-07-06T12:00:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Suleiman Dibirov",
           "title": "Contexts in Go: A Comprehensive Guide",
           "link": "https://dzone.com/articles/contexts-in-go-a-comprehensive-guide",
@@ -681,20 +695,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Kailash Pathak",
-          "title": "Getting Started With Microsoft Tool Playwright for Automated Testing",
-          "link": "https://dzone.com/articles/getting-started-with-playwright-for-testing",
-          "pubDate": "Fri, 05 Jul 2024 12:00:00 GMT",
-          "dc:creator": "Kailash Pathak",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3471811",
-          "isoDate": "2024-07-05T12:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -707,6 +707,47 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Dale Nguyen",
+          "title": "Building PDF Open Source Services with Angular & GCP — Handling long processing tasks",
+          "link": "https://itnext.io/building-pdf-open-source-services-with-angular-gcp-handling-long-processing-tasks-e15cb4e511d3?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 06 Jul 2024 22:11:53 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Dale Nguyen",
+          "guid": "https://medium.com/p/e15cb4e511d3",
+          "categories": [
+            "firebase",
+            "pdf",
+            "open-source",
+            "gcp",
+            "angular"
+          ],
+          "isoDate": "2024-07-06T22:11:53.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Pradipta Banerjee",
+          "title": "How your confidential containers can securely retrieve secrets?",
+          "link": "https://itnext.io/how-your-confidential-containers-can-securely-retrieve-secrets-93d6f55b7b42?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 06 Jul 2024 08:00:36 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Pradipta Banerjee",
+          "guid": "https://medium.com/p/93d6f55b7b42",
+          "categories": [
+            "kubernetes-security",
+            "confidential-computing",
+            "confidential-containers",
+            "kubernetes"
+          ],
+          "isoDate": "2024-07-06T08:00:36.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Stefan Weber",
           "title": "OutSystems Developer Cloud End-User Roles, Groups and Group Mappings",
@@ -869,48 +910,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Aristeidis Tyropolis",
-          "title": "Run your Kubernetes Cluster on “Bare Metal” with Cilium CNI — Part. 1",
-          "link": "https://itnext.io/run-your-kubernetes-cluster-on-bare-metal-with-cilium-cni-part-1-e88028800d90?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 03 Jul 2024 22:03:27 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Aristeidis Tyropolis",
-          "guid": "https://medium.com/p/e88028800d90",
-          "categories": [
-            "cilium",
-            "bare-metal-cloud",
-            "kubernetes",
-            "cloud-computing",
-            "observability"
-          ],
-          "isoDate": "2024-07-03T22:03:27.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Saeed Zarinfam",
-          "title": "Optimistic Locking with StampedLock in Java",
-          "link": "https://itnext.io/optimistic-locking-with-stampedlock-in-java-f2e4d5ba35cd?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 03 Jul 2024 22:01:11 GMT",
-          "dc:creator": "Saeed Zarinfam",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/f2e4d5ba35cd",
-          "categories": [
-            "concurrency",
-            "locking",
-            "multithreading",
-            "java",
-            "stamped-lock"
-          ],
-          "isoDate": "2024-07-03T22:01:11.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -927,185 +926,169 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sat, 06 Jul 2024 06:53:37 GMT"
+      "lastBuildDate": "Sun, 07 Jul 2024 06:54:43 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "KavithaGovindaraj",
-          "title": "manual testing",
-          "link": "https://dev.to/kavithagovindaraj/manual-testing-3c83",
-          "pubDate": "Sat, 06 Jul 2024 06:31:50 +0000",
-          "dc:creator": "KavithaGovindaraj",
+          "creator": "Yogesh Galav",
+          "title": "Why Laravel is better then NodeJs/Express?",
+          "link": "https://dev.to/yogeshgalav7/why-laravel-is-better-then-nodejsexpress-19lo",
+          "pubDate": "Sun, 07 Jul 2024 06:33:00 +0000",
+          "dc:creator": "Yogesh Galav",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/kavithagovindaraj/manual-testing-3c83",
-          "isoDate": "2024-07-06T06:31:50.000Z",
+          "guid": "https://dev.to/yogeshgalav7/why-laravel-is-better-then-nodejsexpress-19lo",
+          "isoDate": "2024-07-07T06:33:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sharon Collinst",
-          "title": "Beverage Bottles: Trends in Design and Functionality",
-          "link": "https://dev.to/sharon_collinst_b2c646661/beverage-bottles-trends-in-design-and-functionality-36l3",
-          "pubDate": "Sat, 06 Jul 2024 06:24:42 +0000",
-          "dc:creator": "Sharon Collinst",
+          "creator": "Aviral Garg",
+          "title": "🌳 Getting Started with Random Forest Machine Learning Model Training",
+          "link": "https://dev.to/aviralgarg05/getting-started-with-random-forest-machine-learning-model-training-5f7p",
+          "pubDate": "Sun, 07 Jul 2024 06:28:42 +0000",
+          "dc:creator": "Aviral Garg",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/sharon_collinst_b2c646661/beverage-bottles-trends-in-design-and-functionality-36l3",
+          "guid": "https://dev.to/aviralgarg05/getting-started-with-random-forest-machine-learning-model-training-5f7p",
+          "isoDate": "2024-07-07T06:28:42.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Darshan Kumar",
+          "title": "Understanding Switch Case and Functions and What is Hoisting",
+          "link": "https://dev.to/darshan_kumar_c9883cffc18/understanding-switch-case-and-functions-and-what-is-hoisting-5180",
+          "pubDate": "Sun, 07 Jul 2024 06:09:14 +0000",
+          "dc:creator": "Darshan Kumar",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/darshan_kumar_c9883cffc18/understanding-switch-case-and-functions-and-what-is-hoisting-5180",
           "categories": [
-            "design"
+            "javascript",
+            "frontend",
+            "webdev",
+            "programming"
           ],
-          "isoDate": "2024-07-06T06:24:42.000Z",
+          "isoDate": "2024-07-07T06:09:14.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Amulya Kumar",
-          "title": "Cloudflare Launches Free Tool to Combat AI Bot Scraping",
-          "link": "https://dev.to/hyscaler/cloudflare-launches-free-tool-to-combat-ai-bot-scraping-24ce",
-          "pubDate": "Sat, 06 Jul 2024 06:23:20 +0000",
-          "dc:creator": "Amulya Kumar",
+          "creator": "Durgesh Tambe",
+          "title": "JavaScript Developer Roadmap: From Beginner to Pro in 2024",
+          "link": "https://dev.to/durgesh94/javascript-developer-roadmap-from-beginner-to-pro-in-2024-1nhk",
+          "pubDate": "Sun, 07 Jul 2024 06:05:21 +0000",
+          "dc:creator": "Durgesh Tambe",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/hyscaler/cloudflare-launches-free-tool-to-combat-ai-bot-scraping-24ce",
-          "categories": [
-            "cloudflarechallenge",
-            "freetool",
-            "ai",
-            "webdev"
-          ],
-          "isoDate": "2024-07-06T06:23:20.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "manish srivastava",
-          "title": "Converting bit of CPU to GPU : Rendering AI Models on CPU only",
-          "link": "https://dev.to/manishfoodtechs/converting-bit-of-cpu-to-gpu-rendering-ai-models-on-cpu-only-22oh",
-          "pubDate": "Sat, 06 Jul 2024 06:17:42 +0000",
-          "dc:creator": "manish srivastava",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/manishfoodtechs/converting-bit-of-cpu-to-gpu-rendering-ai-models-on-cpu-only-22oh",
-          "categories": [
-            "aws",
-            "ai",
-            "devops",
-            "cloud"
-          ],
-          "isoDate": "2024-07-06T06:17:42.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Kasie Udoka Success",
-          "title": "Progressive Web Apps (PWA): A Comprehensive Guide",
-          "link": "https://dev.to/udoka033/progressive-web-apps-pwa-a-comprehensive-guide-57ii",
-          "pubDate": "Sat, 06 Jul 2024 06:14:23 +0000",
-          "dc:creator": "Kasie Udoka Success",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/udoka033/progressive-web-apps-pwa-a-comprehensive-guide-57ii",
+          "guid": "https://dev.to/durgesh94/javascript-developer-roadmap-from-beginner-to-pro-in-2024-1nhk",
           "categories": [
             "javascript",
             "webdev",
-            "react",
-            "beginners"
+            "programming",
+            "learning"
           ],
-          "isoDate": "2024-07-06T06:14:23.000Z",
+          "isoDate": "2024-07-07T06:05:21.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Habib Nuhu",
-          "title": "Understanding the Event Loop in JavaScript",
-          "link": "https://dev.to/dev_habib_nuhu/understanding-the-event-loop-in-javascript-1phe",
-          "pubDate": "Sat, 06 Jul 2024 06:04:02 +0000",
-          "dc:creator": "Habib Nuhu",
+          "creator": "HEMANTH B",
+          "title": "Mastering the Basics of Machine Learning Statistics Introduction",
+          "link": "https://dev.to/hemanth5666/mastering-the-basics-of-machine-learning-statistics-introduction-1kd3",
+          "pubDate": "Sun, 07 Jul 2024 06:04:33 +0000",
+          "dc:creator": "HEMANTH B",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/dev_habib_nuhu/understanding-the-event-loop-in-javascript-1phe",
+          "guid": "https://dev.to/hemanth5666/mastering-the-basics-of-machine-learning-statistics-introduction-1kd3",
+          "isoDate": "2024-07-07T06:04:33.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mahmoud Ehab",
+          "title": "StateFile: A Minimalist Design for Permanent State Management",
+          "link": "https://dev.to/_moehab/statefile-a-minimalist-design-for-permanent-state-management-43d7",
+          "pubDate": "Sun, 07 Jul 2024 05:49:00 +0000",
+          "dc:creator": "Mahmoud Ehab",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/_moehab/statefile-a-minimalist-design-for-permanent-state-management-43d7",
           "categories": [
-            "webdev",
-            "javascript",
-            "tutorial",
-            "node"
+            "programming",
+            "architecture",
+            "statemanagement"
           ],
-          "isoDate": "2024-07-06T06:04:02.000Z",
+          "isoDate": "2024-07-07T05:49:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Mangabo Kolawole",
-          "title": "10-Minute Guide to Building a Webhook Service with Sendhooks",
-          "link": "https://dev.to/koladev/10-minute-guide-to-building-a-webhook-service-with-sendhooks-3lbm",
-          "pubDate": "Sat, 06 Jul 2024 05:51:01 +0000",
-          "dc:creator": "Mangabo Kolawole",
+          "creator": "William Ferreira de Paula",
+          "title": "The Brazilian National Policy of Informatics Or How-To Not Create A Tech Industry In Your Country",
+          "link": "https://dev.to/dinowilliam/the-brazilian-national-policy-of-informatics-or-how-to-not-create-a-tech-industry-in-your-country-5h44",
+          "pubDate": "Sun, 07 Jul 2024 05:28:22 +0000",
+          "dc:creator": "William Ferreira de Paula",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/koladev/10-minute-guide-to-building-a-webhook-service-with-sendhooks-3lbm",
+          "guid": "https://dev.to/dinowilliam/the-brazilian-national-policy-of-informatics-or-how-to-not-create-a-tech-industry-in-your-country-5h44",
+          "isoDate": "2024-07-07T05:28:22.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "abbazs",
+          "title": "Counting empty lines in a file",
+          "link": "https://dev.to/abbazs/counting-empty-lines-in-a-file-22cl",
+          "pubDate": "Sun, 07 Jul 2024 05:27:12 +0000",
+          "dc:creator": "abbazs",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/abbazs/counting-empty-lines-in-a-file-22cl",
           "categories": [
-            "go",
-            "docker",
-            "devops",
-            "opensource"
+            "bash",
+            "grep",
+            "count",
+            "lines"
           ],
-          "isoDate": "2024-07-06T05:51:01.000Z",
+          "isoDate": "2024-07-07T05:27:12.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ibrahim S",
-          "title": "ClusterIP - Kubernetes",
-          "link": "https://dev.to/ibrahimsi/clusterip-kubernetes-3bbm",
-          "pubDate": "Sat, 06 Jul 2024 05:50:32 +0000",
-          "dc:creator": "Ibrahim S",
+          "creator": "G. S. Perilli",
+          "title": "CSS Animated Blobs and Groovy Web Design",
+          "link": "https://dev.to/gperilli/css-animated-blobs-and-groovy-web-design-395o",
+          "pubDate": "Sun, 07 Jul 2024 05:17:34 +0000",
+          "dc:creator": "G. S. Perilli",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ibrahimsi/clusterip-kubernetes-3bbm",
-          "categories": [
-            "ibbus",
-            "k8sfull",
-            "clusterip",
-            "40daysofkuberetes"
-          ],
-          "isoDate": "2024-07-06T05:50:32.000Z",
+          "guid": "https://dev.to/gperilli/css-animated-blobs-and-groovy-web-design-395o",
+          "isoDate": "2024-07-07T05:17:34.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Swati Chaudhary",
-          "title": "From Idea to Published Post: A Streamlined Content Workflow for Non-Technical Teams",
-          "link": "https://dev.to/swati1267/from-idea-to-published-post-a-streamlined-content-workflow-for-non-technical-teams-57if",
-          "pubDate": "Sat, 06 Jul 2024 05:45:42 +0000",
-          "dc:creator": "Swati Chaudhary",
+          "creator": "Time West",
+          "title": "How to print header and footer each and every page when I print the page using mobile browser?",
+          "link": "https://dev.to/time_west_f944fd586784aff/how-to-print-header-and-footer-each-and-every-page-when-i-print-the-page-using-mobile-browser-2aai",
+          "pubDate": "Sun, 07 Jul 2024 05:14:34 +0000",
+          "dc:creator": "Time West",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/swati1267/from-idea-to-published-post-a-streamlined-content-workflow-for-non-technical-teams-57if",
-          "isoDate": "2024-07-06T05:45:42.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Olga Strijewski",
-          "title": "How to Configure GitHub to Run Unit Tests Automatically",
-          "link": "https://dev.to/olsido/how-to-configure-github-to-run-unit-tests-automatically-53a9",
-          "pubDate": "Sat, 06 Jul 2024 05:43:59 +0000",
-          "dc:creator": "Olga Strijewski",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/olsido/how-to-configure-github-to-run-unit-tests-automatically-53a9",
-          "isoDate": "2024-07-06T05:43:59.000Z",
+          "guid": "https://dev.to/time_west_f944fd586784aff/how-to-print-header-and-footer-each-and-every-page-when-i-print-the-page-using-mobile-browser-2aai",
+          "isoDate": "2024-07-07T05:14:34.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
