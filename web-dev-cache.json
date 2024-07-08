@@ -103,7 +103,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sun, 07 Jul 2024 05:02:21 GMT"
+      "lastBuildDate": "Mon, 08 Jul 2024 05:02:22 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -420,7 +420,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sun, 07 Jul 2024 06:35:05 GMT",
+      "lastBuildDate": "Mon, 08 Jul 2024 06:34:41 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -557,6 +557,20 @@
     "DZone": {
       "items": [
         {
+          "creator": "Cong Li",
+          "title": "GBase 8a Implementation Guide: Performance Optimization",
+          "link": "https://dzone.com/articles/gbase-8a-implementation-guide-performance",
+          "pubDate": "Sun, 07 Jul 2024 11:00:01 GMT",
+          "dc:creator": "Cong Li",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3469583",
+          "isoDate": "2024-07-07T11:00:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Roger Oriol",
           "title": "Build an Advanced RAG App: Query Rewriting",
           "link": "https://dzone.com/articles/build-an-advanced-rag-app-query-rewriting",
@@ -681,20 +695,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Sanjay Poddar",
-          "title": "Step-By-Step Guide: Configuring IPsec Over SD-WAN on FortiGate and Unveiling Its Benefits",
-          "link": "https://dzone.com/articles/ipsec-over-sdwan",
-          "pubDate": "Fri, 05 Jul 2024 13:00:00 GMT",
-          "dc:creator": "Sanjay Poddar",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3469564",
-          "isoDate": "2024-07-05T13:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -707,6 +707,110 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Pavel Sulimau",
+          "title": "Fluttercon Europe 2024",
+          "link": "https://itnext.io/fluttercon-europe-2024-b202aafd1c20?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 08 Jul 2024 06:54:29 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Pavel Sulimau",
+          "guid": "https://medium.com/p/b202aafd1c20",
+          "categories": [
+            "fluttercon",
+            "flutter",
+            "dart",
+            "development",
+            "conference"
+          ],
+          "isoDate": "2024-07-08T06:54:29.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Arseny Zinchenko (setevoy)",
+          "title": "AWS: RDS IAM database authentication, EKS Pod Identities, and Terraform",
+          "link": "https://itnext.io/aws-rds-iam-database-authentication-eks-pod-identities-and-terraform-acb2281f4dd4?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 07 Jul 2024 22:57:30 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Arseny Zinchenko (setevoy)",
+          "guid": "https://medium.com/p/acb2281f4dd4",
+          "categories": [
+            "kubernetes",
+            "devops",
+            "security",
+            "aws"
+          ],
+          "isoDate": "2024-07-07T22:57:30.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Donald Raab",
+          "title": "Java Arrays are like the Seats in a Car",
+          "link": "https://itnext.io/java-arrays-are-like-the-seats-in-a-car-01599cd53a9a?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 07 Jul 2024 20:08:33 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Donald Raab",
+          "guid": "https://medium.com/p/01599cd53a9a",
+          "categories": [
+            "eclipse-collections",
+            "programming",
+            "java-stream-api",
+            "open-source",
+            "java"
+          ],
+          "isoDate": "2024-07-07T20:08:33.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Charles Chen",
+          "title": "C# Discriminated Unions and .NET Channels",
+          "link": "https://itnext.io/c-discriminated-unions-and-net-channels-372381c571bd?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 07 Jul 2024 17:02:07 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Charles Chen",
+          "guid": "https://medium.com/p/372381c571bd",
+          "categories": [
+            "software-engineering",
+            "csharp",
+            "programming",
+            "software-development",
+            "dotnet"
+          ],
+          "isoDate": "2024-07-07T17:02:07.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Piotr",
+          "title": "Automate Kubernetes with Shell-Operator",
+          "link": "https://itnext.io/automate-kubernetes-with-shell-operator-1ae5b50408ae?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 07 Jul 2024 11:26:14 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Piotr",
+          "guid": "https://medium.com/p/1ae5b50408ae",
+          "categories": [
+            "automation",
+            "kubernetes",
+            "software-development",
+            "cloud-computing",
+            "bash"
+          ],
+          "isoDate": "2024-07-07T11:26:14.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Dale Nguyen",
           "title": "Building PDF Open Source Services with Angular & GCP — Handling long processing tasks",
@@ -808,108 +912,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Piotr",
-          "title": "10 Essential Kubernetes Tools You Didn’t Know You Needed",
-          "link": "https://itnext.io/10-essential-kubernetes-tools-you-didnt-know-you-needed-06954251d845?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 04 Jul 2024 14:48:48 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Piotr",
-          "guid": "https://medium.com/p/06954251d845",
-          "categories": [
-            "kubernetes",
-            "tools",
-            "devops",
-            "containers",
-            "cncf"
-          ],
-          "isoDate": "2024-07-04T14:48:48.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nicholas",
-          "title": "Managing Internal DNS in Air-Gapped k3s Clusters with Monkale CoreDNS-Manager-Operator",
-          "link": "https://itnext.io/managing-internal-dns-in-air-gapped-k3s-clusters-with-monkale-coredns-manager-operator-fa1c9136cc2c?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 04 Jul 2024 14:44:33 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Nicholas",
-          "guid": "https://medium.com/p/fa1c9136cc2c",
-          "categories": [
-            "rancher",
-            "kubernetes-operator",
-            "dns",
-            "kubernetes",
-            "coredns"
-          ],
-          "isoDate": "2024-07-04T14:44:33.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Benjamin Cane",
-          "title": "Short Read: Using Asynchronous Health Checks To Avoid Thundering Herds",
-          "link": "https://itnext.io/short-read-using-asynchronous-health-checks-to-avoid-thundering-herds-427001f54100?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 04 Jul 2024 13:38:15 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Benjamin Cane",
-          "guid": "https://medium.com/p/427001f54100",
-          "categories": [
-            "devops",
-            "software-development",
-            "coding",
-            "programming",
-            "software-engineering"
-          ],
-          "isoDate": "2024-07-04T13:38:15.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nicholas",
-          "title": "Exposing Kubernetes Apps to the Internet with Cloudflare Tunnel, Ingress Controller, and…",
-          "link": "https://itnext.io/exposing-kubernetes-apps-to-the-internet-with-cloudflare-tunnel-ingress-controller-and-e30307c0fcb0?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 04 Jul 2024 12:33:50 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Nicholas",
-          "guid": "https://medium.com/p/e30307c0fcb0",
-          "categories": [
-            "dns",
-            "kubernetes",
-            "self-hosted",
-            "networking",
-            "cloudflare"
-          ],
-          "isoDate": "2024-07-04T12:33:50.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Guilherme Oenning",
-          "title": "Load testing Kubernetes clients without breaking the bank",
-          "link": "https://itnext.io/load-testing-kubernetes-clients-without-breaking-the-bank-f43332faa6ce?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 04 Jul 2024 12:32:37 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Guilherme Oenning",
-          "guid": "https://medium.com/p/f43332faa6ce",
-          "categories": [
-            "performance-testing",
-            "kubernetes"
-          ],
-          "isoDate": "2024-07-04T12:32:37.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -926,169 +928,194 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sun, 07 Jul 2024 06:54:43 GMT"
+      "lastBuildDate": "Mon, 08 Jul 2024 06:59:15 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Yogesh Galav",
-          "title": "Why Laravel is better then NodeJs/Express?",
-          "link": "https://dev.to/yogeshgalav7/why-laravel-is-better-then-nodejsexpress-19lo",
-          "pubDate": "Sun, 07 Jul 2024 06:33:00 +0000",
-          "dc:creator": "Yogesh Galav",
+          "creator": "Nik L.",
+          "title": "React is Slow? 6 Strategies for Performance Optimisation",
+          "link": "https://dev.to/nikl/react-is-slow-6-strategies-for-performance-optimisation-4l53",
+          "pubDate": "Mon, 08 Jul 2024 07:02:44 +0000",
+          "dc:creator": "Nik L.",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/yogeshgalav7/why-laravel-is-better-then-nodejsexpress-19lo",
-          "isoDate": "2024-07-07T06:33:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Aviral Garg",
-          "title": "🌳 Getting Started with Random Forest Machine Learning Model Training",
-          "link": "https://dev.to/aviralgarg05/getting-started-with-random-forest-machine-learning-model-training-5f7p",
-          "pubDate": "Sun, 07 Jul 2024 06:28:42 +0000",
-          "dc:creator": "Aviral Garg",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/aviralgarg05/getting-started-with-random-forest-machine-learning-model-training-5f7p",
-          "isoDate": "2024-07-07T06:28:42.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Darshan Kumar",
-          "title": "Understanding Switch Case and Functions and What is Hoisting",
-          "link": "https://dev.to/darshan_kumar_c9883cffc18/understanding-switch-case-and-functions-and-what-is-hoisting-5180",
-          "pubDate": "Sun, 07 Jul 2024 06:09:14 +0000",
-          "dc:creator": "Darshan Kumar",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/darshan_kumar_c9883cffc18/understanding-switch-case-and-functions-and-what-is-hoisting-5180",
+          "guid": "https://dev.to/nikl/react-is-slow-6-strategies-for-performance-optimisation-4l53",
           "categories": [
-            "javascript",
-            "frontend",
+            "react",
             "webdev",
+            "javascript",
             "programming"
           ],
-          "isoDate": "2024-07-07T06:09:14.000Z",
+          "isoDate": "2024-07-08T07:02:44.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Durgesh Tambe",
-          "title": "JavaScript Developer Roadmap: From Beginner to Pro in 2024",
-          "link": "https://dev.to/durgesh94/javascript-developer-roadmap-from-beginner-to-pro-in-2024-1nhk",
-          "pubDate": "Sun, 07 Jul 2024 06:05:21 +0000",
-          "dc:creator": "Durgesh Tambe",
+          "creator": "DbVisualizer",
+          "title": "Effective Strategies for MySQL User Management",
+          "link": "https://dev.to/dbvismarketing/effective-strategies-for-mysql-user-management-4i53",
+          "pubDate": "Mon, 08 Jul 2024 07:00:00 +0000",
+          "dc:creator": "DbVisualizer",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/durgesh94/javascript-developer-roadmap-from-beginner-to-pro-in-2024-1nhk",
+          "guid": "https://dev.to/dbvismarketing/effective-strategies-for-mysql-user-management-4i53",
           "categories": [
-            "javascript",
-            "webdev",
-            "programming",
-            "learning"
+            "security"
           ],
-          "isoDate": "2024-07-07T06:05:21.000Z",
+          "isoDate": "2024-07-08T07:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "HEMANTH B",
-          "title": "Mastering the Basics of Machine Learning Statistics Introduction",
-          "link": "https://dev.to/hemanth5666/mastering-the-basics-of-machine-learning-statistics-introduction-1kd3",
-          "pubDate": "Sun, 07 Jul 2024 06:04:33 +0000",
-          "dc:creator": "HEMANTH B",
+          "creator": "mahir dasare",
+          "title": "How to Create a Directory and Save It to a File",
+          "link": "https://dev.to/mahir_dasare_333/how-to-create-a-directory-and-save-it-to-a-file-4kgc",
+          "pubDate": "Mon, 08 Jul 2024 06:59:42 +0000",
+          "dc:creator": "mahir dasare",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/hemanth5666/mastering-the-basics-of-machine-learning-statistics-introduction-1kd3",
-          "isoDate": "2024-07-07T06:04:33.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Mahmoud Ehab",
-          "title": "StateFile: A Minimalist Design for Permanent State Management",
-          "link": "https://dev.to/_moehab/statefile-a-minimalist-design-for-permanent-state-management-43d7",
-          "pubDate": "Sun, 07 Jul 2024 05:49:00 +0000",
-          "dc:creator": "Mahmoud Ehab",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/_moehab/statefile-a-minimalist-design-for-permanent-state-management-43d7",
+          "guid": "https://dev.to/mahir_dasare_333/how-to-create-a-directory-and-save-it-to-a-file-4kgc",
           "categories": [
-            "programming",
-            "architecture",
-            "statemanagement"
+            "linux",
+            "linuxadmin",
+            "continouslearning"
           ],
-          "isoDate": "2024-07-07T05:49:00.000Z",
+          "isoDate": "2024-07-08T06:59:42.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "William Ferreira de Paula",
-          "title": "The Brazilian National Policy of Informatics Or How-To Not Create A Tech Industry In Your Country",
-          "link": "https://dev.to/dinowilliam/the-brazilian-national-policy-of-informatics-or-how-to-not-create-a-tech-industry-in-your-country-5h44",
-          "pubDate": "Sun, 07 Jul 2024 05:28:22 +0000",
-          "dc:creator": "William Ferreira de Paula",
+          "creator": "Bala Madhusoodhanan",
+          "title": "Knight of Knowledge: How Copilot’s Generative Answers Illuminate Data",
+          "link": "https://dev.to/balagmadhu/knight-of-knowledge-how-copilots-generative-answers-illuminate-data-28el",
+          "pubDate": "Mon, 08 Jul 2024 06:53:26 +0000",
+          "dc:creator": "Bala Madhusoodhanan",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/dinowilliam/the-brazilian-national-policy-of-informatics-or-how-to-not-create-a-tech-industry-in-your-country-5h44",
-          "isoDate": "2024-07-07T05:28:22.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "abbazs",
-          "title": "Counting empty lines in a file",
-          "link": "https://dev.to/abbazs/counting-empty-lines-in-a-file-22cl",
-          "pubDate": "Sun, 07 Jul 2024 05:27:12 +0000",
-          "dc:creator": "abbazs",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/abbazs/counting-empty-lines-in-a-file-22cl",
+          "guid": "https://dev.to/balagmadhu/knight-of-knowledge-how-copilots-generative-answers-illuminate-data-28el",
           "categories": [
-            "bash",
-            "grep",
-            "count",
-            "lines"
+            "copilotstudio",
+            "powerplatform"
           ],
-          "isoDate": "2024-07-07T05:27:12.000Z",
+          "isoDate": "2024-07-08T06:53:26.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "G. S. Perilli",
-          "title": "CSS Animated Blobs and Groovy Web Design",
-          "link": "https://dev.to/gperilli/css-animated-blobs-and-groovy-web-design-395o",
-          "pubDate": "Sun, 07 Jul 2024 05:17:34 +0000",
-          "dc:creator": "G. S. Perilli",
+          "creator": "Rigal Patel",
+          "title": "Implementing Secure Multi-Party Computation (SMPC) with NodeJs: A Practical Guide",
+          "link": "https://dev.to/rigalpatel001/implementing-secure-multi-party-computation-smpc-with-nodejs-a-practical-guide-55pj",
+          "pubDate": "Mon, 08 Jul 2024 06:38:13 +0000",
+          "dc:creator": "Rigal Patel",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/gperilli/css-animated-blobs-and-groovy-web-design-395o",
-          "isoDate": "2024-07-07T05:17:34.000Z",
+          "guid": "https://dev.to/rigalpatel001/implementing-secure-multi-party-computation-smpc-with-nodejs-a-practical-guide-55pj",
+          "categories": [
+            "node",
+            "smpc",
+            "datasecurity",
+            "securecoding"
+          ],
+          "isoDate": "2024-07-08T06:38:13.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Time West",
-          "title": "How to print header and footer each and every page when I print the page using mobile browser?",
-          "link": "https://dev.to/time_west_f944fd586784aff/how-to-print-header-and-footer-each-and-every-page-when-i-print-the-page-using-mobile-browser-2aai",
-          "pubDate": "Sun, 07 Jul 2024 05:14:34 +0000",
-          "dc:creator": "Time West",
+          "creator": "Apache Doris",
+          "title": "Apache Doris for log and time series data analysis in NetEase, why not Elasticsearch and InfluxDB?",
+          "link": "https://dev.to/apachedoris/apache-doris-for-log-and-time-series-data-analysis-in-netease-why-not-elasticsearch-and-influxdb-5f60",
+          "pubDate": "Mon, 08 Jul 2024 06:36:09 +0000",
+          "dc:creator": "Apache Doris",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/time_west_f944fd586784aff/how-to-print-header-and-footer-each-and-every-page-when-i-print-the-page-using-mobile-browser-2aai",
-          "isoDate": "2024-07-07T05:14:34.000Z",
+          "guid": "https://dev.to/apachedoris/apache-doris-for-log-and-time-series-data-analysis-in-netease-why-not-elasticsearch-and-influxdb-5f60",
+          "categories": [
+            "datascience",
+            "database",
+            "dataengineering",
+            "opensource"
+          ],
+          "isoDate": "2024-07-08T06:36:09.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "andrei saioc",
+          "title": "Javascript framework war: Angular vs React",
+          "link": "https://dev.to/andrei_saioc_b41f2371c22b/javascript-framework-war-angular-vs-react-55oe",
+          "pubDate": "Mon, 08 Jul 2024 06:29:26 +0000",
+          "dc:creator": "andrei saioc",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/andrei_saioc_b41f2371c22b/javascript-framework-war-angular-vs-react-55oe",
+          "isoDate": "2024-07-08T06:29:26.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Kostas Kalafatis",
+          "title": "Advanced Dockerfile Directives",
+          "link": "https://dev.to/kalkwst/advanced-dockerfile-directives-193f",
+          "pubDate": "Mon, 08 Jul 2024 06:25:58 +0000",
+          "dc:creator": "Kostas Kalafatis",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/kalkwst/advanced-dockerfile-directives-193f",
+          "categories": [
+            "beginners",
+            "docker",
+            "devops",
+            "tutorial"
+          ],
+          "isoDate": "2024-07-08T06:25:58.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Saiprasath",
+          "title": "Django application with allauth configuration.",
+          "link": "https://dev.to/saiprasath/django-application-with-allauth-configuration-3oeo",
+          "pubDate": "Mon, 08 Jul 2024 06:22:35 +0000",
+          "dc:creator": "Saiprasath",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/saiprasath/django-application-with-allauth-configuration-3oeo",
+          "categories": [
+            "django",
+            "allauth",
+            "sso",
+            "tutorial"
+          ],
+          "isoDate": "2024-07-08T06:22:35.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Niraj Narkhede",
+          "title": "Art of SVG Animation | 10 Techniques Every UI Developer Should Master",
+          "link": "https://dev.to/nnnirajn/art-of-svg-animation-10-techniques-every-ui-developer-should-master-3bkh",
+          "pubDate": "Mon, 08 Jul 2024 06:18:55 +0000",
+          "dc:creator": "Niraj Narkhede",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/nnnirajn/art-of-svg-animation-10-techniques-every-ui-developer-should-master-3bkh",
+          "categories": [
+            "css",
+            "ui",
+            "animation",
+            "beginners"
+          ],
+          "isoDate": "2024-07-08T06:18:55.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
