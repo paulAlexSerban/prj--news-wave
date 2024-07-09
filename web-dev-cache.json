@@ -103,10 +103,28 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Mon, 08 Jul 2024 05:02:22 GMT"
+      "lastBuildDate": "Tue, 09 Jul 2024 05:02:17 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
+        {
+          "creator": "Kedasha Kerr",
+          "title": "Beginner’s guide to GitHub: Uploading files and folders to GitHub",
+          "link": "https://github.blog/2024-07-08-beginners-guide-to-github-uploading-files-and-folders-to-github/",
+          "pubDate": "Mon, 08 Jul 2024 13:00:51 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Kedasha Kerr",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=78658",
+          "categories": [
+            "Education",
+            "GitHub for beginners"
+          ],
+          "isoDate": "2024-07-08T13:00:51.000Z",
+          "summary": ""
+        },
         {
           "creator": "Man Yue Mo",
           "title": "Attack of the clones: Getting RCE in Chrome’s renderer with duplicate object properties",
@@ -182,25 +200,6 @@
           ],
           "isoDate": "2024-06-18T17:02:58.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Nicole Choi",
-          "title": "Unlocking the power of unstructured data with RAG",
-          "link": "https://github.blog/2024-06-13-unlocking-the-power-of-unstructured-data-with-rag/",
-          "pubDate": "Thu, 13 Jun 2024 16:00:28 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Nicole Choi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=78382",
-          "categories": [
-            "Engineering",
-            "AI Insights",
-            "GitHub Copilot"
-          ],
-          "isoDate": "2024-06-13T16:00:28.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://github.blog/feed/",
@@ -219,7 +218,7 @@
       "generator": "https://wordpress.org/?v=6.5.5",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Tue, 25 Jun 2024 16:01:57 +0000"
+      "lastBuildDate": "Wed, 03 Jul 2024 19:08:07 +0000"
     },
     "GitHub Blog Atom": {
       "items": [
@@ -310,6 +309,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "title": "Useful Customer Journey Maps (+ Figma & Miro Templates)",
+          "link": "https://smashingmagazine.com/2024/07/customer-journey-maps-figma-miro-templates/",
+          "pubDate": "Mon, 08 Jul 2024 10:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/customer-journey-maps-figma-miro-templates/customer-journey-maps-figma-miro-templates.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/07/customer-journey-maps-figma-miro-templates/",
+          "isoDate": "2024-07-08T10:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Cosima Mielke)",
           "title": "Tales Of An Eternal Summer (July 2024 Wallpapers Edition)",
           "link": "https://smashingmagazine.com/2024/06/desktop-wallpaper-calendars-july-2024/",
@@ -384,25 +402,6 @@
           "guid": "https://smashingmagazine.com/2024/06/website-improvement-after-launch/",
           "isoDate": "2024-06-24T18:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "title": "How I Learned To Stop Worrying And Love Multimedia Writing",
-          "link": "https://smashingmagazine.com/2024/06/mdx-or-how-i-learned-love-multimedia-writing/",
-          "pubDate": "Fri, 21 Jun 2024 18:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Frederick O’Brien)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/mdx-or-how-i-learned-love-multimedia-writing/mdx-or-how-i-learned-love-multimedia-writing.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/06/mdx-or-how-i-learned-love-multimedia-writing/",
-          "isoDate": "2024-06-21T18:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -420,7 +419,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Mon, 08 Jul 2024 06:34:41 GMT",
+      "lastBuildDate": "Tue, 09 Jul 2024 06:34:46 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -557,141 +556,141 @@
     "DZone": {
       "items": [
         {
-          "creator": "Cong Li",
-          "title": "GBase 8a Implementation Guide: Performance Optimization",
-          "link": "https://dzone.com/articles/gbase-8a-implementation-guide-performance",
-          "pubDate": "Sun, 07 Jul 2024 11:00:01 GMT",
-          "dc:creator": "Cong Li",
+          "creator": "Shai Almog",
+          "title": "Mastering Serverless Debugging",
+          "link": "https://dzone.com/articles/mastering-serverless-debugging",
+          "pubDate": "Mon, 08 Jul 2024 21:00:01 GMT",
+          "dc:creator": "Shai Almog",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3469583",
-          "isoDate": "2024-07-07T11:00:01.000Z",
+          "guid": "https://dzone.com/articles/3473072",
+          "isoDate": "2024-07-08T21:00:01.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Roger Oriol",
-          "title": "Build an Advanced RAG App: Query Rewriting",
-          "link": "https://dzone.com/articles/build-an-advanced-rag-app-query-rewriting",
-          "pubDate": "Sat, 06 Jul 2024 12:00:01 GMT",
-          "dc:creator": "Roger Oriol",
+          "creator": "Carlo Scarioni",
+          "title": "Writing a Simple Pulumi Provider for Airbyte",
+          "link": "https://dzone.com/articles/writing-a-simple-pulumi-provider-for-airbyte",
+          "pubDate": "Mon, 08 Jul 2024 20:00:00 GMT",
+          "dc:creator": "Carlo Scarioni",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3471818",
-          "isoDate": "2024-07-06T12:00:01.000Z",
+          "guid": "https://dzone.com/articles/3469933",
+          "isoDate": "2024-07-08T20:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Suleiman Dibirov",
-          "title": "Contexts in Go: A Comprehensive Guide",
-          "link": "https://dzone.com/articles/contexts-in-go-a-comprehensive-guide",
-          "pubDate": "Fri, 05 Jul 2024 21:00:00 GMT",
-          "dc:creator": "Suleiman Dibirov",
+          "creator": "Sanjay Poddar",
+          "title": "Understanding and Mitigating IP Spoofing Attacks",
+          "link": "https://dzone.com/articles/ip-spoofing-how-it-works-and-how-to-prevent-it",
+          "pubDate": "Mon, 08 Jul 2024 19:00:00 GMT",
+          "dc:creator": "Sanjay Poddar",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3469923",
-          "isoDate": "2024-07-05T21:00:00.000Z",
+          "guid": "https://dzone.com/articles/3469960",
+          "isoDate": "2024-07-08T19:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Grigorii Novikov",
-          "title": "Next-Gen Lie Detector: Stack Selection",
-          "link": "https://dzone.com/articles/next-gen-lie-detector-stack-selection",
-          "pubDate": "Fri, 05 Jul 2024 20:00:00 GMT",
-          "dc:creator": "Grigorii Novikov",
+          "creator": "Peter Kankowski",
+          "title": "Using Zero-Width Assertions in Regular Expressions",
+          "link": "https://dzone.com/articles/using-zero-width-assertions-in-regular-expressions",
+          "pubDate": "Mon, 08 Jul 2024 18:00:01 GMT",
+          "dc:creator": "Peter Kankowski",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3469604",
-          "isoDate": "2024-07-05T20:00:00.000Z",
+          "guid": "https://dzone.com/articles/3470920",
+          "isoDate": "2024-07-08T18:00:01.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Krishna Vinnakota",
-          "title": "Applying the Pareto Principle To Learn a New Programming Language",
-          "link": "https://dzone.com/articles/applying-pareto-principle-to-learn-a-new-language",
-          "pubDate": "Fri, 05 Jul 2024 19:00:00 GMT",
-          "dc:creator": "Krishna Vinnakota",
+          "creator": "Nazneen Ahmad",
+          "title": "Real-Time Testing: Best Practices Guide",
+          "link": "https://dzone.com/articles/real-time-testing-best-practices-guide",
+          "pubDate": "Mon, 08 Jul 2024 17:00:00 GMT",
+          "dc:creator": "Nazneen Ahmad",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3471815",
-          "isoDate": "2024-07-05T19:00:00.000Z",
+          "guid": "https://dzone.com/articles/3473087",
+          "isoDate": "2024-07-08T17:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Vidyasagar (Sarath Chandra) Machupalli FBCS",
-          "title": "Enhance IaC Security With Mend Scans",
-          "link": "https://dzone.com/articles/enhance-iac-security-with-mend-scans",
-          "pubDate": "Fri, 05 Jul 2024 18:00:00 GMT",
-          "dc:creator": "Vidyasagar (Sarath Chandra) Machupalli FBCS",
+          "creator": "Natalia Poliakova",
+          "title": "Test Smells: Cleaning up Unit Tests",
+          "link": "https://dzone.com/articles/test-smells-cleaning-up-unit-tests",
+          "pubDate": "Mon, 08 Jul 2024 16:00:00 GMT",
+          "dc:creator": "Natalia Poliakova",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3470886",
-          "isoDate": "2024-07-05T18:00:00.000Z",
+          "guid": "https://dzone.com/articles/3472985",
+          "isoDate": "2024-07-08T16:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sameer Danave",
-          "title": "Strengthening Web Application Security With Predictive Threat Analysis in Node.js",
-          "link": "https://dzone.com/articles/strengthening-web-application-security-with-predic",
-          "pubDate": "Fri, 05 Jul 2024 17:00:00 GMT",
-          "dc:creator": "Sameer Danave",
+          "creator": "andrew vereen",
+          "title": "Enhancing Cloud Security: Integrating DevSecOps Practices Into Monitoring",
+          "link": "https://dzone.com/articles/enhancing-cloud-security-integrating-devsecops",
+          "pubDate": "Mon, 08 Jul 2024 15:00:00 GMT",
+          "dc:creator": "andrew vereen",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3469644",
-          "isoDate": "2024-07-05T17:00:00.000Z",
+          "guid": "https://dzone.com/articles/3469939",
+          "isoDate": "2024-07-08T15:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Cong Li",
-          "title": "Diagnosing and Optimizing Running Slow SQL in GBase 8s Database",
-          "link": "https://dzone.com/articles/diagnosing-and-optimizing-running-slow-sql",
-          "pubDate": "Fri, 05 Jul 2024 16:00:00 GMT",
-          "dc:creator": "Cong Li",
+          "creator": "Scott Andery",
+          "title": "Exploring Cross-Chain Compatibility in dApp Development",
+          "link": "https://dzone.com/articles/exploring-cross-chain-compatibility",
+          "pubDate": "Mon, 08 Jul 2024 14:00:00 GMT",
+          "dc:creator": "Scott Andery",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3466745",
-          "isoDate": "2024-07-05T16:00:00.000Z",
+          "guid": "https://dzone.com/articles/3471795",
+          "isoDate": "2024-07-08T14:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Prashanth Ravula",
-          "title": "Essential Monitoring Tools, Troubleshooting Techniques, and Best Practices for Atlassian Tools Administrators",
-          "link": "https://dzone.com/articles/monitoring-and-troubleshooting-atlassian-tools",
-          "pubDate": "Fri, 05 Jul 2024 15:00:01 GMT",
-          "dc:creator": "Prashanth Ravula",
+          "creator": "PRAVEEN SUNDAR",
+          "title": "AWS: Metric Filter vs. Subscription Filter",
+          "link": "https://dzone.com/articles/aws-metric-filter-vs-subscription-filter",
+          "pubDate": "Mon, 08 Jul 2024 13:00:00 GMT",
+          "dc:creator": "PRAVEEN SUNDAR",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3470828",
-          "isoDate": "2024-07-05T15:00:01.000Z",
+          "guid": "https://dzone.com/articles/3471782",
+          "isoDate": "2024-07-08T13:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Tom Smith",
-          "title": "Pure Storage Empowers Developers, Engineers, and Architects With AI-Driven Storage Innovation",
-          "link": "https://dzone.com/articles/pure-storage-empowers-developers-engineers",
-          "pubDate": "Fri, 05 Jul 2024 14:00:02 GMT",
-          "dc:creator": "Tom Smith",
+          "creator": "Faisal Khatri",
+          "title": "How To Perform JSON Schema Validation in API Testing Using Rest-Assured Java?",
+          "link": "https://dzone.com/articles/how-to-perform-json-schema-validation-in-api",
+          "pubDate": "Mon, 08 Jul 2024 12:00:00 GMT",
+          "dc:creator": "Faisal Khatri",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3469769",
-          "isoDate": "2024-07-05T14:00:02.000Z",
+          "guid": "https://dzone.com/articles/3470807",
+          "isoDate": "2024-07-08T12:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -707,6 +706,173 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Arseny Zinchenko (setevoy)",
+          "title": "AWS: Kubernetes and Access Management API, the new authentication in EKS",
+          "link": "https://itnext.io/aws-kubernetes-and-access-management-api-the-new-authentication-in-eks-1aabab1a8a21?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 08 Jul 2024 22:17:16 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Arseny Zinchenko (setevoy)",
+          "guid": "https://medium.com/p/1aabab1a8a21",
+          "categories": [
+            "security",
+            "kubernetes",
+            "aws",
+            "devops"
+          ],
+          "isoDate": "2024-07-08T22:17:16.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Piotr",
+          "title": "Direnv: Flexible Environment Management",
+          "link": "https://itnext.io/direnv-flexible-environment-management-4a9703c46645?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 08 Jul 2024 22:15:56 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Piotr",
+          "guid": "https://medium.com/p/4a9703c46645",
+          "categories": [
+            "solutions",
+            "tools",
+            "linux",
+            "programming",
+            "kubernetes"
+          ],
+          "isoDate": "2024-07-08T22:15:56.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Nicolas Fränkel",
+          "title": "Dynamic watermarking on the JVM",
+          "link": "https://itnext.io/dynamic-watermarking-on-the-jvm-017d351f637d?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 08 Jul 2024 19:03:07 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Nicolas Fränkel",
+          "guid": "https://medium.com/p/017d351f637d",
+          "categories": [
+            "watermark",
+            "kotlin",
+            "java2d",
+            "image-processing",
+            "web-development"
+          ],
+          "isoDate": "2024-07-08T19:03:07.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Saeed Zarinfam",
+          "title": "7 Techniques to Optimize Caching in Spring Boot",
+          "link": "https://itnext.io/7-techniques-to-optimize-caching-in-spring-boot-cf151d5dbd2b?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 08 Jul 2024 12:09:50 GMT",
+          "dc:creator": "Saeed Zarinfam",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/cf151d5dbd2b",
+          "categories": [
+            "optimization",
+            "spring-boot",
+            "local-cache",
+            "caching",
+            "monitoring"
+          ],
+          "isoDate": "2024-07-08T12:09:50.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mahdi Mallaki",
+          "title": "Store Passwords in Git with Sops",
+          "link": "https://itnext.io/store-passwords-in-git-with-sops-251810869e10?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 08 Jul 2024 12:04:58 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Mahdi Mallaki",
+          "guid": "https://medium.com/p/251810869e10",
+          "categories": [
+            "devops",
+            "pos",
+            "devsecops",
+            "gitops",
+            "kubernetes"
+          ],
+          "isoDate": "2024-07-08T12:04:58.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Matthew Shoemaker",
+          "title": "RxJava to Kotlin Coroutines: The Ultimate Migration Guide",
+          "link": "https://itnext.io/rxjava-to-kotlin-coroutines-the-ultimate-migration-guide-d41d782f9803?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 08 Jul 2024 10:37:45 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Matthew Shoemaker",
+          "guid": "https://medium.com/p/d41d782f9803",
+          "categories": [
+            "kotlin-coroutines",
+            "rxjava",
+            "android",
+            "android-app-development",
+            "androiddev"
+          ],
+          "isoDate": "2024-07-08T10:37:45.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Kjartan Rekdal Müller",
+          "title": "Attribute Based Access Control with Open Policy Agent and WebAssembly",
+          "link": "https://itnext.io/attribute-based-access-control-with-open-policy-agent-and-webassembly-a050064c42e4?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 08 Jul 2024 07:52:57 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Kjartan Rekdal Müller",
+          "guid": "https://medium.com/p/a050064c42e4",
+          "categories": [
+            "serverless",
+            "access-control",
+            "abac",
+            "webassembly",
+            "cloudflare-workers"
+          ],
+          "isoDate": "2024-07-08T07:52:57.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ivan Franchin",
+          "title": "Battle: Quarkus 3.12.0 vs. Micronaut 4.5.0 vs. Spring Boot 3.3.1",
+          "link": "https://itnext.io/battle-quarkus-3-12-0-vs-micronaut-4-5-0-vs-spring-boot-3-3-1-b9a4424fc52f?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 08 Jul 2024 07:51:51 GMT",
+          "dc:creator": "Ivan Franchin",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/b9a4424fc52f",
+          "categories": [
+            "spring-boot",
+            "benchmark",
+            "micronaut",
+            "quarkus",
+            "technology"
+          ],
+          "isoDate": "2024-07-08T07:51:51.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Pavel Sulimau",
           "title": "Fluttercon Europe 2024",
@@ -747,171 +913,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Donald Raab",
-          "title": "Java Arrays are like the Seats in a Car",
-          "link": "https://itnext.io/java-arrays-are-like-the-seats-in-a-car-01599cd53a9a?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sun, 07 Jul 2024 20:08:33 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Donald Raab",
-          "guid": "https://medium.com/p/01599cd53a9a",
-          "categories": [
-            "eclipse-collections",
-            "programming",
-            "java-stream-api",
-            "open-source",
-            "java"
-          ],
-          "isoDate": "2024-07-07T20:08:33.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Charles Chen",
-          "title": "C# Discriminated Unions and .NET Channels",
-          "link": "https://itnext.io/c-discriminated-unions-and-net-channels-372381c571bd?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sun, 07 Jul 2024 17:02:07 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Charles Chen",
-          "guid": "https://medium.com/p/372381c571bd",
-          "categories": [
-            "software-engineering",
-            "csharp",
-            "programming",
-            "software-development",
-            "dotnet"
-          ],
-          "isoDate": "2024-07-07T17:02:07.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Piotr",
-          "title": "Automate Kubernetes with Shell-Operator",
-          "link": "https://itnext.io/automate-kubernetes-with-shell-operator-1ae5b50408ae?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sun, 07 Jul 2024 11:26:14 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Piotr",
-          "guid": "https://medium.com/p/1ae5b50408ae",
-          "categories": [
-            "automation",
-            "kubernetes",
-            "software-development",
-            "cloud-computing",
-            "bash"
-          ],
-          "isoDate": "2024-07-07T11:26:14.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Dale Nguyen",
-          "title": "Building PDF Open Source Services with Angular & GCP — Handling long processing tasks",
-          "link": "https://itnext.io/building-pdf-open-source-services-with-angular-gcp-handling-long-processing-tasks-e15cb4e511d3?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sat, 06 Jul 2024 22:11:53 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Dale Nguyen",
-          "guid": "https://medium.com/p/e15cb4e511d3",
-          "categories": [
-            "firebase",
-            "pdf",
-            "open-source",
-            "gcp",
-            "angular"
-          ],
-          "isoDate": "2024-07-06T22:11:53.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Pradipta Banerjee",
-          "title": "How your confidential containers can securely retrieve secrets?",
-          "link": "https://itnext.io/how-your-confidential-containers-can-securely-retrieve-secrets-93d6f55b7b42?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sat, 06 Jul 2024 08:00:36 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Pradipta Banerjee",
-          "guid": "https://medium.com/p/93d6f55b7b42",
-          "categories": [
-            "kubernetes-security",
-            "confidential-computing",
-            "confidential-containers",
-            "kubernetes"
-          ],
-          "isoDate": "2024-07-06T08:00:36.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Stefan Weber",
-          "title": "OutSystems Developer Cloud End-User Roles, Groups and Group Mappings",
-          "link": "https://itnext.io/outsystems-developer-cloud-end-user-roles-groups-and-group-mappings-29e26bbf38a1?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 05 Jul 2024 14:59:50 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Stefan Weber",
-          "guid": "https://medium.com/p/29e26bbf38a1",
-          "categories": [
-            "outsystems",
-            "role-based-access-control",
-            "entra"
-          ],
-          "isoDate": "2024-07-05T14:59:50.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ben \"The Hosk\" Hosking",
-          "title": "Entropy — Why Code Rots And Technical Debt Grows",
-          "link": "https://itnext.io/entropy-in-software-development-77ed9110ef28?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 05 Jul 2024 14:31:40 GMT",
-          "dc:creator": "Ben \"The Hosk\" Hosking",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/77ed9110ef28",
-          "categories": [
-            "programming",
-            "development",
-            "software-development",
-            "software-engineering",
-            "technology"
-          ],
-          "isoDate": "2024-07-05T14:31:40.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nicholas",
-          "title": "Securing Local Kubernetes Apps: A Practical Guide with cert-manager, ExternalDNS, and Cloudflare",
-          "link": "https://itnext.io/securing-local-kubernetes-apps-a-practical-guide-with-cert-manager-externaldns-and-cloudflare-d1ee9342ed83?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 04 Jul 2024 21:02:32 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Nicholas",
-          "guid": "https://medium.com/p/d1ee9342ed83",
-          "categories": [
-            "cloudflare",
-            "pki",
-            "cert-manager",
-            "kubernetes",
-            "lets-encrypt"
-          ],
-          "isoDate": "2024-07-04T21:02:32.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -928,194 +929,198 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Mon, 08 Jul 2024 06:59:15 GMT"
+      "lastBuildDate": "Tue, 09 Jul 2024 07:00:03 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Nik L.",
-          "title": "React is Slow? 6 Strategies for Performance Optimisation",
-          "link": "https://dev.to/nikl/react-is-slow-6-strategies-for-performance-optimisation-4l53",
-          "pubDate": "Mon, 08 Jul 2024 07:02:44 +0000",
-          "dc:creator": "Nik L.",
+          "creator": "Kaviya Kathirvelu",
+          "title": "Building a Serverless CRUD API with AWS: A Comprehensive Guide",
+          "link": "https://dev.to/kaviya_kathirvelu_0505/building-a-serverless-crud-api-with-aws-a-comprehensive-guide-ljm",
+          "pubDate": "Tue, 09 Jul 2024 06:39:14 +0000",
+          "dc:creator": "Kaviya Kathirvelu",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/nikl/react-is-slow-6-strategies-for-performance-optimisation-4l53",
+          "guid": "https://dev.to/kaviya_kathirvelu_0505/building-a-serverless-crud-api-with-aws-a-comprehensive-guide-ljm",
           "categories": [
-            "react",
-            "webdev",
-            "javascript",
-            "programming"
-          ],
-          "isoDate": "2024-07-08T07:02:44.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "DbVisualizer",
-          "title": "Effective Strategies for MySQL User Management",
-          "link": "https://dev.to/dbvismarketing/effective-strategies-for-mysql-user-management-4i53",
-          "pubDate": "Mon, 08 Jul 2024 07:00:00 +0000",
-          "dc:creator": "DbVisualizer",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/dbvismarketing/effective-strategies-for-mysql-user-management-4i53",
-          "categories": [
-            "security"
-          ],
-          "isoDate": "2024-07-08T07:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "mahir dasare",
-          "title": "How to Create a Directory and Save It to a File",
-          "link": "https://dev.to/mahir_dasare_333/how-to-create-a-directory-and-save-it-to-a-file-4kgc",
-          "pubDate": "Mon, 08 Jul 2024 06:59:42 +0000",
-          "dc:creator": "mahir dasare",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/mahir_dasare_333/how-to-create-a-directory-and-save-it-to-a-file-4kgc",
-          "categories": [
-            "linux",
-            "linuxadmin",
-            "continouslearning"
-          ],
-          "isoDate": "2024-07-08T06:59:42.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Bala Madhusoodhanan",
-          "title": "Knight of Knowledge: How Copilot’s Generative Answers Illuminate Data",
-          "link": "https://dev.to/balagmadhu/knight-of-knowledge-how-copilots-generative-answers-illuminate-data-28el",
-          "pubDate": "Mon, 08 Jul 2024 06:53:26 +0000",
-          "dc:creator": "Bala Madhusoodhanan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/balagmadhu/knight-of-knowledge-how-copilots-generative-answers-illuminate-data-28el",
-          "categories": [
-            "copilotstudio",
-            "powerplatform"
-          ],
-          "isoDate": "2024-07-08T06:53:26.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Rigal Patel",
-          "title": "Implementing Secure Multi-Party Computation (SMPC) with NodeJs: A Practical Guide",
-          "link": "https://dev.to/rigalpatel001/implementing-secure-multi-party-computation-smpc-with-nodejs-a-practical-guide-55pj",
-          "pubDate": "Mon, 08 Jul 2024 06:38:13 +0000",
-          "dc:creator": "Rigal Patel",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/rigalpatel001/implementing-secure-multi-party-computation-smpc-with-nodejs-a-practical-guide-55pj",
-          "categories": [
-            "node",
-            "smpc",
-            "datasecurity",
-            "securecoding"
-          ],
-          "isoDate": "2024-07-08T06:38:13.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Apache Doris",
-          "title": "Apache Doris for log and time series data analysis in NetEase, why not Elasticsearch and InfluxDB?",
-          "link": "https://dev.to/apachedoris/apache-doris-for-log-and-time-series-data-analysis-in-netease-why-not-elasticsearch-and-influxdb-5f60",
-          "pubDate": "Mon, 08 Jul 2024 06:36:09 +0000",
-          "dc:creator": "Apache Doris",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/apachedoris/apache-doris-for-log-and-time-series-data-analysis-in-netease-why-not-elasticsearch-and-influxdb-5f60",
-          "categories": [
-            "datascience",
-            "database",
-            "dataengineering",
-            "opensource"
-          ],
-          "isoDate": "2024-07-08T06:36:09.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "andrei saioc",
-          "title": "Javascript framework war: Angular vs React",
-          "link": "https://dev.to/andrei_saioc_b41f2371c22b/javascript-framework-war-angular-vs-react-55oe",
-          "pubDate": "Mon, 08 Jul 2024 06:29:26 +0000",
-          "dc:creator": "andrei saioc",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/andrei_saioc_b41f2371c22b/javascript-framework-war-angular-vs-react-55oe",
-          "isoDate": "2024-07-08T06:29:26.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Kostas Kalafatis",
-          "title": "Advanced Dockerfile Directives",
-          "link": "https://dev.to/kalkwst/advanced-dockerfile-directives-193f",
-          "pubDate": "Mon, 08 Jul 2024 06:25:58 +0000",
-          "dc:creator": "Kostas Kalafatis",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/kalkwst/advanced-dockerfile-directives-193f",
-          "categories": [
-            "beginners",
-            "docker",
             "devops",
-            "tutorial"
+            "aws",
+            "cloudcomputing",
+            "serverless"
           ],
-          "isoDate": "2024-07-08T06:25:58.000Z",
+          "isoDate": "2024-07-09T06:39:14.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Saiprasath",
-          "title": "Django application with allauth configuration.",
-          "link": "https://dev.to/saiprasath/django-application-with-allauth-configuration-3oeo",
-          "pubDate": "Mon, 08 Jul 2024 06:22:35 +0000",
-          "dc:creator": "Saiprasath",
+          "creator": "Kevin Naidoo",
+          "title": "C# 👨🏻‍💻 is one of the best for job security!",
+          "link": "https://dev.to/kwnaidoo/c-is-one-of-the-best-for-job-security-283b",
+          "pubDate": "Tue, 09 Jul 2024 06:37:09 +0000",
+          "dc:creator": "Kevin Naidoo",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/saiprasath/django-application-with-allauth-configuration-3oeo",
+          "guid": "https://dev.to/kwnaidoo/c-is-one-of-the-best-for-job-security-283b",
           "categories": [
-            "django",
-            "allauth",
-            "sso",
-            "tutorial"
+            "productivity",
+            "watercooler",
+            "career"
           ],
-          "isoDate": "2024-07-08T06:22:35.000Z",
+          "isoDate": "2024-07-09T06:37:09.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Niraj Narkhede",
-          "title": "Art of SVG Animation | 10 Techniques Every UI Developer Should Master",
-          "link": "https://dev.to/nnnirajn/art-of-svg-animation-10-techniques-every-ui-developer-should-master-3bkh",
-          "pubDate": "Mon, 08 Jul 2024 06:18:55 +0000",
-          "dc:creator": "Niraj Narkhede",
+          "creator": "Govindarajan Shanm",
+          "title": "Python_In_Tamil-002 - Statements",
+          "link": "https://dev.to/govi1964/pythonintamil-002-statements-92e",
+          "pubDate": "Tue, 09 Jul 2024 06:36:38 +0000",
+          "dc:creator": "Govindarajan Shanm",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/nnnirajn/art-of-svg-animation-10-techniques-every-ui-developer-should-master-3bkh",
+          "guid": "https://dev.to/govi1964/pythonintamil-002-statements-92e",
           "categories": [
-            "css",
-            "ui",
-            "animation",
-            "beginners"
+            "learning",
+            "python",
+            "statements",
+            "idle"
           ],
-          "isoDate": "2024-07-08T06:18:55.000Z",
+          "isoDate": "2024-07-09T06:36:38.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Muhammad Mahib Arib",
+          "title": "Mengirim Pesan WhatsApp dengan JavaScript",
+          "link": "https://dev.to/mahib22/mengirim-pesan-whatsapp-dengan-javascript-269j",
+          "pubDate": "Tue, 09 Jul 2024 06:35:51 +0000",
+          "dc:creator": "Muhammad Mahib Arib",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/mahib22/mengirim-pesan-whatsapp-dengan-javascript-269j",
+          "categories": [
+            "javascript",
+            "whatsapp",
+            "puppeteer",
+            "automation"
+          ],
+          "isoDate": "2024-07-09T06:35:51.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "keploy",
+          "title": "End-to-End Testing: Ensuring Comprehensive Software Quality",
+          "link": "https://dev.to/keploy/end-to-end-testing-ensuring-comprehensive-software-quality-3e5k",
+          "pubDate": "Tue, 09 Jul 2024 06:31:55 +0000",
+          "dc:creator": "keploy",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/keploy/end-to-end-testing-ensuring-comprehensive-software-quality-3e5k",
+          "categories": [
+            "testing",
+            "end",
+            "devops",
+            "ai"
+          ],
+          "isoDate": "2024-07-09T06:31:55.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Jaime López",
+          "title": "Containers and Files Security in SharePoint Embedded",
+          "link": "https://dev.to/jaloplo/containers-and-files-security-in-sharepoint-embedded-3h92",
+          "pubDate": "Tue, 09 Jul 2024 06:30:00 +0000",
+          "dc:creator": "Jaime López",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/jaloplo/containers-and-files-security-in-sharepoint-embedded-3h92",
+          "categories": [
+            "sharepoint"
+          ],
+          "isoDate": "2024-07-09T06:30:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Bertha White",
+          "title": "Mastering Automation Testing: Low Code vs No Code",
+          "link": "https://dev.to/berthaw82414312/mastering-automation-testing-low-code-vs-no-code-44nc",
+          "pubDate": "Tue, 09 Jul 2024 06:28:36 +0000",
+          "dc:creator": "Bertha White",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/berthaw82414312/mastering-automation-testing-low-code-vs-no-code-44nc",
+          "categories": [
+            "automationtesting",
+            "lowcodetesting",
+            "nocodetesting",
+            "lowcodeautomation"
+          ],
+          "isoDate": "2024-07-09T06:28:36.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Fizza",
+          "title": "Machine Learning for Predictive Maintenance",
+          "link": "https://dev.to/fizza_c3e734ee2a307cf35e5/machine-learning-for-predictive-maintenance-2fo6",
+          "pubDate": "Tue, 09 Jul 2024 06:28:20 +0000",
+          "dc:creator": "Fizza",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/fizza_c3e734ee2a307cf35e5/machine-learning-for-predictive-maintenance-2fo6",
+          "categories": [
+            "machinelearning",
+            "datascience"
+          ],
+          "isoDate": "2024-07-09T06:28:20.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Vivek Yadav",
+          "title": "Understanding std::unique_lock and std::shared_lock in C++",
+          "link": "https://dev.to/vivekyadav200988/understanding-stduniquelock-and-stdsharedlock-in-c-73p",
+          "pubDate": "Tue, 09 Jul 2024 06:27:10 +0000",
+          "dc:creator": "Vivek Yadav",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/vivekyadav200988/understanding-stduniquelock-and-stdsharedlock-in-c-73p",
+          "categories": [
+            "multithreading",
+            "cpp",
+            "criticalsection",
+            "locks"
+          ],
+          "isoDate": "2024-07-09T06:27:10.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Alex Pliutau",
+          "title": "Mastering SOLID Principles with Go Examples",
+          "link": "https://dev.to/plutov/mastering-solid-principles-with-go-examples-13pf",
+          "pubDate": "Tue, 09 Jul 2024 06:26:36 +0000",
+          "dc:creator": "Alex Pliutau",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/plutov/mastering-solid-principles-with-go-examples-13pf",
+          "categories": [
+            "go",
+            "softwaredesign"
+          ],
+          "isoDate": "2024-07-09T06:26:36.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1200,10 +1205,22 @@
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog.atom",
       "title": "The DigitalOcean Blog",
-      "lastBuildDate": "2024-07-02T22:40:09.431Z"
+      "lastBuildDate": "2024-07-08T23:45:03.408Z"
     },
     "Julia Evans": {
       "items": [
+        {
+          "title": "Entering text in the terminal is complicated",
+          "link": "https://jvns.ca/blog/2024/07/08/readline/",
+          "pubDate": "2024-07-08T13:00:15.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "id": "https://jvns.ca/blog/2024/07/08/readline/",
+          "isoDate": "2024-07-08T13:00:15.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "Reasons to use your shell's job control",
           "link": "https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/",
@@ -1251,24 +1268,12 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "Some Git poll results",
-          "link": "https://jvns.ca/blog/2024/03/28/git-poll-results/",
-          "pubDate": "2024-03-28T08:35:56.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "id": "https://jvns.ca/blog/2024/03/28/git-poll-results/",
-          "isoDate": "2024-03-28T08:35:56.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "link": "http://jvns.ca/atom.xml",
       "feedUrl": "http://jvns.ca/atom.xml",
       "title": "Julia Evans",
-      "lastBuildDate": "2024-07-03T08:00:20+00:00"
+      "lastBuildDate": "2024-07-08T13:00:15+00:00"
     }
   }
 }
