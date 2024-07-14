@@ -103,7 +103,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sat, 13 Jul 2024 05:02:22 GMT"
+      "lastBuildDate": "Sun, 14 Jul 2024 05:02:18 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -418,7 +418,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sat, 13 Jul 2024 06:35:05 GMT",
+      "lastBuildDate": "Sun, 14 Jul 2024 06:34:51 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -527,6 +527,20 @@
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Anton Belyaev",
+          "title": "Testcontainers-Based Load Testing Bench",
+          "link": "https://dzone.com/articles/testcontainers-based-load-testing-bench",
+          "pubDate": "Sat, 13 Jul 2024 11:00:01 GMT",
+          "dc:creator": "Anton Belyaev",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3474230",
+          "isoDate": "2024-07-13T11:00:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Vladimir Ivoninskii",
           "title": "7 Essential Tips for a Production ClickHouse Cluster",
@@ -652,20 +666,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Jaseem Pookandy",
-          "title": "Salesforce Bulk API 2.0: Streamlining Large-Scale Data Operations",
-          "link": "https://dzone.com/articles/different-ways-to-do-data-load-in-salesforce",
-          "pubDate": "Thu, 11 Jul 2024 13:00:00 GMT",
-          "dc:creator": "Jaseem Pookandy",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3466794",
-          "isoDate": "2024-07-11T13:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -678,6 +678,25 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Arseny Zinchenko (setevoy)",
+          "title": "Terraform: EKS and Karpenter — upgrade the module version from 19.21 to 20.0",
+          "link": "https://itnext.io/terraform-eks-and-karpenter-upgrade-the-module-version-from-19-21-to-20-0-6fb5bd83abb0?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 13 Jul 2024 10:37:35 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Arseny Zinchenko (setevoy)",
+          "guid": "https://medium.com/p/6fb5bd83abb0",
+          "categories": [
+            "terraform",
+            "kubernetes",
+            "devops"
+          ],
+          "isoDate": "2024-07-13T10:37:35.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Tobias Uhlig",
           "title": "A blazing-fast algorithm to transform one DOM tree into another",
@@ -864,27 +883,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Jack Roper",
-          "title": "How to Manage DynamoDB Tables With Terraform",
-          "link": "https://itnext.io/how-to-manage-dynamodb-tables-with-terraform-84d15927f3be?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 10 Jul 2024 09:52:21 GMT",
-          "dc:creator": "Jack Roper",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/84d15927f3be",
-          "categories": [
-            "aws",
-            "dynamodb",
-            "cloud-computing",
-            "terraform",
-            "devops"
-          ],
-          "isoDate": "2024-07-10T09:52:21.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -901,190 +899,195 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sat, 13 Jul 2024 07:04:35 GMT"
+      "lastBuildDate": "Sun, 14 Jul 2024 07:01:02 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Kato Raymond",
-          "title": "Boost Engagement with Katorymnd Reaction Process Plugin",
-          "link": "https://dev.to/katorymnddev/boost-engagement-with-katorymnd-reaction-process-a-wordpress-5510",
-          "pubDate": "Sat, 13 Jul 2024 06:31:16 +0000",
-          "dc:creator": "Kato Raymond",
+          "creator": "Shameel Uddin",
+          "title": "AWStuff: Dedicated Instance vs. Dedicated Host",
+          "link": "https://dev.to/shameel/awstuff-dedicated-instance-vs-dedicated-host-327e",
+          "pubDate": "Sun, 14 Jul 2024 07:00:38 +0000",
+          "dc:creator": "Shameel Uddin",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/katorymnddev/boost-engagement-with-katorymnd-reaction-process-a-wordpress-5510",
+          "guid": "https://dev.to/shameel/awstuff-dedicated-instance-vs-dedicated-host-327e",
+          "categories": [
+            "aws",
+            "ec2",
+            "learning",
+            "todayilearned"
+          ],
+          "isoDate": "2024-07-14T07:00:38.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "developedbyjk",
+          "title": "My Wins of Week 🌟 [14/07/24]",
+          "link": "https://dev.to/developedbyjk/my-wins-of-week-140724-3798",
+          "pubDate": "Sun, 14 Jul 2024 06:32:57 +0000",
+          "dc:creator": "developedbyjk",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/developedbyjk/my-wins-of-week-140724-3798",
+          "categories": [
+            "weeklywins",
+            "weeklyretro",
+            "100daysofcode"
+          ],
+          "isoDate": "2024-07-14T06:32:57.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Travis",
+          "title": "Running a Website Speed Test",
+          "link": "https://dev.to/lilxyzz/running-a-website-speed-test-5780",
+          "pubDate": "Sun, 14 Jul 2024 06:29:00 +0000",
+          "dc:creator": "Travis",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/lilxyzz/running-a-website-speed-test-5780",
           "categories": [
             "webdev",
-            "opensource",
-            "wordpress",
-            "tutorial"
-          ],
-          "isoDate": "2024-07-13T06:31:16.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Rigal Patel",
-          "title": "Advanced Techniques for Detecting and Preventing JavaScript Injection Attacks",
-          "link": "https://dev.to/rigalpatel001/advanced-techniques-for-detecting-and-preventing-javascript-injection-attacks-4n61",
-          "pubDate": "Sat, 13 Jul 2024 06:25:31 +0000",
-          "dc:creator": "Rigal Patel",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/rigalpatel001/advanced-techniques-for-detecting-and-preventing-javascript-injection-attacks-4n61",
-          "categories": [
-            "javascript",
-            "websecurity",
-            "xss",
-            "csrf"
-          ],
-          "isoDate": "2024-07-13T06:25:31.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "DevsJavaGirlsBR",
-          "title": "O Laço do-while em Java",
-          "link": "https://dev.to/devsjavagirls/o-laco-do-while-em-java-1io3",
-          "pubDate": "Sat, 13 Jul 2024 06:25:23 +0000",
-          "dc:creator": "DevsJavaGirlsBR",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/devsjavagirls/o-laco-do-while-em-java-1io3",
-          "categories": [
-            "java"
-          ],
-          "isoDate": "2024-07-13T06:25:23.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "DevsJavaGirlsBR",
-          "title": "O Laço while em Java",
-          "link": "https://dev.to/devsjavagirls/o-laco-while-em-java-113o",
-          "pubDate": "Sat, 13 Jul 2024 06:20:13 +0000",
-          "dc:creator": "DevsJavaGirlsBR",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/devsjavagirls/o-laco-while-em-java-113o",
-          "categories": [
-            "java"
-          ],
-          "isoDate": "2024-07-13T06:20:13.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Bruno Sabot",
-          "title": "Crafting My Perfect Home Assistant Dashboard",
-          "link": "https://dev.to/brunosabot/crafting-my-perfect-home-assistant-dashboard-5ejc",
-          "pubDate": "Sat, 13 Jul 2024 06:20:00 +0000",
-          "dc:creator": "Bruno Sabot",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/brunosabot/crafting-my-perfect-home-assistant-dashboard-5ejc",
-          "categories": [
-            "homeassistant",
-            "homeautomation",
-            "dashboard",
-            "yaml"
-          ],
-          "isoDate": "2024-07-13T06:20:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "DevsJavaGirlsBR",
-          "title": "Declarando Variáveis de Controle de Laço Dentro do for",
-          "link": "https://dev.to/devsjavagirls/declarando-variaveis-de-controle-de-laco-dentro-do-for-3kg5",
-          "pubDate": "Sat, 13 Jul 2024 06:15:36 +0000",
-          "dc:creator": "DevsJavaGirlsBR",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/devsjavagirls/declarando-variaveis-de-controle-de-laco-dentro-do-for-3kg5",
-          "categories": [
-            "java"
-          ],
-          "isoDate": "2024-07-13T06:15:36.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Fizza",
-          "title": "Reinforcement Learning in AI: Algorithms and Applications",
-          "link": "https://dev.to/fizza_c3e734ee2a307cf35e5/reinforcement-learning-in-ai-algorithms-and-applications-2fd5",
-          "pubDate": "Sat, 13 Jul 2024 06:12:00 +0000",
-          "dc:creator": "Fizza",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/fizza_c3e734ee2a307cf35e5/reinforcement-learning-in-ai-algorithms-and-applications-2fd5",
-          "categories": [
-            "ai",
-            "algorithms",
-            "machinelearning"
-          ],
-          "isoDate": "2024-07-13T06:12:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "DevsJavaGirlsBR",
-          "title": "O Laço for Melhorado",
-          "link": "https://dev.to/devsjavagirls/o-laco-for-melhorado-2l83",
-          "pubDate": "Sat, 13 Jul 2024 06:11:44 +0000",
-          "dc:creator": "DevsJavaGirlsBR",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/devsjavagirls/o-laco-for-melhorado-2l83",
-          "categories": [
-            "java"
-          ],
-          "isoDate": "2024-07-13T06:11:44.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "DevsJavaGirlsBR",
-          "title": "Laços sem corpo em Java",
-          "link": "https://dev.to/devsjavagirls/lacos-sem-corpo-em-java-274l",
-          "pubDate": "Sat, 13 Jul 2024 06:08:05 +0000",
-          "dc:creator": "DevsJavaGirlsBR",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/devsjavagirls/lacos-sem-corpo-em-java-274l",
-          "categories": [
-            "java"
-          ],
-          "isoDate": "2024-07-13T06:08:05.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Jakaria Masum",
-          "title": "How to Install TypeScript and write your first program",
-          "link": "https://dev.to/jakaria/how-to-install-typescript-and-write-your-first-program-1fj4",
-          "pubDate": "Sat, 13 Jul 2024 06:05:00 +0000",
-          "dc:creator": "Jakaria Masum",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/jakaria/how-to-install-typescript-and-write-your-first-program-1fj4",
-          "categories": [
-            "webdev",
-            "typescript",
-            "programming",
+            "beginners",
+            "tutorial",
             "learning"
           ],
-          "isoDate": "2024-07-13T06:05:00.000Z",
+          "isoDate": "2024-07-14T06:29:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Satyam Kumar",
+          "title": "Embarking on a 6-Month Learning Journey: Join Me in Building and Growing!",
+          "link": "https://dev.to/satyam_kumar_550219cfcffd/embarking-on-a-6-month-learning-journey-join-me-in-building-and-growing-487l",
+          "pubDate": "Sun, 14 Jul 2024 06:27:42 +0000",
+          "dc:creator": "Satyam Kumar",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/satyam_kumar_550219cfcffd/embarking-on-a-6-month-learning-journey-join-me-in-building-and-growing-487l",
+          "isoDate": "2024-07-14T06:27:42.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Devops Den",
+          "title": "Write the Perfect Resume with ChatGPT: Insider Tips!",
+          "link": "https://dev.to/devops_den/write-the-perfect-resume-with-chatgpt-insider-tips-2fm5",
+          "pubDate": "Sun, 14 Jul 2024 06:24:00 +0000",
+          "dc:creator": "Devops Den",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/devops_den/write-the-perfect-resume-with-chatgpt-insider-tips-2fm5",
+          "categories": [
+            "webdev",
+            "beginners",
+            "career",
+            "react"
+          ],
+          "isoDate": "2024-07-14T06:24:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "chyok",
+          "title": "Ten Drops: A Python Pygame-CE Game Inspired by Splash Back",
+          "link": "https://dev.to/chyok/ten-drops-a-python-pygame-ce-game-inspired-by-splash-back-2k51",
+          "pubDate": "Sun, 14 Jul 2024 06:16:02 +0000",
+          "dc:creator": "chyok",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/chyok/ten-drops-a-python-pygame-ce-game-inspired-by-splash-back-2k51",
+          "categories": [
+            "python",
+            "pygame",
+            "gamedev"
+          ],
+          "isoDate": "2024-07-14T06:16:02.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "H A R S H H A A",
+          "title": "Kubernetes: Advanced Concepts and Best Practices",
+          "link": "https://dev.to/prodevopsguytech/kubernetes-advanced-concepts-and-best-practices-4kb4",
+          "pubDate": "Sun, 14 Jul 2024 06:15:50 +0000",
+          "dc:creator": "H A R S H H A A",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/prodevopsguytech/kubernetes-advanced-concepts-and-best-practices-4kb4",
+          "categories": [
+            "kubernetes",
+            "devops",
+            "advanced"
+          ],
+          "isoDate": "2024-07-14T06:15:50.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Abdul Haseeb",
+          "title": "PHP cheat sheet covering essential syntax and functions",
+          "link": "https://dev.to/devabdul/php-cheat-sheet-covering-essential-syntax-and-functions-33e1",
+          "pubDate": "Sun, 14 Jul 2024 06:15:13 +0000",
+          "dc:creator": "Abdul Haseeb",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/devabdul/php-cheat-sheet-covering-essential-syntax-and-functions-33e1",
+          "categories": [
+            "webdev",
+            "php",
+            "laravel",
+            "beginners"
+          ],
+          "isoDate": "2024-07-14T06:15:13.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "chyok",
+          "title": "A Simple Python Tkinter-based Ollama GUI with no external dependencies",
+          "link": "https://dev.to/chyok/a-simple-python-tkinter-based-ollama-gui-with-no-external-dependencies-4fp3",
+          "pubDate": "Sun, 14 Jul 2024 06:08:35 +0000",
+          "dc:creator": "chyok",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/chyok/a-simple-python-tkinter-based-ollama-gui-with-no-external-dependencies-4fp3",
+          "categories": [
+            "ollama",
+            "python",
+            "tkinter",
+            "llm"
+          ],
+          "isoDate": "2024-07-14T06:08:35.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Aditya Pratap Bhuyan",
+          "title": "Understanding Serverless Architecture and Its Impact on Full Stack Development",
+          "link": "https://dev.to/adityabhuyan/understanding-serverless-architecture-and-its-impact-on-full-stack-development-2f0l",
+          "pubDate": "Sun, 14 Jul 2024 06:05:49 +0000",
+          "dc:creator": "Aditya Pratap Bhuyan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/adityabhuyan/understanding-serverless-architecture-and-its-impact-on-full-stack-development-2f0l",
+          "categories": [
+            "fullstack",
+            "serverless"
+          ],
+          "isoDate": "2024-07-14T06:05:49.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
