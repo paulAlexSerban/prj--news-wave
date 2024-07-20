@@ -103,7 +103,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Fri, 19 Jul 2024 05:02:12 GMT"
+      "lastBuildDate": "Sat, 20 Jul 2024 05:02:18 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -307,6 +307,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Eric Bailey)",
+          "title": "Getting To The Bottom Of Minimum WCAG-Conformant Interactive Element Size",
+          "link": "https://smashingmagazine.com/2024/07/getting-bottom-minimum-wcag-conformant-interactive-element-size/",
+          "pubDate": "Fri, 19 Jul 2024 13:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Eric Bailey)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/getting-bottom-minimum-wcag-conformant-interactive-element-size/getting-bottom-minimum-wcag-conformant-interactive-element-size.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/07/getting-bottom-minimum-wcag-conformant-interactive-element-size/",
+          "isoDate": "2024-07-19T13:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Mikołaj Dobrucki)",
           "title": "Build Design Systems With Penpot Components",
           "link": "https://smashingmagazine.com/2024/07/build-design-systems-penpot-components/",
@@ -381,25 +400,6 @@
           "guid": "https://smashingmagazine.com/2024/07/customer-journey-maps-figma-miro-templates/",
           "isoDate": "2024-07-08T10:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Cosima Mielke)",
-          "title": "Tales Of An Eternal Summer (July 2024 Wallpapers Edition)",
-          "link": "https://smashingmagazine.com/2024/06/desktop-wallpaper-calendars-july-2024/",
-          "pubDate": "Sun, 30 Jun 2024 08:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c52c6aad-ac2c-4fd9-9aa6-528d7bf7bf6e/july-20-birdie-july-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/06/desktop-wallpaper-calendars-july-2024/",
-          "isoDate": "2024-06-30T08:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -417,11 +417,25 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Fri, 19 Jul 2024 06:35:14 GMT",
+      "lastBuildDate": "Sat, 20 Jul 2024 06:34:31 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "Collective #855",
+          "link": "https://tympanus.net/codrops/collective/collective-855/",
+          "pubDate": "Fri, 19 Jul 2024 17:04:45 +0000",
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?post_type=collective&p=79255",
+          "isoDate": "2024-07-19T17:04:45.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Jan Kohlbach",
           "title": "How to Create Distortion and Grain Effects on Scroll with Shaders in Three.js",
@@ -505,20 +519,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "Collective #853",
-          "link": "https://tympanus.net/codrops/collective/collective-853/",
-          "pubDate": "Fri, 05 Jul 2024 11:00:00 +0000",
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?post_type=collective&p=79074",
-          "isoDate": "2024-07-05T11:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -530,10 +530,80 @@
       "generator": "https://wordpress.org/?v=6.5.5",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Thu, 18 Jul 2024 12:12:09 +0000"
+      "lastBuildDate": "Fri, 19 Jul 2024 17:04:47 +0000"
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Mohammed Fazalullah Qudrath",
+          "title": "Setting Up a Local Development Environment With IntelliJ, DevContainers, and Amazon Linux 2023",
+          "link": "https://dzone.com/articles/local-development-environment-intellij-devcontainers-linux",
+          "pubDate": "Fri, 19 Jul 2024 21:00:00 GMT",
+          "dc:creator": "Mohammed Fazalullah Qudrath",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3476497",
+          "isoDate": "2024-07-19T21:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Vikram Rao Sudarshan",
+          "title": "Topic Tagging Using Large Language Models",
+          "link": "https://dzone.com/articles/topic-tagging-using-large-language-models",
+          "pubDate": "Fri, 19 Jul 2024 19:00:00 GMT",
+          "dc:creator": "Vikram Rao Sudarshan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3476246",
+          "isoDate": "2024-07-19T19:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Kalyan Gottipati",
+          "title": "A Guide to Security Controls for Risk-Based API Protection",
+          "link": "https://dzone.com/articles/a-guide-to-security-controls-for-risk-based-api",
+          "pubDate": "Fri, 19 Jul 2024 17:00:00 GMT",
+          "dc:creator": "Kalyan Gottipati",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3476215",
+          "isoDate": "2024-07-19T17:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Abhinav Garg",
+          "title": "Microservice Logs Testing in the Cloud: Important but Often Ignored",
+          "link": "https://dzone.com/articles/microservice-logs-testing-in-the-cloud-important",
+          "pubDate": "Fri, 19 Jul 2024 14:00:00 GMT",
+          "dc:creator": "Abhinav Garg",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3476454",
+          "isoDate": "2024-07-19T14:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Harsh Daiya",
+          "title": "Deploy Your Data Pipelines With GitHub Actions",
+          "link": "https://dzone.com/articles/deploy-your-data-pipelines-with-github-actions",
+          "pubDate": "Fri, 19 Jul 2024 11:00:01 GMT",
+          "dc:creator": "Harsh Daiya",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3476244",
+          "isoDate": "2024-07-19T11:00:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Natalia Poliakova",
           "title": "Test Smells: Cleaning up E2E Tests",
@@ -603,76 +673,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Tharakarama Reddy Yernapalli Sreenivasulu",
-          "title": "The Future of AI Art: Exploring the Capabilities of Stable Diffusion Web UI (Automatic 1111)",
-          "link": "https://dzone.com/articles/automatic-1111-apis",
-          "pubDate": "Thu, 18 Jul 2024 14:00:00 GMT",
-          "dc:creator": "Tharakarama Reddy Yernapalli Sreenivasulu",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3474224",
-          "isoDate": "2024-07-18T14:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Tom Smith",
-          "title": "Boomi's API Control Plane: Simplifying API Management for Developers",
-          "link": "https://dzone.com/articles/boomis-api-control-plane-simplifying-api",
-          "pubDate": "Thu, 18 Jul 2024 11:00:02 GMT",
-          "dc:creator": "Tom Smith",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3476468",
-          "isoDate": "2024-07-18T11:00:02.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Bhavin Gandhi",
-          "title": "Feature Flag Tools to Confidently Release New Features",
-          "link": "https://dzone.com/articles/feature-flag-tools-to-confidently-release",
-          "pubDate": "Wed, 17 Jul 2024 22:00:00 GMT",
-          "dc:creator": "Bhavin Gandhi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3473038",
-          "isoDate": "2024-07-17T22:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nicolas Duminil",
-          "title": "AWS CDK: Infrastructure as Abstract Data Types, Part 2",
-          "link": "https://dzone.com/articles/aws-cdk-infrastructure-as-abstract-data-types-pt-2",
-          "pubDate": "Wed, 17 Jul 2024 21:00:00 GMT",
-          "dc:creator": "Nicolas Duminil",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3473213",
-          "isoDate": "2024-07-17T21:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Prince Bose",
-          "title": "Poetry Explained: Perils of the Unpinned Dependencies",
-          "link": "https://dzone.com/articles/poetry-explained-perils-of-the-unpinned",
-          "pubDate": "Wed, 17 Jul 2024 20:00:00 GMT",
-          "dc:creator": "Prince Bose",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3476173",
-          "isoDate": "2024-07-17T20:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -685,6 +685,48 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Aleksandr Kubarskii",
+          "title": "10 minutes to create Rick and Morty search engine!",
+          "link": "https://itnext.io/10-minutes-to-create-rick-and-morty-search-engine-9f19bd9c949d?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 19 Jul 2024 15:39:09 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Aleksandr Kubarskii",
+          "guid": "https://medium.com/p/9f19bd9c949d",
+          "categories": [
+            "startup",
+            "saas",
+            "javascript",
+            "search",
+            "search-engines"
+          ],
+          "isoDate": "2024-07-19T15:39:09.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ben \"The Hosk\" Hosking",
+          "title": "The Difference Between Knowledge And Wisdom In Software Development",
+          "link": "https://itnext.io/the-difference-between-knowledge-and-wisdom-in-software-development-2df326dccc7b?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 19 Jul 2024 13:35:46 GMT",
+          "dc:creator": "Ben \"The Hosk\" Hosking",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/2df326dccc7b",
+          "categories": [
+            "development",
+            "programming",
+            "software-development",
+            "software-engineering",
+            "technology"
+          ],
+          "isoDate": "2024-07-19T13:35:46.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Dogukan Uraz Tuna",
           "title": "Enhancing Performance with C/C++ Code Execution for Langchain Agents",
@@ -850,48 +892,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Piotr",
-          "title": "5 Advanced Kubernetes Operators Every DevOps Engineer Should Know About",
-          "link": "https://itnext.io/5-advanced-kubernetes-operators-every-devops-engineer-should-know-about-ab46bdc1c7d5?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 16 Jul 2024 19:07:16 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Piotr",
-          "guid": "https://medium.com/p/ab46bdc1c7d5",
-          "categories": [
-            "programming",
-            "kubernetes",
-            "devops",
-            "infrastructure",
-            "guides-and-tutorials"
-          ],
-          "isoDate": "2024-07-16T19:07:16.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ranith Ranawaka",
-          "title": "Optimizing a Databricks Cluster & Spark for High-Concurrency",
-          "link": "https://itnext.io/optimizing-a-databricks-cluster-spark-for-high-concurrency-aff9a120dfc6?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 16 Jul 2024 11:47:31 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Ranith Ranawaka",
-          "guid": "https://medium.com/p/aff9a120dfc6",
-          "categories": [
-            "concurrency",
-            "optimization",
-            "databricks",
-            "spark",
-            "efficiency"
-          ],
-          "isoDate": "2024-07-16T11:47:31.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -908,188 +908,194 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Fri, 19 Jul 2024 07:05:09 GMT"
+      "lastBuildDate": "Sat, 20 Jul 2024 06:50:58 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Dipak Ahirav",
-          "title": "Getting Started with Next.js: Part 8 - State Management and API Integration",
-          "link": "https://dev.to/dipakahirav/getting-started-with-nextjs-part-8-state-management-and-api-integration-13l",
-          "pubDate": "Fri, 19 Jul 2024 06:38:08 +0000",
-          "dc:creator": "Dipak Ahirav",
+          "creator": "Shah Zaib",
+          "title": "Solving Common Issues with Hotwire in Ruby on Rails: Tips and Tricks",
+          "link": "https://dev.to/shahzaib/solving-common-issues-with-hotwire-in-ruby-on-rails-tips-and-tricks-5ah5",
+          "pubDate": "Sat, 20 Jul 2024 06:49:13 +0000",
+          "dc:creator": "Shah Zaib",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/dipakahirav/getting-started-with-nextjs-part-8-state-management-and-api-integration-13l",
+          "guid": "https://dev.to/shahzaib/solving-common-issues-with-hotwire-in-ruby-on-rails-tips-and-tricks-5ah5",
           "categories": [
-            "nextjs",
-            "react",
+            "rails",
+            "hotwire",
             "webdev",
-            "javascript"
+            "stimulus"
           ],
-          "isoDate": "2024-07-19T06:38:08.000Z",
+          "isoDate": "2024-07-20T06:49:13.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Olaolu' Afolami",
-          "title": "Practical IoT solution using Azure IoT Hub.",
-          "link": "https://dev.to/laoluafolami/practical-iot-solution-using-azure-iot-hub-2apc",
-          "pubDate": "Fri, 19 Jul 2024 06:37:50 +0000",
-          "dc:creator": "Olaolu' Afolami",
+          "creator": "william",
+          "title": "What are the eligibility requirements for the state scholarship program?",
+          "link": "https://dev.to/william_732a7fb4164dd99c8/what-are-the-eligibility-requirements-for-the-state-scholarship-program-4ado",
+          "pubDate": "Sat, 20 Jul 2024 06:37:18 +0000",
+          "dc:creator": "william",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/laoluafolami/practical-iot-solution-using-azure-iot-hub-2apc",
-          "isoDate": "2024-07-19T06:37:50.000Z",
+          "guid": "https://dev.to/william_732a7fb4164dd99c8/what-are-the-eligibility-requirements-for-the-state-scholarship-program-4ado",
+          "isoDate": "2024-07-20T06:37:18.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Devops Den",
-          "title": "How to Learn Project Management?",
-          "link": "https://dev.to/devops_den/how-to-learn-project-management-98a",
-          "pubDate": "Fri, 19 Jul 2024 06:36:29 +0000",
-          "dc:creator": "Devops Den",
+          "creator": "Noor Fatima",
+          "title": "Connecting to Your Windows EC2 Instance Using Remote Desktop Connection (RDC)",
+          "link": "https://dev.to/noorscript/connecting-to-your-windows-ec2-instance-using-remote-desktop-connection-rdc-286e",
+          "pubDate": "Sat, 20 Jul 2024 06:32:09 +0000",
+          "dc:creator": "Noor Fatima",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devops_den/how-to-learn-project-management-98a",
+          "guid": "https://dev.to/noorscript/connecting-to-your-windows-ec2-instance-using-remote-desktop-connection-rdc-286e",
+          "categories": [
+            "aws",
+            "cloudcomputing",
+            "learning",
+            "webdev"
+          ],
+          "isoDate": "2024-07-20T06:32:09.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Brandon Gautama",
+          "title": "Message Delivery System using AWS Step Functions",
+          "link": "https://dev.to/brandongautama/message-delivery-system-using-aws-step-functions-jda",
+          "pubDate": "Sat, 20 Jul 2024 06:23:11 +0000",
+          "dc:creator": "Brandon Gautama",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/brandongautama/message-delivery-system-using-aws-step-functions-jda",
+          "categories": [
+            "systemdesign",
+            "aws",
+            "stepfunctions",
+            "awssqs"
+          ],
+          "isoDate": "2024-07-20T06:23:11.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "sameer",
+          "title": "How Forex Rates APIs are Powering the Future of Finance",
+          "link": "https://dev.to/sameeranthony/how-forex-rates-apis-are-powering-the-future-of-finance-373p",
+          "pubDate": "Sat, 20 Jul 2024 06:15:16 +0000",
+          "dc:creator": "sameer",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/sameeranthony/how-forex-rates-apis-are-powering-the-future-of-finance-373p",
+          "isoDate": "2024-07-20T06:15:16.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Vishal Yadav",
+          "title": "Mastering React: A Developer's Guide to Structuring Your Frontend Code",
+          "link": "https://dev.to/vyan/mastering-react-a-developers-guide-to-structuring-your-frontend-code-45a5",
+          "pubDate": "Sat, 20 Jul 2024 06:06:18 +0000",
+          "dc:creator": "Vishal Yadav",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/vyan/mastering-react-a-developers-guide-to-structuring-your-frontend-code-45a5",
           "categories": [
             "webdev",
-            "management",
-            "startup",
-            "tutorial"
+            "javascript",
+            "beginners",
+            "react"
           ],
-          "isoDate": "2024-07-19T06:36:29.000Z",
+          "isoDate": "2024-07-20T06:06:18.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Swati Chaudhary",
-          "title": "From Code Newbie to Dev Community Whiz: How Doc-E.ai Became My Secret Weapon",
-          "link": "https://dev.to/swati1267/from-code-newbie-to-dev-community-whiz-how-doc-eai-became-my-secret-weapon-46l",
-          "pubDate": "Fri, 19 Jul 2024 06:34:59 +0000",
-          "dc:creator": "Swati Chaudhary",
+          "creator": "Rigal Patel",
+          "title": "Protect JWT Token from Token Forgery and Data Manipulation Attack",
+          "link": "https://dev.to/rigalpatel001/protect-jwt-token-from-token-forgery-and-data-manipulation-attack-28c8",
+          "pubDate": "Sat, 20 Jul 2024 06:02:26 +0000",
+          "dc:creator": "Rigal Patel",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/swati1267/from-code-newbie-to-dev-community-whiz-how-doc-eai-became-my-secret-weapon-46l",
-          "isoDate": "2024-07-19T06:34:59.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "jackson",
-          "title": "What is the Role of Authentication in Cybersecurity",
-          "link": "https://dev.to/blogginger/what-is-the-role-of-authentication-in-cybersecurity-10ca",
-          "pubDate": "Fri, 19 Jul 2024 06:32:30 +0000",
-          "dc:creator": "jackson",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/blogginger/what-is-the-role-of-authentication-in-cybersecurity-10ca",
+          "guid": "https://dev.to/rigalpatel001/protect-jwt-token-from-token-forgery-and-data-manipulation-attack-28c8",
           "categories": [
-            "cybersecurity",
-            "authentication"
+            "javascript",
+            "websecurity",
+            "jwt",
+            "apisecurity"
           ],
-          "isoDate": "2024-07-19T06:32:30.000Z",
+          "isoDate": "2024-07-20T06:02:26.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "jackson",
-          "title": "What is the Role of Authentication in Cybersecurity",
-          "link": "https://dev.to/blogginger/what-is-the-role-of-authentication-in-cybersecurity-1o4j",
-          "pubDate": "Fri, 19 Jul 2024 06:32:24 +0000",
-          "dc:creator": "jackson",
+          "creator": "Pranav ",
+          "title": "I am just trying to distribute my Apps without play store.",
+          "link": "https://dev.to/pranav1924/i-am-just-trying-to-distribute-my-apps-without-play-store-2nd6",
+          "pubDate": "Sat, 20 Jul 2024 06:02:12 +0000",
+          "dc:creator": "Pranav ",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/blogginger/what-is-the-role-of-authentication-in-cybersecurity-1o4j",
+          "guid": "https://dev.to/pranav1924/i-am-just-trying-to-distribute-my-apps-without-play-store-2nd6",
           "categories": [
-            "cybersecurity",
-            "authentication"
+            "webdev",
+            "productivity",
+            "news",
+            "career"
           ],
-          "isoDate": "2024-07-19T06:32:24.000Z",
+          "isoDate": "2024-07-20T06:02:12.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Kevin Naidoo",
-          "title": "GPT-4o mini: compact and powerful?",
-          "link": "https://dev.to/kwnaidoo/gpt-4o-mini-compact-and-powerful-3109",
-          "pubDate": "Fri, 19 Jul 2024 06:28:59 +0000",
-          "dc:creator": "Kevin Naidoo",
+          "creator": "Noor Fatima",
+          "title": "Connecting to Your Linux EC2 Instance Using PuTTY on Window",
+          "link": "https://dev.to/noorscript/connecting-to-your-linux-ec2-instance-using-putty-on-window-hcp",
+          "pubDate": "Sat, 20 Jul 2024 05:59:31 +0000",
+          "dc:creator": "Noor Fatima",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/kwnaidoo/gpt-4o-mini-compact-and-powerful-3109",
+          "guid": "https://dev.to/noorscript/connecting-to-your-linux-ec2-instance-using-putty-on-window-hcp",
           "categories": [
-            "ai",
+            "learning",
+            "cloud",
+            "cloudskills",
+            "aws"
+          ],
+          "isoDate": "2024-07-20T05:59:31.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Praveen Bisht",
+          "title": "Building a full-stack app with Python & Django",
+          "link": "https://dev.to/prvnbist/building-a-full-stack-app-with-python-django-20j4",
+          "pubDate": "Sat, 20 Jul 2024 05:57:46 +0000",
+          "dc:creator": "Praveen Bisht",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/prvnbist/building-a-full-stack-app-with-python-django-20j4",
+          "categories": [
             "python",
-            "machinelearning",
-            "discuss"
+            "django",
+            "fullstack",
+            "web"
           ],
-          "isoDate": "2024-07-19T06:28:59.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Mehr Muhammad Hamza",
-          "title": "7 Python Excel Libraries: In-Depth Review for Developers",
-          "link": "https://dev.to/mhamzap10/7-python-excel-libraries-in-depth-review-for-developers-4hf4",
-          "pubDate": "Fri, 19 Jul 2024 06:26:32 +0000",
-          "dc:creator": "Mehr Muhammad Hamza",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/mhamzap10/7-python-excel-libraries-in-depth-review-for-developers-4hf4",
-          "categories": [
-            "python",
-            "pythonexcellibraries",
-            "webdev",
-            "excel"
-          ],
-          "isoDate": "2024-07-19T06:26:32.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Super Kai (Kazuya Ito)",
-          "title": "median() and nanmedian() in PyTorch",
-          "link": "https://dev.to/hyperkai/median-and-nanmedian-in-pytorch-3pdl",
-          "pubDate": "Fri, 19 Jul 2024 06:25:34 +0000",
-          "dc:creator": "Super Kai (Kazuya Ito)",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/hyperkai/median-and-nanmedian-in-pytorch-3pdl",
-          "categories": [
-            "pytorch",
-            "median",
-            "nanmedian",
-            "function"
-          ],
-          "isoDate": "2024-07-19T06:25:34.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Aditya Pratap Bhuyan",
-          "title": "Strategies for Database Sharding and When to Use Them",
-          "link": "https://dev.to/adityabhuyan/strategies-for-database-sharding-and-when-to-use-them-49fh",
-          "pubDate": "Fri, 19 Jul 2024 06:23:57 +0000",
-          "dc:creator": "Aditya Pratap Bhuyan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/adityabhuyan/strategies-for-database-sharding-and-when-to-use-them-49fh",
-          "categories": [
-            "database",
-            "shrading"
-          ],
-          "isoDate": "2024-07-19T06:23:57.000Z",
+          "isoDate": "2024-07-20T05:57:46.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
