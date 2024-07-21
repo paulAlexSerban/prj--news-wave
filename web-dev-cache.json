@@ -103,7 +103,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sat, 20 Jul 2024 05:02:18 GMT"
+      "lastBuildDate": "Sun, 21 Jul 2024 05:02:24 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -417,7 +417,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sat, 20 Jul 2024 06:34:31 GMT",
+      "lastBuildDate": "Sun, 21 Jul 2024 06:34:47 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -534,6 +534,20 @@
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Bhanuprakash Jirra",
+          "title": "Building Database Connections and Migrations in Go With GORM and Goose",
+          "link": "https://dzone.com/articles/building-robust-database-connections-and-migration",
+          "pubDate": "Sat, 20 Jul 2024 12:00:01 GMT",
+          "dc:creator": "Bhanuprakash Jirra",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3467675",
+          "isoDate": "2024-07-20T12:00:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Mohammed Fazalullah Qudrath",
           "title": "Setting Up a Local Development Environment With IntelliJ, DevContainers, and Amazon Linux 2023",
@@ -659,20 +673,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Pavan Vemuri",
-          "title": "Precision Python: Leveraging mypy and Pylint for Type Safety",
-          "link": "https://dzone.com/articles/typing-in-python",
-          "pubDate": "Thu, 18 Jul 2024 15:00:00 GMT",
-          "dc:creator": "Pavan Vemuri",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3472968",
-          "isoDate": "2024-07-18T15:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -685,6 +685,48 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Raphael Yoshiga",
+          "title": "Billion-Dollar Blunder: The IT Outage That Shook the World",
+          "link": "https://itnext.io/worldwide-it-outage-a-cyberbomb-63c3b14acc24?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 20 Jul 2024 22:23:07 GMT",
+          "dc:creator": "Raphael Yoshiga",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/63c3b14acc24",
+          "categories": [
+            "programming",
+            "security",
+            "software-development",
+            "technology",
+            "cybersecurity"
+          ],
+          "isoDate": "2024-07-20T22:23:07.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Piotr",
+          "title": "Better Kubernetes YAML Editing with Neo(vim)",
+          "link": "https://itnext.io/better-kubernetes-yaml-editing-with-neo-vim-af7da9a1b150?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 20 Jul 2024 16:28:48 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Piotr",
+          "guid": "https://medium.com/p/af7da9a1b150",
+          "categories": [
+            "engineering",
+            "vim",
+            "programming",
+            "cloud-computing",
+            "kubernetes"
+          ],
+          "isoDate": "2024-07-20T16:28:48.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Aleksandr Kubarskii",
           "title": "10 minutes to create Rick and Morty search engine!",
@@ -850,48 +892,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Alex Pliutau",
-          "title": "Terminating Elegantly: A Guide to Graceful Shutdowns",
-          "link": "https://itnext.io/terminating-elegantly-a-guide-to-graceful-shutdowns-e0dcd9940f4b?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 17 Jul 2024 12:49:05 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Alex Pliutau",
-          "guid": "https://medium.com/p/e0dcd9940f4b",
-          "categories": [
-            "linux",
-            "go",
-            "kubernetes",
-            "golang",
-            "software-development"
-          ],
-          "isoDate": "2024-07-17T12:49:05.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Erşah",
-          "title": "What is up with server caching in NextJS 15?",
-          "link": "https://itnext.io/what-is-up-with-server-caching-in-nextjs-15-b6f56702e966?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 16 Jul 2024 22:01:44 GMT",
-          "dc:creator": "Erşah",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/b6f56702e966",
-          "categories": [
-            "front-end-development",
-            "nextjs",
-            "web-development",
-            "cache",
-            "react"
-          ],
-          "isoDate": "2024-07-16T22:01:44.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -908,194 +908,202 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sat, 20 Jul 2024 06:50:58 GMT"
+      "lastBuildDate": "Sun, 21 Jul 2024 06:52:54 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Shah Zaib",
-          "title": "Solving Common Issues with Hotwire in Ruby on Rails: Tips and Tricks",
-          "link": "https://dev.to/shahzaib/solving-common-issues-with-hotwire-in-ruby-on-rails-tips-and-tricks-5ah5",
-          "pubDate": "Sat, 20 Jul 2024 06:49:13 +0000",
-          "dc:creator": "Shah Zaib",
+          "creator": "Program Prodigy",
+          "title": "Good Commit ✅ vs Bad Commit❎: Commit Message Comparisons🧭",
+          "link": "https://dev.to/kamleshsah_33/good-commit-vs-bad-commit-commit-message-comparisons-1ggp",
+          "pubDate": "Sun, 21 Jul 2024 06:21:44 +0000",
+          "dc:creator": "Program Prodigy",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/shahzaib/solving-common-issues-with-hotwire-in-ruby-on-rails-tips-and-tricks-5ah5",
+          "guid": "https://dev.to/kamleshsah_33/good-commit-vs-bad-commit-commit-message-comparisons-1ggp",
           "categories": [
-            "rails",
-            "hotwire",
             "webdev",
-            "stimulus"
+            "git",
+            "programming",
+            "tutorial"
           ],
-          "isoDate": "2024-07-20T06:49:13.000Z",
+          "isoDate": "2024-07-21T06:21:44.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "william",
-          "title": "What are the eligibility requirements for the state scholarship program?",
-          "link": "https://dev.to/william_732a7fb4164dd99c8/what-are-the-eligibility-requirements-for-the-state-scholarship-program-4ado",
-          "pubDate": "Sat, 20 Jul 2024 06:37:18 +0000",
-          "dc:creator": "william",
+          "creator": "Vaibhav sisodiya",
+          "title": "This weird IFRAME thing wasted my 2 days (and counting...)",
+          "link": "https://dev.to/vaib215/this-weird-iframe-thing-wasted-my-2-days-and-counting-3aj2",
+          "pubDate": "Sun, 21 Jul 2024 06:15:16 +0000",
+          "dc:creator": "Vaibhav sisodiya",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/william_732a7fb4164dd99c8/what-are-the-eligibility-requirements-for-the-state-scholarship-program-4ado",
-          "isoDate": "2024-07-20T06:37:18.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Noor Fatima",
-          "title": "Connecting to Your Windows EC2 Instance Using Remote Desktop Connection (RDC)",
-          "link": "https://dev.to/noorscript/connecting-to-your-windows-ec2-instance-using-remote-desktop-connection-rdc-286e",
-          "pubDate": "Sat, 20 Jul 2024 06:32:09 +0000",
-          "dc:creator": "Noor Fatima",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/noorscript/connecting-to-your-windows-ec2-instance-using-remote-desktop-connection-rdc-286e",
+          "guid": "https://dev.to/vaib215/this-weird-iframe-thing-wasted-my-2-days-and-counting-3aj2",
           "categories": [
-            "aws",
-            "cloudcomputing",
-            "learning",
+            "webdev",
+            "javascript",
+            "programming",
+            "learning"
+          ],
+          "isoDate": "2024-07-21T06:15:16.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "eazealliance services",
+          "title": "Enhancing Web APIs with Django REST Framework at EazeAlliance",
+          "link": "https://dev.to/eazealliance_services/enhancing-web-apis-with-django-rest-framework-at-eazealliance-pff",
+          "pubDate": "Sun, 21 Jul 2024 06:12:40 +0000",
+          "dc:creator": "eazealliance services",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/eazealliance_services/enhancing-web-apis-with-django-rest-framework-at-eazealliance-pff",
+          "categories": [
+            "programming",
+            "machinelearning",
+            "docker",
+            "testing"
+          ],
+          "isoDate": "2024-07-21T06:12:40.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Pratik Nalawade",
+          "title": "How I Passed my HashiCorp Terraform Certified Asscoiate Exam",
+          "link": "https://dev.to/pratik_nalawade/how-i-passed-my-hashicorp-terraform-certified-asscoiate-exam-115g",
+          "pubDate": "Sun, 21 Jul 2024 06:09:20 +0000",
+          "dc:creator": "Pratik Nalawade",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/pratik_nalawade/how-i-passed-my-hashicorp-terraform-certified-asscoiate-exam-115g",
+          "categories": [
+            "devops",
+            "terraform",
+            "certification",
+            "infrastructureascode"
+          ],
+          "isoDate": "2024-07-21T06:09:20.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ravi Mourya",
+          "title": "🖥️ Understanding the Raft Consensus Algorithm: A Comprehensive Guide 📚",
+          "link": "https://dev.to/ravi3541/understanding-the-raft-consensus-algorithm-a-comprehensive-guide-2epo",
+          "pubDate": "Sun, 21 Jul 2024 05:56:04 +0000",
+          "dc:creator": "Ravi Mourya",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/ravi3541/understanding-the-raft-consensus-algorithm-a-comprehensive-guide-2epo",
+          "categories": [
+            "raftconsensus",
+            "distributedsystems",
+            "consensusalgorithm",
+            "masterslaveearchitecture"
+          ],
+          "isoDate": "2024-07-21T05:56:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Dimas Priyandi",
+          "title": "Tips for Using Java Streams for File Input/Output",
+          "link": "https://dev.to/maskoding/tips-for-using-java-streams-for-file-inputoutput-4pj0",
+          "pubDate": "Sun, 21 Jul 2024 05:56:00 +0000",
+          "dc:creator": "Dimas Priyandi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/maskoding/tips-for-using-java-streams-for-file-inputoutput-4pj0",
+          "categories": [
+            "java",
+            "programming",
+            "oop",
             "webdev"
           ],
-          "isoDate": "2024-07-20T06:32:09.000Z",
+          "isoDate": "2024-07-21T05:56:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Brandon Gautama",
-          "title": "Message Delivery System using AWS Step Functions",
-          "link": "https://dev.to/brandongautama/message-delivery-system-using-aws-step-functions-jda",
-          "pubDate": "Sat, 20 Jul 2024 06:23:11 +0000",
-          "dc:creator": "Brandon Gautama",
+          "creator": "Ravi Mourya",
+          "title": "🚀 Apache Kafka Cluster Explained: Core Concepts and Architectures 🌐",
+          "link": "https://dev.to/ravi3541/apache-kafka-cluster-explained-core-concepts-and-architectures-283f",
+          "pubDate": "Sun, 21 Jul 2024 05:52:31 +0000",
+          "dc:creator": "Ravi Mourya",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/brandongautama/message-delivery-system-using-aws-step-functions-jda",
+          "guid": "https://dev.to/ravi3541/apache-kafka-cluster-explained-core-concepts-and-architectures-283f",
           "categories": [
-            "systemdesign",
-            "aws",
-            "stepfunctions",
-            "awssqs"
+            "apachekafka",
+            "datastreaming",
+            "techinsights",
+            "realtimedata"
           ],
-          "isoDate": "2024-07-20T06:23:11.000Z",
+          "isoDate": "2024-07-21T05:52:31.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "sameer",
-          "title": "How Forex Rates APIs are Powering the Future of Finance",
-          "link": "https://dev.to/sameeranthony/how-forex-rates-apis-are-powering-the-future-of-finance-373p",
-          "pubDate": "Sat, 20 Jul 2024 06:15:16 +0000",
-          "dc:creator": "sameer",
+          "creator": "Ali Reza",
+          "title": "Docker's Command",
+          "link": "https://dev.to/salimzadeh/dockers-command-l9i",
+          "pubDate": "Sun, 21 Jul 2024 05:42:15 +0000",
+          "dc:creator": "Ali Reza",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/sameeranthony/how-forex-rates-apis-are-powering-the-future-of-finance-373p",
-          "isoDate": "2024-07-20T06:15:16.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Vishal Yadav",
-          "title": "Mastering React: A Developer's Guide to Structuring Your Frontend Code",
-          "link": "https://dev.to/vyan/mastering-react-a-developers-guide-to-structuring-your-frontend-code-45a5",
-          "pubDate": "Sat, 20 Jul 2024 06:06:18 +0000",
-          "dc:creator": "Vishal Yadav",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/vyan/mastering-react-a-developers-guide-to-structuring-your-frontend-code-45a5",
+          "guid": "https://dev.to/salimzadeh/dockers-command-l9i",
           "categories": [
-            "webdev",
-            "javascript",
-            "beginners",
-            "react"
+            "docker",
+            "cli",
+            "devops"
           ],
-          "isoDate": "2024-07-20T06:06:18.000Z",
+          "isoDate": "2024-07-21T05:42:15.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Rigal Patel",
-          "title": "Protect JWT Token from Token Forgery and Data Manipulation Attack",
-          "link": "https://dev.to/rigalpatel001/protect-jwt-token-from-token-forgery-and-data-manipulation-attack-28c8",
-          "pubDate": "Sat, 20 Jul 2024 06:02:26 +0000",
-          "dc:creator": "Rigal Patel",
+          "creator": "Ashutosh Sarangi",
+          "title": "Unlocking Efficiency: The Surprising Impact of Memoization on Recursive Functions",
+          "link": "https://dev.to/ashutoshsarangi/unlocking-efficiency-the-surprising-impact-of-memoization-on-recursive-functions-c6k",
+          "pubDate": "Sun, 21 Jul 2024 05:40:27 +0000",
+          "dc:creator": "Ashutosh Sarangi",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/rigalpatel001/protect-jwt-token-from-token-forgery-and-data-manipulation-attack-28c8",
+          "guid": "https://dev.to/ashutoshsarangi/unlocking-efficiency-the-surprising-impact-of-memoization-on-recursive-functions-c6k",
           "categories": [
             "javascript",
-            "websecurity",
-            "jwt",
-            "apisecurity"
+            "functionalreactiveprogramming",
+            "frontend",
+            "ecmas"
           ],
-          "isoDate": "2024-07-20T06:02:26.000Z",
+          "isoDate": "2024-07-21T05:40:27.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Pranav ",
-          "title": "I am just trying to distribute my Apps without play store.",
-          "link": "https://dev.to/pranav1924/i-am-just-trying-to-distribute-my-apps-without-play-store-2nd6",
-          "pubDate": "Sat, 20 Jul 2024 06:02:12 +0000",
-          "dc:creator": "Pranav ",
+          "creator": "Nobu",
+          "title": "Deleted a table in production and lost four more table data with ON DELETE CASCADE",
+          "link": "https://dev.to/nobu0605/deleted-a-table-in-production-and-lost-four-more-table-data-with-on-delete-cascade-17k9",
+          "pubDate": "Sun, 21 Jul 2024 05:29:29 +0000",
+          "dc:creator": "Nobu",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/pranav1924/i-am-just-trying-to-distribute-my-apps-without-play-store-2nd6",
+          "guid": "https://dev.to/nobu0605/deleted-a-table-in-production-and-lost-four-more-table-data-with-on-delete-cascade-17k9",
           "categories": [
-            "webdev",
-            "productivity",
-            "news",
-            "career"
+            "mysql"
           ],
-          "isoDate": "2024-07-20T06:02:12.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Noor Fatima",
-          "title": "Connecting to Your Linux EC2 Instance Using PuTTY on Window",
-          "link": "https://dev.to/noorscript/connecting-to-your-linux-ec2-instance-using-putty-on-window-hcp",
-          "pubDate": "Sat, 20 Jul 2024 05:59:31 +0000",
-          "dc:creator": "Noor Fatima",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/noorscript/connecting-to-your-linux-ec2-instance-using-putty-on-window-hcp",
-          "categories": [
-            "learning",
-            "cloud",
-            "cloudskills",
-            "aws"
-          ],
-          "isoDate": "2024-07-20T05:59:31.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Praveen Bisht",
-          "title": "Building a full-stack app with Python & Django",
-          "link": "https://dev.to/prvnbist/building-a-full-stack-app-with-python-django-20j4",
-          "pubDate": "Sat, 20 Jul 2024 05:57:46 +0000",
-          "dc:creator": "Praveen Bisht",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/prvnbist/building-a-full-stack-app-with-python-django-20j4",
-          "categories": [
-            "python",
-            "django",
-            "fullstack",
-            "web"
-          ],
-          "isoDate": "2024-07-20T05:57:46.000Z",
+          "isoDate": "2024-07-21T05:29:29.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
