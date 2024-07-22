@@ -103,7 +103,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sun, 21 Jul 2024 05:02:24 GMT"
+      "lastBuildDate": "Mon, 22 Jul 2024 05:02:10 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -417,7 +417,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sun, 21 Jul 2024 06:34:47 GMT",
+      "lastBuildDate": "Mon, 22 Jul 2024 06:34:49 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -534,6 +534,20 @@
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Adrian Baker",
+          "title": "Variance: The Heartbeat of Agile Metrics",
+          "link": "https://dzone.com/articles/variance-the-heartbeat-of-agile-metrics",
+          "pubDate": "Sun, 21 Jul 2024 12:00:01 GMT",
+          "dc:creator": "Adrian Baker",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3476252",
+          "isoDate": "2024-07-21T12:00:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Bhanuprakash Jirra",
           "title": "Building Database Connections and Migrations in Go With GORM and Goose",
@@ -659,20 +673,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Hemant Kulkarni",
-          "title": "Oracle Advanced Queue: A Guide",
-          "link": "https://dzone.com/articles/oracle-advanced-queue-a-guide",
-          "pubDate": "Thu, 18 Jul 2024 16:00:00 GMT",
-          "dc:creator": "Hemant Kulkarni",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3475209",
-          "isoDate": "2024-07-18T16:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -685,6 +685,27 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Krzysztof Pranczk",
+          "title": "Broken Function Level Authorization — Web API Security Champion Part V",
+          "link": "https://itnext.io/broken-function-level-authorization-web-api-security-champion-part-v-1917b9d3e748?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 21 Jul 2024 10:08:19 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Krzysztof Pranczk",
+          "guid": "https://medium.com/p/1917b9d3e748",
+          "categories": [
+            "cybersecurity",
+            "programming",
+            "application-security",
+            "python",
+            "software-development"
+          ],
+          "isoDate": "2024-07-21T10:08:19.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Raphael Yoshiga",
           "title": "Billion-Dollar Blunder: The IT Outage That Shook the World",
@@ -708,7 +729,7 @@
         },
         {
           "creator": "Piotr",
-          "title": "Better Kubernetes YAML Editing with Neo(vim)",
+          "title": "Better Kubernetes YAML Editing with (Neo)vim",
           "link": "https://itnext.io/better-kubernetes-yaml-editing-with-neo-vim-af7da9a1b150?source=rss----5b301f10ddcd---4",
           "pubDate": "Sat, 20 Jul 2024 16:28:48 GMT",
           "content:encoded": "",
@@ -871,27 +892,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Wagner Franchin",
-          "title": "Streamlining MySQL InnoDB Cluster Deployment: Simplifying Setup with Docker Containers",
-          "link": "https://itnext.io/setting-up-mysql-innodb-cluster-with-mysql-shell-plus-mysql-router-using-just-docker-containers-9cdbfb6026af?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 17 Jul 2024 20:52:15 GMT",
-          "dc:creator": "Wagner Franchin",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/9cdbfb6026af",
-          "categories": [
-            "docker",
-            "oracle",
-            "mysql",
-            "high-availability",
-            "database"
-          ],
-          "isoDate": "2024-07-17T20:52:15.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -908,202 +908,188 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sun, 21 Jul 2024 06:52:54 GMT"
+      "lastBuildDate": "Mon, 22 Jul 2024 07:03:42 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Program Prodigy",
-          "title": "Good Commit ✅ vs Bad Commit❎: Commit Message Comparisons🧭",
-          "link": "https://dev.to/kamleshsah_33/good-commit-vs-bad-commit-commit-message-comparisons-1ggp",
-          "pubDate": "Sun, 21 Jul 2024 06:21:44 +0000",
-          "dc:creator": "Program Prodigy",
+          "creator": "Aidas Petryla",
+          "title": "Concurrent and Parallel Programming in Python (course)",
+          "link": "https://dev.to/apetryla/concurrent-and-parallel-programming-in-python-course-3oaa",
+          "pubDate": "Mon, 22 Jul 2024 07:02:00 +0000",
+          "dc:creator": "Aidas Petryla",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/kamleshsah_33/good-commit-vs-bad-commit-commit-message-comparisons-1ggp",
+          "guid": "https://dev.to/apetryla/concurrent-and-parallel-programming-in-python-course-3oaa",
           "categories": [
-            "webdev",
-            "git",
-            "programming",
-            "tutorial"
+            "beginners",
+            "python",
+            "learning",
+            "programming"
           ],
-          "isoDate": "2024-07-21T06:21:44.000Z",
+          "isoDate": "2024-07-22T07:02:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Vaibhav sisodiya",
-          "title": "This weird IFRAME thing wasted my 2 days (and counting...)",
-          "link": "https://dev.to/vaib215/this-weird-iframe-thing-wasted-my-2-days-and-counting-3aj2",
-          "pubDate": "Sun, 21 Jul 2024 06:15:16 +0000",
-          "dc:creator": "Vaibhav sisodiya",
+          "creator": "Testscenario",
+          "title": "Performance Testing for E-commerce Websites: A Comprehensive Guide",
+          "link": "https://dev.to/testscenario/performance-testing-for-e-commerce-websites-a-comprehensive-guide-332",
+          "pubDate": "Mon, 22 Jul 2024 06:38:10 +0000",
+          "dc:creator": "Testscenario",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/vaib215/this-weird-iframe-thing-wasted-my-2-days-and-counting-3aj2",
+          "guid": "https://dev.to/testscenario/performance-testing-for-e-commerce-websites-a-comprehensive-guide-332",
           "categories": [
-            "webdev",
-            "javascript",
-            "programming",
-            "learning"
-          ],
-          "isoDate": "2024-07-21T06:15:16.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "eazealliance services",
-          "title": "Enhancing Web APIs with Django REST Framework at EazeAlliance",
-          "link": "https://dev.to/eazealliance_services/enhancing-web-apis-with-django-rest-framework-at-eazealliance-pff",
-          "pubDate": "Sun, 21 Jul 2024 06:12:40 +0000",
-          "dc:creator": "eazealliance services",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/eazealliance_services/enhancing-web-apis-with-django-rest-framework-at-eazealliance-pff",
-          "categories": [
-            "programming",
-            "machinelearning",
-            "docker",
             "testing"
           ],
-          "isoDate": "2024-07-21T06:12:40.000Z",
+          "isoDate": "2024-07-22T06:38:10.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Pratik Nalawade",
-          "title": "How I Passed my HashiCorp Terraform Certified Asscoiate Exam",
-          "link": "https://dev.to/pratik_nalawade/how-i-passed-my-hashicorp-terraform-certified-asscoiate-exam-115g",
-          "pubDate": "Sun, 21 Jul 2024 06:09:20 +0000",
-          "dc:creator": "Pratik Nalawade",
+          "creator": "Vinkal Prajapati ",
+          "title": "Personal Finance Tracker: Manage Your Income and Expenses Efficiently",
+          "link": "https://dev.to/vinkalprajapati/personal-finance-tracker-manage-your-income-and-expenses-efficiently-i93",
+          "pubDate": "Mon, 22 Jul 2024 06:37:34 +0000",
+          "dc:creator": "Vinkal Prajapati ",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/pratik_nalawade/how-i-passed-my-hashicorp-terraform-certified-asscoiate-exam-115g",
+          "guid": "https://dev.to/vinkalprajapati/personal-finance-tracker-manage-your-income-and-expenses-efficiently-i93",
           "categories": [
-            "devops",
-            "terraform",
-            "certification",
-            "infrastructureascode"
+            "vinkal",
+            "vinkal041",
+            "vinkal93",
+            "vinkalprajapati"
           ],
-          "isoDate": "2024-07-21T06:09:20.000Z",
+          "isoDate": "2024-07-22T06:37:34.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ravi Mourya",
-          "title": "🖥️ Understanding the Raft Consensus Algorithm: A Comprehensive Guide 📚",
-          "link": "https://dev.to/ravi3541/understanding-the-raft-consensus-algorithm-a-comprehensive-guide-2epo",
-          "pubDate": "Sun, 21 Jul 2024 05:56:04 +0000",
-          "dc:creator": "Ravi Mourya",
+          "creator": "Cong Li",
+          "title": "GBase 8s Database HAC Cluster Switch and Recovery Operations",
+          "link": "https://dev.to/congcong/gbase-8s-database-hac-cluster-switch-and-recovery-operations-j7c",
+          "pubDate": "Mon, 22 Jul 2024 06:36:55 +0000",
+          "dc:creator": "Cong Li",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ravi3541/understanding-the-raft-consensus-algorithm-a-comprehensive-guide-2epo",
+          "guid": "https://dev.to/congcong/gbase-8s-database-hac-cluster-switch-and-recovery-operations-j7c",
           "categories": [
-            "raftconsensus",
-            "distributedsystems",
-            "consensusalgorithm",
-            "masterslaveearchitecture"
+            "database"
           ],
-          "isoDate": "2024-07-21T05:56:04.000Z",
+          "isoDate": "2024-07-22T06:36:55.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Dimas Priyandi",
-          "title": "Tips for Using Java Streams for File Input/Output",
-          "link": "https://dev.to/maskoding/tips-for-using-java-streams-for-file-inputoutput-4pj0",
-          "pubDate": "Sun, 21 Jul 2024 05:56:00 +0000",
-          "dc:creator": "Dimas Priyandi",
+          "creator": "Agit Rubar Demir",
+          "title": "Java & Spring Best Practices | Dependency Injection",
+          "link": "https://dev.to/agitrubard/java-spring-best-practices-dependency-injection-58ac",
+          "pubDate": "Mon, 22 Jul 2024 06:35:34 +0000",
+          "dc:creator": "Agit Rubar Demir",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/maskoding/tips-for-using-java-streams-for-file-inputoutput-4pj0",
+          "guid": "https://dev.to/agitrubard/java-spring-best-practices-dependency-injection-58ac",
           "categories": [
             "java",
-            "programming",
-            "oop",
-            "webdev"
+            "springboot",
+            "webdev",
+            "programming"
           ],
-          "isoDate": "2024-07-21T05:56:00.000Z",
+          "isoDate": "2024-07-22T06:35:34.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ravi Mourya",
-          "title": "🚀 Apache Kafka Cluster Explained: Core Concepts and Architectures 🌐",
-          "link": "https://dev.to/ravi3541/apache-kafka-cluster-explained-core-concepts-and-architectures-283f",
-          "pubDate": "Sun, 21 Jul 2024 05:52:31 +0000",
-          "dc:creator": "Ravi Mourya",
+          "creator": "ayou",
+          "title": "Implement React v18 from Scratch Using WASM and Rust - [19] Performance Optimization: bailout & eagerState",
+          "link": "https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-19-performance-optimization-bailout-eagerstate-5593",
+          "pubDate": "Mon, 22 Jul 2024 06:33:57 +0000",
+          "dc:creator": "ayou",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ravi3541/apache-kafka-cluster-explained-core-concepts-and-architectures-283f",
+          "guid": "https://dev.to/paradeto/implement-react-v18-from-scratch-using-wasm-and-rust-19-performance-optimization-bailout-eagerstate-5593",
           "categories": [
-            "apachekafka",
-            "datastreaming",
-            "techinsights",
-            "realtimedata"
+            "react",
+            "webassembly",
+            "rust"
           ],
-          "isoDate": "2024-07-21T05:52:31.000Z",
+          "isoDate": "2024-07-22T06:33:57.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ali Reza",
-          "title": "Docker's Command",
-          "link": "https://dev.to/salimzadeh/dockers-command-l9i",
-          "pubDate": "Sun, 21 Jul 2024 05:42:15 +0000",
-          "dc:creator": "Ali Reza",
+          "creator": "Rigal Patel",
+          "title": "Preventing Clickjacking Attacks in JavaScript",
+          "link": "https://dev.to/rigalpatel001/preventing-clickjacking-attacks-in-javascript-39pj",
+          "pubDate": "Mon, 22 Jul 2024 06:33:33 +0000",
+          "dc:creator": "Rigal Patel",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/salimzadeh/dockers-command-l9i",
-          "categories": [
-            "docker",
-            "cli",
-            "devops"
-          ],
-          "isoDate": "2024-07-21T05:42:15.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ashutosh Sarangi",
-          "title": "Unlocking Efficiency: The Surprising Impact of Memoization on Recursive Functions",
-          "link": "https://dev.to/ashutoshsarangi/unlocking-efficiency-the-surprising-impact-of-memoization-on-recursive-functions-c6k",
-          "pubDate": "Sun, 21 Jul 2024 05:40:27 +0000",
-          "dc:creator": "Ashutosh Sarangi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/ashutoshsarangi/unlocking-efficiency-the-surprising-impact-of-memoization-on-recursive-functions-c6k",
+          "guid": "https://dev.to/rigalpatel001/preventing-clickjacking-attacks-in-javascript-39pj",
           "categories": [
             "javascript",
-            "functionalreactiveprogramming",
-            "frontend",
-            "ecmas"
+            "websecurity",
+            "clickjacking",
+            "secureweb"
           ],
-          "isoDate": "2024-07-21T05:40:27.000Z",
+          "isoDate": "2024-07-22T06:33:33.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Nobu",
-          "title": "Deleted a table in production and lost four more table data with ON DELETE CASCADE",
-          "link": "https://dev.to/nobu0605/deleted-a-table-in-production-and-lost-four-more-table-data-with-on-delete-cascade-17k9",
-          "pubDate": "Sun, 21 Jul 2024 05:29:29 +0000",
-          "dc:creator": "Nobu",
+          "creator": "jackson",
+          "title": "What is Zero Trust Network Security?",
+          "link": "https://dev.to/blogginger/what-is-zero-trust-network-security-235o",
+          "pubDate": "Mon, 22 Jul 2024 06:23:56 +0000",
+          "dc:creator": "jackson",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/nobu0605/deleted-a-table-in-production-and-lost-four-more-table-data-with-on-delete-cascade-17k9",
+          "guid": "https://dev.to/blogginger/what-is-zero-trust-network-security-235o",
           "categories": [
-            "mysql"
+            "zerotrustnetwork"
           ],
-          "isoDate": "2024-07-21T05:29:29.000Z",
+          "isoDate": "2024-07-22T06:23:56.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Max Sveshnikov",
+          "title": "Generating Andorid apps from Claude artifacts",
+          "link": "https://dev.to/msveshnikov/generating-andorid-apps-from-claude-artifacts-1g9",
+          "pubDate": "Mon, 22 Jul 2024 06:22:16 +0000",
+          "dc:creator": "Max Sveshnikov",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/msveshnikov/generating-andorid-apps-from-claude-artifacts-1g9",
+          "isoDate": "2024-07-22T06:22:16.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Pepper Square",
+          "title": "10 Best Google Fonts for your website",
+          "link": "https://dev.to/pepper_square/10-best-google-fonts-for-your-website-o85",
+          "pubDate": "Mon, 22 Jul 2024 06:19:24 +0000",
+          "dc:creator": "Pepper Square",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/pepper_square/10-best-google-fonts-for-your-website-o85",
+          "categories": [
+            "webdev",
+            "programming"
+          ],
+          "isoDate": "2024-07-22T06:19:24.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
