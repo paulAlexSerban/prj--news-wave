@@ -102,7 +102,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sun, 28 Jul 2024 05:02:39 GMT"
+      "lastBuildDate": "Mon, 29 Jul 2024 05:02:47 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -423,7 +423,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sun, 28 Jul 2024 06:35:04 GMT",
+      "lastBuildDate": "Mon, 29 Jul 2024 07:04:54 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -468,7 +468,7 @@
           "link": "https://tympanus.net/codrops/2024/07/26/case-study-rogier-de-boeve-portfolio-2024/",
           "pubDate": "Fri, 26 Jul 2024 09:57:09 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/07/03.mp4?x88254",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/07/03.mp4?x95671",
             "length": "8345525",
             "type": "video/mp4"
           },
@@ -493,7 +493,7 @@
           "link": "https://tympanus.net/codrops/2024/07/23/on-ne-change-pas-the-creative-work-process-behind-a-stunning-ui-animation/",
           "pubDate": "Tue, 23 Jul 2024 10:31:25 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/07/Celine-Dion-x-Lobster-Dribbble-2x.mp4?x88254",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/07/Celine-Dion-x-Lobster-Dribbble-2x.mp4?x95671",
             "length": "7206323",
             "type": "video/mp4"
           },
@@ -538,6 +538,34 @@
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Lakshmana Rao Koppada",
+          "title": "DB2 vs. Oracle for IBM Maximo: A Comparative Analysis",
+          "link": "https://dzone.com/articles/db2-vs-oracle-for-ibm-maximo-a-comparative",
+          "pubDate": "Sun, 28 Jul 2024 13:00:01 GMT",
+          "dc:creator": "Lakshmana Rao Koppada",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3477818",
+          "isoDate": "2024-07-28T13:00:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Abhishek Gupta",
+          "title": "Real-Time Streaming Architectures: A Technical Deep Dive Into Kafka, Flink, and Pinot",
+          "link": "https://dzone.com/articles/real-time-streaming-architectures-kafka-flink-pinot",
+          "pubDate": "Sun, 28 Jul 2024 12:30:01 GMT",
+          "dc:creator": "Abhishek Gupta",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3479013",
+          "isoDate": "2024-07-28T12:30:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Egor Kaleynik",
           "title": "Meet Bun.js and Vite, Two Web-Development Turbochargers",
@@ -649,34 +677,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "BINU SUDHAKARAN PILLAI",
-          "title": "Impact of Generative AI in the Cellular and IoT Telecommunication",
-          "link": "https://dzone.com/articles/the-impact-of-generative-ai-in-telecom-software",
-          "pubDate": "Thu, 25 Jul 2024 17:00:00 GMT",
-          "dc:creator": "BINU SUDHAKARAN PILLAI",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3477663",
-          "isoDate": "2024-07-25T17:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Tom Smith",
-          "title": "OpenTelemetry: Unifying Application and Infrastructure Observability",
-          "link": "https://dzone.com/articles/opentelemetry-unifying-application-observability",
-          "pubDate": "Thu, 25 Jul 2024 15:00:02 GMT",
-          "dc:creator": "Tom Smith",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3478683",
-          "isoDate": "2024-07-25T15:00:02.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -689,6 +689,89 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Saeed Zarinfam",
+          "title": "Cancelable CountDownLatch in Java",
+          "link": "https://itnext.io/cancelable-countdownlatch-in-java-2b960fb77403?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 29 Jul 2024 07:03:00 GMT",
+          "dc:creator": "Saeed Zarinfam",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/2b960fb77403",
+          "categories": [
+            "countdownlatch",
+            "threads",
+            "multithreading",
+            "java",
+            "concurrency"
+          ],
+          "isoDate": "2024-07-29T07:03:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Wagner Franchin",
+          "title": "Setting Up ProxySQL and MySQL Replication using Docker",
+          "link": "https://itnext.io/setting-up-proxysql-and-mysql-replication-using-docker-35afe395b4e7?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 28 Jul 2024 20:58:57 GMT",
+          "dc:creator": "Wagner Franchin",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/35afe395b4e7",
+          "categories": [
+            "technology",
+            "proxysql",
+            "replication",
+            "database",
+            "mysql"
+          ],
+          "isoDate": "2024-07-28T20:58:57.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Alex Pliutau",
+          "title": "Software Architecture Diagrams with C4 Model",
+          "link": "https://itnext.io/software-architecture-diagrams-with-c4-model-898adcb534c2?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 28 Jul 2024 20:57:46 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Alex Pliutau",
+          "guid": "https://medium.com/p/898adcb534c2",
+          "categories": [
+            "software-architecture",
+            "software-development",
+            "programming",
+            "c4-model"
+          ],
+          "isoDate": "2024-07-28T20:57:46.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mahdi Mallaki",
+          "title": "VSCode Inside the Browser",
+          "link": "https://itnext.io/vscode-inside-the-browser-c3c796da3edd?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 28 Jul 2024 17:09:53 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Mahdi Mallaki",
+          "guid": "https://medium.com/p/c3c796da3edd",
+          "categories": [
+            "kubernetes",
+            "aws",
+            "devops",
+            "vscode",
+            "cloud-ide"
+          ],
+          "isoDate": "2024-07-28T17:09:53.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Sebastian Krempel",
           "title": "Communicate real-time in OutSystems",
@@ -808,89 +891,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Brian Treese",
-          "title": "Local Component Template Variables with @let",
-          "link": "https://itnext.io/angular-tutorial-local-component-template-variables-with-let-0a23edd144d9?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 24 Jul 2024 20:35:32 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Brian Treese",
-          "guid": "https://medium.com/p/0a23edd144d9",
-          "categories": [
-            "angular",
-            "angular-components",
-            "angular-tutorial",
-            "angular-development",
-            "angular-developers"
-          ],
-          "isoDate": "2024-07-24T20:35:32.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Wagner Franchin",
-          "title": "How JVM Allocates and Manages Memory for Primitive Types",
-          "link": "https://itnext.io/how-jvm-allocates-and-manages-memory-for-primitive-types-9d7f9a310ed1?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 24 Jul 2024 11:57:53 GMT",
-          "dc:creator": "Wagner Franchin",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/9d7f9a310ed1",
-          "categories": [
-            "software-engineering",
-            "interview",
-            "coding",
-            "java",
-            "software-development"
-          ],
-          "isoDate": "2024-07-24T11:57:53.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Alex Pliutau",
-          "title": "Building Your Own GPU Ready GitHub Actions Runner: A Dockerfile Guide",
-          "link": "https://itnext.io/building-your-own-gpu-ready-github-actions-runner-a-dockerfile-guide-d6f7846005b2?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 24 Jul 2024 08:08:55 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Alex Pliutau",
-          "guid": "https://medium.com/p/d6f7846005b2",
-          "categories": [
-            "ci-cd-pipeline",
-            "docker",
-            "gpu",
-            "github-actions",
-            "kubernetes"
-          ],
-          "isoDate": "2024-07-24T08:08:55.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Roark B.",
-          "title": "How and why to use tools and extensions in software development.",
-          "link": "https://itnext.io/how-and-why-to-use-tools-and-extensions-in-software-development-a94cf7972cb1?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 24 Jul 2024 07:24:53 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Roark B.",
-          "guid": "https://medium.com/p/a94cf7972cb1",
-          "categories": [
-            "how-to-work-effectively",
-            "save-time",
-            "tools-for-developers",
-            "software-development"
-          ],
-          "isoDate": "2024-07-24T07:24:53.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -907,203 +907,189 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sun, 28 Jul 2024 07:05:26 GMT"
+      "lastBuildDate": "Mon, 29 Jul 2024 07:03:03 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Noor Fatima",
-          "title": "🔥Uncovering JavaScript's Hidden Gems: Exceptional Conditional Operators",
-          "link": "https://dev.to/noorscript/uncovering-javascripts-hidden-gems-exceptional-conditional-operators-1b58",
-          "pubDate": "Sun, 28 Jul 2024 06:25:02 +0000",
-          "dc:creator": "Noor Fatima",
+          "creator": "DbVisualizer",
+          "title": "Building a PostgreSQL Database for E-commerce",
+          "link": "https://dev.to/dbvismarketing/building-a-postgresql-database-for-e-commerce-96o",
+          "pubDate": "Mon, 29 Jul 2024 07:00:00 +0000",
+          "dc:creator": "DbVisualizer",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/noorscript/uncovering-javascripts-hidden-gems-exceptional-conditional-operators-1b58",
+          "guid": "https://dev.to/dbvismarketing/building-a-postgresql-database-for-e-commerce-96o",
+          "isoDate": "2024-07-29T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Amogh Jalan",
+          "title": "Overcoming Hard Rate Limits: Efficient Rate Limiting with Token Bucketing and Redis",
+          "link": "https://dev.to/middleware/overcoming-hard-rate-limits-efficient-rate-limiting-with-token-bucketing-and-redis-4gcb",
+          "pubDate": "Mon, 29 Jul 2024 06:53:11 +0000",
+          "dc:creator": "Amogh Jalan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/middleware/overcoming-hard-rate-limits-efficient-rate-limiting-with-token-bucketing-and-redis-4gcb",
           "categories": [
-            "javascript",
+            "webdev",
             "programming",
-            "beginners",
-            "learning"
-          ],
-          "isoDate": "2024-07-28T06:25:02.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nahidul Fahim",
-          "title": "TypeScript Generics: Building Flexible and Reusable Components",
-          "link": "https://dev.to/nahidulislam/typescript-generics-building-flexible-and-reusable-components-4743",
-          "pubDate": "Sun, 28 Jul 2024 05:43:17 +0000",
-          "dc:creator": "Nahidul Fahim",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/nahidulislam/typescript-generics-building-flexible-and-reusable-components-4743",
-          "categories": [
-            "typescript",
-            "generic",
-            "programming",
-            "learning"
-          ],
-          "isoDate": "2024-07-28T05:43:17.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ankit Kumar Meena",
-          "title": "Mastering Fragments in Java for Android Development",
-          "link": "https://dev.to/ankittmeena/mastering-fragments-in-java-for-android-development-1ach",
-          "pubDate": "Sun, 28 Jul 2024 05:35:06 +0000",
-          "dc:creator": "Ankit Kumar Meena",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/ankittmeena/mastering-fragments-in-java-for-android-development-1ach",
-          "categories": [
-            "fragment",
-            "android",
-            "java",
-            "mobile"
-          ],
-          "isoDate": "2024-07-28T05:35:06.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Zablon",
-          "title": "Transform Your Cloud Skills: A Hands-On Guide to Building a Serverless Resume Application",
-          "link": "https://dev.to/zablonoigo/transform-your-cloud-skills-a-hands-on-guide-to-building-a-serverless-resume-application-4i7d",
-          "pubDate": "Sun, 28 Jul 2024 05:32:24 +0000",
-          "dc:creator": "Zablon",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/zablonoigo/transform-your-cloud-skills-a-hands-on-guide-to-building-a-serverless-resume-application-4i7d",
-          "categories": [
-            "aws",
-            "githubactions",
-            "terraform",
-            "dynamodb"
-          ],
-          "isoDate": "2024-07-28T05:32:24.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Kenji Tomita",
-          "title": "Differences and Usage of as const and Readonly in TypeScript",
-          "link": "https://dev.to/tommykw/differences-and-usage-of-as-const-and-readonly-in-typescript-4bkb",
-          "pubDate": "Sun, 28 Jul 2024 05:25:46 +0000",
-          "dc:creator": "Kenji Tomita",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/tommykw/differences-and-usage-of-as-const-and-readonly-in-typescript-4bkb",
-          "categories": [
-            "typescript"
-          ],
-          "isoDate": "2024-07-28T05:25:46.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Shanu Kumawat",
-          "title": "Boost Your Linux Productivity: Remapping Useless Keys with Kanata",
-          "link": "https://dev.to/shanu-kumawat/boost-your-linux-productivity-remapping-useless-keys-with-kanata-3ih5",
-          "pubDate": "Sun, 28 Jul 2024 05:07:01 +0000",
-          "dc:creator": "Shanu Kumawat",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/shanu-kumawat/boost-your-linux-productivity-remapping-useless-keys-with-kanata-3ih5",
-          "categories": [
-            "linux",
             "productivity",
-            "tutorial",
-            "keyboard"
+            "architecture"
           ],
-          "isoDate": "2024-07-28T05:07:01.000Z",
+          "isoDate": "2024-07-29T06:53:11.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Rachit singh",
-          "title": "First Blog",
-          "link": "https://dev.to/rachitsinghh/first-blog-4kdn",
-          "pubDate": "Sun, 28 Jul 2024 04:54:32 +0000",
-          "dc:creator": "Rachit singh",
+          "creator": "Abhay Chaturvedi",
+          "title": "The Imperative of Robust Automotive Software Testing",
+          "link": "https://dev.to/abhayit2000/the-imperative-of-robust-automotive-software-testing-58en",
+          "pubDate": "Mon, 29 Jul 2024 06:38:40 +0000",
+          "dc:creator": "Abhay Chaturvedi",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/rachitsinghh/first-blog-4kdn",
+          "guid": "https://dev.to/abhayit2000/the-imperative-of-robust-automotive-software-testing-58en",
           "categories": [
-            "javascript",
-            "react",
+            "testing",
+            "mobile",
             "programming",
-            "beginners"
+            "coding"
           ],
-          "isoDate": "2024-07-28T04:54:32.000Z",
+          "isoDate": "2024-07-29T06:38:40.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sophie Warner",
-          "title": "How to debug your Python mocks or imports",
-          "link": "https://dev.to/funtimes/how-to-debug-your-python-mocks-or-imports-2o75",
-          "pubDate": "Sun, 28 Jul 2024 04:40:45 +0000",
-          "dc:creator": "Sophie Warner",
+          "creator": "Pablo Discobar",
+          "title": "200 Best AI Tools of 2024: Guide to Artificial Intelligence Solutions",
+          "link": "https://dev.to/pablonax/200-best-ai-tools-of-2024-guide-to-artificial-intelligence-solutions-2lic",
+          "pubDate": "Mon, 29 Jul 2024 06:35:53 +0000",
+          "dc:creator": "Pablo Discobar",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/funtimes/how-to-debug-your-python-mocks-or-imports-2o75",
+          "guid": "https://dev.to/pablonax/200-best-ai-tools-of-2024-guide-to-artificial-intelligence-solutions-2lic",
           "categories": [
-            "python",
-            "unittest",
-            "mock",
-            "testing"
+            "ai",
+            "tooling",
+            "chatgpt",
+            "openai"
           ],
-          "isoDate": "2024-07-28T04:40:45.000Z",
+          "isoDate": "2024-07-29T06:35:53.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "MD ARIFUL HAQUE",
-          "title": "PHP crash course: PHP MYSQL QUIZ APP",
-          "link": "https://dev.to/mdarifulhaque/php-crash-course-php-mysql-quiz-app-io",
-          "pubDate": "Sun, 28 Jul 2024 04:35:04 +0000",
-          "dc:creator": "MD ARIFUL HAQUE",
+          "creator": "Anmol Baranwal",
+          "title": "17 Most Powerful AI Tools for Developers",
+          "link": "https://dev.to/marscode/17-most-powerful-ai-tools-for-developers-e6n",
+          "pubDate": "Mon, 29 Jul 2024 06:32:11 +0000",
+          "dc:creator": "Anmol Baranwal",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/mdarifulhaque/php-crash-course-php-mysql-quiz-app-io",
+          "guid": "https://dev.to/marscode/17-most-powerful-ai-tools-for-developers-e6n",
           "categories": [
-            "php",
-            "backends",
-            "beginners",
+            "ai",
+            "productivity",
+            "programming",
+            "webdev"
+          ],
+          "isoDate": "2024-07-29T06:32:11.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Arnav Rathod",
+          "title": "What is Financial Accounting Meaning? Principles, Importance and Why It Matters",
+          "link": "https://dev.to/arnav_rathod_c3768799eacc/what-is-financial-accounting-meaning-principles-importance-and-why-it-matters-4de8",
+          "pubDate": "Mon, 29 Jul 2024 06:31:36 +0000",
+          "dc:creator": "Arnav Rathod",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/arnav_rathod_c3768799eacc/what-is-financial-accounting-meaning-principles-importance-and-why-it-matters-4de8",
+          "isoDate": "2024-07-29T06:31:36.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Michael Andreuzza",
+          "title": "How to create an animated background gradient with Tailwind CSS",
+          "link": "https://dev.to/mike_andreuzza/how-to-create-an-animated-background-gradient-with-tailwind-css-cg7",
+          "pubDate": "Mon, 29 Jul 2024 06:27:50 +0000",
+          "dc:creator": "Michael Andreuzza",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/mike_andreuzza/how-to-create-an-animated-background-gradient-with-tailwind-css-cg7",
+          "categories": [
+            "tailwindcss",
             "tutorial"
           ],
-          "isoDate": "2024-07-28T04:35:04.000Z",
+          "isoDate": "2024-07-29T06:27:50.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Rathod Ketan",
-          "title": "Solve Product of Array Except Self Problem in 4 Easy Steps",
-          "link": "https://dev.to/rk042/solve-product-of-array-except-self-problem-in-4-easy-steps-2mfp",
-          "pubDate": "Sun, 28 Jul 2024 04:33:59 +0000",
-          "dc:creator": "Rathod Ketan",
+          "creator": "Adarsh ",
+          "title": "Static Website hosting on AWS S3",
+          "link": "https://dev.to/adarshmaharjan/static-website-hosting-on-aws-s3-3081",
+          "pubDate": "Mon, 29 Jul 2024 06:27:40 +0000",
+          "dc:creator": "Adarsh ",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/rk042/solve-product-of-array-except-self-problem-in-4-easy-steps-2mfp",
+          "guid": "https://dev.to/adarshmaharjan/static-website-hosting-on-aws-s3-3081",
           "categories": [
-            "algorithms",
-            "programming",
-            "interview",
-            "career"
+            "aws",
+            "s3",
+            "devops"
           ],
-          "isoDate": "2024-07-28T04:33:59.000Z",
+          "isoDate": "2024-07-29T06:27:40.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Christian Lechner",
+          "title": "# Mind the Terraform Modules",
+          "link": "https://dev.to/lechnerc77/-mind-the-terraform-modules-3p11",
+          "pubDate": "Mon, 29 Jul 2024 06:26:25 +0000",
+          "dc:creator": "Christian Lechner",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/lechnerc77/-mind-the-terraform-modules-3p11",
+          "categories": [
+            "terraform",
+            "infrastructureascode",
+            "modules"
+          ],
+          "isoDate": "2024-07-29T06:26:25.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "steve jacob ",
+          "title": "The Power of Computer Vision in Data Analytics",
+          "link": "https://dev.to/stevejacob45678/the-power-of-computer-vision-in-data-analytics-2lbi",
+          "pubDate": "Mon, 29 Jul 2024 06:24:05 +0000",
+          "dc:creator": "steve jacob ",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/stevejacob45678/the-power-of-computer-vision-in-data-analytics-2lbi",
+          "categories": [
+            "ai",
+            "dataanalytics",
+            "computervision"
+          ],
+          "isoDate": "2024-07-29T06:24:05.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
