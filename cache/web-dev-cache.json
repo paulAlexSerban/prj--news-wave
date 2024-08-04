@@ -101,7 +101,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sat, 03 Aug 2024 05:02:11 GMT"
+      "lastBuildDate": "Sun, 04 Aug 2024 05:02:18 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -462,7 +462,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sat, 03 Aug 2024 06:34:54 GMT",
+      "lastBuildDate": "Sun, 04 Aug 2024 06:35:06 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -579,6 +579,20 @@
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Scott Sosna",
+          "title": "Compound Interest in Software",
+          "link": "https://dzone.com/articles/compound-interest-in-software",
+          "pubDate": "Sat, 03 Aug 2024 11:00:01 GMT",
+          "dc:creator": "Scott Sosna",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3479207",
+          "isoDate": "2024-08-03T11:00:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Carsten Rhod Gregersen",
           "title": "Industrial IoT: Exploring Microcontrollers for Robust Applications",
@@ -701,20 +715,6 @@
           "contentSnippet": "",
           "guid": "https://dzone.com/articles/3477019",
           "isoDate": "2024-08-01T15:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Stefan Wolpers",
-          "title": "Agile-Regulated Industries?",
-          "link": "https://dzone.com/articles/agile-regulated-industries",
-          "pubDate": "Thu, 01 Aug 2024 13:00:01 GMT",
-          "dc:creator": "Stefan Wolpers",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3479138",
-          "isoDate": "2024-08-01T13:00:01.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -945,187 +945,198 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sat, 03 Aug 2024 07:04:10 GMT"
+      "lastBuildDate": "Sun, 04 Aug 2024 07:05:46 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Jack Pritom Soren ",
-          "title": "The Software Engineer's Journey: Examining Every Option and Its Requirements",
-          "link": "https://dev.to/jps27cse/the-software-engineers-journey-examining-every-option-and-its-requirements-1loh",
-          "pubDate": "Sat, 03 Aug 2024 06:47:45 +0000",
-          "dc:creator": "Jack Pritom Soren ",
+          "creator": "Jacob Stern",
+          "title": "Days 32-34 of 100 Days of Code",
+          "link": "https://dev.to/jacobsternx/days-32-34-of-100-days-of-code-5c7d",
+          "pubDate": "Sun, 04 Aug 2024 06:59:14 +0000",
+          "dc:creator": "Jacob Stern",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/jps27cse/the-software-engineers-journey-examining-every-option-and-its-requirements-1loh",
+          "guid": "https://dev.to/jacobsternx/days-32-34-of-100-days-of-code-5c7d",
           "categories": [
-            "softwareengineering",
+            "100daysofcode",
             "webdev",
+            "javascript",
+            "beginners"
+          ],
+          "isoDate": "2024-08-04T06:59:14.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Masa Kudamatsu",
+          "title": "Vanilla JS carousel that is accessible, swipeable, infinite-scrolling, and autoplaying",
+          "link": "https://dev.to/masakudamatsu/vanilla-js-carousel-that-is-accessible-swipeable-infinite-scrolling-and-autoplaying-19kc",
+          "pubDate": "Sun, 04 Aug 2024 06:52:33 +0000",
+          "dc:creator": "Masa Kudamatsu",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/masakudamatsu/vanilla-js-carousel-that-is-accessible-swipeable-infinite-scrolling-and-autoplaying-19kc",
+          "categories": [
+            "webdev",
+            "javascript",
+            "a11y",
+            "css"
+          ],
+          "isoDate": "2024-08-04T06:52:33.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Matheus Sena",
+          "title": "Keep It Simple - Busque a simplicidade",
+          "link": "https://dev.to/mathsena/keep-it-simple-busque-a-simplicidade-51fp",
+          "pubDate": "Sun, 04 Aug 2024 06:51:31 +0000",
+          "dc:creator": "Matheus Sena",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/mathsena/keep-it-simple-busque-a-simplicidade-51fp",
+          "categories": [
+            "productivity",
+            "learning",
+            "softwaredevelopment",
+            "webdev"
+          ],
+          "isoDate": "2024-08-04T06:51:31.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Jay Paun",
+          "title": "Introducing Llama 3.1: Meta's most capable models to date",
+          "link": "https://dev.to/jaypaun/introducing-llama-31-metas-most-capable-models-to-date-4cfa",
+          "pubDate": "Sun, 04 Aug 2024 06:39:10 +0000",
+          "dc:creator": "Jay Paun",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/jaypaun/introducing-llama-31-metas-most-capable-models-to-date-4cfa",
+          "categories": [
+            "meta",
+            "ai",
+            "llama"
+          ],
+          "isoDate": "2024-08-04T06:39:10.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ansh Saini",
+          "title": "Finally, a scalable folder structure for your frontend code",
+          "link": "https://dev.to/anshsaini/finally-a-scalable-folder-structure-for-your-frontend-code-43li",
+          "pubDate": "Sun, 04 Aug 2024 06:32:41 +0000",
+          "dc:creator": "Ansh Saini",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/anshsaini/finally-a-scalable-folder-structure-for-your-frontend-code-43li",
+          "categories": [
+            "webdev",
+            "javascript",
+            "beginners",
+            "react"
+          ],
+          "isoDate": "2024-08-04T06:32:41.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Manjush",
+          "title": "Beginner's Guide: Creating a Real-Time Chat App with Next.js and WebSockets",
+          "link": "https://dev.to/manjushsh/beginners-guide-creating-a-real-time-chat-app-with-nextjs-and-websockets-1fol",
+          "pubDate": "Sun, 04 Aug 2024 06:31:00 +0000",
+          "dc:creator": "Manjush",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/manjushsh/beginners-guide-creating-a-real-time-chat-app-with-nextjs-and-websockets-1fol",
+          "categories": [
+            "webdev",
+            "javascript",
+            "beginners",
+            "nextjs"
+          ],
+          "isoDate": "2024-08-04T06:31:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mince",
+          "title": "ChatGPT talks to ChatGPT 🙊",
+          "link": "https://dev.to/mince/chatgpt-talks-to-chatgpt-f9g",
+          "pubDate": "Sun, 04 Aug 2024 06:28:13 +0000",
+          "dc:creator": "Mince",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/mince/chatgpt-talks-to-chatgpt-f9g",
+          "categories": [
+            "webdev",
+            "javascript",
             "beginners",
             "programming"
           ],
-          "isoDate": "2024-08-03T06:47:45.000Z",
+          "isoDate": "2024-08-04T06:28:13.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "mibii",
-          "title": "From Mnemonic to Bitcoin Addresses in JavaScript",
-          "link": "https://dev.to/mibii/from-mnemonic-to-bitcoin-addresses-in-javascript-1dmp",
-          "pubDate": "Sat, 03 Aug 2024 06:35:54 +0000",
-          "dc:creator": "mibii",
+          "creator": "developedbyjk",
+          "title": "My Wins of Week 🌟 [04/08/24]",
+          "link": "https://dev.to/developedbyjk/my-wins-of-week-040824-416d",
+          "pubDate": "Sun, 04 Aug 2024 06:14:19 +0000",
+          "dc:creator": "developedbyjk",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/mibii/from-mnemonic-to-bitcoin-addresses-in-javascript-1dmp",
+          "guid": "https://dev.to/developedbyjk/my-wins-of-week-040824-416d",
+          "isoDate": "2024-08-04T06:14:19.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Harshada Borse",
+          "title": "Poetry Web Creation",
+          "link": "https://dev.to/harshada_borse/poetry-web-creation-3bm7",
+          "pubDate": "Sun, 04 Aug 2024 06:07:13 +0000",
+          "dc:creator": "Harshada Borse",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/harshada_borse/poetry-web-creation-3bm7",
           "categories": [
-            "cryptocurrency",
-            "cryptowallet",
-            "javascript",
-            "bip39"
+            "frontendchallenge",
+            "devchallenge",
+            "css",
+            "javascript"
           ],
-          "isoDate": "2024-08-03T06:35:54.000Z",
+          "isoDate": "2024-08-04T06:07:13.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "StackOverflowWarrior",
-          "title": "Day 17 of 100 Days of Cloud: Exploring HashiCorp Consul",
-          "link": "https://dev.to/tutorialhelldev/day-17-of-100-days-of-cloud-exploring-hashicorp-consul-he6",
-          "pubDate": "Sat, 03 Aug 2024 06:15:50 +0000",
-          "dc:creator": "StackOverflowWarrior",
+          "creator": "SwiftUI.art",
+          "title": "How-to SwiftUI Gradient",
+          "link": "https://dev.to/swiftui_art/how-to-swiftui-gradient-27m4",
+          "pubDate": "Sun, 04 Aug 2024 06:06:35 +0000",
+          "dc:creator": "SwiftUI.art",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/tutorialhelldev/day-17-of-100-days-of-cloud-exploring-hashicorp-consul-he6",
-          "isoDate": "2024-08-03T06:15:50.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "JR Saucedo",
-          "title": "Registro 001 — Antes de Escribir Código: La Importancia de Planificar tu Proyecto Flutter",
-          "link": "https://dev.to/betoflakes/registro-001-antes-de-escribir-codigo-la-importancia-de-planificar-tu-proyecto-flutter-3p47",
-          "pubDate": "Sat, 03 Aug 2024 06:12:13 +0000",
-          "dc:creator": "JR Saucedo",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/betoflakes/registro-001-antes-de-escribir-codigo-la-importancia-de-planificar-tu-proyecto-flutter-3p47",
+          "guid": "https://dev.to/swiftui_art/how-to-swiftui-gradient-27m4",
           "categories": [
-            "flutter",
-            "dart",
-            "spanish"
+            "ios",
+            "swiftui",
+            "swift"
           ],
-          "isoDate": "2024-08-03T06:12:13.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Pratik Nalawade",
-          "title": "Mastering Git for DevOps: A Comprehensive Guide",
-          "link": "https://dev.to/pratik_nalawade/mastering-git-for-devops-a-comprehensive-guide-4h6p",
-          "pubDate": "Sat, 03 Aug 2024 06:08:36 +0000",
-          "dc:creator": "Pratik Nalawade",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/pratik_nalawade/mastering-git-for-devops-a-comprehensive-guide-4h6p",
-          "isoDate": "2024-08-03T06:08:36.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sachin Gadekar",
-          "title": "🛡️ Authentication vs Authorization: Every Developer Needs to Know 🛡️",
-          "link": "https://dev.to/gadekar_sachin/authentication-vs-authorization-every-developer-needs-to-know-1pid",
-          "pubDate": "Sat, 03 Aug 2024 05:59:58 +0000",
-          "dc:creator": "Sachin Gadekar",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/gadekar_sachin/authentication-vs-authorization-every-developer-needs-to-know-1pid",
-          "categories": [
-            "authentication",
-            "authorization",
-            "javascript",
-            "webdev"
-          ],
-          "isoDate": "2024-08-03T05:59:58.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Er Hardik Chauhan",
-          "title": "Master Full-Stack Monorepos: A Step-by-Step Guide",
-          "link": "https://dev.to/hardikidea/master-full-stack-monorepos-a-step-by-step-guide-2196",
-          "pubDate": "Sat, 03 Aug 2024 05:59:17 +0000",
-          "dc:creator": "Er Hardik Chauhan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/hardikidea/master-full-stack-monorepos-a-step-by-step-guide-2196",
-          "categories": [
-            "monorepo",
-            "typescript",
-            "vite",
-            "fullstack"
-          ],
-          "isoDate": "2024-08-03T05:59:17.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "anil kumar",
-          "title": "How to Launch an Ubuntu EC2 Instance in AWS: A Step-by-Step Guide",
-          "link": "https://dev.to/anil_kumar_/how-to-launch-an-ubuntu-ec2-instance-in-aws-a-step-by-step-guide-d5e",
-          "pubDate": "Sat, 03 Aug 2024 05:52:53 +0000",
-          "dc:creator": "anil kumar",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/anil_kumar_/how-to-launch-an-ubuntu-ec2-instance-in-aws-a-step-by-step-guide-d5e",
-          "categories": [
-            "security",
-            "aws",
-            "ec2",
-            "devops"
-          ],
-          "isoDate": "2024-08-03T05:52:53.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Faisal Ahmed",
-          "title": "Filter from front end",
-          "link": "https://dev.to/webfaisalbd/filter-from-front-end-a4k",
-          "pubDate": "Sat, 03 Aug 2024 05:52:34 +0000",
-          "dc:creator": "Faisal Ahmed",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/webfaisalbd/filter-from-front-end-a4k",
-          "isoDate": "2024-08-03T05:52:34.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ali Samir",
-          "title": "Optimizing Web Performance: Techniques and Tools ⚡️",
-          "link": "https://dev.to/alisamir/optimizing-web-performance-techniques-and-tools-2ad5",
-          "pubDate": "Sat, 03 Aug 2024 05:47:29 +0000",
-          "dc:creator": "Ali Samir",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/alisamir/optimizing-web-performance-techniques-and-tools-2ad5",
-          "categories": [
-            "webdev",
-            "performance",
-            "softwaredevelopment",
-            "softwareengineering"
-          ],
-          "isoDate": "2024-08-03T05:47:29.000Z",
+          "isoDate": "2024-08-04T06:06:35.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
