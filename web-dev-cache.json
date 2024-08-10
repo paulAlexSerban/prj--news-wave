@@ -101,7 +101,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Fri, 09 Aug 2024 05:02:21 GMT"
+      "lastBuildDate": "Sat, 10 Aug 2024 05:02:21 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -314,8 +314,27 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Andrii Zhdan)",
+          "title": "If I Was Starting My Career Today: Thoughts After 15 Years Spent In UX Design (Part 2)",
+          "link": "https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part2/",
+          "pubDate": "Fri, 09 Aug 2024 11:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Andrii Zhdan)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/thoughts-after-15-years-spent-ux-design-part1/thoughts-after-15-years-spent-ux-design.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part2/",
+          "isoDate": "2024-08-09T11:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Preethi Sam)",
-          "title": "The Best Of Pro Scheduler Libraries",
+          "title": "Best Of Pro Scheduler Libraries",
           "link": "https://smashingmagazine.com/2024/08/best-pro-scheduler-libraries/",
           "pubDate": "Thu, 08 Aug 2024 20:00:00 GMT",
           "author": "hello@smashingmagazine.com (Preethi Sam)",
@@ -388,25 +407,6 @@
           "guid": "https://smashingmagazine.com/2024/08/how-build-multilingual-website-nuxt-i18n/",
           "isoDate": "2024-08-01T15:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Cosima Mielke)",
-          "title": "Sweet Nostalgia In August (2024 Wallpapers Edition)",
-          "link": "https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/",
-          "pubDate": "Wed, 31 Jul 2024 09:30:00 GMT",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-august-2024/aug-23-summer-day-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/07/desktop-wallpaper-calendars-august-2024/",
-          "isoDate": "2024-07-31T09:30:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -424,11 +424,35 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Fri, 09 Aug 2024 06:34:53 GMT",
+      "lastBuildDate": "Sat, 10 Aug 2024 06:34:49 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Vladimir Biondic",
+          "title": "Designer Spotlight: Vladimir Biondić",
+          "link": "https://tympanus.net/codrops/2024/08/09/designer-spotlight-vladimir-biondic/",
+          "pubDate": "Fri, 09 Aug 2024 09:13:09 +0000",
+          "enclosure": {
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/08/Sculpt_1.0.mp4?x80620",
+            "length": "1893949",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Vladimir Biondic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=79915",
+          "categories": [
+            "Articles",
+            "designer-spotlight",
+            "inspiration"
+          ],
+          "isoDate": "2024-08-09T09:13:09.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Palash Bansal",
           "title": "Interactive 3D Device Showcase with Threepipe",
@@ -517,26 +541,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "Inspirational Websites Roundup #63",
-          "link": "https://tympanus.net/codrops/2024/07/27/inspirational-websites-roundup-63/",
-          "pubDate": "Sat, 27 Jul 2024 09:54:27 +0000",
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=79774",
-          "categories": [
-            "Websites Roundups",
-            "inspiration",
-            "roundup",
-            "website"
-          ],
-          "isoDate": "2024-07-27T09:54:27.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -548,10 +552,80 @@
       "generator": "https://wordpress.org/?v=6.6.1",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Wed, 07 Aug 2024 10:14:55 +0000"
+      "lastBuildDate": "Fri, 09 Aug 2024 09:13:11 +0000"
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Manoj Boopathi Raj",
+          "title": "Demystifying the Magic: A Look Inside the Algorithms of Speech Recognition",
+          "link": "https://dzone.com/articles/look-inside-the-algorithms-of-speech-recognition",
+          "pubDate": "Fri, 09 Aug 2024 18:00:01 GMT",
+          "dc:creator": "Manoj Boopathi Raj",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3482725",
+          "isoDate": "2024-08-09T18:00:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Bilal Azam",
+          "title": "Why I Use RTK Query for API Calls in React",
+          "link": "https://dzone.com/articles/why-i-use-rtk-query-for-api-calls-in-react",
+          "pubDate": "Fri, 09 Aug 2024 16:30:01 GMT",
+          "dc:creator": "Bilal Azam",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3482770",
+          "isoDate": "2024-08-09T16:30:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Abhishek Gupta",
+          "title": "Use Mistral AI To Build Generative AI Applications With Go",
+          "link": "https://dzone.com/articles/use-mistral-ai-to-build-generative-ai-apps-with-go",
+          "pubDate": "Fri, 09 Aug 2024 15:00:01 GMT",
+          "dc:creator": "Abhishek Gupta",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3484779",
+          "isoDate": "2024-08-09T15:00:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Priyanka Neelakrishnan",
+          "title": "Content Detection Technologies in Data Loss Prevention (DLP) Products",
+          "link": "https://dzone.com/articles/content-detection-technologies-in-dlp-products",
+          "pubDate": "Fri, 09 Aug 2024 13:30:01 GMT",
+          "dc:creator": "Priyanka Neelakrishnan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3479362",
+          "isoDate": "2024-08-09T13:30:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Dmytro Diachenko",
+          "title": "Connecting ChatGPT to Code Review Made Easy",
+          "link": "https://dzone.com/articles/connecting-chatgpt-to-code-review-made-easy",
+          "pubDate": "Fri, 09 Aug 2024 12:00:01 GMT",
+          "dc:creator": "Dmytro Diachenko",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3483780",
+          "isoDate": "2024-08-09T12:00:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Tejas Ghadge",
           "title": "The Case for Working on Non-Glamorous Migration Projects",
@@ -621,76 +695,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Muhammad Yasir Rafique",
-          "title": "JavaScript Frameworks: The Past, the Present, and the Future",
-          "link": "https://dzone.com/articles/javascript-frameworks-past-present-and-future",
-          "pubDate": "Thu, 08 Aug 2024 13:00:01 GMT",
-          "dc:creator": "Muhammad Yasir Rafique",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3480028",
-          "isoDate": "2024-08-08T13:00:01.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Andrew Sellers",
-          "title": "How To Scale RAG and Build More Accurate LLMs",
-          "link": "https://dzone.com/articles/how-to-scale-rag-and-build-more-accurate-llms",
-          "pubDate": "Thu, 08 Aug 2024 12:00:01 GMT",
-          "dc:creator": "Andrew Sellers",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3477306",
-          "isoDate": "2024-08-08T12:00:01.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Kapil Kumar Sharma",
-          "title": "Leveraging Snowflake’s AI/ML Capabilities for Anomaly Detection",
-          "link": "https://dzone.com/articles/leveraging-snowflake-aiml-for-anomaly-detection",
-          "pubDate": "Thu, 08 Aug 2024 11:00:01 GMT",
-          "dc:creator": "Kapil Kumar Sharma",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3476796",
-          "isoDate": "2024-08-08T11:00:01.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Aleksandr Timashov",
-          "title": "Semi-Supervised Learning: How To Overcome the Lack of Labels",
-          "link": "https://dzone.com/articles/semi-supervised-learning-overcome-lack-of-labels",
-          "pubDate": "Wed, 07 Aug 2024 19:00:01 GMT",
-          "dc:creator": "Aleksandr Timashov",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3477165",
-          "isoDate": "2024-08-07T19:00:01.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Andromeda Booth",
-          "title": "10 Kubernetes Cost Optimization Techniques",
-          "link": "https://dzone.com/articles/10-kubernetes-cost-optimisation-techniques",
-          "pubDate": "Wed, 07 Aug 2024 18:00:01 GMT",
-          "dc:creator": "Andromeda Booth",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3478951",
-          "isoDate": "2024-08-07T18:00:01.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -703,6 +707,87 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Maksim Dolgikh",
+          "title": "Creating Envless Angular-application",
+          "link": "https://itnext.io/creating-envless-angular-application-0ce3c2ecaddd?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 09 Aug 2024 15:56:07 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Maksim Dolgikh",
+          "guid": "https://medium.com/p/0ce3c2ecaddd",
+          "categories": [
+            "javascript",
+            "angular",
+            "devops",
+            "software-development",
+            "programming"
+          ],
+          "isoDate": "2024-08-09T15:56:07.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Kulasangar Gowrisangar",
+          "title": "Integrate OpenTelemetry with Azure Application Insights for Observability using Python",
+          "link": "https://itnext.io/integrate-opentelemetry-with-azure-application-insights-for-observability-using-python-c63ded9c308e?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 09 Aug 2024 15:54:55 GMT",
+          "dc:creator": "Kulasangar Gowrisangar",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/c63ded9c308e",
+          "categories": [
+            "python",
+            "azure",
+            "opentelemetry"
+          ],
+          "isoDate": "2024-08-09T15:54:55.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Abhishek Gupta",
+          "title": "Use Mistral AI to build generative AI applications with Go",
+          "link": "https://itnext.io/use-mistral-ai-to-build-generative-ai-applications-with-go-2a8fa685bffb?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 09 Aug 2024 07:58:39 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Abhishek Gupta",
+          "guid": "https://medium.com/p/2a8fa685bffb",
+          "categories": [
+            "go",
+            "large-language-models",
+            "aws",
+            "ai",
+            "machine-learning"
+          ],
+          "isoDate": "2024-08-09T07:58:39.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Lucas Pereyra",
+          "title": "How To Serve Your Backends with Nginx: A Comprehensive Guide",
+          "link": "https://itnext.io/how-to-serve-your-backends-with-nginx-a-comprehensive-guide-c8a74955c6ed?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 09 Aug 2024 07:56:49 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Lucas Pereyra",
+          "guid": "https://medium.com/p/c8a74955c6ed",
+          "categories": [
+            "programming",
+            "nginx",
+            "software-engineering",
+            "backend"
+          ],
+          "isoDate": "2024-08-09T07:56:49.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Alex Pliutau",
           "title": "Bridging Backend and Data Engineering: Communicating Through Events",
@@ -826,88 +911,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Mahdi Mallaki",
-          "title": "Stop using Rabbitmq exporter!",
-          "link": "https://itnext.io/stop-using-rabbitmq-exporter-5817d39dc236?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 07 Aug 2024 18:46:06 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Mahdi Mallaki",
-          "guid": "https://medium.com/p/5817d39dc236",
-          "categories": [
-            "rabbitmq",
-            "prometheus",
-            "docker"
-          ],
-          "isoDate": "2024-08-07T18:46:06.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Mirco | VerboseMode.dev",
-          "title": "3 Powerful IntelliJ Tips To Boost Your Efficiency Now",
-          "link": "https://itnext.io/3-powerful-intellij-tips-to-boost-your-efficiency-now-5f326e82d7f3?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 07 Aug 2024 18:44:45 GMT",
-          "dc:creator": "Mirco | VerboseMode.dev",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/5f326e82d7f3",
-          "categories": [
-            "intellij",
-            "programming",
-            "technology",
-            "software-development",
-            "productivity"
-          ],
-          "isoDate": "2024-08-07T18:44:45.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Wagner Franchin",
-          "title": "Is It Safe to Store Passwords in Java Strings?",
-          "link": "https://itnext.io/is-it-safe-to-store-passwords-in-java-strings-45d7263b5a06?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 07 Aug 2024 08:09:55 GMT",
-          "dc:creator": "Wagner Franchin",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/45d7263b5a06",
-          "categories": [
-            "security",
-            "software-development",
-            "programming",
-            "java",
-            "coding"
-          ],
-          "isoDate": "2024-08-07T08:09:55.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Artem Lajko",
-          "title": "Kubernetes: Manage External Secrets with Azure Workload Identity",
-          "link": "https://itnext.io/kubernetes-manage-external-secrets-with-azure-workload-identity-11bc449c4935?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 06 Aug 2024 14:51:20 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Artem Lajko",
-          "guid": "https://medium.com/p/11bc449c4935",
-          "categories": [
-            "security",
-            "kubernetes",
-            "zero-trust",
-            "azure",
-            "terraform"
-          ],
-          "isoDate": "2024-08-06T14:51:20.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -924,183 +927,169 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Fri, 09 Aug 2024 06:58:39 GMT"
+      "lastBuildDate": "Sat, 10 Aug 2024 07:00:16 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Barack Okaka Obama",
-          "title": "How to Rank on Amazon (Amazon SEO)",
-          "link": "https://dev.to/okabarack/how-to-rank-on-amazon-amazon-seo-aaj",
-          "pubDate": "Fri, 09 Aug 2024 06:42:31 +0000",
-          "dc:creator": "Barack Okaka Obama",
+          "creator": "Luc Omar",
+          "title": "Understanding Networks: From Basics to Advanced Concepts.",
+          "link": "https://dev.to/luc_omar/understanding-networks-from-basics-to-advanced-concepts-21hd",
+          "pubDate": "Sat, 10 Aug 2024 06:35:06 +0000",
+          "dc:creator": "Luc Omar",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/okabarack/how-to-rank-on-amazon-amazon-seo-aaj",
+          "guid": "https://dev.to/luc_omar/understanding-networks-from-basics-to-advanced-concepts-21hd",
           "categories": [
-            "webdev",
-            "javascript",
-            "aws",
-            "algorithms"
-          ],
-          "isoDate": "2024-08-09T06:42:31.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "DavidSadler",
-          "title": "Achieving Sustainable Development Goals through Green Building Standards",
-          "link": "https://dev.to/davidsadler/achieving-sustainable-development-goals-through-green-building-standards-3n02",
-          "pubDate": "Fri, 09 Aug 2024 06:37:49 +0000",
-          "dc:creator": "DavidSadler",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/davidsadler/achieving-sustainable-development-goals-through-green-building-standards-3n02",
-          "categories": [
-            "development",
-            "security"
-          ],
-          "isoDate": "2024-08-09T06:37:49.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Shubham Srivastava",
-          "title": "The Foundations of Data Engineering for AI",
-          "link": "https://dev.to/shubham_sri/the-foundations-of-data-engineering-for-ai-274",
-          "pubDate": "Fri, 09 Aug 2024 06:36:28 +0000",
-          "dc:creator": "Shubham Srivastava",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/shubham_sri/the-foundations-of-data-engineering-for-ai-274",
-          "isoDate": "2024-08-09T06:36:28.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Lulu",
-          "title": "Simple and Easy-to-Use Web Security Gateway",
-          "link": "https://dev.to/lulu_liu_c90f973e2f954d7f/simple-and-easy-to-use-web-security-gateway-pdk",
-          "pubDate": "Fri, 09 Aug 2024 06:31:41 +0000",
-          "dc:creator": "Lulu",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/lulu_liu_c90f973e2f954d7f/simple-and-easy-to-use-web-security-gateway-pdk",
-          "categories": [
-            "security",
-            "opensource",
+            "networking",
             "cybersecurity",
-            "waf"
+            "learning",
+            "career"
           ],
-          "isoDate": "2024-08-09T06:31:41.000Z",
+          "isoDate": "2024-08-10T06:35:06.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Lucky Shrivas",
-          "title": "Redux-Toolkit/Persist",
-          "link": "https://dev.to/lucky_shrivas/redux-toolkitpersist-1d04",
-          "pubDate": "Fri, 09 Aug 2024 06:31:26 +0000",
-          "dc:creator": "Lucky Shrivas",
+          "creator": "Mike Young",
+          "title": "Escape Saddle Points with Novel Perturbed Gradient Algorithm",
+          "link": "https://dev.to/mikeyoung44/escape-saddle-points-with-novel-perturbed-gradient-algorithm-3aph",
+          "pubDate": "Sat, 10 Aug 2024 06:32:26 +0000",
+          "dc:creator": "Mike Young",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/lucky_shrivas/redux-toolkitpersist-1d04",
-          "isoDate": "2024-08-09T06:31:26.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Swati Chaudhary",
-          "title": "Creating a Thriving Developer Community for Cybersecurity Projects",
-          "link": "https://dev.to/swati1267/creating-a-thriving-developer-community-for-cybersecurity-projects-hde",
-          "pubDate": "Fri, 09 Aug 2024 06:25:56 +0000",
-          "dc:creator": "Swati Chaudhary",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/swati1267/creating-a-thriving-developer-community-for-cybersecurity-projects-hde",
-          "isoDate": "2024-08-09T06:25:56.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Trading Talks",
-          "title": "Essential Risk Management Techniques for Investors",
-          "link": "https://dev.to/trading_talks_7d4797e150d/essential-risk-management-techniques-for-investors-34ph",
-          "pubDate": "Fri, 09 Aug 2024 06:23:51 +0000",
-          "dc:creator": "Trading Talks",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/trading_talks_7d4797e150d/essential-risk-management-techniques-for-investors-34ph",
+          "guid": "https://dev.to/mikeyoung44/escape-saddle-points-with-novel-perturbed-gradient-algorithm-3aph",
           "categories": [
-            "riskmanagement"
-          ],
-          "isoDate": "2024-08-09T06:23:51.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Pradumna Saraf",
-          "title": "STOP versioning your Docker Compose file",
-          "link": "https://dev.to/pradumnasaraf/stop-versioning-your-docker-compose-file-1f41",
-          "pubDate": "Fri, 09 Aug 2024 06:23:41 +0000",
-          "dc:creator": "Pradumna Saraf",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/pradumnasaraf/stop-versioning-your-docker-compose-file-1f41",
-          "categories": [
-            "docker",
-            "devops",
-            "opensource",
-            "development"
-          ],
-          "isoDate": "2024-08-09T06:23:41.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Haseebullah",
-          "title": "Why Google, Microsoft and Amazon Shy Away From Buying A.I. Start-Ups",
-          "link": "https://dev.to/haskeeb265/why-google-microsoft-and-amazon-shy-away-from-buying-ai-start-ups-4fif",
-          "pubDate": "Fri, 09 Aug 2024 06:21:58 +0000",
-          "dc:creator": "Haseebullah",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/haskeeb265/why-google-microsoft-and-amazon-shy-away-from-buying-ai-start-ups-4fif",
-          "categories": [
-            "technology",
-            "programming",
-            "news",
-            "abotwrotethis"
-          ],
-          "isoDate": "2024-08-09T06:21:58.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Pragyan Tripathi",
-          "title": "After Gemini, here's Meta's attempt to fool us 👎",
-          "link": "https://dev.to/pragyanatvade/after-gemini-heres-metas-attempt-to-fool-us-4g8m",
-          "pubDate": "Fri, 09 Aug 2024 06:21:44 +0000",
-          "dc:creator": "Pragyan Tripathi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/pragyanatvade/after-gemini-heres-metas-attempt-to-fool-us-4g8m",
-          "categories": [
-            "meta",
-            "chatgpt",
+            "machinelearning",
             "ai",
-            "gemini"
+            "beginners",
+            "datascience"
           ],
-          "isoDate": "2024-08-09T06:21:44.000Z",
+          "isoDate": "2024-08-10T06:32:26.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Hermes Bytes",
+          "title": "Begin Your Cloud Journey: Learn Azure Fundamentals",
+          "link": "https://dev.to/hermes-bytes/begin-your-cloud-journey-learn-azure-fundamentals-5c25",
+          "pubDate": "Sat, 10 Aug 2024 06:19:33 +0000",
+          "dc:creator": "Hermes Bytes",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/hermes-bytes/begin-your-cloud-journey-learn-azure-fundamentals-5c25",
+          "isoDate": "2024-08-10T06:19:33.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Hermes Bytes",
+          "title": "Dive into Data: Learn Azure Data Fundamentals",
+          "link": "https://dev.to/hermes-bytes/dive-into-data-learn-azure-data-fundamentals-2ieh",
+          "pubDate": "Sat, 10 Aug 2024 06:19:00 +0000",
+          "dc:creator": "Hermes Bytes",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/hermes-bytes/dive-into-data-learn-azure-data-fundamentals-2ieh",
+          "isoDate": "2024-08-10T06:19:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Hermes Bytes",
+          "title": "Unleash Your Creativity: Learn Microsoft Power Platform Fundamentals",
+          "link": "https://dev.to/hermes-bytes/unleash-your-creativity-learn-microsoft-power-platform-fundamentals-4god",
+          "pubDate": "Sat, 10 Aug 2024 06:18:15 +0000",
+          "dc:creator": "Hermes Bytes",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/hermes-bytes/unleash-your-creativity-learn-microsoft-power-platform-fundamentals-4god",
+          "isoDate": "2024-08-10T06:18:15.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Hermes Bytes",
+          "title": "Build a Secure Future: Master Microsoft Security, Compliance, and Identity Fundamentals",
+          "link": "https://dev.to/hermes-bytes/build-a-secure-future-master-microsoft-security-compliance-and-identity-fundamentals-cm6",
+          "pubDate": "Sat, 10 Aug 2024 06:17:38 +0000",
+          "dc:creator": "Hermes Bytes",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/hermes-bytes/build-a-secure-future-master-microsoft-security-compliance-and-identity-fundamentals-cm6",
+          "isoDate": "2024-08-10T06:17:38.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Hermes Bytes",
+          "title": "Master Productivity: Explore Copilot for Microsoft 365",
+          "link": "https://dev.to/hermes-bytes/master-productivity-explore-copilot-for-microsoft-365-2ebj",
+          "pubDate": "Sat, 10 Aug 2024 06:16:41 +0000",
+          "dc:creator": "Hermes Bytes",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/hermes-bytes/master-productivity-explore-copilot-for-microsoft-365-2ebj",
+          "isoDate": "2024-08-10T06:16:41.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Hermes Bytes",
+          "title": "Unlock the Future of Coding: Get Started with GitHub and GitHub Copilot",
+          "link": "https://dev.to/hermes-bytes/unlock-the-future-of-coding-get-started-with-github-and-github-copilot-3al9",
+          "pubDate": "Sat, 10 Aug 2024 06:15:35 +0000",
+          "dc:creator": "Hermes Bytes",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/hermes-bytes/unlock-the-future-of-coding-get-started-with-github-and-github-copilot-3al9",
+          "isoDate": "2024-08-10T06:15:35.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Hazrat Ummar Shaikh",
+          "title": "Need help with App language | Android Compose",
+          "link": "https://dev.to/ihazratummar/need-help-with-app-language-android-compose-22ni",
+          "pubDate": "Sat, 10 Aug 2024 06:11:02 +0000",
+          "dc:creator": "Hazrat Ummar Shaikh",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/ihazratummar/need-help-with-app-language-android-compose-22ni",
+          "categories": [
+            "android",
+            "kotlin",
+            "jetpackcompose",
+            "androidkotlin"
+          ],
+          "isoDate": "2024-08-10T06:11:02.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "JigNect Technologies",
+          "title": "Selenium Manager - Now launch Chrome, Firefox & Edge without any extra configuration for binary path",
+          "link": "https://dev.to/jignect_technologies/selenium-manager-now-launch-chrome-firefox-edge-without-any-extra-configuration-for-binary-path-39e1",
+          "pubDate": "Sat, 10 Aug 2024 06:10:30 +0000",
+          "dc:creator": "JigNect Technologies",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/jignect_technologies/selenium-manager-now-launch-chrome-firefox-edge-without-any-extra-configuration-for-binary-path-39e1",
+          "categories": [
+            "selenium",
+            "automation",
+            "technology"
+          ],
+          "isoDate": "2024-08-10T06:10:30.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
