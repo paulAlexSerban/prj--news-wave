@@ -4,6 +4,24 @@
     "SitePoint": {
       "items": [
         {
+          "creator": "Dave Neary",
+          "title": "Momento Migrates Object Cache as a Service to Ampere Altra",
+          "link": "https://www.sitepoint.com/momento-migrates-object-cache-to-ampere-altra/?utm_source=rss",
+          "pubDate": "Thu, 15 Aug 2024 22:15:00 GMT",
+          "dc:creator": "Dave Neary",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "/?p=481040",
+          "categories": [
+            "Cloud",
+            "Web"
+          ],
+          "isoDate": "2024-08-15T22:15:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "SitePoint Sponsors",
           "title": "Dev Hackathon: Reusable Creativity on Wix Studio",
           "link": "https://www.sitepoint.com/dev-hackathon-reusable-creativity-on-wix-studio/?utm_source=rss",
@@ -73,24 +91,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "SitePoint Sponsors",
-          "title": "Google Cloud Is the New Way to the Cloud",
-          "link": "https://www.sitepoint.com/google-cloud-the-new-way-to-the-cloud/?utm_source=rss",
-          "pubDate": "Thu, 01 Aug 2024 21:35:14 GMT",
-          "dc:creator": "SitePoint Sponsors",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "/?p=480871",
-          "categories": [
-            "Cloud",
-            "Web"
-          ],
-          "isoDate": "2024-08-01T21:35:14.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.sitepoint.com/sitepoint.rss",
@@ -101,7 +101,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Fri, 16 Aug 2024 05:02:11 GMT"
+      "lastBuildDate": "Sat, 17 Aug 2024 05:02:24 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -278,7 +278,7 @@
       "generator": "https://wordpress.org/?v=6.6.1",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Fri, 16 Aug 2024 01:09:36 +0000"
+      "lastBuildDate": "Fri, 16 Aug 2024 15:42:00 +0000"
     },
     "GitHub Blog Atom": {
       "items": [
@@ -369,6 +369,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Paul Boag)",
+          "title": "Pricing Projects As A Freelancer Or Agency Owner",
+          "link": "https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/",
+          "pubDate": "Fri, 16 Aug 2024 13:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Paul Boag)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/pricing-projects-freelancer-agency-owner/pricing-projects-freelancer-agency-owner.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/",
+          "isoDate": "2024-08-16T13:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Vitaly Friedman)",
           "title": "How To Defend Your Design Process",
           "link": "https://smashingmagazine.com/2024/08/how-defend-your-design-process/",
@@ -443,25 +462,6 @@
           "guid": "https://smashingmagazine.com/2024/08/time-to-talk-about-css5/",
           "isoDate": "2024-08-05T10:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Andrii Zhdan)",
-          "title": "If I Was Starting My Career Today: Thoughts After 15 Years Spent In UX Design (Part 1)",
-          "link": "https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part1/",
-          "pubDate": "Fri, 02 Aug 2024 11:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Andrii Zhdan)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/thoughts-after-15-years-spent-ux-design-part1/thoughts-after-15-years-spent-ux-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/08/thoughts-after-15-years-spent-ux-design-part1/",
-          "isoDate": "2024-08-02T11:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -479,11 +479,25 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Fri, 16 Aug 2024 06:35:02 GMT",
+      "lastBuildDate": "Sat, 17 Aug 2024 06:34:56 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "Collective #858",
+          "link": "https://tympanus.net/codrops/collective/collective-858/",
+          "pubDate": "Fri, 16 Aug 2024 11:00:00 +0000",
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?post_type=collective&p=80006",
+          "isoDate": "2024-08-16T11:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Vladimir Biondic",
           "title": "Designer Spotlight: Vladimir Biondić",
@@ -570,32 +584,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "deadrabbbbit",
-          "title": "Origami: 12 Free Animated 3D Objects",
-          "link": "https://tympanus.net/codrops/2024/07/30/origami-12-free-animated-3d-objects/",
-          "pubDate": "Tue, 30 Jul 2024 12:36:30 +0000",
-          "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/07/3danimations.mp4?x65614",
-            "length": "2154335",
-            "type": "video/mp4"
-          },
-          "dc:creator": "deadrabbbbit",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=79782",
-          "categories": [
-            "Playground",
-            "3d",
-            "react-three-fiber",
-            "three.js",
-            "webgl"
-          ],
-          "isoDate": "2024-07-30T12:36:30.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -607,10 +595,80 @@
       "generator": "https://wordpress.org/?v=6.6.1",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Sun, 11 Aug 2024 21:34:02 +0000"
+      "lastBuildDate": "Fri, 16 Aug 2024 07:25:12 +0000"
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Venkata Sai Manoj Pasupuleti",
+          "title": "React Server Components (RSC): The Future of React",
+          "link": "https://dzone.com/articles/react-server-components-rsc-the-future-of-react",
+          "pubDate": "Fri, 16 Aug 2024 18:00:06 GMT",
+          "dc:creator": "Venkata Sai Manoj Pasupuleti",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3484990",
+          "isoDate": "2024-08-16T18:00:06.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Manas Sadangi",
+          "title": "What Is SQL Injection and How Can It Be Avoided?",
+          "link": "https://dzone.com/articles/what-is-sql-injection-and-how-can-it-be-avoided-1",
+          "pubDate": "Fri, 16 Aug 2024 16:30:04 GMT",
+          "dc:creator": "Manas Sadangi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3483190",
+          "isoDate": "2024-08-16T16:30:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Scott Willson",
+          "title": "Aren’t We Transformed Yet? Why Digital Transformation Needs More Work",
+          "link": "https://dzone.com/articles/arent-we-transformed-yet",
+          "pubDate": "Fri, 16 Aug 2024 15:15:04 GMT",
+          "dc:creator": "Scott Willson",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3483870",
+          "isoDate": "2024-08-16T15:15:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Nicolas Fränkel",
+          "title": "Default Map Value",
+          "link": "https://dzone.com/articles/default-map-value",
+          "pubDate": "Fri, 16 Aug 2024 13:30:05 GMT",
+          "dc:creator": "Nicolas Fränkel",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3484861",
+          "isoDate": "2024-08-16T13:30:05.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Manish Sinha",
+          "title": "The Relationship Between Performance and Security",
+          "link": "https://dzone.com/articles/the-relationship-between-performance-and-security",
+          "pubDate": "Fri, 16 Aug 2024 12:00:05 GMT",
+          "dc:creator": "Manish Sinha",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3483171",
+          "isoDate": "2024-08-16T12:00:05.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Danny Logsdon",
           "title": "Why AI-Assisted Code Generation Is Transforming Software Development",
@@ -680,76 +738,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Suri Nuthalapati",
-          "title": "Large Language Models: Changing the Game in Software Development With Code Generation, Debugging, and CI/CD Integration",
-          "link": "https://dzone.com/articles/llms-changing-software-development",
-          "pubDate": "Thu, 15 Aug 2024 12:00:04 GMT",
-          "dc:creator": "Suri Nuthalapati",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3484836",
-          "isoDate": "2024-08-15T12:00:04.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Pier-Jean MALANDRINO",
-          "title": "Data Pipeline vs. ETL Pipeline",
-          "link": "https://dzone.com/articles/data-pipeline-vs-etl-pipeline",
-          "pubDate": "Thu, 15 Aug 2024 11:00:05 GMT",
-          "dc:creator": "Pier-Jean MALANDRINO",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3483170",
-          "isoDate": "2024-08-15T11:00:05.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Aravind Nuthalapati",
-          "title": "Essential Guidelines for Building Optimized ETL Data Pipelines in the Cloud With Azure Data Factory",
-          "link": "https://dzone.com/articles/building-optimized-etl-pipelines-in-the-cloud",
-          "pubDate": "Wed, 14 Aug 2024 20:00:04 GMT",
-          "dc:creator": "Aravind Nuthalapati",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3483861",
-          "isoDate": "2024-08-14T20:00:04.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Tom Smith",
-          "title": "Safeguarding Democracy in the Digital Age: Insights from Day 1 at Black Hat 2024 and Las Vegas Officials",
-          "link": "https://dzone.com/articles/safeguarding-democracy-in-the-digital-age-insights",
-          "pubDate": "Wed, 14 Aug 2024 19:00:07 GMT",
-          "dc:creator": "Tom Smith",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3484776",
-          "isoDate": "2024-08-14T19:00:07.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Debasree Panda",
-          "title": "Advance Traffic Management in Canary Using Istio, Argo Rollouts, and HPA",
-          "link": "https://dzone.com/articles/advance-traffic-management-in-canary",
-          "pubDate": "Wed, 14 Aug 2024 18:00:03 GMT",
-          "dc:creator": "Debasree Panda",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3484882",
-          "isoDate": "2024-08-14T18:00:03.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -762,6 +750,67 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Alex Pliutau",
+          "title": "Emulating real dependencies in Integration Tests using Testcontainers",
+          "link": "https://itnext.io/emulating-real-dependencies-in-integration-tests-using-testcontainers-6244f0cbe027?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 16 Aug 2024 19:40:56 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Alex Pliutau",
+          "guid": "https://medium.com/p/6244f0cbe027",
+          "categories": [
+            "go",
+            "testing",
+            "containers",
+            "docker",
+            "devops"
+          ],
+          "isoDate": "2024-08-16T19:40:56.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Zsolt Deak",
+          "title": "Examples of losing context of ‘this’ in Angular",
+          "link": "https://itnext.io/practical-examples-of-losing-context-of-this-in-angular-ed7035ea85a7?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 16 Aug 2024 19:39:39 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Zsolt Deak",
+          "guid": "https://medium.com/p/ed7035ea85a7",
+          "categories": [
+            "coding",
+            "es6",
+            "javascript",
+            "angular-17",
+            "angular2"
+          ],
+          "isoDate": "2024-08-16T19:39:39.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Bernard de Klerk",
+          "title": "Prioritizing Wellness and Wellbeing for Software Developers: The Key to Sustainable Success",
+          "link": "https://itnext.io/prioritizing-wellness-and-wellbeing-for-software-developers-the-key-to-sustainable-success-d73eedd2d978?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 16 Aug 2024 13:56:55 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Bernard de Klerk",
+          "guid": "https://medium.com/p/d73eedd2d978",
+          "categories": [
+            "wellbeing",
+            "developer",
+            "wellness"
+          ],
+          "isoDate": "2024-08-16T13:56:55.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Brian Grant",
           "title": "Automation using Control planes vs. Command-line tools",
@@ -904,69 +953,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Mehran",
-          "title": "Serverless with Node.Js for the interview — Part 1",
-          "link": "https://itnext.io/serverless-with-node-js-for-the-interview-part-1-75fda446dda8?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 14 Aug 2024 16:53:55 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Mehran",
-          "guid": "https://medium.com/p/75fda446dda8",
-          "categories": [
-            "typescript",
-            "lambda",
-            "software-engineering",
-            "serverless",
-            "aws"
-          ],
-          "isoDate": "2024-08-14T16:53:55.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ricardo Pereira",
-          "title": "OutSystems ODC: Integrate custom C# code with variables of non-basic types",
-          "link": "https://itnext.io/outsystems-odc-integrate-custom-c-code-with-variables-of-non-basic-types-a092bbd42cde?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 14 Aug 2024 14:14:31 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Ricardo Pereira",
-          "guid": "https://medium.com/p/a092bbd42cde",
-          "categories": [
-            "outsystems",
-            "outsystems-mvp",
-            "outsystems-development",
-            "csharp-outsystems",
-            "outsystems-odc"
-          ],
-          "isoDate": "2024-08-14T14:14:31.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Denys Poltorak",
-          "title": "Choreography",
-          "link": "https://itnext.io/choreography-3833a81e896c?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 14 Aug 2024 14:11:24 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Denys Poltorak",
-          "guid": "https://medium.com/p/3833a81e896c",
-          "categories": [
-            "design-patterns",
-            "software-architecture",
-            "software-engineering",
-            "system-architecture",
-            "software-design"
-          ],
-          "isoDate": "2024-08-14T14:11:24.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -983,182 +969,185 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Fri, 16 Aug 2024 06:54:37 GMT"
+      "lastBuildDate": "Sat, 17 Aug 2024 06:52:53 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Judy",
-          "title": "SQL, output associated records having many-to-many relationship row by row #eg26",
-          "link": "https://dev.to/esproc_spl/sql-output-associated-records-having-many-to-many-relationship-row-by-row-eg26-47m4",
-          "pubDate": "Fri, 16 Aug 2024 06:38:57 +0000",
-          "dc:creator": "Judy",
+          "creator": "Miss_code_creaker",
+          "title": "2-Dars. KIRISH. HTML'da dasturlash. Birinchi web sahifa yaratish.",
+          "link": "https://dev.to/miss_code_creaker/2-dars-kirish-htmlda-dasturlash-birinchi-web-sahifa-yaratish-2h2m",
+          "pubDate": "Sat, 17 Aug 2024 06:37:58 +0000",
+          "dc:creator": "Miss_code_creaker",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/esproc_spl/sql-output-associated-records-having-many-to-many-relationship-row-by-row-eg26-47m4",
-          "categories": [
-            "sql",
-            "development",
-            "programming",
-            "esproc"
-          ],
-          "isoDate": "2024-08-16T06:38:57.000Z",
+          "guid": "https://dev.to/miss_code_creaker/2-dars-kirish-htmlda-dasturlash-birinchi-web-sahifa-yaratish-2h2m",
+          "isoDate": "2024-08-17T06:37:58.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Michellebuchiokonicha",
-          "title": "How to Automate(create, update) Excel Files from APIs with Python and Openpyxl.",
-          "link": "https://dev.to/michellebuchiokonicha/how-to-automatecreate-update-excel-files-from-apis-with-python-and-openpyxl-2148",
-          "pubDate": "Fri, 16 Aug 2024 06:30:41 +0000",
-          "dc:creator": "Michellebuchiokonicha",
+          "creator": "Biz Maven",
+          "title": "Top 10 Backend Frameworks Every Developer Should Know",
+          "link": "https://dev.to/bizmavenhub/top-10-backend-frameworks-every-developer-should-know-3pd2",
+          "pubDate": "Sat, 17 Aug 2024 06:36:55 +0000",
+          "dc:creator": "Biz Maven",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/michellebuchiokonicha/how-to-automatecreate-update-excel-files-from-apis-with-python-and-openpyxl-2148",
+          "guid": "https://dev.to/bizmavenhub/top-10-backend-frameworks-every-developer-should-know-3pd2",
           "categories": [
-            "python",
-            "softwaredevelopment",
-            "automation",
-            "excel"
-          ],
-          "isoDate": "2024-08-16T06:30:41.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Eduardo Charapa",
-          "title": "Telemetria: sistemas para melhores sistemas",
-          "link": "https://dev.to/eduardo_charapa_4abcf68da/telemetria-sistemas-para-melhores-sistemas-5gh6",
-          "pubDate": "Fri, 16 Aug 2024 06:28:48 +0000",
-          "dc:creator": "Eduardo Charapa",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/eduardo_charapa_4abcf68da/telemetria-sistemas-para-melhores-sistemas-5gh6",
-          "categories": [
-            "telemetry",
-            "observability",
-            "learning",
-            "discuss"
-          ],
-          "isoDate": "2024-08-16T06:28:48.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Bhashi",
-          "title": "The Ultimate Guide to FRONTIER Miles: Earning, Redeeming, and Maximizing Value",
-          "link": "https://dev.to/zolotraveler/the-ultimate-guide-to-frontier-miles-earning-redeeming-and-maximizing-value-30a9",
-          "pubDate": "Fri, 16 Aug 2024 06:26:43 +0000",
-          "dc:creator": "Bhashi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/zolotraveler/the-ultimate-guide-to-frontier-miles-earning-redeeming-and-maximizing-value-30a9",
-          "categories": [
-            "frontier"
-          ],
-          "isoDate": "2024-08-16T06:26:43.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Bhashi",
-          "title": "How to Book Award Flights with FRONTIER Miles: Tips and Tricks",
-          "link": "https://dev.to/zolotraveler/how-to-book-award-flights-with-frontier-miles-tips-and-tricks-49jk",
-          "pubDate": "Fri, 16 Aug 2024 06:25:21 +0000",
-          "dc:creator": "Bhashi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/zolotraveler/how-to-book-award-flights-with-frontier-miles-tips-and-tricks-49jk",
-          "categories": [
-            "frontier"
-          ],
-          "isoDate": "2024-08-16T06:25:21.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "kin test",
-          "title": "Node js",
-          "link": "https://dev.to/kin_test_8c229aecbd38506f/node-js-47a9",
-          "pubDate": "Fri, 16 Aug 2024 06:24:10 +0000",
-          "dc:creator": "kin test",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/kin_test_8c229aecbd38506f/node-js-47a9",
-          "categories": [
-            "node",
+            "webdev",
             "javascript",
-            "api",
-            "endpoint"
+            "programming",
+            "backend"
           ],
-          "isoDate": "2024-08-16T06:24:10.000Z",
+          "isoDate": "2024-08-17T06:36:55.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "BALAKRISHNA S",
-          "title": "Understanding Backend as a Service (BaaS).🚀",
-          "link": "https://dev.to/balakrishnasajja/understanding-backend-as-a-service-baas-2915",
-          "pubDate": "Fri, 16 Aug 2024 06:20:32 +0000",
-          "dc:creator": "BALAKRISHNA S",
+          "creator": "Vishal J",
+          "title": "July 9, 2024 Print() Python (Q/A) - Part 2",
+          "link": "https://dev.to/vishal-johnnelson/july-9-2024-print-python-qa-part-2-11n3",
+          "pubDate": "Sat, 17 Aug 2024 06:24:46 +0000",
+          "dc:creator": "Vishal J",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/balakrishnasajja/understanding-backend-as-a-service-baas-2915",
-          "isoDate": "2024-08-16T06:20:32.000Z",
+          "guid": "https://dev.to/vishal-johnnelson/july-9-2024-print-python-qa-part-2-11n3",
+          "isoDate": "2024-08-17T06:24:46.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Marina LABS",
-          "title": "Develop yourself to build Web UIs: Part 1 : Understanding HTML",
-          "link": "https://dev.to/marina_labs/develop-yourself-to-build-web-uis-part-1-understanding-html-4of9",
-          "pubDate": "Fri, 16 Aug 2024 06:19:59 +0000",
-          "dc:creator": "Marina LABS",
+          "creator": "Saurabh Chavan",
+          "title": "Number Patterns in Javascript",
+          "link": "https://dev.to/100rabhcsmc/number-patterns-in-javascript-27k9",
+          "pubDate": "Sat, 17 Aug 2024 06:21:20 +0000",
+          "dc:creator": "Saurabh Chavan",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/marina_labs/develop-yourself-to-build-web-uis-part-1-understanding-html-4of9",
+          "guid": "https://dev.to/100rabhcsmc/number-patterns-in-javascript-27k9",
+          "categories": [
+            "javascript"
+          ],
+          "isoDate": "2024-08-17T06:21:20.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Prashant Lakhera",
+          "title": "Unlocking AWS’s Hidden Gem: The “Get Advice” Feature When Launching an EC2 Instance",
+          "link": "https://dev.to/lakhera2015/unlocking-awss-hidden-gem-the-get-advice-feature-when-launching-an-ec2-instance-3ba7",
+          "pubDate": "Sat, 17 Aug 2024 06:14:29 +0000",
+          "dc:creator": "Prashant Lakhera",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/lakhera2015/unlocking-awss-hidden-gem-the-get-advice-feature-when-launching-an-ec2-instance-3ba7",
+          "categories": [
+            "aws",
+            "cloud",
+            "devops",
+            "ec2"
+          ],
+          "isoDate": "2024-08-17T06:14:29.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Hasanul Banna Himel",
+          "title": "What is AWS and Why Should You Use It?",
+          "link": "https://dev.to/hasanul_banna_himel/what-is-aws-and-why-should-you-use-it-jgl",
+          "pubDate": "Sat, 17 Aug 2024 06:14:13 +0000",
+          "dc:creator": "Hasanul Banna Himel",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/hasanul_banna_himel/what-is-aws-and-why-should-you-use-it-jgl",
+          "categories": [
+            "aws",
+            "cloudcomputing",
+            "techtalks",
+            "infrastructureascode"
+          ],
+          "isoDate": "2024-08-17T06:14:13.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "_Khojiakbar_",
+          "title": "Getting Data with Axios",
+          "link": "https://dev.to/__khojiakbar__/getting-data-with-axios-5g9j",
+          "pubDate": "Sat, 17 Aug 2024 06:10:25 +0000",
+          "dc:creator": "_Khojiakbar_",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/__khojiakbar__/getting-data-with-axios-5g9j",
+          "categories": [
+            "axios",
+            "react",
+            "data",
+            "fetching"
+          ],
+          "isoDate": "2024-08-17T06:10:25.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sachin Gadekar",
+          "title": "**🚀 9 Java Tricks for Every Developer**",
+          "link": "https://dev.to/gadekar_sachin/-9-java-tricks-for-every-developer-3a35",
+          "pubDate": "Sat, 17 Aug 2024 06:01:05 +0000",
+          "dc:creator": "Sachin Gadekar",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/gadekar_sachin/-9-java-tricks-for-every-developer-3a35",
+          "categories": [
+            "java",
+            "programming",
+            "developer",
+            "codingtips"
+          ],
+          "isoDate": "2024-08-17T06:01:05.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mtende Otis II",
+          "title": "How do you write a good blog post. What components should the post have ?",
+          "link": "https://dev.to/mtendekuyokwa19/how-do-you-write-a-good-blog-post-what-components-should-the-post-have--kg7",
+          "pubDate": "Sat, 17 Aug 2024 05:58:59 +0000",
+          "dc:creator": "Mtende Otis II",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/mtendekuyokwa19/how-do-you-write-a-good-blog-post-what-components-should-the-post-have--kg7",
+          "isoDate": "2024-08-17T05:58:59.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "zain ul abdin",
+          "title": "Understanding JavaScript Arrow Functions",
+          "link": "https://dev.to/zain725342/understanding-javascript-arrow-functions-4g4b",
+          "pubDate": "Sat, 17 Aug 2024 05:51:54 +0000",
+          "dc:creator": "zain ul abdin",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/zain725342/understanding-javascript-arrow-functions-4g4b",
           "categories": [
             "webdev",
             "javascript",
             "beginners",
             "programming"
           ],
-          "isoDate": "2024-08-16T06:19:59.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Marko Zivkovic",
-          "title": "Demystifying Regular Expressions: A Quick Guide",
-          "link": "https://dev.to/sdzika/demystifying-regular-expressions-a-quick-guide-247n",
-          "pubDate": "Fri, 16 Aug 2024 06:18:44 +0000",
-          "dc:creator": "Marko Zivkovic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/sdzika/demystifying-regular-expressions-a-quick-guide-247n",
-          "isoDate": "2024-08-16T06:18:44.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Marko Zivkovic",
-          "title": "Harnessing the Power of the useState Hook in React",
-          "link": "https://dev.to/sdzika/harnessing-the-power-of-the-usestate-hook-in-react-1l94",
-          "pubDate": "Fri, 16 Aug 2024 06:12:34 +0000",
-          "dc:creator": "Marko Zivkovic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/sdzika/harnessing-the-power-of-the-usestate-hook-in-react-1l94",
-          "isoDate": "2024-08-16T06:12:34.000Z",
+          "isoDate": "2024-08-17T05:51:54.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
