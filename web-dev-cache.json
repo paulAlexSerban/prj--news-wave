@@ -101,7 +101,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Fri, 23 Aug 2024 05:02:25 GMT"
+      "lastBuildDate": "Sat, 24 Aug 2024 05:02:27 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -422,11 +422,25 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Fri, 23 Aug 2024 04:46:39 GMT",
+      "lastBuildDate": "Sat, 24 Aug 2024 06:34:21 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "Collective #859",
+          "link": "https://tympanus.net/codrops/collective/collective-859/",
+          "pubDate": "Fri, 23 Aug 2024 11:00:00 +0000",
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?post_type=collective&p=80007",
+          "isoDate": "2024-08-23T11:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Manoela Ilic",
           "title": "Scroll-based SVG Filter Animations on Text",
@@ -516,20 +530,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "Collective #858",
-          "link": "https://tympanus.net/codrops/collective/collective-858/",
-          "pubDate": "Fri, 16 Aug 2024 11:00:00 +0000",
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?post_type=collective&p=80006",
-          "isoDate": "2024-08-16T11:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -545,6 +545,90 @@
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Eric D. Schabell",
+          "title": "A Hands-On Guide to OpenTelemetry: Exploring Telemetry Data With Jaeger",
+          "link": "https://dzone.com/articles/exploring-telemetry-data-with-jaeger",
+          "pubDate": "Fri, 23 Aug 2024 21:00:05 GMT",
+          "dc:creator": "Eric D. Schabell",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3486137",
+          "isoDate": "2024-08-23T21:00:05.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Suvoraj Biswas",
+          "title": "Architectural Patterns for Enterprise Generative AI Apps: DSFT, RAG, RAFT, and GraphRAG",
+          "link": "https://dzone.com/articles/architectural-patterns-for-genai-dsft-rag-raft-graphrag",
+          "pubDate": "Fri, 23 Aug 2024 19:00:04 GMT",
+          "dc:creator": "Suvoraj Biswas",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3478867",
+          "isoDate": "2024-08-23T19:00:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Daniel Bryant",
+          "title": "When Backstage Met Terraform: Exploring Platform Abstractions [Video]",
+          "link": "https://dzone.com/articles/when-backstage-met-terraform",
+          "pubDate": "Fri, 23 Aug 2024 17:00:04 GMT",
+          "dc:creator": "Daniel Bryant",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3485117",
+          "isoDate": "2024-08-23T17:00:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Satish Gaddipati",
+          "title": "The Role of Data Governance in Data Strategy: Part 3",
+          "link": "https://dzone.com/articles/the-role-of-data-governance-in-data-strategy-part-3",
+          "pubDate": "Fri, 23 Aug 2024 15:00:05 GMT",
+          "dc:creator": "Satish Gaddipati",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3484039",
+          "isoDate": "2024-08-23T15:00:05.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Alejandro Oses",
+          "title": "Agile Practices That Developers Can Use to Create Better Projects",
+          "link": "https://dzone.com/articles/agile-practices-to-create-better-projects",
+          "pubDate": "Fri, 23 Aug 2024 13:00:04 GMT",
+          "dc:creator": "Alejandro Oses",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3483263",
+          "isoDate": "2024-08-23T13:00:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Gautam Goswami",
+          "title": "Integrating Apache Kafka in KRaft Mode With RisingWave for Event Stream Processing",
+          "link": "https://dzone.com/articles/apache-kafka-in-kraft-mode-with-rising-wave",
+          "pubDate": "Fri, 23 Aug 2024 11:00:04 GMT",
+          "dc:creator": "Gautam Goswami",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3485866",
+          "isoDate": "2024-08-23T11:00:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Intiaz Shaik",
           "title": "Parent Document Retrieval (PDR): Useful Technique in RAG",
@@ -600,90 +684,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Aakash Sharma",
-          "title": "Day in the Life of a Developer With Google’s Gemini Code Assist: Part 1",
-          "link": "https://dzone.com/articles/ditl-of-a-developer-with-google-gemini-code-assist-pt1",
-          "pubDate": "Thu, 22 Aug 2024 13:00:05 GMT",
-          "dc:creator": "Aakash Sharma",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3476715",
-          "isoDate": "2024-08-22T13:00:05.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ravi Verma",
-          "title": "Multicluster Gateways With Kubernetes Gateway API",
-          "link": "https://dzone.com/articles/multicluster-gateways-with-kubernetes-gateway-api",
-          "pubDate": "Thu, 22 Aug 2024 12:00:03 GMT",
-          "dc:creator": "Ravi Verma",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3483219",
-          "isoDate": "2024-08-22T12:00:03.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "KARANVEER ANAND",
-          "title": "Evolution of Governance Framework With AI",
-          "link": "https://dzone.com/articles/evolution-of-governance-framework-with-ai",
-          "pubDate": "Thu, 22 Aug 2024 11:00:04 GMT",
-          "dc:creator": "KARANVEER ANAND",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3479179",
-          "isoDate": "2024-08-22T11:00:04.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "John Ryan",
-          "title": "Improving Snowflake Performance by Mastering the Query Profile",
-          "link": "https://dzone.com/articles/improve-snowflake-performance-mastering-the-query-profile",
-          "pubDate": "Wed, 21 Aug 2024 20:00:05 GMT",
-          "dc:creator": "John Ryan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3484172",
-          "isoDate": "2024-08-21T20:00:05.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Tharakarama Reddy Yernapalli Sreenivasulu",
-          "title": "Automatic 1111: Sketch-to-Image Workflow",
-          "link": "https://dzone.com/articles/automatic-1111-sketch-to-image-workflow",
-          "pubDate": "Wed, 21 Aug 2024 19:00:03 GMT",
-          "dc:creator": "Tharakarama Reddy Yernapalli Sreenivasulu",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3478828",
-          "isoDate": "2024-08-21T19:00:03.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sohil Shah",
-          "title": "Data Pipeline Techniques in Action",
-          "link": "https://dzone.com/articles/data-pipeline-techniques-in-action",
-          "pubDate": "Wed, 21 Aug 2024 18:00:03 GMT",
-          "dc:creator": "Sohil Shah",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3480047",
-          "isoDate": "2024-08-21T18:00:03.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -696,6 +696,111 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Paige Niedringhaus",
+          "title": "Animate an Auto-Scrolling Carousel with Only HTML and CSS",
+          "link": "https://itnext.io/animate-an-auto-scrolling-carousel-with-only-html-and-css-8300c8c72841?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 23 Aug 2024 20:21:15 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Paige Niedringhaus",
+          "guid": "https://medium.com/p/8300c8c72841",
+          "categories": [
+            "front-end-development",
+            "programming",
+            "web-development",
+            "css",
+            "development"
+          ],
+          "isoDate": "2024-08-23T20:21:15.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Galen Marchetti",
+          "title": "Building the lightest-weight Kubernetes dev ephemeral environments",
+          "link": "https://itnext.io/building-the-lightest-weight-kubernetes-dev-ephemeral-environments-bc521fcbb179?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 23 Aug 2024 20:20:02 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Galen Marchetti",
+          "guid": "https://medium.com/p/bc521fcbb179",
+          "categories": [
+            "devops",
+            "k8s",
+            "kubernetes-cluster",
+            "productivity",
+            "kubernetes"
+          ],
+          "isoDate": "2024-08-23T20:20:02.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Rafayel Hovhannisyan",
+          "title": "Always Use Domain-Specific Types for Primitives",
+          "link": "https://itnext.io/always-use-domain-specific-types-for-primitives-723201e3165f?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 23 Aug 2024 20:18:13 GMT",
+          "dc:creator": "Rafayel Hovhannisyan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/723201e3165f",
+          "categories": [
+            "front-end-development",
+            "typescript",
+            "backend-development",
+            "programming",
+            "software-development"
+          ],
+          "isoDate": "2024-08-23T20:18:13.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Gul Ershad",
+          "title": "Integrating Traffic Analysis with Technology: Solutions for the City’s Congestion",
+          "link": "https://itnext.io/integrating-traffic-analysis-with-technology-solutions-for-bangalores-congestion-de9e600f23d3?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 23 Aug 2024 13:15:06 GMT",
+          "dc:creator": "Gul Ershad",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/de9e600f23d3",
+          "categories": [
+            "design",
+            "traffic",
+            "architecture",
+            "bangalore",
+            "microservices"
+          ],
+          "isoDate": "2024-08-23T13:15:06.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Piotr",
+          "title": "Multi-Container Development Environments",
+          "link": "https://itnext.io/multi-container-development-environments-fc11f4a1c9d5?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 23 Aug 2024 09:41:18 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Piotr",
+          "guid": "https://medium.com/p/fc11f4a1c9d5",
+          "categories": [
+            "technology",
+            "docker",
+            "tutorial",
+            "containers",
+            "software-development"
+          ],
+          "isoDate": "2024-08-23T09:41:18.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Nikolay Nikolov",
           "title": "Refactoring in Practice: Mastering the Gilded Rose Kata",
@@ -722,9 +827,9 @@
           "title": "Throughput in Microservices",
           "link": "https://itnext.io/throughput-in-microservices-ca8b68218725?source=rss----5b301f10ddcd---4",
           "pubDate": "Thu, 22 Aug 2024 20:34:02 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
           "dc:creator": "Gul Ershad",
+          "content": "",
+          "contentSnippet": "",
           "guid": "https://medium.com/p/ca8b68218725",
           "categories": [
             "software",
@@ -734,8 +839,8 @@
             "systems-thinking"
           ],
           "isoDate": "2024-08-22T20:34:02.000Z",
-          "content": "",
-          "contentSnippet": "",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
           "summary": ""
         },
         {
@@ -800,111 +905,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Alex Pliutau",
-          "title": "How to implement Server-Sent Events in Go",
-          "link": "https://itnext.io/how-to-implement-server-sent-events-in-go-f9d8a2e7d5ee?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 22 Aug 2024 09:26:28 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Alex Pliutau",
-          "guid": "https://medium.com/p/f9d8a2e7d5ee",
-          "categories": [
-            "http-request",
-            "programming",
-            "go",
-            "golang",
-            "event-driven-architecture"
-          ],
-          "isoDate": "2024-08-22T09:26:28.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Zeinab Dashti",
-          "title": "How to Implement a Streaming Application with Kafka Streams Interactive Queries",
-          "link": "https://itnext.io/how-to-implement-a-streaming-application-with-kafka-streams-interactive-queries-e9458544c7b5?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 22 Aug 2024 07:52:24 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Zeinab Dashti",
-          "guid": "https://medium.com/p/e9458544c7b5",
-          "categories": [
-            "streaming-application",
-            "multiple-instances",
-            "apache-kafka-streams",
-            "interactive-queries",
-            "realtime-data-streaming"
-          ],
-          "isoDate": "2024-08-22T07:52:24.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Raghav Joshi",
-          "title": "How I Doubled My Flutter App’s Performance Using These Techniques — Part 2",
-          "link": "https://itnext.io/how-i-doubled-my-flutter-apps-performance-using-these-techniques-part-2-3cff335efa18?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 22 Aug 2024 07:51:17 GMT",
-          "dc:creator": "Raghav Joshi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/3cff335efa18",
-          "categories": [
-            "app-development",
-            "performance",
-            "flutter",
-            "dart",
-            "user-experience"
-          ],
-          "isoDate": "2024-08-22T07:51:17.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Raghav Joshi",
-          "title": "How I Doubled My Flutter App’s Performance Using These Techniques — Part 1",
-          "link": "https://itnext.io/how-i-doubled-my-flutter-apps-performance-using-these-techniques-part-1-48ac41d553e9?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 22 Aug 2024 07:50:31 GMT",
-          "dc:creator": "Raghav Joshi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/48ac41d553e9",
-          "categories": [
-            "app-development",
-            "user-experience",
-            "dart",
-            "flutter",
-            "performance"
-          ],
-          "isoDate": "2024-08-22T07:50:31.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Arun Shankar",
-          "title": "Python Design Patterns Every AI Developer Should Know",
-          "link": "https://itnext.io/python-design-patterns-every-ai-developer-should-know-dc445b688791?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 21 Aug 2024 19:10:11 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Arun Shankar",
-          "guid": "https://medium.com/p/dc445b688791",
-          "categories": [
-            "python",
-            "coding",
-            "artificial-intelligence",
-            "design-patterns",
-            "machine-learning"
-          ],
-          "isoDate": "2024-08-21T19:10:11.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -921,179 +921,182 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Fri, 23 Aug 2024 07:10:26 GMT"
+      "lastBuildDate": "Sat, 24 Aug 2024 06:52:54 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Aditya Pratap Bhuyan",
-          "title": "The Relationship Between Access Control, Authorization, and Authentication",
-          "link": "https://dev.to/adityabhuyan/the-relationship-between-access-control-authorization-and-authentication-30pp",
-          "pubDate": "Fri, 23 Aug 2024 06:50:52 +0000",
-          "dc:creator": "Aditya Pratap Bhuyan",
+          "creator": "Himanshu Jangid",
+          "title": "Version Conflicts in the Package.json file",
+          "link": "https://dev.to/himanshu_jangid_e2d30519d/version-conflicts-in-the-packagejson-file-25cb",
+          "pubDate": "Sat, 24 Aug 2024 06:20:43 +0000",
+          "dc:creator": "Himanshu Jangid",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/adityabhuyan/the-relationship-between-access-control-authorization-and-authentication-30pp",
-          "categories": [
-            "accesscontrol",
-            "authorization",
-            "authentication"
-          ],
-          "isoDate": "2024-08-23T06:50:52.000Z",
+          "guid": "https://dev.to/himanshu_jangid_e2d30519d/version-conflicts-in-the-packagejson-file-25cb",
+          "isoDate": "2024-08-24T06:20:43.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Nabin Ale",
-          "title": "methods for keycloak script",
-          "link": "https://dev.to/nabim777/helpful-for-keycloak-script-1lpo",
-          "pubDate": "Fri, 23 Aug 2024 06:49:08 +0000",
-          "dc:creator": "Nabin Ale",
+          "creator": "Lokesh Singh",
+          "title": "🚀 10+ More Advanced Project Ideas to Level Up Your Developer Skills: Part 2",
+          "link": "https://dev.to/lokesh_singh/10-more-advanced-project-ideas-to-level-up-your-developer-skills-part-2-4bb0",
+          "pubDate": "Sat, 24 Aug 2024 06:18:16 +0000",
+          "dc:creator": "Lokesh Singh",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/nabim777/helpful-for-keycloak-script-1lpo",
-          "isoDate": "2024-08-23T06:49:08.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Aditya Pratap Bhuyan",
-          "title": "The Evolution of Hardware vs. Software Speed: Analyzing the Growing Gap Over Time",
-          "link": "https://dev.to/adityabhuyan/the-evolution-of-hardware-vs-software-speed-analyzing-the-growing-gap-over-time-4feo",
-          "pubDate": "Fri, 23 Aug 2024 06:43:30 +0000",
-          "dc:creator": "Aditya Pratap Bhuyan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/adityabhuyan/the-evolution-of-hardware-vs-software-speed-analyzing-the-growing-gap-over-time-4feo",
+          "guid": "https://dev.to/lokesh_singh/10-more-advanced-project-ideas-to-level-up-your-developer-skills-part-2-4bb0",
           "categories": [
-            "software",
-            "hardware",
-            "growth"
-          ],
-          "isoDate": "2024-08-23T06:43:30.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Valerio",
-          "title": "PHP Attributes: how to use PHP Attributes and create custom attribute classes – Fast Tips",
-          "link": "https://dev.to/inspector/php-attributes-how-to-use-php-attributes-and-create-custom-attribute-classes-fast-tips-7nf",
-          "pubDate": "Fri, 23 Aug 2024 06:42:28 +0000",
-          "dc:creator": "Valerio",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/inspector/php-attributes-how-to-use-php-attributes-and-create-custom-attribute-classes-fast-tips-7nf",
-          "categories": [
-            "php",
-            "webdev",
-            "laravel",
-            "symfony"
-          ],
-          "isoDate": "2024-08-23T06:42:28.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "tamnguyen",
-          "title": "Exporting Excel with SheetJS for Dummies",
-          "link": "https://dev.to/tamnguyenctg/exporting-excel-with-sheetjs-for-dummies-25kj",
-          "pubDate": "Fri, 23 Aug 2024 06:35:44 +0000",
-          "dc:creator": "tamnguyen",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/tamnguyenctg/exporting-excel-with-sheetjs-for-dummies-25kj",
-          "categories": [
-            "beginners",
-            "tutorial",
-            "react"
-          ],
-          "isoDate": "2024-08-23T06:35:44.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ananthu Raj",
-          "title": "5 DevOps Automation Tools You Should Know About",
-          "link": "https://dev.to/ananthu_raj_4a3977a27ee3e/5-devops-automation-tools-you-should-know-about-5cbm",
-          "pubDate": "Fri, 23 Aug 2024 06:30:57 +0000",
-          "dc:creator": "Ananthu Raj",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/ananthu_raj_4a3977a27ee3e/5-devops-automation-tools-you-should-know-about-5cbm",
-          "categories": [
-            "webdev",
             "programming",
-            "devops",
-            "devchallenge"
+            "ai",
+            "learning",
+            "blockchain"
           ],
-          "isoDate": "2024-08-23T06:30:57.000Z",
+          "isoDate": "2024-08-24T06:18:16.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "John wick",
-          "title": "Study Masters in Germany for Winter Intake 2024: An Overview of Universities and More",
-          "link": "https://dev.to/john_wick_5a9e2ba843576c0/study-masters-in-germany-for-winter-intake-2024-an-overview-of-universities-and-more-20f7",
-          "pubDate": "Fri, 23 Aug 2024 06:29:28 +0000",
-          "dc:creator": "John wick",
+          "creator": "Ashutosh Sarangi",
+          "title": "Building a Custom Command Palette with React: A Deep Dive into React Portals, Observables, and Event Listeners",
+          "link": "https://dev.to/ashutoshsarangi/building-a-custom-command-palette-with-react-a-deep-dive-into-react-portals-observables-and-event-listeners-4kjm",
+          "pubDate": "Sat, 24 Aug 2024 06:17:33 +0000",
+          "dc:creator": "Ashutosh Sarangi",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/john_wick_5a9e2ba843576c0/study-masters-in-germany-for-winter-intake-2024-an-overview-of-universities-and-more-20f7",
-          "isoDate": "2024-08-23T06:29:28.000Z",
+          "guid": "https://dev.to/ashutoshsarangi/building-a-custom-command-palette-with-react-a-deep-dive-into-react-portals-observables-and-event-listeners-4kjm",
+          "categories": [
+            "javascript",
+            "react",
+            "angular",
+            "webdev"
+          ],
+          "isoDate": "2024-08-24T06:17:33.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "keploy",
-          "title": "Mastering GitHub Webhooks: A Comprehensive Guide",
-          "link": "https://dev.to/keploy/mastering-github-webhooks-a-comprehensive-guide-27io",
-          "pubDate": "Fri, 23 Aug 2024 06:27:57 +0000",
-          "dc:creator": "keploy",
+          "creator": "Tamtam(Yusuke Tamura)",
+          "title": "Japanglish Tech Talk #2 Presentation Introduction",
+          "link": "https://dev.to/tamtam0829/japanglish-tech-talk-2-presentation-introduction-9cl",
+          "pubDate": "Sat, 24 Aug 2024 06:14:35 +0000",
+          "dc:creator": "Tamtam(Yusuke Tamura)",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/keploy/mastering-github-webhooks-a-comprehensive-guide-27io",
+          "guid": "https://dev.to/tamtam0829/japanglish-tech-talk-2-presentation-introduction-9cl",
+          "isoDate": "2024-08-24T06:14:35.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Shanu",
+          "title": "fsPromises vs fs Module in Modern Node.js",
+          "link": "https://dev.to/shanu001x/fspromises-vs-fs-module-in-modern-nodejs-414m",
+          "pubDate": "Sat, 24 Aug 2024 06:14:31 +0000",
+          "dc:creator": "Shanu",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/shanu001x/fspromises-vs-fs-module-in-modern-nodejs-414m",
           "categories": [
             "webdev",
             "javascript",
             "beginners",
-            "programming"
+            "node"
           ],
-          "isoDate": "2024-08-23T06:27:57.000Z",
+          "isoDate": "2024-08-24T06:14:31.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Robert",
-          "title": "The Evolution and Impact of AI Note Takers on Modern Workflows",
-          "link": "https://dev.to/robertsteve/the-evolution-and-impact-of-ai-note-takers-on-modern-workflows-2087",
-          "pubDate": "Fri, 23 Aug 2024 06:27:24 +0000",
-          "dc:creator": "Robert",
+          "creator": "Ryo Kuroyanagi",
+          "title": "How to realize Real-Time Speech with Dify API",
+          "link": "https://dev.to/ku6ryo/how-to-realize-real-time-speech-with-dify-api-4ii1",
+          "pubDate": "Sat, 24 Aug 2024 06:10:28 +0000",
+          "dc:creator": "Ryo Kuroyanagi",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/robertsteve/the-evolution-and-impact-of-ai-note-takers-on-modern-workflows-2087",
-          "isoDate": "2024-08-23T06:27:24.000Z",
+          "guid": "https://dev.to/ku6ryo/how-to-realize-real-time-speech-with-dify-api-4ii1",
+          "categories": [
+            "dify",
+            "typescript",
+            "ai",
+            "llm"
+          ],
+          "isoDate": "2024-08-24T06:10:28.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Shoyab khan",
-          "title": "Day 7 of 30 of JavaScript",
-          "link": "https://dev.to/shoyab1707/day-7-of-30-of-javascript-36pc",
-          "pubDate": "Fri, 23 Aug 2024 06:22:24 +0000",
-          "dc:creator": "Shoyab khan",
+          "creator": "Michael Oladele",
+          "title": "How breaking into Tech @40 changed my life",
+          "link": "https://dev.to/micheaol/how-breaking-into-tech-40-changed-my-life-4ea7",
+          "pubDate": "Sat, 24 Aug 2024 06:09:07 +0000",
+          "dc:creator": "Michael Oladele",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/shoyab1707/day-7-of-30-of-javascript-36pc",
-          "isoDate": "2024-08-23T06:22:24.000Z",
+          "guid": "https://dev.to/micheaol/how-breaking-into-tech-40-changed-my-life-4ea7",
+          "isoDate": "2024-08-24T06:09:07.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Shanu",
+          "title": "File System: Node.js `fs` Module",
+          "link": "https://dev.to/shanu001x/file-system-nodejs-fs-module-1hg6",
+          "pubDate": "Sat, 24 Aug 2024 06:03:48 +0000",
+          "dc:creator": "Shanu",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/shanu001x/file-system-nodejs-fs-module-1hg6",
+          "categories": [
+            "node",
+            "javascript",
+            "webdev",
+            "react"
+          ],
+          "isoDate": "2024-08-24T06:03:48.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Nikko Ferwelo",
+          "title": "🚀 Understanding the Difference Between `filter` and `map` in Java Stream API",
+          "link": "https://dev.to/nullvoidkage/understanding-the-difference-between-filter-and-map-in-java-stream-api-i21",
+          "pubDate": "Sat, 24 Aug 2024 05:49:46 +0000",
+          "dc:creator": "Nikko Ferwelo",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/nullvoidkage/understanding-the-difference-between-filter-and-map-in-java-stream-api-i21",
+          "categories": [
+            "java",
+            "backend",
+            "developer",
+            "programmers"
+          ],
+          "isoDate": "2024-08-24T05:49:46.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "sameer pokharel",
+          "title": "Getting Started with React: A Beginner’s Guide",
+          "link": "https://dev.to/invisibleworld/getting-started-with-react-a-beginners-guide-1f8p",
+          "pubDate": "Sat, 24 Aug 2024 05:47:28 +0000",
+          "dc:creator": "sameer pokharel",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/invisibleworld/getting-started-with-react-a-beginners-guide-1f8p",
+          "isoDate": "2024-08-24T05:47:28.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1179,7 +1182,7 @@
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog.atom",
       "title": "The DigitalOcean Blog",
-      "lastBuildDate": "2024-08-21T20:49:21.125Z"
+      "lastBuildDate": "2024-08-23T23:13:31.335Z"
     },
     "Julia Evans": {
       "items": [
