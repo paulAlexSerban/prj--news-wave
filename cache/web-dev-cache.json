@@ -101,7 +101,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sun, 25 Aug 2024 05:02:13 GMT"
+      "lastBuildDate": "Mon, 26 Aug 2024 05:02:19 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -422,7 +422,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sun, 25 Aug 2024 06:34:46 GMT",
+      "lastBuildDate": "Mon, 26 Aug 2024 06:34:41 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -697,6 +697,66 @@
     "itnext": {
       "items": [
         {
+          "creator": "Arseny Zinchenko (setevoy)",
+          "title": "AWS: IAM Access Analyzer policy generation — create an IAM Policy",
+          "link": "https://itnext.io/aws-iam-access-analyzer-policy-generation-create-an-iam-policy-599aae97afce?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 25 Aug 2024 22:17:05 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Arseny Zinchenko (setevoy)",
+          "guid": "https://medium.com/p/599aae97afce",
+          "categories": [
+            "aws",
+            "devops",
+            "security"
+          ],
+          "isoDate": "2024-08-25T22:17:05.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Gul Ershad",
+          "title": "Scaling Microservices: Mathematical Calculations",
+          "link": "https://itnext.io/scaling-microservices-mathematical-calculations-cb60dbc9cc7f?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 25 Aug 2024 21:10:33 GMT",
+          "dc:creator": "Gul Ershad",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/cb60dbc9cc7f",
+          "categories": [
+            "software-development",
+            "scalability",
+            "microservices",
+            "system-design-interview",
+            "architecture"
+          ],
+          "isoDate": "2024-08-25T21:10:33.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Pradipta Banerjee",
+          "title": "Securing Secrets in Confidential Containers: Usage patterns to avoid",
+          "link": "https://itnext.io/securing-secrets-in-confidential-containers-usage-patterns-to-avoid-941388cde546?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 25 Aug 2024 10:27:35 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Pradipta Banerjee",
+          "guid": "https://medium.com/p/941388cde546",
+          "categories": [
+            "kubernetes",
+            "confidential-computing",
+            "security",
+            "docker"
+          ],
+          "isoDate": "2024-08-25T10:27:35.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Zsolt Deak",
           "title": "Object inputs are still dangerous, even with Angular signals",
           "link": "https://itnext.io/object-inputs-are-still-dangerous-even-with-angular-signals-9103a25d5e45?source=rss----5b301f10ddcd---4",
@@ -719,7 +779,7 @@
         },
         {
           "creator": "Gul Ershad",
-          "title": "Mathematical Calculations for the Failures and Resilience in Microservices",
+          "title": "Failures and Resilience in Microservices — Mathematical Calculations",
           "link": "https://itnext.io/mathematical-calculations-for-the-failures-and-resilience-in-microservices-f035437789a9?source=rss----5b301f10ddcd---4",
           "pubDate": "Sat, 24 Aug 2024 20:12:52 GMT",
           "dc:creator": "Gul Ershad",
@@ -840,69 +900,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Galen Marchetti",
-          "title": "Building the lightest-weight Kubernetes dev ephemeral environments",
-          "link": "https://itnext.io/building-the-lightest-weight-kubernetes-dev-ephemeral-environments-bc521fcbb179?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 23 Aug 2024 20:20:02 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Galen Marchetti",
-          "guid": "https://medium.com/p/bc521fcbb179",
-          "categories": [
-            "devops",
-            "k8s",
-            "kubernetes-cluster",
-            "productivity",
-            "kubernetes"
-          ],
-          "isoDate": "2024-08-23T20:20:02.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Rafayel Hovhannisyan",
-          "title": "Always Use Domain-Specific Types for Primitives",
-          "link": "https://itnext.io/always-use-domain-specific-types-for-primitives-723201e3165f?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 23 Aug 2024 20:18:13 GMT",
-          "dc:creator": "Rafayel Hovhannisyan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/723201e3165f",
-          "categories": [
-            "front-end-development",
-            "typescript",
-            "backend-development",
-            "programming",
-            "software-development"
-          ],
-          "isoDate": "2024-08-23T20:18:13.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Gul Ershad",
-          "title": "Integrating Traffic Analysis with Technology: Solutions for the City’s Congestion",
-          "link": "https://itnext.io/integrating-traffic-analysis-with-technology-solutions-for-bangalores-congestion-de9e600f23d3?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 23 Aug 2024 13:15:06 GMT",
-          "dc:creator": "Gul Ershad",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/de9e600f23d3",
-          "categories": [
-            "design",
-            "traffic",
-            "architecture",
-            "bangalore",
-            "microservices"
-          ],
-          "isoDate": "2024-08-23T13:15:06.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -919,192 +916,188 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sun, 25 Aug 2024 06:54:30 GMT"
+      "lastBuildDate": "Mon, 26 Aug 2024 06:55:43 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Md. Khurshed Alam",
-          "title": "How to learn javascript in best way",
-          "link": "https://dev.to/md_khurshedalam_4f693a7/how-to-learn-javascript-in-best-way-ke0",
-          "pubDate": "Sun, 25 Aug 2024 06:55:03 +0000",
-          "dc:creator": "Md. Khurshed Alam",
+          "creator": "Lulu",
+          "title": "Unlock New Capabilities with SafeLine 6.7.0: Advanced Features and Essential Fixes",
+          "link": "https://dev.to/lulu_liu_c90f973e2f954d7f/new-capabilities-with-safeline-latest-update-brings-advanced-features-and-essential-fixes-2o2c",
+          "pubDate": "Mon, 26 Aug 2024 06:41:09 +0000",
+          "dc:creator": "Lulu",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/md_khurshedalam_4f693a7/how-to-learn-javascript-in-best-way-ke0",
+          "guid": "https://dev.to/lulu_liu_c90f973e2f954d7f/new-capabilities-with-safeline-latest-update-brings-advanced-features-and-essential-fixes-2o2c",
           "categories": [
-            "javascript",
+            "cybersecurity",
+            "docker",
             "webdev",
-            "beginners"
+            "waf"
           ],
-          "isoDate": "2024-08-25T06:55:03.000Z",
+          "isoDate": "2024-08-26T06:41:09.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Mike Young",
-          "title": "Fine-tuning veils rather than tailors underlying model powers",
-          "link": "https://dev.to/mikeyoung44/fine-tuning-veils-rather-than-tailors-underlying-model-powers-54h4",
-          "pubDate": "Sun, 25 Aug 2024 06:45:18 +0000",
-          "dc:creator": "Mike Young",
+          "creator": "Vishal J",
+          "title": "July 10, 2024 Python | DataTypes, Variables, Constants",
+          "link": "https://dev.to/vishal-johnnelson/july-10-2024-python-datatypes-variables-constants-4ggn",
+          "pubDate": "Mon, 26 Aug 2024 06:37:22 +0000",
+          "dc:creator": "Vishal J",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/mikeyoung44/fine-tuning-veils-rather-than-tailors-underlying-model-powers-54h4",
+          "guid": "https://dev.to/vishal-johnnelson/july-10-2024-python-datatypes-variables-constants-4ggn",
+          "isoDate": "2024-08-26T06:37:22.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "海前 王",
+          "title": "chat2",
+          "link": "https://dev.to/__040711563a17902392e7/chat2-4f8i",
+          "pubDate": "Mon, 26 Aug 2024 06:34:55 +0000",
+          "dc:creator": "海前 王",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/__040711563a17902392e7/chat2-4f8i",
+          "isoDate": "2024-08-26T06:34:55.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "david wyatt",
+          "title": "How to be a White Hat Hacker in Power Automate",
+          "link": "https://dev.to/wyattdave/how-to-be-a-white-hat-hacker-in-power-automate-fpb",
+          "pubDate": "Mon, 26 Aug 2024 06:34:12 +0000",
+          "dc:creator": "david wyatt",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/wyattdave/how-to-be-a-white-hat-hacker-in-power-automate-fpb",
           "categories": [
-            "machinelearning",
-            "ai",
-            "beginners",
-            "datascience"
+            "powerplatform",
+            "powerautomate",
+            "hacking",
+            "security"
           ],
-          "isoDate": "2024-08-25T06:45:18.000Z",
+          "isoDate": "2024-08-26T06:34:12.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "SankarSubbu",
-          "title": "Boost Your Machine Learning Skills: Free Courses for Math and Statistics",
-          "link": "https://dev.to/sankarsubbu/boost-your-machine-learning-skills-free-courses-for-math-and-statistics-5fo6",
-          "pubDate": "Sun, 25 Aug 2024 06:41:11 +0000",
-          "dc:creator": "SankarSubbu",
+          "creator": "BUTTSAN",
+          "title": "assalomu aleykum 24.08,24 biz c++ codlash tilida 10 darsimizni otdik va bu meni tushungan narsalarim",
+          "link": "https://dev.to/_e9348e45782d50818/assalomu-aleykum-240824-biz-c-codlash-tilida-10-darsimizni-otdik-va-bu-meni-tushungan-narsalarim-586g",
+          "pubDate": "Mon, 26 Aug 2024 06:33:20 +0000",
+          "dc:creator": "BUTTSAN",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/sankarsubbu/boost-your-machine-learning-skills-free-courses-for-math-and-statistics-5fo6",
-          "categories": [
-            "machinelearning",
-            "maths",
-            "statistics"
-          ],
-          "isoDate": "2024-08-25T06:41:11.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Kavishka Dinajara",
-          "title": "🚀 Level Up Your Web Development with Next.js",
-          "link": "https://dev.to/kavishka_dinajara_88/level-up-your-web-development-with-nextjs-2gkn",
-          "pubDate": "Sun, 25 Aug 2024 06:29:04 +0000",
-          "dc:creator": "Kavishka Dinajara",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/kavishka_dinajara_88/level-up-your-web-development-with-nextjs-2gkn",
-          "isoDate": "2024-08-25T06:29:04.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ayu Sudi",
-          "title": "Building Hangout AI at the TiDB Future App Hackathon 2024",
-          "link": "https://dev.to/ayusudi/building-hangout-ai-at-the-tidb-future-app-hackathon-2024-29j",
-          "pubDate": "Sun, 25 Aug 2024 06:26:02 +0000",
-          "dc:creator": "Ayu Sudi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/ayusudi/building-hangout-ai-at-the-tidb-future-app-hackathon-2024-29j",
-          "categories": [
-            "hackathon",
-            "llm",
-            "rag",
-            "ai"
-          ],
-          "isoDate": "2024-08-25T06:26:02.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sanskar Singh",
-          "title": "No need of Try-Catch!! Javascript introduced new safe assignment operator✌",
-          "link": "https://dev.to/sanskar_singh_js/no-need-of-try-catch-javascript-introduced-new-safe-assignment-operator-bko",
-          "pubDate": "Sun, 25 Aug 2024 06:25:33 +0000",
-          "dc:creator": "Sanskar Singh",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/sanskar_singh_js/no-need-of-try-catch-javascript-introduced-new-safe-assignment-operator-bko",
-          "categories": [
-            "javascript",
-            "webdev",
-            "programming",
-            "news"
-          ],
-          "isoDate": "2024-08-25T06:25:33.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Aakash Khanna",
-          "title": "Enhancing SQL Query Management with SQL Kata: A Developer's Guide",
-          "link": "https://dev.to/aakashkhanna/enhancing-sql-query-management-with-sql-kata-a-developers-guide-6oc",
-          "pubDate": "Sun, 25 Aug 2024 06:20:00 +0000",
-          "dc:creator": "Aakash Khanna",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/aakashkhanna/enhancing-sql-query-management-with-sql-kata-a-developers-guide-6oc",
-          "isoDate": "2024-08-25T06:20:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "alok kumar",
-          "title": "Fine-tuning LLM Using Masking",
-          "link": "https://dev.to/alok_kumar_d262824002396c/fine-tuning-llm-using-masking-m5",
-          "pubDate": "Sun, 25 Aug 2024 06:09:07 +0000",
-          "dc:creator": "alok kumar",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/alok_kumar_d262824002396c/fine-tuning-llm-using-masking-m5",
-          "categories": [
-            "datascience",
-            "generative",
-            "ai",
-            "career"
-          ],
-          "isoDate": "2024-08-25T06:09:07.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Aadarsh Kunwar",
-          "title": "Flutter Animation",
-          "link": "https://dev.to/aadarshk7/flutter-animation-4ddb",
-          "pubDate": "Sun, 25 Aug 2024 06:00:19 +0000",
-          "dc:creator": "Aadarsh Kunwar",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/aadarshk7/flutter-animation-4ddb",
-          "categories": [
-            "flutter",
-            "dart",
-            "appdev",
-            "animation"
-          ],
-          "isoDate": "2024-08-25T06:00:19.000Z",
+          "guid": "https://dev.to/_e9348e45782d50818/assalomu-aleykum-240824-biz-c-codlash-tilida-10-darsimizni-otdik-va-bu-meni-tushungan-narsalarim-586g",
+          "isoDate": "2024-08-26T06:33:20.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
           "creator": "Shanu",
-          "title": "Top Free Developer Tools & Libraries You Need to Know in 2024",
-          "link": "https://dev.to/shanu001x/top-free-developer-tools-libraries-you-need-to-know-in-2024-3m31",
-          "pubDate": "Sun, 25 Aug 2024 05:51:02 +0000",
+          "title": "Best Programming Language for Web3 in 2024",
+          "link": "https://dev.to/shanu001x/best-programming-language-for-web3-in-2024-1k89",
+          "pubDate": "Mon, 26 Aug 2024 06:30:00 +0000",
           "dc:creator": "Shanu",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/shanu001x/top-free-developer-tools-libraries-you-need-to-know-in-2024-3m31",
+          "guid": "https://dev.to/shanu001x/best-programming-language-for-web3-in-2024-1k89",
           "categories": [
-            "webdev",
-            "tutorial",
-            "javascript",
-            "react"
+            "web3",
+            "rust",
+            "solana",
+            "javascript"
           ],
-          "isoDate": "2024-08-25T05:51:02.000Z",
+          "isoDate": "2024-08-26T06:30:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Kiolk",
+          "title": "How to make Detekt more efficient",
+          "link": "https://dev.to/kiolk/how-to-make-detekt-more-efficient-5fl4",
+          "pubDate": "Mon, 26 Aug 2024 06:30:00 +0000",
+          "dc:creator": "Kiolk",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/kiolk/how-to-make-detekt-more-efficient-5fl4",
+          "categories": [
+            "android",
+            "cicd",
+            "kotlin",
+            "coding"
+          ],
+          "isoDate": "2024-08-26T06:30:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Seenivasa Ramadurai",
+          "title": "Activation Functions, RNN, LLM, LangChain",
+          "link": "https://dev.to/sreeni5018/activation-functions-rnn-llm-langchain-1784",
+          "pubDate": "Mon, 26 Aug 2024 06:29:08 +0000",
+          "dc:creator": "Seenivasa Ramadurai",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/sreeni5018/activation-functions-rnn-llm-langchain-1784",
+          "categories": [
+            "activationfunctions",
+            "rnn",
+            "llm",
+            "langchain"
+          ],
+          "isoDate": "2024-08-26T06:29:08.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Santiago Lopez",
+          "title": "Introducing Awesome Pomodoro: Your Ultimate Guide to Productivity",
+          "link": "https://dev.to/santiagolopez/introducing-awesome-pomodoro-your-ultimate-guide-to-productivity-2m8j",
+          "pubDate": "Mon, 26 Aug 2024 06:20:52 +0000",
+          "dc:creator": "Santiago Lopez",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/santiagolopez/introducing-awesome-pomodoro-your-ultimate-guide-to-productivity-2m8j",
+          "categories": [
+            "pomodoro",
+            "pomodorotools",
+            "pomodorotimer",
+            "productivity"
+          ],
+          "isoDate": "2024-08-26T06:20:52.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Zachery Yee",
+          "title": "Implement Myers diff with MoonBit",
+          "link": "https://dev.to/zachyee/implement-myers-diff-with-moonbit-2ml9",
+          "pubDate": "Mon, 26 Aug 2024 06:18:32 +0000",
+          "dc:creator": "Zachery Yee",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/zachyee/implement-myers-diff-with-moonbit-2ml9",
+          "categories": [
+            "programming",
+            "tutorial",
+            "beginners",
+            "webassembly"
+          ],
+          "isoDate": "2024-08-26T06:18:32.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
