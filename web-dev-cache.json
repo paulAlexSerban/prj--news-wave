@@ -5,6 +5,24 @@
       "items": [
         {
           "creator": "Vultr",
+          "title": "Comparing Docker and Podman: A Guide to Container Management Tools",
+          "link": "https://www.sitepoint.com/comparing-docker-and-podman/?utm_source=rss",
+          "pubDate": "Wed, 28 Aug 2024 20:21:47 GMT",
+          "dc:creator": "Vultr",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "/?p=481192",
+          "categories": [
+            "Developer Tools",
+            "Web"
+          ],
+          "isoDate": "2024-08-28T20:21:47.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Vultr",
           "title": "How to Deploy Flask Applications on Vultr",
           "link": "https://www.sitepoint.com/how-to-deploy-flask-applications-on-vultr/?utm_source=rss",
           "pubDate": "Tue, 27 Aug 2024 05:32:03 GMT",
@@ -73,24 +91,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Dave Neary",
-          "title": "Momento Migrates Object Cache as a Service to Ampere Altra",
-          "link": "https://www.sitepoint.com/momento-migrates-object-cache-to-ampere-altra/?utm_source=rss",
-          "pubDate": "Thu, 15 Aug 2024 22:15:00 GMT",
-          "dc:creator": "Dave Neary",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "/?p=481040",
-          "categories": [
-            "Cloud",
-            "Web"
-          ],
-          "isoDate": "2024-08-15T22:15:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.sitepoint.com/sitepoint.rss",
@@ -101,7 +101,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Thu, 29 Aug 2024 05:02:22 GMT"
+      "lastBuildDate": "Fri, 30 Aug 2024 05:02:16 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -425,11 +425,35 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Thu, 29 Aug 2024 06:35:41 GMT",
+      "lastBuildDate": "Fri, 30 Aug 2024 06:34:53 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Artemii Lebedev",
+          "title": "Case Study: Armur—Alexandra Murgu Portfolio",
+          "link": "https://tympanus.net/codrops/2024/08/29/case-study-armur-alexandra-murgu-portfolio/",
+          "pubDate": "Thu, 29 Aug 2024 13:36:15 +0000",
+          "enclosure": {
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/08/Dribbble-Interactions-w-Music.mp4?x91832",
+            "length": "39700108",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Artemii Lebedev",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=79750",
+          "categories": [
+            "Articles",
+            "case-study",
+            "inspiration"
+          ],
+          "isoDate": "2024-08-29T13:36:15.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Jean Mazouni",
           "title": "Grid Displacement Texture with RGB Shift using Three.js GPGPU and Shaders",
@@ -520,25 +544,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Rob Eisenberg",
-          "title": "Server-first Web Components with DSD, HTMX, and Islands",
-          "link": "https://tympanus.net/codrops/2024/08/20/server-first-web-components-with-dsd-htmx-and-islands/",
-          "pubDate": "Tue, 20 Aug 2024 11:05:00 +0000",
-          "dc:creator": "Rob Eisenberg",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=80005",
-          "categories": [
-            "Tutorials",
-            "htmx",
-            "web-components"
-          ],
-          "isoDate": "2024-08-20T11:05:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -550,10 +555,108 @@
       "generator": "https://wordpress.org/?v=6.6.1",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Tue, 27 Aug 2024 13:41:55 +0000"
+      "lastBuildDate": "Thu, 29 Aug 2024 13:36:17 +0000"
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Zilong Tang",
+          "title": "High Fidelity Data: Balancing Privacy and Usage",
+          "link": "https://dzone.com/articles/high-fidelity-data-ensuring-privacy-and-usage",
+          "pubDate": "Thu, 29 Aug 2024 20:00:06 GMT",
+          "dc:creator": "Zilong Tang",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3484181",
+          "isoDate": "2024-08-29T20:00:06.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sam Suthar",
+          "title": "Achieving DevOps Harmony With Unified Log Monitoring for CI/CD",
+          "link": "https://dzone.com/articles/devops-harmony-with-unified-log-monitoring-for-cicd",
+          "pubDate": "Thu, 29 Aug 2024 18:30:05 GMT",
+          "dc:creator": "Sam Suthar",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3486117",
+          "isoDate": "2024-08-29T18:30:05.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Nicolas Fränkel",
+          "title": "When (Not) to Write an Apache APISIX Plugin",
+          "link": "https://dzone.com/articles/when-not-to-write-an-apache-apisix-plugin",
+          "pubDate": "Thu, 29 Aug 2024 17:00:08 GMT",
+          "dc:creator": "Nicolas Fränkel",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3486167",
+          "isoDate": "2024-08-29T17:00:08.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Laurent Balmelli, PhD",
+          "title": "Team-as-Code: How to Apply Platform Engineering to DevOps’ Coding Stage",
+          "link": "https://dzone.com/articles/team-as-code-how-to-apply-platform-engineering-to-devops-coding",
+          "pubDate": "Thu, 29 Aug 2024 15:30:03 GMT",
+          "dc:creator": "Laurent Balmelli, PhD",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3477143",
+          "isoDate": "2024-08-29T15:30:03.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Tim Spann",
+          "title": "Utilizing Multiple Vectors and Advanced Search Data Model Design for City Data",
+          "link": "https://dzone.com/articles/multiple-vectors-and-advanced-search-data-model-design",
+          "pubDate": "Thu, 29 Aug 2024 14:00:11 GMT",
+          "dc:creator": "Tim Spann",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3489218",
+          "isoDate": "2024-08-29T14:00:11.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Suleiman Dibirov",
+          "title": "Go: Unit and Integration Tests",
+          "link": "https://dzone.com/articles/unit-and-integration-tests-in-go",
+          "pubDate": "Thu, 29 Aug 2024 12:30:06 GMT",
+          "dc:creator": "Suleiman Dibirov",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3489208",
+          "isoDate": "2024-08-29T12:30:06.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Usama Jamil",
+          "title": "The Ultimate Guide To Evaluate RAG System Components: What You Need To Know",
+          "link": "https://dzone.com/articles/guide-to-evaluate-rag-system-components",
+          "pubDate": "Thu, 29 Aug 2024 11:00:09 GMT",
+          "dc:creator": "Usama Jamil",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3485877",
+          "isoDate": "2024-08-29T11:00:09.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Emmanouil Gkatziouras",
           "title": "Java Concurrency: Visibility and Synchronized",
@@ -595,104 +698,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Xavier Portilla Edo",
-          "title": "The Evolution of Conversational AI: Blending Determinism With Dynamism",
-          "link": "https://dzone.com/articles/conversational-ai-blending-determinism-with-dynamism",
-          "pubDate": "Wed, 28 Aug 2024 15:00:07 GMT",
-          "dc:creator": "Xavier Portilla Edo",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3487216",
-          "isoDate": "2024-08-28T15:00:07.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Felipe Mendes",
-          "title": "Why Replace External Database Caches?",
-          "link": "https://dzone.com/articles/why-replace-external-database-caches",
-          "pubDate": "Wed, 28 Aug 2024 14:00:08 GMT",
-          "dc:creator": "Felipe Mendes",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3483317",
-          "isoDate": "2024-08-28T14:00:08.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "sun yu",
-          "title": "Documenting a Java WebSocket API Using Smart-Doc",
-          "link": "https://dzone.com/articles/generate-java-websocket-api-documentation-using-smart-doc",
-          "pubDate": "Wed, 28 Aug 2024 13:00:07 GMT",
-          "dc:creator": "sun yu",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3487247",
-          "isoDate": "2024-08-28T13:00:07.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nikita Melnikov",
-          "title": "Effortless Concurrency: Leveraging the Actor Model in Financial Transaction Systems",
-          "link": "https://dzone.com/articles/concurrency-in-financial-transaction-systems",
-          "pubDate": "Wed, 28 Aug 2024 12:00:15 GMT",
-          "dc:creator": "Nikita Melnikov",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3483374",
-          "isoDate": "2024-08-28T12:00:15.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Otavio Santana",
-          "title": "Enhancing Software Quality with Checkstyle and PMD: A Practical Guide",
-          "link": "https://dzone.com/articles/enhancing-software-quality-with-checkstyle-and-pmd",
-          "pubDate": "Wed, 28 Aug 2024 11:00:10 GMT",
-          "dc:creator": "Otavio Santana",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3486161",
-          "isoDate": "2024-08-28T11:00:10.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ravi Verma",
-          "title": "How to Setup Multi-Primary Istio in EKS and AKS for Production",
-          "link": "https://dzone.com/articles/setup-multi-primary-istio-in-eks-and-aks-for-production",
-          "pubDate": "Tue, 27 Aug 2024 21:00:05 GMT",
-          "dc:creator": "Ravi Verma",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3485955",
-          "isoDate": "2024-08-27T21:00:05.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nakul Pandey",
-          "title": "Enhancing Accuracy in AI-Driven Mobile Applications: Tackling Hallucinations in Large Language Models",
-          "link": "https://dzone.com/articles/tackling-hallucinations-in-large-language-models",
-          "pubDate": "Tue, 27 Aug 2024 20:00:04 GMT",
-          "dc:creator": "Nakul Pandey",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3486106",
-          "isoDate": "2024-08-27T20:00:04.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -705,6 +710,67 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Dobri Kostadinov",
+          "title": "Jetpack Compose: Setup Retrofit and Ktor using Dagger Hilt for Dependency Injection",
+          "link": "https://itnext.io/jetpack-compose-setup-retrofit-and-ktor-using-dagger-hilt-for-dependency-injection-a57a8a1f9e44?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 30 Aug 2024 06:59:16 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Dobri Kostadinov",
+          "guid": "https://medium.com/p/a57a8a1f9e44",
+          "categories": [
+            "jetpack-compose",
+            "androiddev",
+            "android",
+            "android-development",
+            "mobile-app-development"
+          ],
+          "isoDate": "2024-08-30T06:59:16.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Benjamin Cane",
+          "title": "Don’t Log, Return Errors",
+          "link": "https://itnext.io/dont-log-return-errors-82dd6985fd99?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 29 Aug 2024 16:59:48 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Benjamin Cane",
+          "guid": "https://medium.com/p/82dd6985fd99",
+          "categories": [
+            "software-development",
+            "golang",
+            "software-engineering"
+          ],
+          "isoDate": "2024-08-29T16:59:48.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Artem Lajko",
+          "title": "GPTScript: Build Your Own Task-Specific AI-Agent from Scratch and Deploy It to Kubernetes",
+          "link": "https://itnext.io/gptscript-build-your-own-task-specific-ai-agent-from-scratch-and-deploy-it-to-kubernetes-30411b51a85d?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 29 Aug 2024 06:59:24 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Artem Lajko",
+          "guid": "https://medium.com/p/30411b51a85d",
+          "categories": [
+            "ai",
+            "llm",
+            "kubernetes",
+            "chatgpt",
+            "cloud-computing"
+          ],
+          "isoDate": "2024-08-29T06:59:24.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Benjamin Cane",
           "title": "Don’t focus too much on avoiding premature optimization",
@@ -848,66 +914,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Alex Pliutau",
-          "title": "My first experience with Gleam Language",
-          "link": "https://itnext.io/my-first-experience-with-gleam-language-6dbc1517a182?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 27 Aug 2024 13:24:49 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Alex Pliutau",
-          "guid": "https://medium.com/p/6dbc1517a182",
-          "categories": [
-            "programming",
-            "beam",
-            "programming-languages",
-            "gleam",
-            "erlang"
-          ],
-          "isoDate": "2024-08-27T13:24:49.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Héla Ben Khalfallah",
-          "title": "Intelligent Compilers: Machine Learning-Powered Compiler Autotuning",
-          "link": "https://itnext.io/intelligent-compilers-machine-learning-powered-compiler-autotuning-929ae8fe407f?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 26 Aug 2024 22:08:55 GMT",
-          "dc:creator": "Héla Ben Khalfallah",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/929ae8fe407f",
-          "categories": [
-            "machine-learning",
-            "compilers",
-            "automated-optimisation",
-            "adaptative-compilation",
-            "software-development"
-          ],
-          "isoDate": "2024-08-26T22:08:55.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Brian Grant",
-          "title": "What is the Kubernetes “Claim” model?",
-          "link": "https://itnext.io/what-is-the-kubernetes-claim-model-1572d7cf39a8?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 26 Aug 2024 15:09:47 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Brian Grant",
-          "guid": "https://medium.com/p/1572d7cf39a8",
-          "categories": [
-            "kubernetes",
-            "infrastructure-as-code"
-          ],
-          "isoDate": "2024-08-26T15:09:47.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -924,192 +930,197 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Thu, 29 Aug 2024 06:53:52 GMT"
+      "lastBuildDate": "Fri, 30 Aug 2024 07:01:35 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Lulu",
-          "title": "Building a High-Availability Architecture with Free SafeLine WAF",
-          "link": "https://dev.to/lulu_liu_c90f973e2f954d7f/building-a-high-availability-architecture-with-free-safeline-waf-2lhd",
-          "pubDate": "Thu, 29 Aug 2024 06:59:06 +0000",
-          "dc:creator": "Lulu",
+          "creator": "Thomas H. Young",
+          "title": "How to Open .MPP Files Without Hassle: Quick Guide With Example",
+          "link": "https://dev.to/thomasy0ung/how-to-open-mpp-files-without-hassle-quick-guide-with-example-5c3n",
+          "pubDate": "Fri, 30 Aug 2024 06:54:04 +0000",
+          "dc:creator": "Thomas H. Young",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/lulu_liu_c90f973e2f954d7f/building-a-high-availability-architecture-with-free-safeline-waf-2lhd",
+          "guid": "https://dev.to/thomasy0ung/how-to-open-mpp-files-without-hassle-quick-guide-with-example-5c3n",
           "categories": [
-            "cybersecurity",
-            "devops",
-            "opensource",
-            "webdev"
+            "project",
+            "projectmanagement",
+            "software",
+            "planning"
           ],
-          "isoDate": "2024-08-29T06:59:06.000Z",
+          "isoDate": "2024-08-30T06:54:04.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Harshal Ranjhani",
-          "title": "Top Online React Compiler Comparisons for Developers",
-          "link": "https://dev.to/codeparrot/top-online-react-compiler-comparisons-for-developers-2d91",
-          "pubDate": "Thu, 29 Aug 2024 06:54:04 +0000",
-          "dc:creator": "Harshal Ranjhani",
+          "creator": "Abhinav Anand",
+          "title": "How to Build a Simple Chatbot in Python Using OpenAI [Step-by-Step Guide]",
+          "link": "https://dev.to/abhinowww/how-to-build-a-simple-chatbot-in-python-using-openai-step-by-step-guide-hfg",
+          "pubDate": "Fri, 30 Aug 2024 06:43:09 +0000",
+          "dc:creator": "Abhinav Anand",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/codeparrot/top-online-react-compiler-comparisons-for-developers-2d91",
-          "categories": [
-            "react",
-            "online",
-            "compiler",
-            "webdev"
-          ],
-          "isoDate": "2024-08-29T06:54:04.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "akash singh",
-          "title": "Font end website design",
-          "link": "https://dev.to/akash_singh_575a0f4c1d01b/font-end-website-design-34e8",
-          "pubDate": "Thu, 29 Aug 2024 06:38:08 +0000",
-          "dc:creator": "akash singh",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/akash_singh_575a0f4c1d01b/font-end-website-design-34e8",
-          "categories": [
-            "css",
-            "html"
-          ],
-          "isoDate": "2024-08-29T06:38:08.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Haque.",
-          "title": "Day 2: Setting Up Your Development Environment",
-          "link": "https://dev.to/haquedot/day-2-setting-up-your-development-environment-1l0e",
-          "pubDate": "Thu, 29 Aug 2024 06:34:11 +0000",
-          "dc:creator": "Haque.",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/haquedot/day-2-setting-up-your-development-environment-1l0e",
-          "categories": [
-            "react",
-            "webdev",
-            "javascript",
-            "beginners"
-          ],
-          "isoDate": "2024-08-29T06:34:11.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Rhl",
-          "title": "Rust for typescript devs: Immutabilty",
-          "link": "https://dev.to/rhl314/rust-for-typescript-devs-immutabilty-2d9a",
-          "pubDate": "Thu, 29 Aug 2024 06:30:11 +0000",
-          "dc:creator": "Rhl",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/rhl314/rust-for-typescript-devs-immutabilty-2d9a",
-          "isoDate": "2024-08-29T06:30:11.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "S3CloudHub",
-          "title": "A Step-by-Step Guide to Deploying Web Apps on Tomcat with Azure DevOps",
-          "link": "https://dev.to/s3cloudhub/a-step-by-step-guide-to-deploying-web-apps-on-tomcat-with-azure-devops-3hoh",
-          "pubDate": "Thu, 29 Aug 2024 06:16:29 +0000",
-          "dc:creator": "S3CloudHub",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/s3cloudhub/a-step-by-step-guide-to-deploying-web-apps-on-tomcat-with-azure-devops-3hoh",
-          "isoDate": "2024-08-29T06:16:29.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ivelin Yanev",
-          "title": "The Challenge of Evolving Schemas in Message Queues",
-          "link": "https://dev.to/yanev/the-challenge-of-evolving-schemas-in-message-queues-4oc",
-          "pubDate": "Thu, 29 Aug 2024 06:13:03 +0000",
-          "dc:creator": "Ivelin Yanev",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/yanev/the-challenge-of-evolving-schemas-in-message-queues-4oc",
-          "categories": [
-            "designsystem",
-            "designpatterns",
-            "message",
-            "queuing"
-          ],
-          "isoDate": "2024-08-29T06:13:03.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Roberto B.",
-          "title": "How to auto-generate the image Alt-Text using AI and Transformers PHP",
-          "link": "https://dev.to/robertobutti/how-to-auto-generate-the-image-alt-text-using-ai-and-transformers-php-3onc",
-          "pubDate": "Thu, 29 Aug 2024 06:02:39 +0000",
-          "dc:creator": "Roberto B.",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/robertobutti/how-to-auto-generate-the-image-alt-text-using-ai-and-transformers-php-3onc",
+          "guid": "https://dev.to/abhinowww/how-to-build-a-simple-chatbot-in-python-using-openai-step-by-step-guide-hfg",
           "categories": [
             "ai",
-            "php",
-            "a11y",
-            "machinelearning"
+            "python",
+            "programming",
+            "learning"
           ],
-          "isoDate": "2024-08-29T06:02:39.000Z",
+          "isoDate": "2024-08-30T06:43:09.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "keploy",
-          "title": "Understanding Software Acceptance Testing",
-          "link": "https://dev.to/keploy/understanding-software-acceptance-testing-34p9",
-          "pubDate": "Thu, 29 Aug 2024 06:01:19 +0000",
-          "dc:creator": "keploy",
+          "creator": "Ben Borla",
+          "title": "Debugging Your Productivity: A Guide to Mindfulness and Efficiency",
+          "link": "https://dev.to/benborla/debugging-your-productivity-a-guide-to-mindfulness-and-efficiency-4le1",
+          "pubDate": "Fri, 30 Aug 2024 06:39:52 +0000",
+          "dc:creator": "Ben Borla",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/keploy/understanding-software-acceptance-testing-34p9",
+          "guid": "https://dev.to/benborla/debugging-your-productivity-a-guide-to-mindfulness-and-efficiency-4le1",
+          "categories": [
+            "productivityhacks",
+            "devlifebalance",
+            "techwellness",
+            "focusedcoding"
+          ],
+          "isoDate": "2024-08-30T06:39:52.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sanskar Singh",
+          "title": "The $150 Million DAO Heist: The Hack That Split Ethereum in Two",
+          "link": "https://dev.to/sanskar_singh_js/the-150-million-dao-heist-the-hack-that-split-ethereum-in-two-1879",
+          "pubDate": "Fri, 30 Aug 2024 06:39:41 +0000",
+          "dc:creator": "Sanskar Singh",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/sanskar_singh_js/the-150-million-dao-heist-the-hack-that-split-ethereum-in-two-1879",
+          "categories": [
+            "blockchain",
+            "ethereum",
+            "cryptocurrency",
+            "bitcoin"
+          ],
+          "isoDate": "2024-08-30T06:39:41.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Simran Desuza",
+          "title": "How is WazirX Working Towards Recovering Stolen Assets?",
+          "link": "https://dev.to/simrandesuza17/how-is-wazirx-working-towards-recovering-stolen-assets-5916",
+          "pubDate": "Fri, 30 Aug 2024 06:28:57 +0000",
+          "dc:creator": "Simran Desuza",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/simrandesuza17/how-is-wazirx-working-towards-recovering-stolen-assets-5916",
+          "categories": [
+            "cryptocurrency",
+            "liminalwallet",
+            "wazirx",
+            "cyberattack"
+          ],
+          "isoDate": "2024-08-30T06:28:57.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Stokry",
+          "title": "Introducing Intelliscore: Extension for Predicting Football Match Outcomes",
+          "link": "https://dev.to/stokry/introducing-intelliscore-extension-for-predicting-football-match-outcomes-3dm4",
+          "pubDate": "Fri, 30 Aug 2024 06:28:08 +0000",
+          "dc:creator": "Stokry",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/stokry/introducing-intelliscore-extension-for-predicting-football-match-outcomes-3dm4",
+          "categories": [
+            "showdev",
+            "python",
+            "webdev",
+            "extensions"
+          ],
+          "isoDate": "2024-08-30T06:28:08.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Shubham Kumar",
+          "title": "Enhancing AWS S3 Security with GuardDuty.",
+          "link": "https://dev.to/shubhamkcloud/enhancing-aws-s3-security-with-guardduty-ldb",
+          "pubDate": "Fri, 30 Aug 2024 06:24:56 +0000",
+          "dc:creator": "Shubham Kumar",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/shubhamkcloud/enhancing-aws-s3-security-with-guardduty-ldb",
+          "categories": [
+            "aws",
+            "guardduty",
+            "s3malwareprotection",
+            "s3"
+          ],
+          "isoDate": "2024-08-30T06:24:56.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ociel Gonzalez",
+          "title": "Mistakes I Made Early In My Career — And What I Would Have Done Differently",
+          "link": "https://dev.to/soulis98/mistakes-i-made-early-in-my-career-and-what-i-would-have-done-differently-52gh",
+          "pubDate": "Fri, 30 Aug 2024 06:18:49 +0000",
+          "dc:creator": "Ociel Gonzalez",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/soulis98/mistakes-i-made-early-in-my-career-and-what-i-would-have-done-differently-52gh",
           "categories": [
             "webdev",
             "beginners",
             "programming",
-            "tutorial"
+            "productivity"
           ],
-          "isoDate": "2024-08-29T06:01:19.000Z",
+          "isoDate": "2024-08-30T06:18:49.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Monirul Islam",
-          "title": "Data Types Part-05",
-          "link": "https://dev.to/monirulislam027/data-types-part-05-3l13",
-          "pubDate": "Thu, 29 Aug 2024 06:00:00 +0000",
-          "dc:creator": "Monirul Islam",
+          "creator": "Himanshu Kumar Tiwari",
+          "title": "Introduction to SQL",
+          "link": "https://dev.to/darkworldprogrammer/introduction-to-sql-381j",
+          "pubDate": "Fri, 30 Aug 2024 06:16:17 +0000",
+          "dc:creator": "Himanshu Kumar Tiwari",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/monirulislam027/data-types-part-05-3l13",
+          "guid": "https://dev.to/darkworldprogrammer/introduction-to-sql-381j",
           "categories": [
-            "python",
-            "beginners",
-            "programming",
-            "tutorial"
+            "sql"
           ],
-          "isoDate": "2024-08-29T06:00:00.000Z",
+          "isoDate": "2024-08-30T06:16:17.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "sangjun_park",
+          "title": "RNN, LSTM, and GRU: Compare Three kinds of Seq2Seq model",
+          "link": "https://dev.to/bullmouse/rnn-lstm-and-gru-compare-three-kinds-of-seq2seq-model-4fa8",
+          "pubDate": "Fri, 30 Aug 2024 06:10:30 +0000",
+          "dc:creator": "sangjun_park",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/bullmouse/rnn-lstm-and-gru-compare-three-kinds-of-seq2seq-model-4fa8",
+          "isoDate": "2024-08-30T06:10:30.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1195,7 +1206,7 @@
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog.atom",
       "title": "The DigitalOcean Blog",
-      "lastBuildDate": "2024-08-29T06:25:32.776Z"
+      "lastBuildDate": "2024-08-30T06:22:05.000Z"
     },
     "Julia Evans": {
       "items": [
