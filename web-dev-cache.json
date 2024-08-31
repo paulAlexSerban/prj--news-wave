@@ -101,7 +101,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Fri, 30 Aug 2024 05:02:16 GMT"
+      "lastBuildDate": "Sat, 31 Aug 2024 05:02:19 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -315,6 +315,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Joas Pambou)",
+          "title": "Integrating Image-To-Text And Text-To-Speech Models (Part 2)",
+          "link": "https://smashingmagazine.com/2024/08/integrating-image-to-text-and-text-to-speech-models-part2/",
+          "pubDate": "Fri, 30 Aug 2024 09:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Joas Pambou)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/integrating-image-to-text-and-text-to-speech-models-part2/integrating-image-to-text-and-text-to-speech-models.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/08/integrating-image-to-text-and-text-to-speech-models-part2/",
+          "isoDate": "2024-08-30T09:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Amejimaobari Ollornwi)",
           "title": "Generating Unique Random Numbers In JavaScript Using Sets",
           "link": "https://smashingmagazine.com/2024/08/generating-unique-random-numbers-javascript-using-sets/",
@@ -389,25 +408,6 @@
           "guid": "https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/",
           "isoDate": "2024-08-16T13:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "title": "How To Defend Your Design Process",
-          "link": "https://smashingmagazine.com/2024/08/how-defend-your-design-process/",
-          "pubDate": "Thu, 15 Aug 2024 10:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/how-defend-your-design-process/how-defend-your-design-process.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/08/how-defend-your-design-process/",
-          "isoDate": "2024-08-15T10:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -425,11 +425,25 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Fri, 30 Aug 2024 06:34:53 GMT",
+      "lastBuildDate": "Sat, 31 Aug 2024 06:34:29 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "Collective #860",
+          "link": "https://tympanus.net/codrops/collective/collective-860/",
+          "pubDate": "Fri, 30 Aug 2024 11:00:00 +0000",
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?post_type=collective&p=80167",
+          "isoDate": "2024-08-30T11:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Artemii Lebedev",
           "title": "Case Study: Armur—Alexandra Murgu Portfolio",
@@ -520,30 +534,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Obys",
-          "title": "Case Study: Design Education Series",
-          "link": "https://tympanus.net/codrops/2024/08/21/case-study-design-education-series/",
-          "pubDate": "Wed, 21 Aug 2024 11:45:00 +0000",
-          "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/08/DES_Suspens-1.mp4?x91832",
-            "length": "1744330",
-            "type": "video/mp4"
-          },
-          "dc:creator": "Obys",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=80030",
-          "categories": [
-            "Articles",
-            "3d",
-            "case-study"
-          ],
-          "isoDate": "2024-08-21T11:45:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -559,6 +549,90 @@
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Dursun Koç",
+          "title": "The Chaos of Mismatched Ord and PartialOrd Implementations in Rust's BTreeSet",
+          "link": "https://dzone.com/articles/the-chaos-of-mismatched-ord-and-partialord-impleme",
+          "pubDate": "Fri, 30 Aug 2024 20:00:04 GMT",
+          "dc:creator": "Dursun Koç",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3489373",
+          "isoDate": "2024-08-30T20:00:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Harshavardhan Yedla",
+          "title": "Snowflake Administration: A Comprehensive Step-by-Step Guide",
+          "link": "https://dzone.com/articles/snowflake-administration-a-comprehensive-guide",
+          "pubDate": "Fri, 30 Aug 2024 18:00:07 GMT",
+          "dc:creator": "Harshavardhan Yedla",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3483168",
+          "isoDate": "2024-08-30T18:00:07.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ram Lakshmanan",
+          "title": "Java Performance Tuning: Adjusting GC Threads for Optimal Results",
+          "link": "https://dzone.com/articles/java-performance-tuning-adjusting-gc-threads",
+          "pubDate": "Fri, 30 Aug 2024 16:00:08 GMT",
+          "dc:creator": "Ram Lakshmanan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3489346",
+          "isoDate": "2024-08-30T16:00:08.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sudip Sengupta",
+          "title": "The Enterprise Guide to Cloud Security Posture Management",
+          "link": "https://dzone.com/articles/enterprise-guide-cloud-security-posture-management",
+          "pubDate": "Fri, 30 Aug 2024 14:52:49 GMT",
+          "dc:creator": "Sudip Sengupta",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3491425",
+          "isoDate": "2024-08-30T14:52:49.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Aakash Sharma",
+          "title": "Day in the Life of a Developer With Google's Gemini Code Assist: Part 2",
+          "link": "https://dzone.com/articles/ditl-of-a-developer-with-google-gemini-code-assist-pt2",
+          "pubDate": "Fri, 30 Aug 2024 14:00:07 GMT",
+          "dc:creator": "Aakash Sharma",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3477197",
+          "isoDate": "2024-08-30T14:00:07.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Karthigayan Devan",
+          "title": "Enhance Terraform Final Plan Output in GitHub Actions",
+          "link": "https://dzone.com/articles/enhance-terraform-final-plan-output-in-github-acti",
+          "pubDate": "Fri, 30 Aug 2024 11:00:08 GMT",
+          "dc:creator": "Karthigayan Devan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3488115",
+          "isoDate": "2024-08-30T11:00:08.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Zilong Tang",
           "title": "High Fidelity Data: Balancing Privacy and Usage",
@@ -614,90 +688,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Tim Spann",
-          "title": "Utilizing Multiple Vectors and Advanced Search Data Model Design for City Data",
-          "link": "https://dzone.com/articles/multiple-vectors-and-advanced-search-data-model-design",
-          "pubDate": "Thu, 29 Aug 2024 14:00:11 GMT",
-          "dc:creator": "Tim Spann",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3489218",
-          "isoDate": "2024-08-29T14:00:11.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Suleiman Dibirov",
-          "title": "Go: Unit and Integration Tests",
-          "link": "https://dzone.com/articles/unit-and-integration-tests-in-go",
-          "pubDate": "Thu, 29 Aug 2024 12:30:06 GMT",
-          "dc:creator": "Suleiman Dibirov",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3489208",
-          "isoDate": "2024-08-29T12:30:06.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Usama Jamil",
-          "title": "The Ultimate Guide To Evaluate RAG System Components: What You Need To Know",
-          "link": "https://dzone.com/articles/guide-to-evaluate-rag-system-components",
-          "pubDate": "Thu, 29 Aug 2024 11:00:09 GMT",
-          "dc:creator": "Usama Jamil",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3485877",
-          "isoDate": "2024-08-29T11:00:09.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Emmanouil Gkatziouras",
-          "title": "Java Concurrency: Visibility and Synchronized",
-          "link": "https://dzone.com/articles/java-concurrency-visibility-and-synchronized",
-          "pubDate": "Wed, 28 Aug 2024 18:00:08 GMT",
-          "dc:creator": "Emmanouil Gkatziouras",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3489323",
-          "isoDate": "2024-08-28T18:00:08.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Prathap Reddy M",
-          "title": "How to Dockerize a React App With Vite: Step-by-Step Guide",
-          "link": "https://dzone.com/articles/how-to-dockerize-a-react-app-with-vite",
-          "pubDate": "Wed, 28 Aug 2024 17:00:08 GMT",
-          "dc:creator": "Prathap Reddy M",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3487109",
-          "isoDate": "2024-08-28T17:00:08.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Anastasios Arampatzis",
-          "title": "Advanced Techniques in Automated Threat Detection",
-          "link": "https://dzone.com/articles/advanced-techniques-in-automated-threat-detection",
-          "pubDate": "Wed, 28 Aug 2024 16:00:06 GMT",
-          "dc:creator": "Anastasios Arampatzis",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3486066",
-          "isoDate": "2024-08-28T16:00:06.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -710,6 +700,111 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Andrew Blooman",
+          "title": "10 Essential Tips to Become a Successful Platform Security Engineer",
+          "link": "https://itnext.io/10-essential-tips-to-become-a-successful-cloud-security-engineer-04e89fbbc0f0?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 30 Aug 2024 19:48:39 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Andrew Blooman",
+          "guid": "https://medium.com/p/04e89fbbc0f0",
+          "categories": [
+            "aws",
+            "cloud",
+            "careers",
+            "security",
+            "devsecops"
+          ],
+          "isoDate": "2024-08-30T19:48:39.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Andrew Allison",
+          "title": "Using AbortControllers in React.js",
+          "link": "https://itnext.io/using-abortcontrollers-in-react-js-57c1ef72670d?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 30 Aug 2024 19:47:06 GMT",
+          "dc:creator": "Andrew Allison",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/57c1ef72670d",
+          "categories": [
+            "material-ui",
+            "reactjs",
+            "abortcontroller",
+            "asynchronous-programming",
+            "javascript"
+          ],
+          "isoDate": "2024-08-30T19:47:06.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Gul Ershad",
+          "title": "Mathematical Foundations and Applications in Microservices Architecture",
+          "link": "https://itnext.io/mathematical-foundations-and-applications-in-microservices-architecture-cfc232fbb299?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 30 Aug 2024 19:45:37 GMT",
+          "dc:creator": "Gul Ershad",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/cfc232fbb299",
+          "categories": [
+            "microservices",
+            "mathematics",
+            "coding",
+            "architecture",
+            "software-development"
+          ],
+          "isoDate": "2024-08-30T19:45:37.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "JavaScript UI Libraries — DHTMLX",
+          "title": "JavaScript News, Updates, and Tutorials: August 2024 Edition",
+          "link": "https://itnext.io/javascript-news-updates-and-tutorials-august-2024-edition-3e33a836af10?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 30 Aug 2024 13:59:52 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "JavaScript UI Libraries — DHTMLX",
+          "guid": "https://medium.com/p/3e33a836af10",
+          "categories": [
+            "javascript",
+            "web-development",
+            "typescript",
+            "tutorial",
+            "tips-and-tricks"
+          ],
+          "isoDate": "2024-08-30T13:59:52.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Andrew Blooman",
+          "title": "AI Generated Code vs DevSecOps. Shift Left with Code Scanning",
+          "link": "https://itnext.io/chatgpt-vs-snyk-the-devsecops-battle-with-ai-generated-code-0600bb443689?source=rss----5b301f10ddcd---4",
+          "pubDate": "Fri, 30 Aug 2024 11:53:02 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Andrew Blooman",
+          "guid": "https://medium.com/p/0600bb443689",
+          "categories": [
+            "snyk",
+            "aws",
+            "terraform",
+            "chatgpt",
+            "devsecops"
+          ],
+          "isoDate": "2024-08-30T11:53:02.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Dobri Kostadinov",
           "title": "Jetpack Compose: Setup Retrofit and Ktor using Dagger Hilt for Dependency Injection",
@@ -811,109 +906,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Ivan Franchin",
-          "title": "Implementing a Micronaut REST API using PostgreSQL as Database",
-          "link": "https://itnext.io/implementing-a-micronaut-rest-api-using-postgresql-as-database-6b6671743440?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 28 Aug 2024 07:59:36 GMT",
-          "dc:creator": "Ivan Franchin",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/6b6671743440",
-          "categories": [
-            "software-development",
-            "rest-api",
-            "postgresql",
-            "technology",
-            "micronaut"
-          ],
-          "isoDate": "2024-08-28T07:59:36.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Brian Grant",
-          "title": "Application configuration and feature flags",
-          "link": "https://itnext.io/application-configuration-and-feature-flags-356f38712120?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 28 Aug 2024 07:26:25 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Brian Grant",
-          "guid": "https://medium.com/p/356f38712120",
-          "categories": [
-            "kubernetes",
-            "application-configuration",
-            "terraform",
-            "feature-flags"
-          ],
-          "isoDate": "2024-08-28T07:26:25.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Arseny Zinchenko (setevoy)",
-          "title": "AWS: Kubernetes and External Secrets Operator for AWS Secrets Manager",
-          "link": "https://itnext.io/aws-kubernetes-and-external-secrets-operator-for-aws-secrets-manager-ee7f28616684?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 28 Aug 2024 07:25:33 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Arseny Zinchenko (setevoy)",
-          "guid": "https://medium.com/p/ee7f28616684",
-          "categories": [
-            "aws",
-            "devops",
-            "security",
-            "kubernetes"
-          ],
-          "isoDate": "2024-08-28T07:25:33.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Andrew Blooman",
-          "title": "Build your own Ad Blocking tool for your home using Pi-Hole.",
-          "link": "https://itnext.io/how-to-block-ads-and-unwanted-network-traffic-using-pi-hole-13183dc2d477?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 28 Aug 2024 07:24:41 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Andrew Blooman",
-          "guid": "https://medium.com/p/13183dc2d477",
-          "categories": [
-            "security",
-            "dns",
-            "networking",
-            "adblock",
-            "devsecops"
-          ],
-          "isoDate": "2024-08-28T07:24:41.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Saeed Zarinfam",
-          "title": "Performance Testing in CI",
-          "link": "https://itnext.io/performance-testing-in-ci-a6783435be69?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 27 Aug 2024 15:11:42 GMT",
-          "dc:creator": "Saeed Zarinfam",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/a6783435be69",
-          "categories": [
-            "regression",
-            "performance-testing",
-            "load-testing",
-            "dynamic-analysis",
-            "continuous-integration"
-          ],
-          "isoDate": "2024-08-27T15:11:42.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -930,197 +922,192 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Fri, 30 Aug 2024 07:01:35 GMT"
+      "lastBuildDate": "Sat, 31 Aug 2024 07:05:09 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Thomas H. Young",
-          "title": "How to Open .MPP Files Without Hassle: Quick Guide With Example",
-          "link": "https://dev.to/thomasy0ung/how-to-open-mpp-files-without-hassle-quick-guide-with-example-5c3n",
-          "pubDate": "Fri, 30 Aug 2024 06:54:04 +0000",
-          "dc:creator": "Thomas H. Young",
+          "creator": "Manas",
+          "title": "Applying the Open/Closed Principle in TypeScript: A Concise Overview",
+          "link": "https://dev.to/manas_pant/applying-the-openclosed-principle-in-typescript-a-concise-overview-1ce1",
+          "pubDate": "Sat, 31 Aug 2024 06:35:09 +0000",
+          "dc:creator": "Manas",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/thomasy0ung/how-to-open-mpp-files-without-hassle-quick-guide-with-example-5c3n",
-          "categories": [
-            "project",
-            "projectmanagement",
-            "software",
-            "planning"
-          ],
-          "isoDate": "2024-08-30T06:54:04.000Z",
+          "guid": "https://dev.to/manas_pant/applying-the-openclosed-principle-in-typescript-a-concise-overview-1ce1",
+          "isoDate": "2024-08-31T06:35:09.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Abhinav Anand",
-          "title": "How to Build a Simple Chatbot in Python Using OpenAI [Step-by-Step Guide]",
-          "link": "https://dev.to/abhinowww/how-to-build-a-simple-chatbot-in-python-using-openai-step-by-step-guide-hfg",
-          "pubDate": "Fri, 30 Aug 2024 06:43:09 +0000",
-          "dc:creator": "Abhinav Anand",
+          "creator": "Ghoshan J",
+          "title": "My First KubeCon Experience: KubeCon 2024 Hong Kong",
+          "link": "https://dev.to/ghoshanjega/my-first-kubecon-experience-kubecon-2024-hong-kong-2o1l",
+          "pubDate": "Sat, 31 Aug 2024 06:34:36 +0000",
+          "dc:creator": "Ghoshan J",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/abhinowww/how-to-build-a-simple-chatbot-in-python-using-openai-step-by-step-guide-hfg",
+          "guid": "https://dev.to/ghoshanjega/my-first-kubecon-experience-kubecon-2024-hong-kong-2o1l",
           "categories": [
-            "ai",
-            "python",
-            "programming",
+            "kubecon",
+            "opensource",
+            "platform"
+          ],
+          "isoDate": "2024-08-31T06:34:36.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Marcus Perez",
+          "title": "Bug Bounties",
+          "link": "https://dev.to/marcusnickp/bug-bounties-3jpc",
+          "pubDate": "Sat, 31 Aug 2024 06:34:12 +0000",
+          "dc:creator": "Marcus Perez",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/marcusnickp/bug-bounties-3jpc",
+          "categories": [
+            "opensource",
+            "devops",
+            "discuss"
+          ],
+          "isoDate": "2024-08-31T06:34:12.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Pratik Tamhane",
+          "title": "Mastering UI/UX Game Design: A Comprehensive Guide",
+          "link": "https://dev.to/uicraft_by_pratik/mastering-uiux-game-design-a-comprehensive-guide-be8",
+          "pubDate": "Sat, 31 Aug 2024 06:32:17 +0000",
+          "dc:creator": "Pratik Tamhane",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/uicraft_by_pratik/mastering-uiux-game-design-a-comprehensive-guide-be8",
+          "categories": [
+            "webdev",
+            "javascript",
+            "beginners",
             "learning"
           ],
-          "isoDate": "2024-08-30T06:43:09.000Z",
+          "isoDate": "2024-08-31T06:32:17.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ben Borla",
-          "title": "Debugging Your Productivity: A Guide to Mindfulness and Efficiency",
-          "link": "https://dev.to/benborla/debugging-your-productivity-a-guide-to-mindfulness-and-efficiency-4le1",
-          "pubDate": "Fri, 30 Aug 2024 06:39:52 +0000",
-          "dc:creator": "Ben Borla",
+          "creator": "Mohammad Imran",
+          "title": "The Ins and Outs of the Kubeconfig File in Kubernetes: A Complete Breakdown",
+          "link": "https://dev.to/imransaifi/the-ins-and-outs-of-the-kubeconfig-file-in-kubernetes-a-complete-breakdown-56f4",
+          "pubDate": "Sat, 31 Aug 2024 06:29:12 +0000",
+          "dc:creator": "Mohammad Imran",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/benborla/debugging-your-productivity-a-guide-to-mindfulness-and-efficiency-4le1",
+          "guid": "https://dev.to/imransaifi/the-ins-and-outs-of-the-kubeconfig-file-in-kubernetes-a-complete-breakdown-56f4",
           "categories": [
-            "productivityhacks",
-            "devlifebalance",
-            "techwellness",
-            "focusedcoding"
+            "kubeconfigfile",
+            "kubernetes",
+            "kubeconfig",
+            "anatomyofakubeconfig"
           ],
-          "isoDate": "2024-08-30T06:39:52.000Z",
+          "isoDate": "2024-08-31T06:29:12.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sanskar Singh",
-          "title": "The $150 Million DAO Heist: The Hack That Split Ethereum in Two",
-          "link": "https://dev.to/sanskar_singh_js/the-150-million-dao-heist-the-hack-that-split-ethereum-in-two-1879",
-          "pubDate": "Fri, 30 Aug 2024 06:39:41 +0000",
-          "dc:creator": "Sanskar Singh",
+          "creator": "Mark Smith",
+          "title": "Latest Newsletter: Javascripts, Exponentials, Aliens & Slaves (Issue #179)",
+          "link": "https://dev.to/mjgs/latest-newsletter-javascripts-exponentials-aliens-slaves-issue-179-13g8",
+          "pubDate": "Sat, 31 Aug 2024 06:10:56 +0000",
+          "dc:creator": "Mark Smith",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/sanskar_singh_js/the-150-million-dao-heist-the-hack-that-split-ethereum-in-two-1879",
+          "guid": "https://dev.to/mjgs/latest-newsletter-javascripts-exponentials-aliens-slaves-issue-179-13g8",
           "categories": [
-            "blockchain",
-            "ethereum",
-            "cryptocurrency",
-            "bitcoin"
-          ],
-          "isoDate": "2024-08-30T06:39:41.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Simran Desuza",
-          "title": "How is WazirX Working Towards Recovering Stolen Assets?",
-          "link": "https://dev.to/simrandesuza17/how-is-wazirx-working-towards-recovering-stolen-assets-5916",
-          "pubDate": "Fri, 30 Aug 2024 06:28:57 +0000",
-          "dc:creator": "Simran Desuza",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/simrandesuza17/how-is-wazirx-working-towards-recovering-stolen-assets-5916",
-          "categories": [
-            "cryptocurrency",
-            "liminalwallet",
-            "wazirx",
-            "cyberattack"
-          ],
-          "isoDate": "2024-08-30T06:28:57.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Stokry",
-          "title": "Introducing Intelliscore: Extension for Predicting Football Match Outcomes",
-          "link": "https://dev.to/stokry/introducing-intelliscore-extension-for-predicting-football-match-outcomes-3dm4",
-          "pubDate": "Fri, 30 Aug 2024 06:28:08 +0000",
-          "dc:creator": "Stokry",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/stokry/introducing-intelliscore-extension-for-predicting-football-match-outcomes-3dm4",
-          "categories": [
-            "showdev",
-            "python",
+            "javascript",
+            "tech",
             "webdev",
-            "extensions"
+            "discuss"
           ],
-          "isoDate": "2024-08-30T06:28:08.000Z",
+          "isoDate": "2024-08-31T06:10:56.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Shubham Kumar",
-          "title": "Enhancing AWS S3 Security with GuardDuty.",
-          "link": "https://dev.to/shubhamkcloud/enhancing-aws-s3-security-with-guardduty-ldb",
-          "pubDate": "Fri, 30 Aug 2024 06:24:56 +0000",
-          "dc:creator": "Shubham Kumar",
+          "creator": "UWABOR KING COLLINS",
+          "title": "GeeKs Community First Quarter Review.",
+          "link": "https://dev.to/devopsking/geeks-community-first-quarter-review-39dn",
+          "pubDate": "Sat, 31 Aug 2024 06:08:00 +0000",
+          "dc:creator": "UWABOR KING COLLINS",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/shubhamkcloud/enhancing-aws-s3-security-with-guardduty-ldb",
+          "guid": "https://dev.to/devopsking/geeks-community-first-quarter-review-39dn",
           "categories": [
-            "aws",
-            "guardduty",
-            "s3malwareprotection",
-            "s3"
+            "everyone",
+            "geeks",
+            "community",
+            "review"
           ],
-          "isoDate": "2024-08-30T06:24:56.000Z",
+          "isoDate": "2024-08-31T06:08:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ociel Gonzalez",
-          "title": "Mistakes I Made Early In My Career — And What I Would Have Done Differently",
-          "link": "https://dev.to/soulis98/mistakes-i-made-early-in-my-career-and-what-i-would-have-done-differently-52gh",
-          "pubDate": "Fri, 30 Aug 2024 06:18:49 +0000",
-          "dc:creator": "Ociel Gonzalez",
+          "creator": "Monirul Islam",
+          "title": "Type Casting Par-06",
+          "link": "https://dev.to/monirulislam027/type-casting-par-06-6ho",
+          "pubDate": "Sat, 31 Aug 2024 06:00:00 +0000",
+          "dc:creator": "Monirul Islam",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/soulis98/mistakes-i-made-early-in-my-career-and-what-i-would-have-done-differently-52gh",
+          "guid": "https://dev.to/monirulislam027/type-casting-par-06-6ho",
           "categories": [
-            "webdev",
-            "beginners",
             "programming",
-            "productivity"
+            "tutorial",
+            "python",
+            "beginners"
           ],
-          "isoDate": "2024-08-30T06:18:49.000Z",
+          "isoDate": "2024-08-31T06:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Himanshu Kumar Tiwari",
-          "title": "Introduction to SQL",
-          "link": "https://dev.to/darkworldprogrammer/introduction-to-sql-381j",
-          "pubDate": "Fri, 30 Aug 2024 06:16:17 +0000",
-          "dc:creator": "Himanshu Kumar Tiwari",
+          "creator": "vdelitz",
+          "title": "How to Integrate Passkeys in Python (FastAPI)",
+          "link": "https://dev.to/corbado/how-to-integrate-passkeys-in-python-fastapi-4oo6",
+          "pubDate": "Sat, 31 Aug 2024 06:00:00 +0000",
+          "dc:creator": "vdelitz",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/darkworldprogrammer/introduction-to-sql-381j",
+          "guid": "https://dev.to/corbado/how-to-integrate-passkeys-in-python-fastapi-4oo6",
           "categories": [
-            "sql"
+            "python",
+            "fastapi",
+            "cybersecurity",
+            "passkeys"
           ],
-          "isoDate": "2024-08-30T06:16:17.000Z",
+          "isoDate": "2024-08-31T06:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "sangjun_park",
-          "title": "RNN, LSTM, and GRU: Compare Three kinds of Seq2Seq model",
-          "link": "https://dev.to/bullmouse/rnn-lstm-and-gru-compare-three-kinds-of-seq2seq-model-4fa8",
-          "pubDate": "Fri, 30 Aug 2024 06:10:30 +0000",
-          "dc:creator": "sangjun_park",
+          "creator": "Aakash Khanna",
+          "title": "Creating Middlewares in FastAPI: A Step-by-Step Guide",
+          "link": "https://dev.to/aakashkhanna/creating-middlewares-in-fastapi-a-step-by-step-guide-1b4m",
+          "pubDate": "Sat, 31 Aug 2024 06:00:00 +0000",
+          "dc:creator": "Aakash Khanna",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/bullmouse/rnn-lstm-and-gru-compare-three-kinds-of-seq2seq-model-4fa8",
-          "isoDate": "2024-08-30T06:10:30.000Z",
+          "guid": "https://dev.to/aakashkhanna/creating-middlewares-in-fastapi-a-step-by-step-guide-1b4m",
+          "isoDate": "2024-08-31T06:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1137,6 +1124,19 @@
     },
     "Digital Ocean Labs": {
       "items": [
+        {
+          "title": "Nvidia H100 now available on DigitalOcean Kubernetes (EA)",
+          "link": "https://www.digitalocean.com/blog/nvidia-h100-now-available-on-digitalocean-kubernetes",
+          "pubDate": "2024-08-30T17:00:00.021Z",
+          "author": "Diane Hannay",
+          "content": "",
+          "contentSnippet": "",
+          "id": "tag:www.digitalocean.com,2005:/blog/nvidia-h100-now-available-on-digitalocean-kubernetes",
+          "isoDate": "2024-08-30T17:00:00.021Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "Announcing DigitalOcean Spaces Object Storage: Now Available in London",
           "link": "https://www.digitalocean.com/blog/digitalocean-spaces-now-available-in-london",
@@ -1188,25 +1188,12 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "DigitalOcean’s Managed Database for Redis®* is now known as Managed Caching",
-          "link": "https://www.digitalocean.com/blog/digitalocean-managed-caching",
-          "pubDate": "2024-08-14T07:00:00.024Z",
-          "author": "Nicole Ghalwash",
-          "content": "",
-          "contentSnippet": "",
-          "id": "tag:www.digitalocean.com,2005:/blog/digitalocean-managed-caching",
-          "isoDate": "2024-08-14T07:00:00.024Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog.atom",
       "title": "The DigitalOcean Blog",
-      "lastBuildDate": "2024-08-30T06:22:05.000Z"
+      "lastBuildDate": "2024-08-30T17:26:52.428Z"
     },
     "Julia Evans": {
       "items": [
