@@ -101,7 +101,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sat, 31 Aug 2024 05:02:19 GMT"
+      "lastBuildDate": "Sun, 01 Sep 2024 05:02:15 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -315,6 +315,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Cosima Mielke)",
+          "title": "Goodbye Summer, Hello September (2024 Wallpapers Edition)",
+          "link": "https://smashingmagazine.com/2024/08/desktop-wallpaper-calendars-september-2024/",
+          "pubDate": "Sat, 31 Aug 2024 08:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/55161fb1-16dc-47e1-a118-5ecd0f0a3fbb/sept-17-autumn-rains-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/08/desktop-wallpaper-calendars-september-2024/",
+          "isoDate": "2024-08-31T08:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Joas Pambou)",
           "title": "Integrating Image-To-Text And Text-To-Speech Models (Part 2)",
           "link": "https://smashingmagazine.com/2024/08/integrating-image-to-text-and-text-to-speech-models-part2/",
@@ -389,25 +408,6 @@
           "guid": "https://smashingmagazine.com/2024/08/history-future-regular-expressions-javascript/",
           "isoDate": "2024-08-20T15:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Paul Boag)",
-          "title": "Pricing Projects As A Freelancer Or Agency Owner",
-          "link": "https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/",
-          "pubDate": "Fri, 16 Aug 2024 13:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/pricing-projects-freelancer-agency-owner/pricing-projects-freelancer-agency-owner.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/08/pricing-projects-freelancer-agency-owner/",
-          "isoDate": "2024-08-16T13:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -425,7 +425,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sat, 31 Aug 2024 06:34:29 GMT",
+      "lastBuildDate": "Sun, 01 Sep 2024 06:34:58 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -549,6 +549,20 @@
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Josephine Eskaline Joyce",
+          "title": "Full-Stack Security Guide: Best Practices and Challenges of Securing Modern Applications",
+          "link": "https://dzone.com/articles/full-stack-security-guide-best-practices-challenges",
+          "pubDate": "Sat, 31 Aug 2024 10:00:07 GMT",
+          "dc:creator": "Josephine Eskaline Joyce",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3491427",
+          "isoDate": "2024-08-31T10:00:07.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Dursun Koç",
           "title": "The Chaos of Mismatched Ord and PartialOrd Implementations in Rust's BTreeSet",
@@ -674,20 +688,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Laurent Balmelli, PhD",
-          "title": "Team-as-Code: How to Apply Platform Engineering to DevOps’ Coding Stage",
-          "link": "https://dzone.com/articles/team-as-code-how-to-apply-platform-engineering-to-devops-coding",
-          "pubDate": "Thu, 29 Aug 2024 15:30:03 GMT",
-          "dc:creator": "Laurent Balmelli, PhD",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3477143",
-          "isoDate": "2024-08-29T15:30:03.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -700,6 +700,46 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Alex Pliutau",
+          "title": "How to Deploy Preview Environments on Kubernetes with GitHub Actions",
+          "link": "https://itnext.io/how-to-deploy-preview-environments-on-kubernetes-with-github-actions-36c13f5069c1?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 31 Aug 2024 17:23:56 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Alex Pliutau",
+          "guid": "https://medium.com/p/36c13f5069c1",
+          "categories": [
+            "docker",
+            "ci-cd-pipeline",
+            "kubernetes",
+            "devops",
+            "github-actions"
+          ],
+          "isoDate": "2024-08-31T17:23:56.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Benjamin Cane",
+          "title": "Best Practices for managing BASH Scripts",
+          "link": "https://itnext.io/best-practices-for-managing-bash-scripts-be2a36aa5147?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 31 Aug 2024 07:35:04 GMT",
+          "dc:creator": "Benjamin Cane",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/be2a36aa5147",
+          "categories": [
+            "linux",
+            "programming",
+            "devops"
+          ],
+          "isoDate": "2024-08-31T07:35:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Andrew Blooman",
           "title": "10 Essential Tips to Become a Successful Platform Security Engineer",
@@ -865,47 +905,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Benjamin Cane",
-          "title": "Don’t focus too much on avoiding premature optimization",
-          "link": "https://itnext.io/dont-focus-too-much-on-avoiding-premature-optimization-527f5aca140d?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 28 Aug 2024 14:54:40 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Benjamin Cane",
-          "guid": "https://medium.com/p/527f5aca140d",
-          "categories": [
-            "technology",
-            "coding",
-            "software-engineering",
-            "programming"
-          ],
-          "isoDate": "2024-08-28T14:54:40.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Tom Nijhof-Verhees",
-          "title": "Using an LLM for sorting a list with linear time",
-          "link": "https://itnext.io/using-an-llm-for-sorting-a-list-with-linear-time-5d72e4bdd5bc?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 28 Aug 2024 09:22:13 GMT",
-          "dc:creator": "Tom Nijhof-Verhees",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/5d72e4bdd5bc",
-          "categories": [
-            "sorting-algorithms",
-            "llm",
-            "llama-3",
-            "humor",
-            "ai"
-          ],
-          "isoDate": "2024-08-28T09:22:13.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -922,192 +921,186 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sat, 31 Aug 2024 07:05:09 GMT"
+      "lastBuildDate": "Sun, 01 Sep 2024 06:53:36 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Manas",
-          "title": "Applying the Open/Closed Principle in TypeScript: A Concise Overview",
-          "link": "https://dev.to/manas_pant/applying-the-openclosed-principle-in-typescript-a-concise-overview-1ce1",
-          "pubDate": "Sat, 31 Aug 2024 06:35:09 +0000",
-          "dc:creator": "Manas",
+          "creator": "kanishkaisuru",
+          "title": "Problem Solving Patterns",
+          "link": "https://dev.to/kanishkaisuru/problem-solving-patterns-2je1",
+          "pubDate": "Sun, 01 Sep 2024 06:39:44 +0000",
+          "dc:creator": "kanishkaisuru",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/manas_pant/applying-the-openclosed-principle-in-typescript-a-concise-overview-1ce1",
-          "isoDate": "2024-08-31T06:35:09.000Z",
+          "guid": "https://dev.to/kanishkaisuru/problem-solving-patterns-2je1",
+          "isoDate": "2024-09-01T06:39:44.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ghoshan J",
-          "title": "My First KubeCon Experience: KubeCon 2024 Hong Kong",
-          "link": "https://dev.to/ghoshanjega/my-first-kubecon-experience-kubecon-2024-hong-kong-2o1l",
-          "pubDate": "Sat, 31 Aug 2024 06:34:36 +0000",
-          "dc:creator": "Ghoshan J",
+          "creator": "Ivelin Yanev",
+          "title": "Memory Management in GraalVM Native Image",
+          "link": "https://dev.to/yanev/memory-management-in-graalvm-native-image-4nbe",
+          "pubDate": "Sun, 01 Sep 2024 06:36:17 +0000",
+          "dc:creator": "Ivelin Yanev",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ghoshanjega/my-first-kubecon-experience-kubecon-2024-hong-kong-2o1l",
+          "guid": "https://dev.to/yanev/memory-management-in-graalvm-native-image-4nbe",
           "categories": [
-            "kubecon",
-            "opensource",
-            "platform"
+            "java",
+            "graalvm",
+            "jdk",
+            "jvm"
           ],
-          "isoDate": "2024-08-31T06:34:36.000Z",
+          "isoDate": "2024-09-01T06:36:17.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Marcus Perez",
-          "title": "Bug Bounties",
-          "link": "https://dev.to/marcusnickp/bug-bounties-3jpc",
-          "pubDate": "Sat, 31 Aug 2024 06:34:12 +0000",
-          "dc:creator": "Marcus Perez",
+          "creator": "Buddhiraj Sahu",
+          "title": "Using PGvector with your Django App",
+          "link": "https://dev.to/buddhiraz/using-pgvector-with-your-django-app-2o3j",
+          "pubDate": "Sun, 01 Sep 2024 06:34:52 +0000",
+          "dc:creator": "Buddhiraj Sahu",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/marcusnickp/bug-bounties-3jpc",
+          "guid": "https://dev.to/buddhiraz/using-pgvector-with-your-django-app-2o3j",
+          "isoDate": "2024-09-01T06:34:52.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "abuabdelrahman1413",
+          "title": "📚 مفهوم البرمجة الشيئية في JavaScript: البروتوتايب والفئات 🚀",
+          "link": "https://dev.to/abuabdelrahman1413/mfhwm-lbrmj-lshyyy-fy-javascript-lbrwtwtyb-wlfyt-4ic0",
+          "pubDate": "Sun, 01 Sep 2024 06:34:37 +0000",
+          "dc:creator": "abuabdelrahman1413",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/abuabdelrahman1413/mfhwm-lbrmj-lshyyy-fy-javascript-lbrwtwtyb-wlfyt-4ic0",
           "categories": [
-            "opensource",
-            "devops",
-            "discuss"
+            "webdev",
+            "javascript",
+            "oop"
           ],
-          "isoDate": "2024-08-31T06:34:12.000Z",
+          "isoDate": "2024-09-01T06:34:37.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "abuabdelrahman1413",
+          "title": "📚 مفهوم البرمجة الشيئية في JavaScript: البروتوتايب والفئات 🚀",
+          "link": "https://dev.to/abuabdelrahman1413/mfhwm-lbrmj-lshyyy-fy-javascript-lbrwtwtyb-wlfyt-5emh",
+          "pubDate": "Sun, 01 Sep 2024 06:34:37 +0000",
+          "dc:creator": "abuabdelrahman1413",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/abuabdelrahman1413/mfhwm-lbrmj-lshyyy-fy-javascript-lbrwtwtyb-wlfyt-5emh",
+          "categories": [
+            "webdev",
+            "javascript",
+            "oop"
+          ],
+          "isoDate": "2024-09-01T06:34:37.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
           "creator": "Pratik Tamhane",
-          "title": "Mastering UI/UX Game Design: A Comprehensive Guide",
-          "link": "https://dev.to/uicraft_by_pratik/mastering-uiux-game-design-a-comprehensive-guide-be8",
-          "pubDate": "Sat, 31 Aug 2024 06:32:17 +0000",
+          "title": "Jony Ive: The former Chief Design 🎨Officer at Apple",
+          "link": "https://dev.to/uicraft_by_pratik/jony-ive-the-former-chief-design-officer-at-apple-b1i",
+          "pubDate": "Sun, 01 Sep 2024 06:33:58 +0000",
           "dc:creator": "Pratik Tamhane",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/uicraft_by_pratik/mastering-uiux-game-design-a-comprehensive-guide-be8",
+          "guid": "https://dev.to/uicraft_by_pratik/jony-ive-the-former-chief-design-officer-at-apple-b1i",
           "categories": [
+            "biography",
             "webdev",
-            "javascript",
             "beginners",
             "learning"
           ],
-          "isoDate": "2024-08-31T06:32:17.000Z",
+          "isoDate": "2024-09-01T06:33:58.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Mohammad Imran",
-          "title": "The Ins and Outs of the Kubeconfig File in Kubernetes: A Complete Breakdown",
-          "link": "https://dev.to/imransaifi/the-ins-and-outs-of-the-kubeconfig-file-in-kubernetes-a-complete-breakdown-56f4",
-          "pubDate": "Sat, 31 Aug 2024 06:29:12 +0000",
-          "dc:creator": "Mohammad Imran",
+          "creator": "Kanavsingh",
+          "title": "Day 21: Resuming the DevOps Journey – Understanding AWS Monitoring and Logging",
+          "link": "https://dev.to/singh_in_cloud/day-21-resuming-the-devops-journey-understanding-aws-monitoring-and-logging-4oeb",
+          "pubDate": "Sun, 01 Sep 2024 06:29:40 +0000",
+          "dc:creator": "Kanavsingh",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/imransaifi/the-ins-and-outs-of-the-kubeconfig-file-in-kubernetes-a-complete-breakdown-56f4",
+          "guid": "https://dev.to/singh_in_cloud/day-21-resuming-the-devops-journey-understanding-aws-monitoring-and-logging-4oeb",
+          "isoDate": "2024-09-01T06:29:40.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ahmed_Greynoon",
+          "title": "Asynchronous & synchronous Programming In Dart",
+          "link": "https://dev.to/a_greynoon/asynchronous-synchronous-programming-in-dart-5h95",
+          "pubDate": "Sun, 01 Sep 2024 06:24:58 +0000",
+          "dc:creator": "Ahmed_Greynoon",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/a_greynoon/asynchronous-synchronous-programming-in-dart-5h95",
           "categories": [
-            "kubeconfigfile",
-            "kubernetes",
-            "kubeconfig",
-            "anatomyofakubeconfig"
+            "flutter",
+            "dart",
+            "mobiledevelopment",
+            "programming"
           ],
-          "isoDate": "2024-08-31T06:29:12.000Z",
+          "isoDate": "2024-09-01T06:24:58.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Mark Smith",
-          "title": "Latest Newsletter: Javascripts, Exponentials, Aliens & Slaves (Issue #179)",
-          "link": "https://dev.to/mjgs/latest-newsletter-javascripts-exponentials-aliens-slaves-issue-179-13g8",
-          "pubDate": "Sat, 31 Aug 2024 06:10:56 +0000",
-          "dc:creator": "Mark Smith",
+          "creator": "Mohammad Ezzeddin Pratama",
+          "title": "Read Input Until EOF (End-of-File) and Number Your Lines Effortlessly | Competitive Programming Java",
+          "link": "https://dev.to/ezzeddinp/read-input-until-eof-end-of-file-and-number-your-lines-effortlessly-competitive-programming-java-1egb",
+          "pubDate": "Sun, 01 Sep 2024 06:23:35 +0000",
+          "dc:creator": "Mohammad Ezzeddin Pratama",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/mjgs/latest-newsletter-javascripts-exponentials-aliens-slaves-issue-179-13g8",
+          "guid": "https://dev.to/ezzeddinp/read-input-until-eof-end-of-file-and-number-your-lines-effortlessly-competitive-programming-java-1egb",
           "categories": [
-            "javascript",
-            "tech",
+            "java",
+            "competativeprogramming",
+            "hackerrank",
+            "opensource"
+          ],
+          "isoDate": "2024-09-01T06:23:35.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Waleedh Nihal",
+          "title": "Bootstrap Utilities 101",
+          "link": "https://dev.to/waleedh/bootstrap-utilities-101-2hkk",
+          "pubDate": "Sun, 01 Sep 2024 06:23:26 +0000",
+          "dc:creator": "Waleedh Nihal",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/waleedh/bootstrap-utilities-101-2hkk",
+          "categories": [
+            "beginners",
             "webdev",
-            "discuss"
+            "bootstrap",
+            "css"
           ],
-          "isoDate": "2024-08-31T06:10:56.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "UWABOR KING COLLINS",
-          "title": "GeeKs Community First Quarter Review.",
-          "link": "https://dev.to/devopsking/geeks-community-first-quarter-review-39dn",
-          "pubDate": "Sat, 31 Aug 2024 06:08:00 +0000",
-          "dc:creator": "UWABOR KING COLLINS",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/devopsking/geeks-community-first-quarter-review-39dn",
-          "categories": [
-            "everyone",
-            "geeks",
-            "community",
-            "review"
-          ],
-          "isoDate": "2024-08-31T06:08:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Monirul Islam",
-          "title": "Type Casting Par-06",
-          "link": "https://dev.to/monirulislam027/type-casting-par-06-6ho",
-          "pubDate": "Sat, 31 Aug 2024 06:00:00 +0000",
-          "dc:creator": "Monirul Islam",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/monirulislam027/type-casting-par-06-6ho",
-          "categories": [
-            "programming",
-            "tutorial",
-            "python",
-            "beginners"
-          ],
-          "isoDate": "2024-08-31T06:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "vdelitz",
-          "title": "How to Integrate Passkeys in Python (FastAPI)",
-          "link": "https://dev.to/corbado/how-to-integrate-passkeys-in-python-fastapi-4oo6",
-          "pubDate": "Sat, 31 Aug 2024 06:00:00 +0000",
-          "dc:creator": "vdelitz",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/corbado/how-to-integrate-passkeys-in-python-fastapi-4oo6",
-          "categories": [
-            "python",
-            "fastapi",
-            "cybersecurity",
-            "passkeys"
-          ],
-          "isoDate": "2024-08-31T06:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Aakash Khanna",
-          "title": "Creating Middlewares in FastAPI: A Step-by-Step Guide",
-          "link": "https://dev.to/aakashkhanna/creating-middlewares-in-fastapi-a-step-by-step-guide-1b4m",
-          "pubDate": "Sat, 31 Aug 2024 06:00:00 +0000",
-          "dc:creator": "Aakash Khanna",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/aakashkhanna/creating-middlewares-in-fastapi-a-step-by-step-guide-1b4m",
-          "isoDate": "2024-08-31T06:00:00.000Z",
+          "isoDate": "2024-09-01T06:23:26.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
