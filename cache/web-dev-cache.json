@@ -101,7 +101,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Sun, 01 Sep 2024 05:02:15 GMT"
+      "lastBuildDate": "Mon, 02 Sep 2024 05:02:10 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -425,7 +425,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Sun, 01 Sep 2024 06:34:58 GMT",
+      "lastBuildDate": "Mon, 02 Sep 2024 07:04:58 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -450,7 +450,7 @@
           "link": "https://tympanus.net/codrops/2024/08/29/case-study-armur-alexandra-murgu-portfolio/",
           "pubDate": "Thu, 29 Aug 2024 13:36:15 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/08/Dribbble-Interactions-w-Music.mp4?x91832",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/08/Dribbble-Interactions-w-Music.mp4?x50337",
             "length": "39700108",
             "type": "video/mp4"
           },
@@ -474,7 +474,7 @@
           "link": "https://tympanus.net/codrops/2024/08/27/grid-displacement-texture-with-rgb-shift-using-three-js-gpgpu-and-shaders/",
           "pubDate": "Tue, 27 Aug 2024 13:41:52 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/08/record_1.mp4?x91832",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/08/record_1.mp4?x50337",
             "length": "2536836",
             "type": "video/mp4"
           },
@@ -514,7 +514,7 @@
           "link": "https://tympanus.net/codrops/2024/08/22/scroll-based-svg-filter-animations-on-text/",
           "pubDate": "Thu, 22 Aug 2024 12:19:15 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/08/editora.mp4?x91832",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/08/editora.mp4?x50337",
             "length": "310131",
             "type": "video/mp4"
           },
@@ -549,6 +549,20 @@
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Akanksha Pathak",
+          "title": "Guide to Securing Your Software Supply Chain: Exploring SBOM and DevSecOps Concepts for Enhanced Application Security",
+          "link": "https://dzone.com/articles/guide-secure-software-supply-chain-sbom-devsecops",
+          "pubDate": "Sun, 01 Sep 2024 12:45:04 GMT",
+          "dc:creator": "Akanksha Pathak",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3491439",
+          "isoDate": "2024-09-01T12:45:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Josephine Eskaline Joyce",
           "title": "Full-Stack Security Guide: Best Practices and Challenges of Securing Modern Applications",
@@ -674,20 +688,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Nicolas Fränkel",
-          "title": "When (Not) to Write an Apache APISIX Plugin",
-          "link": "https://dzone.com/articles/when-not-to-write-an-apache-apisix-plugin",
-          "pubDate": "Thu, 29 Aug 2024 17:00:08 GMT",
-          "dc:creator": "Nicolas Fränkel",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3486167",
-          "isoDate": "2024-08-29T17:00:08.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -700,6 +700,110 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Saeed Zarinfam",
+          "title": "Part 1: Leveraging OpenAI chat API in Spring Boot",
+          "link": "https://itnext.io/part-1-leveraging-openai-chat-api-in-spring-boot-a2d4b83d0b5a?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 02 Sep 2024 06:38:06 GMT",
+          "dc:creator": "Saeed Zarinfam",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/a2d4b83d0b5a",
+          "categories": [
+            "spring-boot",
+            "llm",
+            "chatbots",
+            "openai",
+            "spring-ai"
+          ],
+          "isoDate": "2024-09-02T06:38:06.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Doried Abdallah",
+          "title": "Authentication — Part 2 — Session-Based Authentication and Cookies",
+          "link": "https://itnext.io/authentication-part-2-session-based-authentication-and-cookies-a6d0e0fd97e1?source=rss----5b301f10ddcd---4",
+          "pubDate": "Mon, 02 Sep 2024 06:37:06 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Doried Abdallah",
+          "guid": "https://medium.com/p/a6d0e0fd97e1",
+          "categories": [
+            "web-development",
+            "cookies",
+            "authentication",
+            "software-engineering"
+          ],
+          "isoDate": "2024-09-02T06:37:06.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Wagner Franchin",
+          "title": "Setting up Orchestrator/Raft cluster with MySQL as backend serves using Docker containers",
+          "link": "https://itnext.io/setting-up-orchestrator-raft-cluster-with-mysql-as-backend-serves-using-docker-containers-a79869d36516?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 01 Sep 2024 19:58:50 GMT",
+          "dc:creator": "Wagner Franchin",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/a79869d36516",
+          "categories": [
+            "docker",
+            "high-availability",
+            "database",
+            "tutorial",
+            "mysql"
+          ],
+          "isoDate": "2024-09-01T19:58:50.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Zachary Lee",
+          "title": "Creating a React Hook for Rotating Images at Any Angle",
+          "link": "https://itnext.io/creating-a-react-hook-for-rotating-images-at-any-angle-c37425affca7?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 01 Sep 2024 19:28:28 GMT",
+          "dc:creator": "Zachary Lee",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/c37425affca7",
+          "categories": [
+            "typescript",
+            "front-end-development",
+            "react",
+            "web-development",
+            "javascript"
+          ],
+          "isoDate": "2024-09-01T19:28:28.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mahdi Mallaki",
+          "title": "Dockerfile-less and Daemon-less Build",
+          "link": "https://itnext.io/dockerfile-less-and-daemon-less-build-faa0513e320f?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 01 Sep 2024 07:35:47 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Mahdi Mallaki",
+          "guid": "https://medium.com/p/faa0513e320f",
+          "categories": [
+            "kaniko",
+            "security",
+            "docker",
+            "buildpack",
+            "devops"
+          ],
+          "isoDate": "2024-09-01T07:35:47.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Alex Pliutau",
           "title": "How to Deploy Preview Environments on Kubernetes with GitHub Actions",
@@ -802,109 +906,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "JavaScript UI Libraries — DHTMLX",
-          "title": "JavaScript News, Updates, and Tutorials: August 2024 Edition",
-          "link": "https://itnext.io/javascript-news-updates-and-tutorials-august-2024-edition-3e33a836af10?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 30 Aug 2024 13:59:52 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "JavaScript UI Libraries — DHTMLX",
-          "guid": "https://medium.com/p/3e33a836af10",
-          "categories": [
-            "javascript",
-            "web-development",
-            "typescript",
-            "tutorial",
-            "tips-and-tricks"
-          ],
-          "isoDate": "2024-08-30T13:59:52.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Andrew Blooman",
-          "title": "AI Generated Code vs DevSecOps. Shift Left with Code Scanning",
-          "link": "https://itnext.io/chatgpt-vs-snyk-the-devsecops-battle-with-ai-generated-code-0600bb443689?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 30 Aug 2024 11:53:02 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Andrew Blooman",
-          "guid": "https://medium.com/p/0600bb443689",
-          "categories": [
-            "snyk",
-            "aws",
-            "terraform",
-            "chatgpt",
-            "devsecops"
-          ],
-          "isoDate": "2024-08-30T11:53:02.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Dobri Kostadinov",
-          "title": "Jetpack Compose: Setup Retrofit and Ktor using Dagger Hilt for Dependency Injection",
-          "link": "https://itnext.io/jetpack-compose-setup-retrofit-and-ktor-using-dagger-hilt-for-dependency-injection-a57a8a1f9e44?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 30 Aug 2024 06:59:16 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Dobri Kostadinov",
-          "guid": "https://medium.com/p/a57a8a1f9e44",
-          "categories": [
-            "jetpack-compose",
-            "androiddev",
-            "android",
-            "android-development",
-            "mobile-app-development"
-          ],
-          "isoDate": "2024-08-30T06:59:16.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Benjamin Cane",
-          "title": "Don’t Log, Return Errors",
-          "link": "https://itnext.io/dont-log-return-errors-82dd6985fd99?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 29 Aug 2024 16:59:48 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Benjamin Cane",
-          "guid": "https://medium.com/p/82dd6985fd99",
-          "categories": [
-            "software-development",
-            "golang",
-            "software-engineering"
-          ],
-          "isoDate": "2024-08-29T16:59:48.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Artem Lajko",
-          "title": "GPTScript: Build Your Own Task-Specific AI-Agent from Scratch and Deploy It to Kubernetes",
-          "link": "https://itnext.io/gptscript-build-your-own-task-specific-ai-agent-from-scratch-and-deploy-it-to-kubernetes-30411b51a85d?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 29 Aug 2024 06:59:24 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Artem Lajko",
-          "guid": "https://medium.com/p/30411b51a85d",
-          "categories": [
-            "ai",
-            "llm",
-            "kubernetes",
-            "chatgpt",
-            "cloud-computing"
-          ],
-          "isoDate": "2024-08-29T06:59:24.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -921,186 +922,194 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Sun, 01 Sep 2024 06:53:36 GMT"
+      "lastBuildDate": "Mon, 02 Sep 2024 07:13:04 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "kanishkaisuru",
-          "title": "Problem Solving Patterns",
-          "link": "https://dev.to/kanishkaisuru/problem-solving-patterns-2je1",
-          "pubDate": "Sun, 01 Sep 2024 06:39:44 +0000",
-          "dc:creator": "kanishkaisuru",
+          "creator": "DbVisualizer",
+          "title": "How to Fix MySQL Shutdown Unexpectedly Error",
+          "link": "https://dev.to/dbvismarketing/how-to-fix-mysql-shutdown-unexpectedly-error-2im0",
+          "pubDate": "Mon, 02 Sep 2024 07:00:00 +0000",
+          "dc:creator": "DbVisualizer",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/kanishkaisuru/problem-solving-patterns-2je1",
-          "isoDate": "2024-09-01T06:39:44.000Z",
+          "guid": "https://dev.to/dbvismarketing/how-to-fix-mysql-shutdown-unexpectedly-error-2im0",
+          "isoDate": "2024-09-02T07:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ivelin Yanev",
-          "title": "Memory Management in GraalVM Native Image",
-          "link": "https://dev.to/yanev/memory-management-in-graalvm-native-image-4nbe",
-          "pubDate": "Sun, 01 Sep 2024 06:36:17 +0000",
-          "dc:creator": "Ivelin Yanev",
+          "creator": "lvfm",
+          "title": "NextJS Authentication Boilerplate from \"scratch\"",
+          "link": "https://dev.to/lovefrom/nextjs-authentication-boilerplate-9h2",
+          "pubDate": "Mon, 02 Sep 2024 06:48:17 +0000",
+          "dc:creator": "lvfm",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/yanev/memory-management-in-graalvm-native-image-4nbe",
+          "guid": "https://dev.to/lovefrom/nextjs-authentication-boilerplate-9h2",
           "categories": [
-            "java",
-            "graalvm",
-            "jdk",
-            "jvm"
+            "devchallenge",
+            "neonchallenge",
+            "postgres",
+            "database"
           ],
-          "isoDate": "2024-09-01T06:36:17.000Z",
+          "isoDate": "2024-09-02T06:48:17.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Buddhiraj Sahu",
-          "title": "Using PGvector with your Django App",
-          "link": "https://dev.to/buddhiraz/using-pgvector-with-your-django-app-2o3j",
-          "pubDate": "Sun, 01 Sep 2024 06:34:52 +0000",
-          "dc:creator": "Buddhiraj Sahu",
+          "creator": "zenstok",
+          "title": "Part 3/3: How to Implement Refresh Tokens through Http-Only Cookie in NestJS and React",
+          "link": "https://dev.to/zenstok/part-33-how-to-implement-refresh-tokens-through-http-only-cookie-in-nestjs-and-react-265e",
+          "pubDate": "Mon, 02 Sep 2024 06:45:11 +0000",
+          "dc:creator": "zenstok",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/buddhiraz/using-pgvector-with-your-django-app-2o3j",
-          "isoDate": "2024-09-01T06:34:52.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "abuabdelrahman1413",
-          "title": "📚 مفهوم البرمجة الشيئية في JavaScript: البروتوتايب والفئات 🚀",
-          "link": "https://dev.to/abuabdelrahman1413/mfhwm-lbrmj-lshyyy-fy-javascript-lbrwtwtyb-wlfyt-4ic0",
-          "pubDate": "Sun, 01 Sep 2024 06:34:37 +0000",
-          "dc:creator": "abuabdelrahman1413",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/abuabdelrahman1413/mfhwm-lbrmj-lshyyy-fy-javascript-lbrwtwtyb-wlfyt-4ic0",
+          "guid": "https://dev.to/zenstok/part-33-how-to-implement-refresh-tokens-through-http-only-cookie-in-nestjs-and-react-265e",
           "categories": [
             "webdev",
-            "javascript",
-            "oop"
+            "node",
+            "nestjs",
+            "react"
           ],
-          "isoDate": "2024-09-01T06:34:37.000Z",
+          "isoDate": "2024-09-02T06:45:11.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "abuabdelrahman1413",
-          "title": "📚 مفهوم البرمجة الشيئية في JavaScript: البروتوتايب والفئات 🚀",
-          "link": "https://dev.to/abuabdelrahman1413/mfhwm-lbrmj-lshyyy-fy-javascript-lbrwtwtyb-wlfyt-5emh",
-          "pubDate": "Sun, 01 Sep 2024 06:34:37 +0000",
-          "dc:creator": "abuabdelrahman1413",
+          "creator": "Spruce Emmanuel",
+          "title": "Building SmartInbox: My Nylas Journey",
+          "link": "https://dev.to/spruceemma/building-smartinbox-my-nylas-journey-34nm",
+          "pubDate": "Mon, 02 Sep 2024 06:43:05 +0000",
+          "dc:creator": "Spruce Emmanuel",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/abuabdelrahman1413/mfhwm-lbrmj-lshyyy-fy-javascript-lbrwtwtyb-wlfyt-5emh",
+          "guid": "https://dev.to/spruceemma/building-smartinbox-my-nylas-journey-34nm",
           "categories": [
-            "webdev",
-            "javascript",
-            "oop"
+            "devchallenge",
+            "nylaschallenge",
+            "api",
+            "ai"
           ],
-          "isoDate": "2024-09-01T06:34:37.000Z",
+          "isoDate": "2024-09-02T06:43:05.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Pratik Tamhane",
-          "title": "Jony Ive: The former Chief Design 🎨Officer at Apple",
-          "link": "https://dev.to/uicraft_by_pratik/jony-ive-the-former-chief-design-officer-at-apple-b1i",
-          "pubDate": "Sun, 01 Sep 2024 06:33:58 +0000",
-          "dc:creator": "Pratik Tamhane",
+          "creator": "Chris Lojniewski",
+          "title": "Optimizing Performance in React Native App",
+          "link": "https://dev.to/pagepro_agency/optimizing-performance-in-react-native-app-3d67",
+          "pubDate": "Mon, 02 Sep 2024 06:37:37 +0000",
+          "dc:creator": "Chris Lojniewski",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/uicraft_by_pratik/jony-ive-the-former-chief-design-officer-at-apple-b1i",
+          "guid": "https://dev.to/pagepro_agency/optimizing-performance-in-react-native-app-3d67",
           "categories": [
-            "biography",
-            "webdev",
-            "beginners",
-            "learning"
+            "reactnative",
+            "mobile",
+            "coding",
+            "tutorial"
           ],
-          "isoDate": "2024-09-01T06:33:58.000Z",
+          "isoDate": "2024-09-02T06:37:37.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Kanavsingh",
-          "title": "Day 21: Resuming the DevOps Journey – Understanding AWS Monitoring and Logging",
-          "link": "https://dev.to/singh_in_cloud/day-21-resuming-the-devops-journey-understanding-aws-monitoring-and-logging-4oeb",
-          "pubDate": "Sun, 01 Sep 2024 06:29:40 +0000",
-          "dc:creator": "Kanavsingh",
+          "creator": "Valentine Sean Chanengeta",
+          "title": "Flask Neon Kit: The extension which automatically generates CRUD endpoints",
+          "link": "https://dev.to/valentinesean22/flask-neon-kit-the-extension-which-automatically-generates-crud-endpoints-7oi",
+          "pubDate": "Mon, 02 Sep 2024 06:30:43 +0000",
+          "dc:creator": "Valentine Sean Chanengeta",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/singh_in_cloud/day-21-resuming-the-devops-journey-understanding-aws-monitoring-and-logging-4oeb",
-          "isoDate": "2024-09-01T06:29:40.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ahmed_Greynoon",
-          "title": "Asynchronous & synchronous Programming In Dart",
-          "link": "https://dev.to/a_greynoon/asynchronous-synchronous-programming-in-dart-5h95",
-          "pubDate": "Sun, 01 Sep 2024 06:24:58 +0000",
-          "dc:creator": "Ahmed_Greynoon",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/a_greynoon/asynchronous-synchronous-programming-in-dart-5h95",
+          "guid": "https://dev.to/valentinesean22/flask-neon-kit-the-extension-which-automatically-generates-crud-endpoints-7oi",
           "categories": [
-            "flutter",
-            "dart",
-            "mobiledevelopment",
-            "programming"
+            "devchallenge",
+            "neonchallenge",
+            "postgres",
+            "flask"
           ],
-          "isoDate": "2024-09-01T06:24:58.000Z",
+          "isoDate": "2024-09-02T06:30:43.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Mohammad Ezzeddin Pratama",
-          "title": "Read Input Until EOF (End-of-File) and Number Your Lines Effortlessly | Competitive Programming Java",
-          "link": "https://dev.to/ezzeddinp/read-input-until-eof-end-of-file-and-number-your-lines-effortlessly-competitive-programming-java-1egb",
-          "pubDate": "Sun, 01 Sep 2024 06:23:35 +0000",
-          "dc:creator": "Mohammad Ezzeddin Pratama",
+          "creator": "Bede E. Hampo",
+          "title": "Tutorial Hell - The Escape Routes",
+          "link": "https://dev.to/bede_hampo/tutorial-hell-the-escape-routes-7a2",
+          "pubDate": "Mon, 02 Sep 2024 06:28:58 +0000",
+          "dc:creator": "Bede E. Hampo",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ezzeddinp/read-input-until-eof-end-of-file-and-number-your-lines-effortlessly-competitive-programming-java-1egb",
-          "categories": [
-            "java",
-            "competativeprogramming",
-            "hackerrank",
-            "opensource"
-          ],
-          "isoDate": "2024-09-01T06:23:35.000Z",
+          "guid": "https://dev.to/bede_hampo/tutorial-hell-the-escape-routes-7a2",
+          "isoDate": "2024-09-02T06:28:58.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Waleedh Nihal",
-          "title": "Bootstrap Utilities 101",
-          "link": "https://dev.to/waleedh/bootstrap-utilities-101-2hkk",
-          "pubDate": "Sun, 01 Sep 2024 06:23:26 +0000",
-          "dc:creator": "Waleedh Nihal",
+          "creator": "Thomas H. Young",
+          "title": "5 Instagantt Alternatives That Can Do Better",
+          "link": "https://dev.to/thomasy0ung/5-instagantt-alternatives-that-can-do-better-574n",
+          "pubDate": "Mon, 02 Sep 2024 06:28:30 +0000",
+          "dc:creator": "Thomas H. Young",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/waleedh/bootstrap-utilities-101-2hkk",
+          "guid": "https://dev.to/thomasy0ung/5-instagantt-alternatives-that-can-do-better-574n",
           "categories": [
-            "beginners",
-            "webdev",
-            "bootstrap",
-            "css"
+            "projectmanagement",
+            "project",
+            "tools",
+            "ganttchart"
           ],
-          "isoDate": "2024-09-01T06:23:26.000Z",
+          "isoDate": "2024-09-02T06:28:30.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Kenneth Kimani",
+          "title": "Building an AI-Powered Email Assistant with Nylas and OpenAI",
+          "link": "https://dev.to/ki3ani/building-an-ai-powered-email-assistant-with-nylas-and-openai-4a5n",
+          "pubDate": "Mon, 02 Sep 2024 06:24:28 +0000",
+          "dc:creator": "Kenneth Kimani",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/ki3ani/building-an-ai-powered-email-assistant-with-nylas-and-openai-4a5n",
+          "categories": [
+            "devchallenge",
+            "nylaschallenge",
+            "api",
+            "ai"
+          ],
+          "isoDate": "2024-09-02T06:24:28.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Herko Alabi",
+          "title": "DEVChalellenge",
+          "link": "https://dev.to/herko_alabi_9ce6e58ad08ea/devchalellenge-3dln",
+          "pubDate": "Mon, 02 Sep 2024 06:24:07 +0000",
+          "dc:creator": "Herko Alabi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/herko_alabi_9ce6e58ad08ea/devchalellenge-3dln",
+          "categories": [
+            "devchallenge",
+            "neonchallenge",
+            "postgres",
+            "database"
+          ],
+          "isoDate": "2024-09-02T06:24:07.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
