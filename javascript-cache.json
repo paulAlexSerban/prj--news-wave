@@ -5,6 +5,25 @@
       "items": [
         {
           "creator": "David Walsh",
+          "title": "How to Download a YouTube Video or Channel",
+          "link": "https://davidwalsh.name/download-youtube-mp3",
+          "pubDate": "Wed, 04 Sep 2024 04:42:36 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "David Walsh",
+          "comments": "https://davidwalsh.name/download-youtube-mp3#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://davidwalsh.name/?p=27867",
+          "categories": [
+            "Quick Tips",
+            "Shell"
+          ],
+          "isoDate": "2024-09-04T04:42:36.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "David Walsh",
           "title": "How to Add a Header to a curl Request",
           "link": "https://davidwalsh.name/curl-add-header",
           "pubDate": "Sat, 03 Aug 2024 16:51:46 +0000",
@@ -78,24 +97,6 @@
           ],
           "isoDate": "2024-05-13T10:45:29.000Z",
           "summary": ""
-        },
-        {
-          "creator": "David Walsh",
-          "title": "How to Fix: Windows WASD Keys Reversed with Arrow Keys",
-          "link": "https://davidwalsh.name/fix-wasd-keys",
-          "pubDate": "Thu, 02 May 2024 01:55:27 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "David Walsh",
-          "comments": "https://davidwalsh.name/fix-wasd-keys#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://davidwalsh.name/?p=27850",
-          "categories": [
-            "Quick Tips"
-          ],
-          "isoDate": "2024-05-02T01:55:27.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://davidwalsh.name/feed",
@@ -107,10 +108,22 @@
       "generator": "https://wordpress.org/?v=5.0.2",
       "link": "https://davidwalsh.name",
       "language": "en-US",
-      "lastBuildDate": "Sat, 03 Aug 2024 16:51:47 +0000"
+      "lastBuildDate": "Wed, 04 Sep 2024 04:42:37 +0000"
     },
     "JavaScript Weekly": {
       "items": [
+        {
+          "title": "Reverse engineering minified JS with ChatGPT",
+          "link": "https://javascriptweekly.com/issues/703",
+          "pubDate": "Thu, 5 Sep 2024 00:00:00 +0000",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://javascriptweekly.com/issues/703",
+          "isoDate": "2024-09-05T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "JavaScript's Rust tool belt",
           "link": "https://javascriptweekly.com/issues/702",
@@ -143,18 +156,6 @@
           "contentSnippet": "",
           "guid": "https://javascriptweekly.com/issues/700",
           "isoDate": "2024-08-15T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "How Googlebot sees your JavaScript",
-          "link": "https://javascriptweekly.com/issues/699",
-          "pubDate": "Thu, 1 Aug 2024 00:00:00 +0000",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://javascriptweekly.com/issues/699",
-          "isoDate": "2024-08-01T00:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -234,6 +235,32 @@
     "AppSignal": {
       "items": [
         {
+          "title": "Integrating Stripe Into A One-Product Django Python Shop",
+          "link": "https://blog.appsignal.com/2024/09/04/integrating-stripe-into-a-one-product-django-python-shop.html",
+          "pubDate": "2024-09-04T00:00:00.000Z",
+          "author": "Francisco Macedo",
+          "content": "",
+          "contentSnippet": "",
+          "summary": "",
+          "id": "https://blog.appsignal.com/2024/09/04/integrating-stripe-into-a-one-product-django-python-shop.html",
+          "isoDate": "2024-09-04T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": ""
+        },
+        {
+          "title": "Scaling Your Phoenix App in Elixir with FLAME",
+          "link": "https://blog.appsignal.com/2024/09/03/scaling-your-phoenix-app-in-elixir-with-flame.html",
+          "pubDate": "2024-09-03T00:00:00.000Z",
+          "author": "Sapan Diwakar",
+          "content": "",
+          "contentSnippet": "",
+          "summary": "",
+          "id": "https://blog.appsignal.com/2024/09/03/scaling-your-phoenix-app-in-elixir-with-flame.html",
+          "isoDate": "2024-09-03T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": ""
+        },
+        {
           "title": "How to Handle Errors in Next.js for Node With the App Router",
           "link": "https://blog.appsignal.com/2024/08/28/how-to-handle-errors-in-nextjs-for-node-with-the-app-router.html",
           "pubDate": "2024-08-28T00:00:00.000Z",
@@ -271,38 +298,12 @@
           "isoDate": "2024-08-23T00:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": ""
-        },
-        {
-          "title": "Squash Your Ruby and Rails Bugs Faster",
-          "link": "https://blog.appsignal.com/2024/08/21/squash-your-ruby-and-rails-bugs-faster.html",
-          "pubDate": "2024-08-21T00:00:00.000Z",
-          "author": "Martin Streicher",
-          "content": "",
-          "contentSnippet": "",
-          "summary": "",
-          "id": "https://blog.appsignal.com/2024/08/21/squash-your-ruby-and-rails-bugs-faster.html",
-          "isoDate": "2024-08-21T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": ""
-        },
-        {
-          "title": "Monitor Node.js AMQP Brokers with AppSignal",
-          "link": "https://blog.appsignal.com/2024/08/21/monitor-nodejs-amqp-brokers-with-appsignal.html",
-          "pubDate": "2024-08-21T00:00:00.000Z",
-          "author": "Connor James",
-          "content": "",
-          "contentSnippet": "",
-          "summary": "",
-          "id": "https://blog.appsignal.com/2024/08/21/monitor-nodejs-amqp-brokers-with-appsignal.html",
-          "isoDate": "2024-08-21T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": ""
         }
       ],
       "link": "https://blog.appsignal.com",
       "feedUrl": "https://blog.appsignal.com/feed.xml",
       "title": "AppSignal",
-      "lastBuildDate": "2024-08-30T10:00:00+00:00"
+      "lastBuildDate": "2024-09-06T09:00:00+00:00"
     }
   }
 }
