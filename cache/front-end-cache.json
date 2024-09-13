@@ -5,6 +5,47 @@
       "items": [
         {
           "creator": "Geoff Graham",
+          "title": "What’s Old is New",
+          "link": "https://css-tricks.com/whats-old-is-new-2/",
+          "pubDate": "Thu, 12 Sep 2024 14:05:12 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Geoff Graham",
+          "comments": "https://css-tricks.com/whats-old-is-new-2/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://css-tricks.com/?p=380692",
+          "categories": [
+            "Articles",
+            "css fundamentals",
+            "deployment",
+            "standards"
+          ],
+          "isoDate": "2024-09-12T14:05:12.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Fatuma Abdullaho",
+          "title": "Two Ways to Create Custom Translated Messaging for HTML Forms",
+          "link": "https://css-tricks.com/two-ways-to-create-custom-translated-messaging-for-html-forms/",
+          "pubDate": "Wed, 11 Sep 2024 14:42:20 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Fatuma Abdullaho",
+          "comments": "https://css-tricks.com/two-ways-to-create-custom-translated-messaging-for-html-forms/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://css-tricks.com/?p=380325",
+          "categories": [
+            "Articles",
+            "forms",
+            "i18n"
+          ],
+          "isoDate": "2024-09-11T14:42:20.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Geoff Graham",
           "title": "Quick Hit #18",
           "link": "https://css-tricks.com/quick-hit-18/",
           "pubDate": "Tue, 10 Sep 2024 18:40:28 +0000",
@@ -121,46 +162,6 @@
           ],
           "isoDate": "2024-09-09T13:53:42.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Geoff Graham",
-          "title": "Quick Hit #16",
-          "link": "https://css-tricks.com/quick-hit-16/",
-          "pubDate": "Thu, 05 Sep 2024 16:04:28 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Geoff Graham",
-          "comments": "https://css-tricks.com/quick-hit-16/#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://css-tricks.com/?p=380340",
-          "categories": [
-            "Quick Hits",
-            "css fundamentals",
-            "semantics"
-          ],
-          "isoDate": "2024-09-05T16:04:28.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "Geoff Graham",
-          "title": "Quick Hit #15",
-          "link": "https://css-tricks.com/quick-hit-15/",
-          "pubDate": "Thu, 05 Sep 2024 16:02:26 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Geoff Graham",
-          "comments": "https://css-tricks.com/quick-hit-15/#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://css-tricks.com/?p=380298",
-          "categories": [
-            "Articles",
-            "Quick Hits",
-            "WordPress"
-          ],
-          "isoDate": "2024-09-05T16:02:26.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://css-tricks.com/feed/",
@@ -176,13 +177,25 @@
       },
       "title": "CSS-Tricks",
       "description": "Tips, Tricks, and Techniques on using Cascading Style Sheets.",
-      "generator": "https://wordpress.org/?v=6.6.1",
+      "generator": "https://wordpress.org/?v=6.6.2",
       "link": "https://css-tricks.com",
       "language": "en-US",
-      "lastBuildDate": "Tue, 10 Sep 2024 21:08:10 +0000"
+      "lastBuildDate": "Thu, 12 Sep 2024 14:05:21 +0000"
     },
     "CSS In Real Life": {
       "items": [
+        {
+          "title": "Logical Properties in Size Queries",
+          "link": "https://css-irl.info/logical-properties-in-size-queries/",
+          "pubDate": "2024-09-11T00:00:00.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "id": "https://css-irl.info/logical-properties-in-size-queries/",
+          "isoDate": "2024-09-11T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "The Problem With Surveys (and Why You Should Take This One)",
           "link": "https://css-irl.info/the-problem-with-surveys/",
@@ -230,24 +243,12 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "Modern CSS Layout is Awesome: Talking and Thinking About CSS Layout",
-          "link": "https://css-irl.info/modern-css-layout-is-awesome/",
-          "pubDate": "2024-06-18T00:00:00.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "id": "https://css-irl.info/modern-css-layout-is-awesome/",
-          "isoDate": "2024-06-18T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "link": "https://css-irl.info/rss.xml/",
       "feedUrl": "https://css-irl.info/rss.xml/",
       "title": "CSS In Real Life",
-      "lastBuildDate": "2024-08-30T00:00:00Z"
+      "lastBuildDate": "2024-09-11T00:00:00Z"
     },
     "A list Apart": {
       "items": [
@@ -448,13 +449,39 @@
       },
       "title": "Web Designer Depot",
       "description": "Web Design Resources and Tutorials",
-      "pubDate": "Wed, 11 Sep 2024 00:05:53 -0700",
+      "pubDate": "Fri, 13 Sep 2024 00:05:43 -0700",
       "link": "https://www.webdesignerdepot.com",
       "language": "en-us",
       "copyright": "Copyright Web Designer Depot, all rights reserved."
     },
     "Brad Frost": {
       "items": [
+        {
+          "title": "Creative Exploration",
+          "link": "https://bradfrost.com/blog/post/creative-exploration/",
+          "pubDate": "2024-09-12T16:10:16.000Z",
+          "author": "Brad Frost",
+          "content": "",
+          "contentSnippet": "",
+          "summary": "",
+          "id": "https://bradfrost.com/?p=20988",
+          "isoDate": "2024-09-12T16:10:16.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": ""
+        },
+        {
+          "title": "Popcorn Style &#8211; Meetings that make you smile.",
+          "link": "https://bradfrost.com/blog/link/popcorn-style-meetings-that-make-you-smile/",
+          "pubDate": "2024-09-11T16:16:48.000Z",
+          "author": "Brad Frost",
+          "content": "",
+          "contentSnippet": "",
+          "summary": "",
+          "id": "https://bradfrost.com/?p=20986",
+          "isoDate": "2024-09-11T16:16:48.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": ""
+        },
         {
           "title": "Every webpage deserves to be a place (Interconnected)",
           "link": "https://bradfrost.com/blog/link/every-webpage-deserves-to-be-a-place-interconnected/",
@@ -493,38 +520,12 @@
           "isoDate": "2024-08-29T18:58:01.000Z",
           "content:encoded": "",
           "content:encodedSnippet": ""
-        },
-        {
-          "title": "Frostapalooza – Chris Coyier",
-          "link": "https://bradfrost.com/blog/link/frostapalooza-chris-coyier/",
-          "pubDate": "2024-08-27T03:03:18.000Z",
-          "author": "Brad Frost",
-          "content": "",
-          "contentSnippet": "",
-          "summary": "",
-          "id": "https://bradfrost.com/?p=20933",
-          "isoDate": "2024-08-27T03:03:18.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": ""
-        },
-        {
-          "title": "Raw-dogging websites",
-          "link": "https://bradfrost.com/blog/post/raw-dogging-websites/",
-          "pubDate": "2024-08-22T14:15:35.000Z",
-          "author": "Brad Frost",
-          "content": "",
-          "contentSnippet": "",
-          "summary": "",
-          "id": "https://bradfrost.com/?p=20930",
-          "isoDate": "2024-08-22T14:15:35.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": ""
         }
       ],
       "link": "https://bradfrost.com",
       "feedUrl": "https://bradfrost.com/feed/atom/",
       "title": "Brad Frost",
-      "lastBuildDate": "2024-09-06T14:18:13Z"
+      "lastBuildDate": "2024-09-12T16:10:16Z"
     },
     "Jonathan Suh": {
       "items": [
@@ -672,6 +673,18 @@
     "Dave Rupert": {
       "items": [
         {
+          "title": "Finding questions and answers about why I like books",
+          "link": "https://daverupert.com/2024/09/fuck-the-book-a-week-club/",
+          "pubDate": "Thu, 12 Sep 2024 14:28:00 +0000",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://daverupert.com/2024/09/fuck-the-book-a-week-club/",
+          "isoDate": "2024-09-12T14:28:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "The Dev Tools Performance Monitor Panel",
           "link": "https://daverupert.com/2024/09/dev-tools-performance-monitor-panel/",
           "pubDate": "Tue, 03 Sep 2024 14:48:00 +0000",
@@ -715,18 +728,6 @@
           "contentSnippet": "",
           "guid": "https://daverupert.com/2024/07/summer-rental/",
           "isoDate": "2024-07-18T23:10:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Mini 4WD",
-          "link": "https://daverupert.com/2024/06/mini-4wd/",
-          "pubDate": "Sun, 30 Jun 2024 21:08:00 +0000",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://daverupert.com/2024/06/mini-4wd/",
-          "isoDate": "2024-06-30T21:08:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1040,6 +1041,18 @@
     "Go Make Things": {
       "items": [
         {
+          "title": "The world we're designing",
+          "link": "https://gomakethings.com/the-world-were-designing/",
+          "pubDate": "Wed, 11 Sep 2024 10:30:00 -0400",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://gomakethings.com/the-world-were-designing/",
+          "isoDate": "2024-09-11T14:30:00.000Z",
+          "summary": ""
+        },
+        {
           "title": "LLMs aren't useless, but AI isn't real",
           "link": "https://gomakethings.com/llms-arent-useless-but-ai-isnt-real/",
           "pubDate": "Tue, 10 Sep 2024 10:30:00 -0400",
@@ -1086,18 +1099,6 @@
           "guid": "https://gomakethings.com/ai-myth-it-lets-me-write-code-i-cant-on-my-own/",
           "isoDate": "2024-09-05T14:30:00.000Z",
           "summary": ""
-        },
-        {
-          "title": "AI myth: it lets me move faster",
-          "link": "https://gomakethings.com/ai-myth-it-lets-me-move-faster/",
-          "pubDate": "Wed, 04 Sep 2024 10:30:00 -0400",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://gomakethings.com/ai-myth-it-lets-me-move-faster/",
-          "isoDate": "2024-09-04T14:30:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://gomakethings.com/feed/index.xml",
@@ -1109,7 +1110,7 @@
       "generator": "Hugo -- gohugo.io",
       "link": "https://gomakethings.com/articles",
       "language": "en-us",
-      "lastBuildDate": "Tue, 10 Sep 2024 17:15:32 EST"
+      "lastBuildDate": "Thu, 12 Sep 2024 10:35:36 EST"
     }
   }
 }
