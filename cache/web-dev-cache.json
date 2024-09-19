@@ -4,6 +4,23 @@
     "SitePoint": {
       "items": [
         {
+          "creator": "John O’Neill",
+          "title": "Building A 300 Channel Video Encoding Server",
+          "link": "https://www.sitepoint.com/building-a-300-channel-video-encoding-server/?utm_source=rss",
+          "pubDate": "Sun, 15 Sep 2024 22:45:00 GMT",
+          "dc:creator": "John O’Neill",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "/?p=481125",
+          "categories": [
+            "Web"
+          ],
+          "isoDate": "2024-09-15T22:45:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Maria Antonietta Perna",
           "title": "Five Ways to Lazy Load Images for Better Website Performance",
           "link": "https://www.sitepoint.com/five-techniques-lazy-load-images-website-performance/?utm_source=rss",
@@ -77,24 +94,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Vultr",
-          "title": "How to Deploy Flask Applications on Vultr",
-          "link": "https://www.sitepoint.com/how-to-deploy-flask-applications-on-vultr/?utm_source=rss",
-          "pubDate": "Tue, 27 Aug 2024 05:32:03 GMT",
-          "dc:creator": "Vultr",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "/?p=481164",
-          "categories": [
-            "Programming",
-            "Python"
-          ],
-          "isoDate": "2024-08-27T05:32:03.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.sitepoint.com/sitepoint.rss",
@@ -105,10 +104,68 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Mon, 16 Sep 2024 05:02:42 GMT"
+      "lastBuildDate": "Thu, 19 Sep 2024 05:02:20 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
+        {
+          "creator": "Paull Young",
+          "title": "The 10 best tools to green your software",
+          "link": "https://github.blog/open-source/social-impact/the-10-best-tools-to-green-your-software/",
+          "pubDate": "Wed, 18 Sep 2024 16:00:52 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Paull Young",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=79813",
+          "categories": [
+            "Open Source",
+            "Social impact",
+            "sustainability"
+          ],
+          "isoDate": "2024-09-18T16:00:52.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Felix Reda",
+          "title": "Software as a public good",
+          "link": "https://github.blog/open-source/social-impact/software-as-a-public-good/",
+          "pubDate": "Wed, 18 Sep 2024 15:00:46 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Felix Reda",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=79810",
+          "categories": [
+            "Open Source",
+            "Social impact",
+            "GitHub Policy"
+          ],
+          "isoDate": "2024-09-18T15:00:46.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Shuyin Zhao",
+          "title": "Enhancing the GitHub Copilot ecosystem with Copilot Extensions, now in public beta",
+          "link": "https://github.blog/news-insights/product-news/enhancing-the-github-copilot-ecosystem-with-copilot-extensions-now-in-public-beta/",
+          "pubDate": "Tue, 17 Sep 2024 16:00:52 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Shuyin Zhao",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=79787",
+          "categories": [
+            "News & insights",
+            "Product",
+            "GitHub Copilot",
+            "GitHub Copilot Extensions"
+          ],
+          "isoDate": "2024-09-17T16:00:52.000Z",
+          "summary": ""
+        },
         {
           "creator": "Mario Rodriguez",
           "title": "First Look: Exploring OpenAI o1 in GitHub Copilot",
@@ -150,69 +207,6 @@
           ],
           "isoDate": "2024-09-11T19:00:07.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Scott Arbeit",
-          "title": "Streamlining your MLOps pipeline with GitHub Actions and Arm64 runners",
-          "link": "https://github.blog/enterprise-software/ci-cd/streamlining-your-mlops-pipeline-with-github-actions-and-arm64-runners/",
-          "pubDate": "Wed, 11 Sep 2024 16:00:58 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Scott Arbeit",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=79720",
-          "categories": [
-            "CI/CD",
-            "Enterprise software",
-            "Arm",
-            "data science",
-            "machine learning",
-            "mlops",
-            "PyTorch"
-          ],
-          "isoDate": "2024-09-11T16:00:58.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "Shuyin Zhao",
-          "title": "Fine-tuned models are now in limited public beta for GitHub Copilot Enterprise",
-          "link": "https://github.blog/news-insights/product-news/fine-tuned-models-are-now-in-limited-public-beta-for-github-copilot-enterprise/",
-          "pubDate": "Tue, 10 Sep 2024 16:00:29 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Shuyin Zhao",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=79698",
-          "categories": [
-            "News & insights",
-            "Product",
-            "fine-tuning",
-            "generative AI",
-            "large language models"
-          ],
-          "isoDate": "2024-09-10T16:00:29.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "Kedasha Kerr",
-          "title": "Beginner’s guide to GitHub: Setting up and securing your profile",
-          "link": "https://github.blog/developer-skills/github/beginners-guide-to-github-setting-up-and-securing-your-profile/",
-          "pubDate": "Mon, 09 Sep 2024 13:00:29 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Kedasha Kerr",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=79674",
-          "categories": [
-            "Developer skills",
-            "GitHub",
-            "GitHub for beginners"
-          ],
-          "isoDate": "2024-09-09T13:00:29.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://github.blog/feed/",
@@ -231,7 +225,7 @@
       "generator": "https://wordpress.org/?v=6.6.2",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Thu, 12 Sep 2024 18:05:57 +0000"
+      "lastBuildDate": "Wed, 18 Sep 2024 17:33:17 +0000"
     },
     "GitHub Blog Atom": {
       "items": [
@@ -322,6 +316,44 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Myriam Frisano)",
+          "title": "SVG Coding Examples: Useful Recipes For Writing Vectors By Hand",
+          "link": "https://smashingmagazine.com/2024/09/svg-coding-examples-recipes-writing-vectors-by-hand/",
+          "pubDate": "Wed, 18 Sep 2024 09:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Myriam Frisano)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/svg-coding-examples-recipes-writing-vectors-by-hand/svg-coding-examples-recipes-writing-vectors-by-hand.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/09/svg-coding-examples-recipes-writing-vectors-by-hand/",
+          "isoDate": "2024-09-18T09:00:00.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "hello@smashingmagazine.com (Mihai Cora)",
+          "title": "Creating Custom Lottie Animations With SVGator",
+          "link": "https://smashingmagazine.com/2024/09/creating-custom-lottie-animations-svgator/",
+          "pubDate": "Tue, 17 Sep 2024 11:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Mihai Cora)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/creating-custom-lottie-animations-svgator/creating-custom-lottie-animations-svgator.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/09/creating-custom-lottie-animations-svgator/",
+          "isoDate": "2024-09-17T11:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Paul Scanlon)",
           "title": "How To Build Custom Data Visualizations Using Luzmo Flex",
           "link": "https://smashingmagazine.com/2024/09/how-build-custom-data-visualizations-luzmo-flex/",
@@ -377,44 +409,6 @@
           "guid": "https://smashingmagazine.com/2024/09/how-create-weekly-google-analytics-report-posts-slack/",
           "isoDate": "2024-09-06T17:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Philip Braunen)",
-          "title": "Sticky Headers And Full-Height Elements: A Tricky Combination",
-          "link": "https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/",
-          "pubDate": "Thu, 05 Sep 2024 09:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Philip Braunen)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/sticky-headers-full-height-elements-tricky-combination/sticky-headers-full-height-elements-tricky-combination.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/09/sticky-headers-full-height-elements-tricky-combination/",
-          "isoDate": "2024-09-05T09:00:00.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Paul Boag)",
-          "title": "The Big Difference Between Digital Product And Web Design",
-          "link": "https://smashingmagazine.com/2024/09/big-difference-between-digital-product-and-web-design/",
-          "pubDate": "Tue, 03 Sep 2024 09:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/big-difference-between-digital-product-and-web-design/big-difference-between-digital-product-and-web-design.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/09/big-difference-between-digital-product-and-web-design/",
-          "isoDate": "2024-09-03T09:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -432,11 +426,72 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Mon, 16 Sep 2024 06:35:07 GMT",
+      "lastBuildDate": "Thu, 19 Sep 2024 06:34:39 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "Exploration of On-Scroll Layout Formations",
+          "link": "https://tympanus.net/codrops/2024/09/18/exploration-of-on-scroll-layout-formations/",
+          "pubDate": "Wed, 18 Sep 2024 13:29:59 +0000",
+          "enclosure": {
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/09/steward.mp4?x62774",
+            "length": "446182",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=80656",
+          "categories": [
+            "Playground",
+            "grid",
+            "scroll"
+          ],
+          "isoDate": "2024-09-18T13:29:59.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Manoela Ilic",
+          "title": "Collective #864",
+          "link": "https://tympanus.net/codrops/collective/collective-864/",
+          "pubDate": "Tue, 17 Sep 2024 11:00:00 +0000",
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?post_type=collective&p=80491",
+          "isoDate": "2024-09-17T11:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Andrea Jelić",
+          "title": "Designer Spotlight: Andrea Jelić",
+          "link": "https://tympanus.net/codrops/2024/09/16/designer-spotlight-andrea-jelic/",
+          "pubDate": "Mon, 16 Sep 2024 10:09:52 +0000",
+          "enclosure": {
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/09/AH-Home-01–Framed_opt.mp4?x62774",
+            "length": "3339136",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Andrea Jelić",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=80479",
+          "categories": [
+            "Articles",
+            "designer-spotlight"
+          ],
+          "isoDate": "2024-09-16T10:09:52.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Manoela Ilic",
           "title": "Collective #863",
@@ -475,61 +530,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "Collective #862",
-          "link": "https://tympanus.net/codrops/collective/collective-862/",
-          "pubDate": "Tue, 10 Sep 2024 11:00:00 +0000",
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?post_type=collective&p=80477",
-          "isoDate": "2024-09-10T11:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Hexagon Agency",
-          "title": "Case Study: Mount Media",
-          "link": "https://tympanus.net/codrops/2024/09/10/case-study-mount-media/",
-          "pubDate": "Tue, 10 Sep 2024 10:21:21 +0000",
-          "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/09/logo-animation-mount-media.mp4?x96528",
-            "length": "11055933",
-            "type": "video/mp4"
-          },
-          "dc:creator": "Hexagon Agency",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=80323",
-          "categories": [
-            "Articles",
-            "3d",
-            "case-study"
-          ],
-          "isoDate": "2024-09-10T10:21:21.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "advertiser",
-          "title": "From Design to Development Without Translation: How to Find the Real Source of Truth",
-          "link": "https://tympanus.net/codrops/2024/09/09/from-design-to-development-without-translation-how-to-find-the-real-source-of-truth/",
-          "pubDate": "Mon, 09 Sep 2024 10:37:38 +0000",
-          "dc:creator": "advertiser",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=80303",
-          "categories": [
-            "Articles"
-          ],
-          "isoDate": "2024-09-09T10:37:38.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -537,153 +537,150 @@
         "self": "https://tympanus.net/codrops/feed/"
       },
       "title": "Codrops",
-      "description": "Keeping web professionals inspired & up-to-date since 2009",
+      "description": "Fueling web creativity since 2009",
       "generator": "https://wordpress.org/?v=6.6.2",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Wed, 11 Sep 2024 10:01:59 +0000"
+      "lastBuildDate": "Wed, 18 Sep 2024 13:30:01 +0000"
     },
     "DZone": {
       "items": [
         {
-          "creator": "Ash singh",
-          "title": "Releasing MuleSoft API",
-          "link": "https://dzone.com/articles/releasing-mulesoft-api",
-          "pubDate": "Fri, 13 Sep 2024 21:00:08 GMT",
-          "dc:creator": "Ash singh",
+          "creator": "Nakul Pandey",
+          "title": "Enhancing Few-Shot Text Classification With Noisy Channel Language Model Prompting",
+          "link": "https://dzone.com/articles/enhancing-few-shot-text-classification-with-noisy",
+          "pubDate": "Wed, 18 Sep 2024 20:00:06 GMT",
+          "dc:creator": "Nakul Pandey",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3271760",
-          "isoDate": "2024-09-13T21:00:08.000Z",
+          "guid": "https://dzone.com/articles/3490406",
+          "isoDate": "2024-09-18T20:00:06.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Harsh Daiya",
-          "title": "Setting Up Secure Data Lakes for Starlight Financial: A Guide to AWS Implementation",
-          "link": "https://dzone.com/articles/setting-up-secure-data-lakes-for-starlight-financi",
-          "pubDate": "Fri, 13 Sep 2024 19:30:05 GMT",
-          "dc:creator": "Harsh Daiya",
+          "creator": "Usama Jamil",
+          "title": "Performing Advanced Facebook Event Data Analysis With a Vector Database",
+          "link": "https://dzone.com/articles/advanced-facebook-event-data-analysis",
+          "pubDate": "Wed, 18 Sep 2024 19:00:06 GMT",
+          "dc:creator": "Usama Jamil",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3492987",
-          "isoDate": "2024-09-13T19:30:05.000Z",
+          "guid": "https://dzone.com/articles/3491511",
+          "isoDate": "2024-09-18T19:00:06.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Wasia Maya",
-          "title": "Synchronizing Files from Maximo Application Suite 8 To a Shared Drive Without OpenShift Integration",
-          "link": "https://dzone.com/articles/synchronizing-files-from-maximo-app-suite-8",
-          "pubDate": "Fri, 13 Sep 2024 18:30:05 GMT",
-          "dc:creator": "Wasia Maya",
+          "creator": "Varun Dixit",
+          "title": "Optimizing Cost and Carbon Footprint With Smart Scaling Using SQS Queue Triggers: Part 1",
+          "link": "https://dzone.com/articles/optimising-cost-and-carbon-footprint-with-smart-sc",
+          "pubDate": "Wed, 18 Sep 2024 18:00:02 GMT",
+          "dc:creator": "Varun Dixit",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3489082",
-          "isoDate": "2024-09-13T18:30:05.000Z",
+          "guid": "https://dzone.com/articles/3491468",
+          "isoDate": "2024-09-18T18:00:02.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Nicolas Fränkel",
-          "title": "A Short History of AJAX and SSR",
-          "link": "https://dzone.com/articles/a-short-history-of-ajax-and-ssr",
-          "pubDate": "Fri, 13 Sep 2024 17:00:07 GMT",
-          "dc:creator": "Nicolas Fränkel",
+          "creator": "Anton Belyaev",
+          "title": "Kafka Message Testing",
+          "link": "https://dzone.com/articles/kafka-message-testing",
+          "pubDate": "Wed, 18 Sep 2024 17:15:06 GMT",
+          "dc:creator": "Anton Belyaev",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3494752",
-          "isoDate": "2024-09-13T17:00:07.000Z",
+          "guid": "https://dzone.com/articles/3492645",
+          "isoDate": "2024-09-18T17:15:06.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Favour Efeoghene",
-          "title": "The Critical Role of Data at Rest Encryption in Cybersecurity",
-          "link": "https://dzone.com/articles/role-of-data-at-rest-encryption-in-cybersecurity",
-          "pubDate": "Fri, 13 Sep 2024 15:30:06 GMT",
-          "dc:creator": "Favour Efeoghene",
+          "creator": "Vijay Pitchumani",
+          "title": "Securing Your Enterprise With an Identity-First Security Strategy",
+          "link": "https://dzone.com/articles/securing-your-enterprise-with-an-identity-first-se",
+          "pubDate": "Wed, 18 Sep 2024 16:45:05 GMT",
+          "dc:creator": "Vijay Pitchumani",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3491466",
-          "isoDate": "2024-09-13T15:30:06.000Z",
+          "guid": "https://dzone.com/articles/3487203",
+          "isoDate": "2024-09-18T16:45:05.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ram Lakshmanan",
-          "title": "How To Solve OutOfMemoryError: Metaspace",
-          "link": "https://dzone.com/articles/how-to-solve-outofmemoryerror-metaspace",
-          "pubDate": "Fri, 13 Sep 2024 14:00:07 GMT",
-          "dc:creator": "Ram Lakshmanan",
+          "creator": "Sravanthi Bhaskara",
+          "title": "Common Mistakes While Implementing Self-Recursive Calls in MuleSoft [Video]",
+          "link": "https://dzone.com/articles/common-mistakes-self-recursive-calls",
+          "pubDate": "Wed, 18 Sep 2024 16:15:06 GMT",
+          "dc:creator": "Sravanthi Bhaskara",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3493960",
-          "isoDate": "2024-09-13T14:00:07.000Z",
+          "guid": "https://dzone.com/articles/3494698",
+          "isoDate": "2024-09-18T16:15:06.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ryan Kh",
-          "title": "Understanding the Purposes of Key Terraform Files and How to Structure Their Folders",
-          "link": "https://dzone.com/articles/understanding-the-purposes-of-key-terraform-files",
-          "pubDate": "Thu, 12 Sep 2024 17:00:07 GMT",
-          "dc:creator": "Ryan Kh",
+          "creator": "Aneesh Gopalakrishnan",
+          "title": "Zero To AI Hero, Part 4: Harness Local Language Models With Semantic Kernel; Your AI, Your Rules",
+          "link": "https://dzone.com/articles/zero-to-ai-hero-part-four-local-language-models",
+          "pubDate": "Wed, 18 Sep 2024 15:15:06 GMT",
+          "dc:creator": "Aneesh Gopalakrishnan",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3492391",
-          "isoDate": "2024-09-12T17:00:07.000Z",
+          "guid": "https://dzone.com/articles/3493768",
+          "isoDate": "2024-09-18T15:15:06.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Alexsandro Souza",
-          "title": "Designing a Secure Architecture for Distributed Systems",
-          "link": "https://dzone.com/articles/designing-a-secure-architecture-for-distributed-systems",
-          "pubDate": "Thu, 12 Sep 2024 15:00:08 GMT",
-          "dc:creator": "Alexsandro Souza",
+          "creator": "Lohith Kumar Paripati",
+          "title": "Case Study: Scaling Intuit’s Revenue Platform for Global Commerce",
+          "link": "https://dzone.com/articles/case-study-scaling-intuits-revenue-platform",
+          "pubDate": "Wed, 18 Sep 2024 14:45:06 GMT",
+          "dc:creator": "Lohith Kumar Paripati",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3488153",
-          "isoDate": "2024-09-12T15:00:08.000Z",
+          "guid": "https://dzone.com/articles/3494040",
+          "isoDate": "2024-09-18T14:45:06.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Akhilesh Joshi",
-          "title": "How To Build an OpenAI Custom GPT With a Third-Party API",
-          "link": "https://dzone.com/articles/how-to-build-an-openai-custom-gpt-with-3rd-party-api",
-          "pubDate": "Thu, 12 Sep 2024 14:00:06 GMT",
-          "dc:creator": "Akhilesh Joshi",
+          "creator": "Leon Adato",
+          "title": "Nobody Cares About Security",
+          "link": "https://dzone.com/articles/nobody-cares-about-security",
+          "pubDate": "Wed, 18 Sep 2024 14:15:05 GMT",
+          "dc:creator": "Leon Adato",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3489158",
-          "isoDate": "2024-09-12T14:00:06.000Z",
+          "guid": "https://dzone.com/articles/3494789",
+          "isoDate": "2024-09-18T14:15:05.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Melissa Habit",
-          "title": "Open-Source Data Management Practices and Patterns",
-          "link": "https://dzone.com/refcardz/open-source-data-management-practices-and-patterns",
-          "pubDate": "Thu, 12 Sep 2024 13:13:03 GMT",
-          "dc:creator": "Melissa Habit",
+          "creator": "Pavel Novik",
+          "title": "Test Automation for Mobile Apps: Strategy for Improved Testing Results",
+          "link": "https://dzone.com/articles/test-automation-for-mobile-apps",
+          "pubDate": "Tue, 17 Sep 2024 19:15:01 GMT",
+          "dc:creator": "Pavel Novik",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/refcardz/3493903",
-          "categories": [
-            "data management"
-          ],
-          "isoDate": "2024-09-12T13:13:03.000Z",
+          "guid": "https://dzone.com/articles/3493738",
+          "isoDate": "2024-09-17T19:15:01.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -700,213 +697,212 @@
     "itnext": {
       "items": [
         {
+          "creator": "Andrew Blooman",
+          "title": "Container Security Standards",
+          "link": "https://itnext.io/container-security-standards-c6da99584d88?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 18 Sep 2024 21:21:24 GMT",
+          "dc:creator": "Andrew Blooman",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/c6da99584d88",
+          "categories": [
+            "docker",
+            "devops",
+            "containers",
+            "devsecops",
+            "security"
+          ],
+          "isoDate": "2024-09-18T21:21:24.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Emilien Lancelot",
+          "title": "The long road to an Agentic framework that Won’t Burn You Out",
+          "link": "https://itnext.io/the-long-road-to-an-agentic-framework-that-wont-burn-you-out-ec2933cf8c1f?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 18 Sep 2024 19:59:09 GMT",
+          "dc:creator": "Emilien Lancelot",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/ec2933cf8c1f",
+          "categories": [
+            "open-source",
+            "llm",
+            "crew-ai",
+            "langchain",
+            "openai"
+          ],
+          "isoDate": "2024-09-18T19:59:09.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Dylan Cooper ",
+          "title": "C++ Releases Revolutionary Proposal: “Incorporating” Rust’s Best, Is Memory Safety About to Become…",
+          "link": "https://itnext.io/c-releases-revolutionary-proposal-incorporating-rusts-best-is-memory-safety-about-to-become-2b1386fe2aad?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 18 Sep 2024 16:13:02 GMT",
+          "dc:creator": "Dylan Cooper ",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/2b1386fe2aad",
+          "categories": [
+            "programming-languages",
+            "technews",
+            "rust",
+            "safety",
+            "technology"
+          ],
+          "isoDate": "2024-09-18T16:13:02.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Denys Poltorak",
+          "title": "Services",
+          "link": "https://itnext.io/services-ab8a45878621?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 18 Sep 2024 14:49:01 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Denys Poltorak",
+          "guid": "https://medium.com/p/ab8a45878621",
+          "categories": [
+            "design-patterns",
+            "software-engineering",
+            "software-architecture",
+            "software-design",
+            "system-architecture"
+          ],
+          "isoDate": "2024-09-18T14:49:01.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Ivan Franchin",
-          "title": "Securing a Micronaut REST API using Keycloak for IAM",
-          "link": "https://itnext.io/securing-a-micronaut-rest-api-using-keycloak-for-iam-5e812eb46594?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 16 Sep 2024 07:02:07 GMT",
+          "title": "Configuring Network Policies in Kubernetes Namespaces",
+          "link": "https://itnext.io/configuring-network-policies-in-kubernetes-namespaces-136438194698?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 18 Sep 2024 07:20:50 GMT",
           "dc:creator": "Ivan Franchin",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://medium.com/p/5e812eb46594",
+          "guid": "https://medium.com/p/136438194698",
           "categories": [
-            "micronaut",
-            "keycloak",
-            "software-development",
-            "technology",
-            "security"
-          ],
-          "isoDate": "2024-09-16T07:02:07.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Alexandre Couëdelo",
-          "title": "Safe Infrastructure as Code GitHub Actions Workflow with a PR Lock",
-          "link": "https://itnext.io/safe-infrastructure-as-code-github-actions-workflow-with-a-pr-lock-27bef636f852?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sun, 15 Sep 2024 18:52:06 GMT",
-          "dc:creator": "Alexandre Couëdelo",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/27bef636f852",
-          "categories": [
-            "terraform",
-            "devops",
-            "infrastructure-as-code",
-            "ansible",
-            "github-actions"
-          ],
-          "isoDate": "2024-09-15T18:52:06.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Piotr",
-          "title": "I Transitioned to Containerized Development Environments",
-          "link": "https://itnext.io/i-transitioned-to-containerized-development-environments-75f2ecbc37c5?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sun, 15 Sep 2024 12:27:15 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Piotr",
-          "guid": "https://medium.com/p/75f2ecbc37c5",
-          "categories": [
-            "technology",
-            "improvement",
-            "software-development",
+            "minikube",
             "kubernetes",
-            "containers"
+            "network-policies",
+            "technology",
+            "cloudops"
           ],
-          "isoDate": "2024-09-15T12:27:15.000Z",
+          "isoDate": "2024-09-18T07:20:50.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Brian Grant",
+          "title": "Why does Cloud UX lag behind other software products?",
+          "link": "https://itnext.io/why-does-cloud-ux-lag-behind-other-software-products-3a30555b5a7c?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 18 Sep 2024 07:19:31 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Brian Grant",
+          "guid": "https://medium.com/p/3a30555b5a7c",
+          "categories": [
+            "infrastructure-as-code",
+            "ux",
+            "kubernetes",
+            "cloud-computing"
+          ],
+          "isoDate": "2024-09-18T07:19:31.000Z",
           "content": "",
           "contentSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Zachary Lee",
-          "title": "How to Create a Type to Retrieve All Keys of an Object in TypeScript",
-          "link": "https://itnext.io/how-to-create-a-type-to-retrieve-all-keys-of-an-object-in-typescript-a5739d1c23e2?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sun, 15 Sep 2024 12:25:51 GMT",
-          "dc:creator": "Zachary Lee",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/a5739d1c23e2",
+          "creator": "Alex Pliutau",
+          "title": "My first experience with OCaml",
+          "link": "https://itnext.io/my-first-experience-with-ocaml-c8fce3fb995a?source=rss----5b301f10ddcd---4",
+          "pubDate": "Tue, 17 Sep 2024 20:11:13 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Alex Pliutau",
+          "guid": "https://medium.com/p/c8fce3fb995a",
           "categories": [
-            "web-development",
-            "javascript",
+            "functional-programming",
             "programming",
-            "front-end-development",
-            "typescript"
+            "dune",
+            "programming-languages",
+            "ocaml"
           ],
-          "isoDate": "2024-09-15T12:25:51.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Andrew Blooman",
-          "title": "What is Vulnerability Management?",
-          "link": "https://itnext.io/what-is-vulnerability-management-6b2341695da2?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sat, 14 Sep 2024 21:14:16 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Andrew Blooman",
-          "guid": "https://medium.com/p/6b2341695da2",
-          "categories": [
-            "devsecops",
-            "vulnerability",
-            "security",
-            "vulnerability-management",
-            "security-operations"
-          ],
-          "isoDate": "2024-09-14T21:14:16.000Z",
+          "isoDate": "2024-09-17T20:11:13.000Z",
           "content": "",
           "contentSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Zsolt Deak",
-          "title": " Stop doing this in JavaScript ",
-          "link": "https://itnext.io/stop-doing-this-in-javascript-d8dbc14b3692?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sat, 14 Sep 2024 21:13:02 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Zsolt Deak",
-          "guid": "https://medium.com/p/d8dbc14b3692",
+          "creator": "Alexander Wichmann Carlsen",
+          "title": "The Evolution and Power of Fluent APIs in .NET",
+          "link": "https://itnext.io/the-evolution-and-power-of-fluent-apis-in-net-4a801e8b6db8?source=rss----5b301f10ddcd---4",
+          "pubDate": "Tue, 17 Sep 2024 08:17:13 GMT",
+          "dc:creator": "Alexander Wichmann Carlsen",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/4a801e8b6db8",
           "categories": [
-            "javascript",
             "programming",
-            "articles",
-            "coding",
+            "software-engineering",
+            "testing",
+            "dotnet",
             "software-development"
           ],
-          "isoDate": "2024-09-14T21:13:02.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Gul Ershad",
-          "title": "Managing Distributed System Upgrades: Strategies for Minimizing Downtime and Disruption",
-          "link": "https://itnext.io/managing-distributed-system-upgrades-strategies-for-minimizing-downtime-and-disruption-38fee7bac27c?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sat, 14 Sep 2024 09:38:47 GMT",
-          "dc:creator": "Gul Ershad",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/38fee7bac27c",
-          "categories": [
-            "distributed-systems",
-            "software-development",
-            "upgrade",
-            "microservices",
-            "devops"
-          ],
-          "isoDate": "2024-09-14T09:38:47.000Z",
+          "isoDate": "2024-09-17T08:17:13.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Raghav Joshi",
-          "title": "How I Doubled My Flutter App’s Performance Using These Techniques — Part 3",
-          "link": "https://itnext.io/how-i-doubled-my-flutter-apps-performance-using-these-techniques-part-3-4a7a24953475?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sat, 14 Sep 2024 08:05:16 GMT",
-          "dc:creator": "Raghav Joshi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/4a7a24953475",
+          "creator": "Nasim Salmany",
+          "title": "How Indexing Enhances Query Performance",
+          "link": "https://itnext.io/how-indexing-enhances-query-performance-1b5f0d3e499d?source=rss----5b301f10ddcd---4",
+          "pubDate": "Tue, 17 Sep 2024 08:15:49 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Nasim Salmany",
+          "guid": "https://medium.com/p/1b5f0d3e499d",
           "categories": [
-            "user-experience",
-            "app-development",
-            "flutter",
+            "java",
+            "indexing",
             "performance",
-            "dart"
+            "observability",
+            "database"
           ],
-          "isoDate": "2024-09-14T08:05:16.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
+          "isoDate": "2024-09-17T08:15:49.000Z",
+          "content": "",
+          "contentSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Gul Ershad",
-          "title": "Common Challenges in Command Query Responsibility Segregation (CQRS)",
-          "link": "https://itnext.io/common-challenges-in-command-query-responsibility-segregation-cqrs-8706d197e67a?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 13 Sep 2024 19:18:08 GMT",
-          "dc:creator": "Gul Ershad",
+          "creator": "Juntao Qiu",
+          "title": "Why Duplicating Code in UI Could Lead to Better Maintenance",
+          "link": "https://itnext.io/why-duplicating-code-in-ui-could-lead-to-better-maintenance-d1c316af552e?source=rss----5b301f10ddcd---4",
+          "pubDate": "Tue, 17 Sep 2024 07:03:27 GMT",
+          "dc:creator": "Juntao Qiu",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://medium.com/p/8706d197e67a",
+          "guid": "https://medium.com/p/d1c316af552e",
           "categories": [
-            "distributed-systems",
-            "microservices",
-            "software-development",
-            "cqrs",
-            "architecture"
+            "javascript",
+            "programming",
+            "web-development",
+            "technology",
+            "software-development"
           ],
-          "isoDate": "2024-09-13T19:18:08.000Z",
+          "isoDate": "2024-09-17T07:03:27.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Oleksii Trekhleb",
-          "title": "System Design Sketches",
-          "link": "https://itnext.io/system-design-sketches-d8cb8e1d539f?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 13 Sep 2024 17:17:56 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Oleksii Trekhleb",
-          "guid": "https://medium.com/p/d8cb8e1d539f",
-          "categories": [
-            "system-design-interview",
-            "software-architecture",
-            "interview",
-            "web",
-            "sofware-engineering"
-          ],
-          "isoDate": "2024-09-13T17:17:56.000Z",
-          "content": "",
-          "contentSnippet": "",
           "summary": ""
         }
       ],
@@ -924,192 +920,189 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Mon, 16 Sep 2024 07:04:35 GMT"
+      "lastBuildDate": "Thu, 19 Sep 2024 06:58:23 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "H A R S H H A A",
-          "title": "Azure DevOps - Basics",
-          "link": "https://dev.to/prodevopsguytech/azure-devops-basics-5ni",
-          "pubDate": "Mon, 16 Sep 2024 06:55:23 +0000",
-          "dc:creator": "H A R S H H A A",
+          "creator": "dewan developer",
+          "title": "Vanilla Javascript",
+          "link": "https://dev.to/drupal-developer-dewan/vanilla-javascript-4iho",
+          "pubDate": "Thu, 19 Sep 2024 06:49:34 +0000",
+          "dc:creator": "dewan developer",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/prodevopsguytech/azure-devops-basics-5ni",
+          "guid": "https://dev.to/drupal-developer-dewan/vanilla-javascript-4iho",
           "categories": [
-            "azure",
-            "devops",
-            "cloud",
-            "basic"
+            "drupal",
+            "drupal10",
+            "drupalcommunity",
+            "acquia"
           ],
-          "isoDate": "2024-09-16T06:55:23.000Z",
+          "isoDate": "2024-09-19T06:49:34.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Emma Smith",
-          "title": "Understanding GDPR and Data Privacy in AI Educational Tools",
-          "link": "https://dev.to/emmasmith/understanding-gdpr-and-data-privacy-in-ai-educational-tools-3po1",
-          "pubDate": "Mon, 16 Sep 2024 06:48:08 +0000",
-          "dc:creator": "Emma Smith",
+          "creator": "Mr 3",
+          "title": "Making a custom Bootloader for a Custom OS.",
+          "link": "https://dev.to/mr-3/making-a-custom-bootloader-1602",
+          "pubDate": "Thu, 19 Sep 2024 06:43:51 +0000",
+          "dc:creator": "Mr 3",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/emmasmith/understanding-gdpr-and-data-privacy-in-ai-educational-tools-3po1",
-          "isoDate": "2024-09-16T06:48:08.000Z",
+          "guid": "https://dev.to/mr-3/making-a-custom-bootloader-1602",
+          "isoDate": "2024-09-19T06:43:51.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "H A R S H H A A",
-          "title": "Azure DevOps Zero to Hero Series",
-          "link": "https://dev.to/prodevopsguytech/azure-devops-zero-to-hero-series-145m",
-          "pubDate": "Mon, 16 Sep 2024 06:34:56 +0000",
-          "dc:creator": "H A R S H H A A",
+          "creator": "Palomino",
+          "title": "5 go-to-market lessons I learned from driving a developer-led growth product",
+          "link": "https://dev.to/logto/5-go-to-market-lessons-i-learned-from-driving-a-developer-led-growth-product-3ep6",
+          "pubDate": "Thu, 19 Sep 2024 06:41:50 +0000",
+          "dc:creator": "Palomino",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/prodevopsguytech/azure-devops-zero-to-hero-series-145m",
+          "guid": "https://dev.to/logto/5-go-to-market-lessons-i-learned-from-driving-a-developer-led-growth-product-3ep6",
           "categories": [
-            "azure",
-            "devops",
-            "cloud",
-            "azuredevops"
-          ],
-          "isoDate": "2024-09-16T06:34:56.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Santosh Kalyan Kumar",
-          "title": "Uncertain Job Market as a Fresh Graduate",
-          "link": "https://dev.to/santosh_kalyankumar_ec11/uncertain-job-market-as-a-fresh-graduate-407f",
-          "pubDate": "Mon, 16 Sep 2024 06:34:10 +0000",
-          "dc:creator": "Santosh Kalyan Kumar",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/santosh_kalyankumar_ec11/uncertain-job-market-as-a-fresh-graduate-407f",
-          "isoDate": "2024-09-16T06:34:10.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Harsh Shah",
-          "title": "Understanding Promise.allSettled() vs Promise.all() in JavaScript 🚀",
-          "link": "https://dev.to/shahharsh/understanding-promiseallsettled-vs-promiseall-in-javascript-4gel",
-          "pubDate": "Mon, 16 Sep 2024 06:33:43 +0000",
-          "dc:creator": "Harsh Shah",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/shahharsh/understanding-promiseallsettled-vs-promiseall-in-javascript-4gel",
-          "categories": [
-            "javascript",
             "webdev",
+            "opensource",
+            "identity",
+            "marketing"
+          ],
+          "isoDate": "2024-09-19T06:41:50.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Bertha White",
+          "title": "The Significance of Full SDLC Testing in Mobile App Development",
+          "link": "https://dev.to/berthaw82414312/the-significance-of-full-sdlc-testing-in-mobile-app-development-1gdg",
+          "pubDate": "Thu, 19 Sep 2024 06:35:33 +0000",
+          "dc:creator": "Bertha White",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/berthaw82414312/the-significance-of-full-sdlc-testing-in-mobile-app-development-1gdg",
+          "categories": [
+            "mobileapptesting",
+            "apptesting",
+            "mobileappdevelopment"
+          ],
+          "isoDate": "2024-09-19T06:35:33.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "GetVM",
+          "title": "Dive into the World of Machine Learning: Comprehensive Courses and Resources",
+          "link": "https://dev.to/getvm/dive-into-the-world-of-machine-learning-comprehensive-courses-and-resources-19mh",
+          "pubDate": "Thu, 19 Sep 2024 06:35:09 +0000",
+          "dc:creator": "GetVM",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/getvm/dive-into-the-world-of-machine-learning-comprehensive-courses-and-resources-19mh",
+          "categories": [
+            "getvm",
             "programming",
-            "tutorial"
+            "tutorials"
           ],
-          "isoDate": "2024-09-16T06:33:43.000Z",
+          "isoDate": "2024-09-19T06:35:09.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Vuelancer",
-          "title": "The End of Free Hosting: Why Providers Are Ditching Free Plans",
-          "link": "https://dev.to/vuelancer/the-end-of-free-hosting-why-providers-are-ditching-free-plans-3957",
-          "pubDate": "Mon, 16 Sep 2024 06:30:56 +0000",
-          "dc:creator": "Vuelancer",
+          "creator": "Cong Li",
+          "title": "Introduction to HDFS Server Configuration in GBase 8a MPP Cluster",
+          "link": "https://dev.to/congcong/introduction-to-hdfs-server-configuration-in-gbase-8a-mpp-cluster-3jda",
+          "pubDate": "Thu, 19 Sep 2024 06:34:35 +0000",
+          "dc:creator": "Cong Li",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/vuelancer/the-end-of-free-hosting-why-providers-are-ditching-free-plans-3957",
+          "guid": "https://dev.to/congcong/introduction-to-hdfs-server-configuration-in-gbase-8a-mpp-cluster-3jda",
           "categories": [
+            "database"
+          ],
+          "isoDate": "2024-09-19T06:34:35.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "islomAli99",
+          "title": "Dastlabki Algoritmik Tushunchalar",
+          "link": "https://dev.to/islomali99/dastlabki-algoritmik-tushunchalar-4ake",
+          "pubDate": "Thu, 19 Sep 2024 06:33:14 +0000",
+          "dc:creator": "islomAli99",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/islomali99/dastlabki-algoritmik-tushunchalar-4ake",
+          "categories": [
+            "cpp",
+            "csharp",
+            "coding",
+            "algorithms"
+          ],
+          "isoDate": "2024-09-19T06:33:14.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Binoy Vijayan",
+          "title": "Navigating Escalation: How to Effectively Address Issues and Avoid Common Mistakes",
+          "link": "https://dev.to/binoy123/navigating-escalation-how-to-effectively-address-issues-and-avoid-common-mistakes-5718",
+          "pubDate": "Thu, 19 Sep 2024 06:30:43 +0000",
+          "dc:creator": "Binoy Vijayan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/binoy123/navigating-escalation-how-to-effectively-address-issues-and-avoid-common-mistakes-5718",
+          "categories": [
+            "escalation",
+            "leadership",
+            "management",
+            "programmanagement"
+          ],
+          "isoDate": "2024-09-19T06:30:43.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Alin Climente",
+          "title": "How to Scale a Web Application Without Kubernetes",
+          "link": "https://dev.to/climentea/how-to-scale-a-web-application-without-kubernetes-55cd",
+          "pubDate": "Thu, 19 Sep 2024 06:30:05 +0000",
+          "dc:creator": "Alin Climente",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/climentea/how-to-scale-a-web-application-without-kubernetes-55cd",
+          "isoDate": "2024-09-19T06:30:05.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Carrie",
+          "title": "Four Common Deployment Modes of WAF",
+          "link": "https://dev.to/carrie_luo1/four-common-deployment-modes-of-waf-41dk",
+          "pubDate": "Thu, 19 Sep 2024 06:26:55 +0000",
+          "dc:creator": "Carrie",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/carrie_luo1/four-common-deployment-modes-of-waf-41dk",
+          "categories": [
+            "waf",
+            "cybersecurity",
             "webdev",
-            "heroku",
-            "beginners",
-            "programming"
+            "opensource"
           ],
-          "isoDate": "2024-09-16T06:30:56.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Jagroop Singh",
-          "title": "Reactjs Todo List App (Using Vite & Zustand)",
-          "link": "https://dev.to/jagroop2001/learn-how-to-use-zustand-for-state-management-in-a-reactjs-todo-list-app-using-vite-32g2",
-          "pubDate": "Mon, 16 Sep 2024 06:26:02 +0000",
-          "dc:creator": "Jagroop Singh",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/jagroop2001/learn-how-to-use-zustand-for-state-management-in-a-reactjs-todo-list-app-using-vite-32g2",
-          "categories": [
-            "react",
-            "zustand",
-            "javascript",
-            "webdev"
-          ],
-          "isoDate": "2024-09-16T06:26:02.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "david wyatt",
-          "title": "Let's Talk About the Power Platform Default Environment",
-          "link": "https://dev.to/wyattdave/lets-talk-about-the-power-platform-default-environment-lnn",
-          "pubDate": "Mon, 16 Sep 2024 06:25:29 +0000",
-          "dc:creator": "david wyatt",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/wyattdave/lets-talk-about-the-power-platform-default-environment-lnn",
-          "categories": [
-            "powerplatform",
-            "lowcode",
-            "powerapps",
-            "powerautomate"
-          ],
-          "isoDate": "2024-09-16T06:25:29.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Vuelancer",
-          "title": "Intro to Zustand, thats it!",
-          "link": "https://dev.to/vuelancer/intro-to-zustand-thats-it-37k5",
-          "pubDate": "Mon, 16 Sep 2024 06:21:23 +0000",
-          "dc:creator": "Vuelancer",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/vuelancer/intro-to-zustand-thats-it-37k5",
-          "categories": [
-            "react",
-            "redux",
-            "webdev",
-            "javascript"
-          ],
-          "isoDate": "2024-09-16T06:21:23.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nazneenahmad",
-          "title": "Screen Reader Accessibility Testing: A Complete Guide",
-          "link": "https://dev.to/nazneenahmad/screen-reader-accessibility-testing-a-complete-guide-1jma",
-          "pubDate": "Mon, 16 Sep 2024 06:17:12 +0000",
-          "dc:creator": "Nazneenahmad",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/nazneenahmad/screen-reader-accessibility-testing-a-complete-guide-1jma",
-          "categories": [
-            "a11y",
-            "testing"
-          ],
-          "isoDate": "2024-09-16T06:17:12.000Z",
+          "isoDate": "2024-09-19T06:26:55.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1126,6 +1119,45 @@
     },
     "Digital Ocean Labs": {
       "items": [
+        {
+          "title": "Introducing Global Load Balancer: Optimize Your Global HTTP Traffic with Simplicity and Scale",
+          "link": "https://www.digitalocean.com/blog/announcing-global-load-balancer-ga",
+          "pubDate": "2024-09-18T14:30:00.026Z",
+          "author": "Udhay Ravindran",
+          "content": "",
+          "contentSnippet": "",
+          "id": "tag:www.digitalocean.com,2005:/blog/announcing-global-load-balancer-ga",
+          "isoDate": "2024-09-18T14:30:00.026Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Protect your data with Daily Backups",
+          "link": "https://www.digitalocean.com/blog/daily-backups-now-generally-available",
+          "pubDate": "2024-09-17T14:30:00.031Z",
+          "author": "Ben Park",
+          "content": "",
+          "contentSnippet": "",
+          "id": "tag:www.digitalocean.com,2005:/blog/daily-backups-now-generally-available",
+          "isoDate": "2024-09-17T14:30:00.031Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "GPUs and beyond: DigitalOcean’s roadmap for AI platforms and applications",
+          "link": "https://www.digitalocean.com/blog/gpus-digitalocean-ai-ml-roadmap",
+          "pubDate": "2024-09-16T18:00:34.459Z",
+          "author": "Bratin Saha, Chief Product & Technology Officer",
+          "content": "",
+          "contentSnippet": "",
+          "id": "tag:www.digitalocean.com,2005:/blog/gpus-digitalocean-ai-ml-roadmap",
+          "isoDate": "2024-09-16T18:00:34.459Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "Backup your DigitalOcean Kubernetes Data in One Click",
           "link": "https://www.digitalocean.com/blog/backup-digitalocean-kubernetes-in-one-click",
@@ -1151,51 +1183,12 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "Nvidia H100 now available on DigitalOcean Kubernetes (EA)",
-          "link": "https://www.digitalocean.com/blog/nvidia-h100-now-available-on-digitalocean-kubernetes",
-          "pubDate": "2024-08-30T17:00:00.021Z",
-          "author": "Diane Hannay",
-          "content": "",
-          "contentSnippet": "",
-          "id": "tag:www.digitalocean.com,2005:/blog/nvidia-h100-now-available-on-digitalocean-kubernetes",
-          "isoDate": "2024-08-30T17:00:00.021Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Announcing DigitalOcean Spaces Object Storage: Now Available in London",
-          "link": "https://www.digitalocean.com/blog/digitalocean-spaces-now-available-in-london",
-          "pubDate": "2024-08-29T06:11:30.378Z",
-          "author": "Diane Hannay",
-          "content": "",
-          "contentSnippet": "",
-          "id": "tag:www.digitalocean.com,2005:/blog/digitalocean-spaces-now-available-in-london",
-          "isoDate": "2024-08-29T06:11:30.378Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Introducing Predefined Roles: Strengthen Your Role-Based Access Control (RBAC) With Three New Roles",
-          "link": "https://www.digitalocean.com/blog/introducing-new-predefined-roles-for-rbac",
-          "pubDate": "2024-08-27T13:00:00.019Z",
-          "author": "Nicole Ghalwash",
-          "content": "",
-          "contentSnippet": "",
-          "id": "tag:www.digitalocean.com,2005:/blog/introducing-new-predefined-roles-for-rbac",
-          "isoDate": "2024-08-27T13:00:00.019Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog.atom",
       "title": "The DigitalOcean Blog",
-      "lastBuildDate": "2024-09-13T15:45:54.850Z"
+      "lastBuildDate": "2024-09-18T23:08:04.801Z"
     },
     "Julia Evans": {
       "items": [
