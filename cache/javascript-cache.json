@@ -113,6 +113,18 @@
     "JavaScript Weekly": {
       "items": [
         {
+          "title": "Hey, how many C's are there in JavaScript?",
+          "link": "https://javascriptweekly.com/issues/705",
+          "pubDate": "Thu, 19 Sep 2024 00:00:00 +0000",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://javascriptweekly.com/issues/705",
+          "isoDate": "2024-09-19T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "The heaviest npm packages",
           "link": "https://javascriptweekly.com/issues/704",
           "pubDate": "Thu, 12 Sep 2024 00:00:00 +0000",
@@ -147,18 +159,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "A regular expression refresher",
-          "link": "https://javascriptweekly.com/issues/701",
-          "pubDate": "Thu, 22 Aug 2024 00:00:00 +0000",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://javascriptweekly.com/issues/701",
-          "isoDate": "2024-08-22T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "title": "JavaScript Weekly",
@@ -167,6 +167,30 @@
     },
     "Flavio Copes": {
       "items": [
+        {
+          "title": "Next.js, passing an id to a server action",
+          "link": "https://flaviocopes.com/undefined",
+          "pubDate": "Thu, 19 Sep 2024 05:00:00 GMT",
+          "guid": "https://flaviocopes.com/undefined",
+          "isoDate": "2024-09-19T05:00:00.000Z",
+          "content": "",
+          "content:encoded": "",
+          "contentSnippet": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "How to install shadcn-ui on latest Next.js beta-RC",
+          "link": "https://flaviocopes.com/undefined",
+          "pubDate": "Thu, 19 Sep 2024 05:00:00 GMT",
+          "guid": "https://flaviocopes.com/undefined",
+          "isoDate": "2024-09-19T05:00:00.000Z",
+          "content": "",
+          "content:encoded": "",
+          "contentSnippet": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "Generating UUIDs in JavaScript with window.crypto.randomUUID()",
           "link": "https://flaviocopes.com/undefined",
@@ -197,90 +221,6 @@
           "pubDate": "Wed, 18 Sep 2024 05:00:00 GMT",
           "guid": "https://flaviocopes.com/undefined",
           "isoDate": "2024-09-18T05:00:00.000Z",
-          "content": "",
-          "content:encoded": "",
-          "contentSnippet": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Astro, set caching headers",
-          "link": "https://flaviocopes.com/undefined",
-          "pubDate": "Sat, 14 Sep 2024 05:00:00 GMT",
-          "guid": "https://flaviocopes.com/undefined",
-          "isoDate": "2024-09-14T05:00:00.000Z",
-          "content": "",
-          "content:encoded": "",
-          "contentSnippet": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "An HTML element id is a global variable",
-          "link": "https://flaviocopes.com/undefined",
-          "pubDate": "Sat, 14 Sep 2024 05:00:00 GMT",
-          "guid": "https://flaviocopes.com/undefined",
-          "isoDate": "2024-09-14T05:00:00.000Z",
-          "content": "",
-          "content:encoded": "",
-          "contentSnippet": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Astro, set response header",
-          "link": "https://flaviocopes.com/undefined",
-          "pubDate": "Sat, 14 Sep 2024 05:00:00 GMT",
-          "guid": "https://flaviocopes.com/undefined",
-          "isoDate": "2024-09-14T05:00:00.000Z",
-          "content": "",
-          "content:encoded": "",
-          "contentSnippet": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Conditionally hide HTML elements based on HTMX request status",
-          "link": "https://flaviocopes.com/undefined",
-          "pubDate": "Sat, 14 Sep 2024 05:00:00 GMT",
-          "guid": "https://flaviocopes.com/undefined",
-          "isoDate": "2024-09-14T05:00:00.000Z",
-          "content": "",
-          "content:encoded": "",
-          "contentSnippet": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Next.js embed youtube video",
-          "link": "https://flaviocopes.com/undefined",
-          "pubDate": "Sat, 14 Sep 2024 05:00:00 GMT",
-          "guid": "https://flaviocopes.com/undefined",
-          "isoDate": "2024-09-14T05:00:00.000Z",
-          "content": "",
-          "content:encoded": "",
-          "contentSnippet": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Some inputs to check for XSS issues",
-          "link": "https://flaviocopes.com/undefined",
-          "pubDate": "Sat, 14 Sep 2024 05:00:00 GMT",
-          "guid": "https://flaviocopes.com/undefined",
-          "isoDate": "2024-09-14T05:00:00.000Z",
-          "content": "",
-          "content:encoded": "",
-          "contentSnippet": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Show-hide an element based on existence of a parent class in Tailwind",
-          "link": "https://flaviocopes.com/undefined",
-          "pubDate": "Sat, 14 Sep 2024 05:00:00 GMT",
-          "guid": "https://flaviocopes.com/undefined",
-          "isoDate": "2024-09-14T05:00:00.000Z",
           "content": "",
           "content:encoded": "",
           "contentSnippet": "",
@@ -363,7 +303,7 @@
       "link": "https://blog.appsignal.com",
       "feedUrl": "https://blog.appsignal.com/feed.xml",
       "title": "AppSignal",
-      "lastBuildDate": "2024-09-18T10:00:00+00:00"
+      "lastBuildDate": "2024-09-20T11:00:00+00:00"
     }
   }
 }
