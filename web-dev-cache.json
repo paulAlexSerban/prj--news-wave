@@ -103,7 +103,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Tue, 15 Oct 2024 05:02:37 GMT"
+      "lastBuildDate": "Tue, 15 Oct 2024 10:02:27 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -316,6 +316,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "title": "It’s Here! How To Measure UX &amp; Design Impact, With Vitaly Friedman",
+          "link": "https://smashingmagazine.com/2024/10/new-video-course-how-to-measure-ux-design-impact/",
+          "pubDate": "Tue, 15 Oct 2024 14:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/ux-metrics-video-course-release/ux-metrics-video-course-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/10/new-video-course-how-to-measure-ux-design-impact/",
+          "isoDate": "2024-10-15T14:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Joas Pambou)",
           "title": "Using Multimodal AI Models For Your Applications (Part 3)",
           "link": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
@@ -390,25 +409,6 @@
           "guid": "https://smashingmagazine.com/2024/10/interview-bjorn-ottosson-creator-oklab-color-space/",
           "isoDate": "2024-10-02T10:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Cosima Mielke)",
-          "title": "Crows, Ghosts, And Autumn Bliss (October 2024 Wallpapers Edition)",
-          "link": "https://smashingmagazine.com/2024/09/desktop-wallpaper-calendars-october-2024/",
-          "pubDate": "Mon, 30 Sep 2024 09:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-october-2023/oct-23-the-crow-and-the-ghosts-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/09/desktop-wallpaper-calendars-october-2024/",
-          "isoDate": "2024-09-30T09:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -426,11 +426,50 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Tue, 15 Oct 2024 07:34:59 GMT",
+      "lastBuildDate": "Tue, 15 Oct 2024 17:05:28 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "Collective #872",
+          "link": "https://tympanus.net/codrops/collective/collective-872/",
+          "pubDate": "Tue, 15 Oct 2024 11:00:00 +0000",
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?post_type=collective&p=81135",
+          "isoDate": "2024-10-15T11:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Luca Franceschetti",
+          "title": "A Visual Deconstruction of the Paffi Totem Slider",
+          "link": "https://tympanus.net/codrops/2024/10/15/a-visual-deconstruction-of-the-paffi-totem-slider/",
+          "pubDate": "Tue, 15 Oct 2024 10:02:02 +0000",
+          "enclosure": {
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/10/totem.mp4?x14930",
+            "length": "1195126",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Luca Franceschetti",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=81193",
+          "categories": [
+            "Articles",
+            "inspiration",
+            "slideshow",
+            "webgl"
+          ],
+          "isoDate": "2024-10-15T10:02:02.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Manoela Ilic",
           "title": "Inspirational Websites Roundup: Webflow Special #6",
@@ -472,7 +511,7 @@
           "link": "https://tympanus.net/codrops/2024/10/11/designer-spotlight-eva-sanchez/",
           "pubDate": "Fri, 11 Oct 2024 09:52:12 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/10/Cuenta-atras_Aw-1.mp4?x10427",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/10/Cuenta-atras_Aw-1.mp4?x14930",
             "length": "1869704",
             "type": "video/mp4"
           },
@@ -498,7 +537,7 @@
           "link": "https://tympanus.net/codrops/2024/10/10/case-study-treize-grammes-2024/",
           "pubDate": "Thu, 10 Oct 2024 12:19:37 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/10/Mock-up-vignettes-1-1.mp4?x10427",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/10/Mock-up-vignettes-1-1.mp4?x14930",
             "length": "9980161",
             "type": "video/mp4"
           },
@@ -523,7 +562,7 @@
           "link": "https://tympanus.net/codrops/2024/10/09/exploring-playful-context-aware-animations-for-fixed-elements/",
           "pubDate": "Wed, 09 Oct 2024 16:26:28 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/10/Context-AwareAnimation6.mp4?x10427",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/10/Context-AwareAnimation6.mp4?x14930",
             "length": "397048",
             "type": "video/mp4"
           },
@@ -540,20 +579,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "Collective #870",
-          "link": "https://tympanus.net/codrops/collective/collective-870/",
-          "pubDate": "Tue, 08 Oct 2024 11:00:00 +0000",
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?post_type=collective&p=80909",
-          "isoDate": "2024-10-08T11:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -565,10 +590,80 @@
       "generator": "https://wordpress.org/?v=6.6.2",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Mon, 14 Oct 2024 07:52:18 +0000"
+      "lastBuildDate": "Tue, 15 Oct 2024 10:02:04 +0000"
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Michael Chukwube",
+          "title": "Data at Rest Encryption: Protecting Stored Data",
+          "link": "https://dzone.com/articles/exploring-different-methods-of-data-at-rest-encryp",
+          "pubDate": "Tue, 15 Oct 2024 15:45:04 GMT",
+          "dc:creator": "Michael Chukwube",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3490385",
+          "isoDate": "2024-10-15T15:45:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Tom Smith",
+          "title": "Oracle CloudWorld 2024: Key Takeaways for Developers, Engineers and Architects",
+          "link": "https://dzone.com/articles/oracle-cloudworld-key-takeaways",
+          "pubDate": "Tue, 15 Oct 2024 14:00:16 GMT",
+          "dc:creator": "Tom Smith",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3494051",
+          "isoDate": "2024-10-15T14:00:16.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Bohdan Snisar",
+          "title": "Vector Search: The Hottest Topic in Information Retrieval",
+          "link": "https://dzone.com/articles/vector-search-hottest-topic-in-information-retrieval",
+          "pubDate": "Tue, 15 Oct 2024 13:00:12 GMT",
+          "dc:creator": "Bohdan Snisar",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3499424",
+          "isoDate": "2024-10-15T13:00:12.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Adam Furmanek",
+          "title": "VACUUM In Postgres Demystified",
+          "link": "https://dzone.com/articles/vacuum-in-postgres-demystified",
+          "pubDate": "Tue, 15 Oct 2024 12:00:13 GMT",
+          "dc:creator": "Adam Furmanek",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3502378",
+          "isoDate": "2024-10-15T12:00:13.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Venkata Gummadi",
+          "title": "Transforming Customer Feedback With Automation of Summaries and Labels Using TAG and RAG",
+          "link": "https://dzone.com/articles/transforming-customer-feedback-with-tag-and-rag",
+          "pubDate": "Tue, 15 Oct 2024 11:00:12 GMT",
+          "dc:creator": "Venkata Gummadi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3501369",
+          "isoDate": "2024-10-15T11:00:12.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Sasidhar Sunkara",
           "title": "Writing Great Code: The Five Principles of Clean Code",
@@ -638,76 +733,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "GONZALO MARCOS",
-          "title": "How to Set up OAuth JWT Flow and mTLS in the Salesforce Connector for a MuleSoft App",
-          "link": "https://dzone.com/articles/set-up-oauth-jwt-flow-and-mtls-in-salesforce",
-          "pubDate": "Mon, 14 Oct 2024 16:00:09 GMT",
-          "dc:creator": "GONZALO MARCOS",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3483009",
-          "isoDate": "2024-10-14T16:00:09.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "balaji thadagam kandavel",
-          "title": "Serverless Computing and GraphQL: Modern App Development",
-          "link": "https://dzone.com/articles/serverless-computing-and-graphql",
-          "pubDate": "Mon, 14 Oct 2024 15:00:05 GMT",
-          "dc:creator": "balaji thadagam kandavel",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3494983",
-          "isoDate": "2024-10-14T15:00:05.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Anton Lucanus",
-          "title": "CI/CD Pipelines in the Cloud: How Cloud Hosting Is Accelerating Software Delivery",
-          "link": "https://dzone.com/articles/cicd-pipelines-in-the-cloud",
-          "pubDate": "Mon, 14 Oct 2024 14:00:08 GMT",
-          "dc:creator": "Anton Lucanus",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3502543",
-          "isoDate": "2024-10-14T14:00:08.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Dwayne McDaniel",
-          "title": "What We Learned About Secrets Security at AppSec Village at DEF CON 32",
-          "link": "https://dzone.com/articles/secrets-security-at-appsec-village-at-def-con-32",
-          "pubDate": "Mon, 14 Oct 2024 13:00:07 GMT",
-          "dc:creator": "Dwayne McDaniel",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3493080",
-          "isoDate": "2024-10-14T13:00:07.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Vinod Pahuja",
-          "title": "Unleashing the Power of Gemini With LlamaIndex",
-          "link": "https://dzone.com/articles/unleashing-the-power-of-gemini-with-llamaindex",
-          "pubDate": "Mon, 14 Oct 2024 12:00:44 GMT",
-          "dc:creator": "Vinod Pahuja",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3501389",
-          "isoDate": "2024-10-14T12:00:44.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -720,6 +745,69 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Bishr Tabbaa",
+          "title": "AIML SSO on AWS: How to secure Amazon SageMaker and Bedrock with Okta",
+          "link": "https://itnext.io/aiml-sso-on-aws-how-to-secure-amazon-sagemaker-and-bedrock-with-okta-f980a854ec7c?source=rss----5b301f10ddcd---4",
+          "pubDate": "Tue, 15 Oct 2024 12:20:39 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Bishr Tabbaa",
+          "guid": "https://medium.com/p/f980a854ec7c",
+          "categories": [
+            "aws",
+            "ai",
+            "security",
+            "amazon-web-services",
+            "cloud-computing"
+          ],
+          "isoDate": "2024-10-15T12:20:39.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Zachary Lee",
+          "title": "The Secrets of JavaScript Object Property Order",
+          "link": "https://itnext.io/the-secrets-of-javascript-object-property-order-cf94f5977dee?source=rss----5b301f10ddcd---4",
+          "pubDate": "Tue, 15 Oct 2024 09:15:21 GMT",
+          "dc:creator": "Zachary Lee",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/cf94f5977dee",
+          "categories": [
+            "web-development",
+            "programming",
+            "javascript",
+            "typescript",
+            "front-end-development"
+          ],
+          "isoDate": "2024-10-15T09:15:21.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Denys Poltorak",
+          "title": "Service-Oriented Architecture (SOA)",
+          "link": "https://itnext.io/service-oriented-architecture-soa-5d0cd2b8464c?source=rss----5b301f10ddcd---4",
+          "pubDate": "Tue, 15 Oct 2024 09:14:17 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Denys Poltorak",
+          "guid": "https://medium.com/p/5d0cd2b8464c",
+          "categories": [
+            "software-design",
+            "design-patterns",
+            "software-architecture",
+            "software-engineering",
+            "system-architecture"
+          ],
+          "isoDate": "2024-10-15T09:14:17.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Danny Moerkerke",
           "title": "Here’s What Your Web App Can Do Today",
@@ -863,69 +951,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Denys Poltorak",
-          "title": "Backends for Frontends (BFF)",
-          "link": "https://itnext.io/backends-for-frontends-bff-5cbcb4b67a30?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 14 Oct 2024 11:37:10 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Denys Poltorak",
-          "guid": "https://medium.com/p/5cbcb4b67a30",
-          "categories": [
-            "system-architecture",
-            "software-design",
-            "software-engineering",
-            "design-patterns",
-            "software-architecture"
-          ],
-          "isoDate": "2024-10-14T11:37:10.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Andrew Blooman",
-          "title": "Advanced Terraform: Securely Structure Your Code For Multiple AWS Environments (Part 1)",
-          "link": "https://itnext.io/mini-project-writing-a-secure-aws-s3-bucket-terraform-module-part-1-3c61972b6f66?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 14 Oct 2024 09:51:03 GMT",
-          "dc:creator": "Andrew Blooman",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/3c61972b6f66",
-          "categories": [
-            "terraform",
-            "security",
-            "aws",
-            "github",
-            "devops"
-          ],
-          "isoDate": "2024-10-14T09:51:03.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Jonathan Gelin",
-          "title": "️ Poly Monorepos with Nx",
-          "link": "https://itnext.io/%EF%B8%8F-poly-monorepos-with-nx-dd7f5578e3fa?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 14 Oct 2024 09:49:44 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Jonathan Gelin",
-          "guid": "https://medium.com/p/dd7f5578e3fa",
-          "categories": [
-            "nodejs",
-            "angular",
-            "monorepo",
-            "nx",
-            "react"
-          ],
-          "isoDate": "2024-10-14T09:49:44.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -942,199 +967,196 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Tue, 15 Oct 2024 08:07:10 GMT"
+      "lastBuildDate": "Tue, 15 Oct 2024 17:12:45 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Ben Witt",
-          "title": "WPF Application with Plugin Architecture",
-          "link": "https://dev.to/ben-witt/wpf-application-with-plugin-architecture-113h",
-          "pubDate": "Tue, 15 Oct 2024 08:00:00 +0000",
-          "dc:creator": "Ben Witt",
+          "creator": "Megan Lee",
+          "title": "How to use forwardRef in React",
+          "link": "https://dev.to/logrocket/how-to-use-forwardref-in-react-2c4p",
+          "pubDate": "Tue, 15 Oct 2024 17:00:00 +0000",
+          "dc:creator": "Megan Lee",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ben-witt/wpf-application-with-plugin-architecture-113h",
-          "categories": [
-            "microsoft",
-            "csharp",
-            "coding",
-            "development"
-          ],
-          "isoDate": "2024-10-15T08:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Mraz call me later",
-          "title": "Mraza",
-          "link": "https://dev.to/raza527/mraza-3hbg",
-          "pubDate": "Tue, 15 Oct 2024 07:59:52 +0000",
-          "dc:creator": "Mraz call me later",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/raza527/mraza-3hbg",
-          "categories": [
-            "codepen"
-          ],
-          "isoDate": "2024-10-15T07:59:52.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Oleg Lyashuk",
-          "title": "How Much Does It Cost to Develop a Fintech App in 2024?",
-          "link": "https://dev.to/kzier/how-much-does-it-cost-to-develop-a-fintech-app-in-2024-323a",
-          "pubDate": "Tue, 15 Oct 2024 07:59:09 +0000",
-          "dc:creator": "Oleg Lyashuk",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/kzier/how-much-does-it-cost-to-develop-a-fintech-app-in-2024-323a",
-          "categories": [
-            "development",
-            "softwaredevelopment",
-            "programming",
-            "discuss"
-          ],
-          "isoDate": "2024-10-15T07:59:09.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nazrul Hassan",
-          "title": "Hosting React static website on AWS S3 with terraform",
-          "link": "https://dev.to/nazrul7711/hosting-react-static-website-on-aws-s3-with-terraform-11hn",
-          "pubDate": "Tue, 15 Oct 2024 07:58:39 +0000",
-          "dc:creator": "Nazrul Hassan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/nazrul7711/hosting-react-static-website-on-aws-s3-with-terraform-11hn",
-          "categories": [
-            "terraform",
-            "s3",
-            "react",
-            "iam"
-          ],
-          "isoDate": "2024-10-15T07:58:39.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Carrie",
-          "title": "Understanding Remoting and Serialization Frameworks in Web Apps",
-          "link": "https://dev.to/carrie_luo1/understanding-remoting-and-serialization-frameworks-in-web-apps-2jef",
-          "pubDate": "Tue, 15 Oct 2024 07:43:27 +0000",
-          "dc:creator": "Carrie",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/carrie_luo1/understanding-remoting-and-serialization-frameworks-in-web-apps-2jef",
+          "guid": "https://dev.to/logrocket/how-to-use-forwardref-in-react-2c4p",
           "categories": [
             "webdev",
-            "beginners"
+            "react"
           ],
-          "isoDate": "2024-10-15T07:43:27.000Z",
+          "isoDate": "2024-10-15T17:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Matt Borja",
-          "title": "The Overlooked Injustice of Secluded Developers in the Tech World",
-          "link": "https://dev.to/mattborja/the-overlooked-injustice-of-secluded-developers-in-the-tech-world-6bb",
-          "pubDate": "Tue, 15 Oct 2024 07:37:31 +0000",
-          "dc:creator": "Matt Borja",
+          "creator": "Jit",
+          "title": "Power BI Remote Jobs: How to Find and Succeed in Power BI Remote Roles",
+          "link": "https://dev.to/jit_data/power-bi-remote-jobs-how-to-find-and-succeed-in-power-bi-remote-roles-24do",
+          "pubDate": "Tue, 15 Oct 2024 16:56:00 +0000",
+          "dc:creator": "Jit",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/mattborja/the-overlooked-injustice-of-secluded-developers-in-the-tech-world-6bb",
+          "guid": "https://dev.to/jit_data/power-bi-remote-jobs-how-to-find-and-succeed-in-power-bi-remote-roles-24do",
           "categories": [
-            "workculture",
-            "inclusion",
-            "career",
-            "developerlife"
+            "powerbi"
           ],
-          "isoDate": "2024-10-15T07:37:31.000Z",
+          "isoDate": "2024-10-15T16:56:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ismael Garcia",
-          "title": "⚡ 🚀 Top 10 Trending GitHub Repositories, October 2024 🔥",
-          "link": "https://dev.to/leamsigc/top-10-trending-github-repositories-october-2024-c03",
-          "pubDate": "Tue, 15 Oct 2024 07:35:55 +0000",
-          "dc:creator": "Ismael Garcia",
+          "creator": "Mike Rispoli",
+          "title": "Format on save for ERB and Ruby files in Zed IDE",
+          "link": "https://dev.to/mrispoli24/format-on-save-for-erb-and-ruby-files-in-zed-ide-568g",
+          "pubDate": "Tue, 15 Oct 2024 16:50:58 +0000",
+          "dc:creator": "Mike Rispoli",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/leamsigc/top-10-trending-github-repositories-october-2024-c03",
+          "guid": "https://dev.to/mrispoli24/format-on-save-for-erb-and-ruby-files-in-zed-ide-568g",
           "categories": [
+            "ruby",
+            "rails",
+            "zed"
+          ],
+          "isoDate": "2024-10-15T16:50:58.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "John McBride",
+          "title": "OpenSauced on Azure: Lessons learned from a near-zero downtime migration",
+          "link": "https://dev.to/opensauced/opensauced-on-azure-lessons-learned-from-a-near-zero-downtime-migration-40b9",
+          "pubDate": "Tue, 15 Oct 2024 16:50:08 +0000",
+          "dc:creator": "John McBride",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/opensauced/opensauced-on-azure-lessons-learned-from-a-near-zero-downtime-migration-40b9",
+          "categories": [
+            "azure",
+            "kubernetes",
+            "infrastructureascode"
+          ],
+          "isoDate": "2024-10-15T16:50:08.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Anand Soni",
+          "title": "The Importance of Test-Driven Development (TDD) and What Companies Expect from Candidates",
+          "link": "https://dev.to/sonianand11/the-importance-of-test-driven-development-tdd-and-what-companies-expect-from-candidates-360n",
+          "pubDate": "Tue, 15 Oct 2024 16:47:02 +0000",
+          "dc:creator": "Anand Soni",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/sonianand11/the-importance-of-test-driven-development-tdd-and-what-companies-expect-from-candidates-360n",
+          "categories": [
+            "testing",
             "webdev",
-            "github",
-            "beginners",
-            "productivity"
+            "javascript",
+            "programming"
           ],
-          "isoDate": "2024-10-15T07:35:55.000Z",
+          "isoDate": "2024-10-15T16:47:02.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Carrie",
-          "title": "Understanding Encoding Schemes in Web Apps",
-          "link": "https://dev.to/carrie_luo1/understanding-encoding-schemes-in-web-apps-1na2",
-          "pubDate": "Tue, 15 Oct 2024 07:33:24 +0000",
-          "dc:creator": "Carrie",
+          "creator": "Izuabueke Davidson  Anujulu",
+          "title": "Create a Linux VM Work on the IP & Connect",
+          "link": "https://dev.to/izuabueke/create-a-linux-vm-work-on-the-ip-connect-38a4",
+          "pubDate": "Tue, 15 Oct 2024 16:42:50 +0000",
+          "dc:creator": "Izuabueke Davidson  Anujulu",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/carrie_luo1/understanding-encoding-schemes-in-web-apps-1na2",
+          "guid": "https://dev.to/izuabueke/create-a-linux-vm-work-on-the-ip-connect-38a4",
           "categories": [
-            "webdev",
-            "beginners",
-            "tutorial",
-            "webdevsecurity"
+            "azure",
+            "linux",
+            "virtualmachine",
+            "cloudcomputing"
           ],
-          "isoDate": "2024-10-15T07:33:24.000Z",
+          "isoDate": "2024-10-15T16:42:50.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Atikur Rabbi",
-          "title": "Cursor Free Alternative: Open Source AI Editor using VScode",
-          "link": "https://dev.to/atik/cursor-free-alternative-open-source-ai-editor-1fak",
-          "pubDate": "Tue, 15 Oct 2024 07:32:46 +0000",
-          "dc:creator": "Atikur Rabbi",
+          "creator": "Henry Barreto",
+          "title": "Homemade application firewall for Linux",
+          "link": "https://dev.to/henrybarreto/homemade-application-firewall-for-linux-635",
+          "pubDate": "Tue, 15 Oct 2024 16:36:52 +0000",
+          "dc:creator": "Henry Barreto",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/atik/cursor-free-alternative-open-source-ai-editor-1fak",
+          "guid": "https://dev.to/henrybarreto/homemade-application-firewall-for-linux-635",
           "categories": [
-            "cursor",
-            "llama",
-            "ai",
-            "vscode"
+            "linux",
+            "firewall",
+            "container"
           ],
-          "isoDate": "2024-10-15T07:32:46.000Z",
+          "isoDate": "2024-10-15T16:36:52.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Hafiz Ammar Saleem",
-          "title": "Ethical Dilemmas Associated with Block Chain",
-          "link": "https://dev.to/hafiz_ammarsaleem_f42ea8/ethical-dilemmas-associated-with-block-chain-hmp",
-          "pubDate": "Tue, 15 Oct 2024 07:28:11 +0000",
-          "dc:creator": "Hafiz Ammar Saleem",
+          "creator": "Arnaud Gaches",
+          "title": "Passer sa certification Google Cloud Professional (Cloud Architect) : L'entrainement à la certification",
+          "link": "https://dev.to/agaches/passer-sa-certification-google-cloud-professional-cloud-architect-lentrainement-a-la-certification-1ck6",
+          "pubDate": "Tue, 15 Oct 2024 16:36:16 +0000",
+          "dc:creator": "Arnaud Gaches",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/hafiz_ammarsaleem_f42ea8/ethical-dilemmas-associated-with-block-chain-hmp",
+          "guid": "https://dev.to/agaches/passer-sa-certification-google-cloud-professional-cloud-architect-lentrainement-a-la-certification-1ck6",
           "categories": [
-            "career",
-            "learning"
+            "architecture",
+            "gcp",
+            "certification",
+            "cloud"
           ],
-          "isoDate": "2024-10-15T07:28:11.000Z",
+          "isoDate": "2024-10-15T16:36:16.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Arnaud Gaches",
+          "title": "Passer sa certification Google Cloud Professional (Cloud Architect) : Se former",
+          "link": "https://dev.to/agaches/passer-sa-certification-google-cloud-professional-cloud-architect-se-former-105e",
+          "pubDate": "Tue, 15 Oct 2024 16:36:05 +0000",
+          "dc:creator": "Arnaud Gaches",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/agaches/passer-sa-certification-google-cloud-professional-cloud-architect-se-former-105e",
+          "categories": [
+            "architecture",
+            "gcp",
+            "certification",
+            "cloud"
+          ],
+          "isoDate": "2024-10-15T16:36:05.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "ClickIT - DevOps and Software Development",
+          "title": "SRE vs DevOps: What’s the Difference and Why Does It Matter? 🤓",
+          "link": "https://dev.to/clickit_devops/sre-vs-devops-whats-the-difference-and-why-does-it-matter-26gj",
+          "pubDate": "Tue, 15 Oct 2024 16:36:04 +0000",
+          "dc:creator": "ClickIT - DevOps and Software Development",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/clickit_devops/sre-vs-devops-whats-the-difference-and-why-does-it-matter-26gj",
+          "categories": [
+            "sre",
+            "devops"
+          ],
+          "isoDate": "2024-10-15T16:36:04.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1151,6 +1173,19 @@
     },
     "Digital Ocean Labs": {
       "items": [
+        {
+          "title": "DigitalOcean Spaces Object Storage Now in Toronto",
+          "link": "https://www.digitalocean.com/blog/digitalocean-spaces-now-available-in-toronto",
+          "pubDate": "2024-10-15T11:30:00.018Z",
+          "author": "Diane Hannay",
+          "content": "",
+          "contentSnippet": "",
+          "id": "tag:www.digitalocean.com,2005:/blog/digitalocean-spaces-now-available-in-toronto",
+          "isoDate": "2024-10-15T11:30:00.018Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "Hacktoberfest 2024: How to Participate",
           "link": "https://www.digitalocean.com/blog/hactoberfest-2024-how-to-participate",
@@ -1202,25 +1237,12 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "How startups scale on DigitalOcean Kubernetes: Best Practices Part VI - Security",
-          "link": "https://www.digitalocean.com/blog/digitalocean-kubernetes-best-practices-security",
-          "pubDate": "2024-10-08T00:35:00.021Z",
-          "author": "Kunju Perath",
-          "content": "",
-          "contentSnippet": "",
-          "id": "tag:www.digitalocean.com,2005:/blog/digitalocean-kubernetes-best-practices-security",
-          "isoDate": "2024-10-08T00:35:00.021Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog.atom",
       "title": "The DigitalOcean Blog",
-      "lastBuildDate": "2024-10-14T22:23:25.165Z"
+      "lastBuildDate": "2024-10-15T11:30:11.087Z"
     },
     "Julia Evans": {
       "items": [
@@ -1289,6 +1311,191 @@
       "feedUrl": "http://jvns.ca/atom.xml",
       "title": "Julia Evans",
       "lastBuildDate": "2024-10-07T09:19:57+00:00"
+    },
+    "KodeKloud": {
+      "items": [
+        {
+          "creator": "Nimesha Jinarajadasa",
+          "title": "DevOps Engineer vs Cloud Engineer: Key Roles, Differences, and Collaboration",
+          "link": "https://kodekloud.com/blog/devops-engineer-vs-cloud-engineer-key-roles-differences-and-collaboration/",
+          "pubDate": "Thu, 10 Oct 2024 09:47:55 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Nimesha Jinarajadasa",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "6707378bbfa9a80001a28d43",
+          "categories": [
+            "DevOps Engineers",
+            "Cloud Engineers",
+            "DevOps vs Cloud Engineering",
+            "Software Deployment",
+            "Cloud Infrastructure",
+            "Automation in DevOps",
+            "CI/CD Pipeline",
+            "Cloud-Native Architecture",
+            "AWS Cloud Engineer",
+            "Infrastructure as Code (IaC)",
+            "DevOps tools"
+          ],
+          "isoDate": "2024-10-10T09:47:55.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Nimesha Jinarajadasa",
+          "title": "CKS Exam Updates 2024: Your Complete Guide to Certification with KodeKloud",
+          "link": "https://kodekloud.com/blog/cks-exam-updates-2024-your-complete-guide-to-certification-with-kodekloud/",
+          "pubDate": "Fri, 04 Oct 2024 16:58:31 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Nimesha Jinarajadasa",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "66fe8a8c486c290001aac50e",
+          "categories": [
+            "Certified Kubernetes Security Specialist (CKS)",
+            "CKS exam updates 2024",
+            "Kubernetes security certification",
+            "How to prepare for the CKS exam in 2024",
+            "What’s new in the CKS exam 2024",
+            "CKS exam guide with KodeKloud",
+            "CKS course 2024",
+            "Kubernetes security expert"
+          ],
+          "isoDate": "2024-10-04T16:58:31.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Ejiofor Chinonso",
+          "title": "Top 10 Cloud Computing Skills You Need in 2024",
+          "link": "https://kodekloud.com/blog/10-cloud-computing-skills-to-have/",
+          "pubDate": "Sat, 28 Sep 2024 07:00:52 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Ejiofor Chinonso",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "668d12b9bfcdfe0001bdbd80",
+          "isoDate": "2024-09-28T07:00:52.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Barry Ugochukwu",
+          "title": "Guide to AWS Certification",
+          "link": "https://kodekloud.com/blog/untitled/",
+          "pubDate": "Fri, 27 Sep 2024 07:00:38 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Barry Ugochukwu",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "668f9e6695d82d0001fac1c9",
+          "isoDate": "2024-09-27T07:00:38.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Avi",
+          "title": "AWS Cloud Practitioner Guide",
+          "link": "https://kodekloud.com/blog/aws-cloud-practitioner-guide/",
+          "pubDate": "Thu, 26 Sep 2024 07:00:55 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Avi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "669a0cf698a50900019bed7a",
+          "isoDate": "2024-09-26T07:00:55.000Z",
+          "summary": ""
+        }
+      ],
+      "feedUrl": "https://kodekloud.com/blog/rss/",
+      "image": {
+        "link": "https://kodekloud.com/blog/",
+        "url": "https://kodekloud.com/blog/favicon.png",
+        "title": "DevOps Blog"
+      },
+      "paginationLinks": {
+        "self": "https://kodekloud.com/blog/rss/"
+      },
+      "title": "DevOps Blog",
+      "description": "Explore our latest insights on DevOps. Get practical tips on tools like Azure, Docker, and Kubernetes. Straightforward advice for your DevOps. Join us and make your DevOps journey better.",
+      "generator": "Ghost 5.96",
+      "link": "https://kodekloud.com/blog/",
+      "lastBuildDate": "Tue, 15 Oct 2024 10:03:41 GMT",
+      "ttl": "60"
+    },
+    "Matthew Rocklin": {
+      "items": [
+        {
+          "title": "SatCamp Retrospective",
+          "link": "https://matthewrocklin.com/satcamp.html",
+          "pubDate": "2024-10-04T00:00:00.000Z",
+          "author": "Matthew Rocklin",
+          "content": "",
+          "contentSnippet": "",
+          "summary": "",
+          "id": "https://matthewrocklin.com/satcamp.html",
+          "isoDate": "2024-10-04T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": ""
+        },
+        {
+          "title": "How I Almost Quit My Job, and How Being Selfish Saved Me",
+          "link": "https://matthewrocklin.com/leverage.html",
+          "pubDate": "2024-09-20T00:00:00.000Z",
+          "author": "Matthew Rocklin",
+          "content": "",
+          "contentSnippet": "",
+          "summary": "",
+          "id": "https://matthewrocklin.com/leverage.html",
+          "isoDate": "2024-09-20T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": ""
+        },
+        {
+          "title": "What Does Pangeo 2.0 Look Like?",
+          "link": "https://matthewrocklin.com/pangeo-2.0.html",
+          "pubDate": "2024-09-18T00:00:00.000Z",
+          "author": "Matthew Rocklin",
+          "content": "",
+          "contentSnippet": "",
+          "summary": "",
+          "id": "https://matthewrocklin.com/pangeo-2.0.html",
+          "isoDate": "2024-09-18T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": ""
+        },
+        {
+          "title": "Usage Based Pricing",
+          "link": "https://matthewrocklin.com/usage-based-pricing.html",
+          "pubDate": "2024-09-04T00:00:00.000Z",
+          "author": "Matthew Rocklin",
+          "content": "",
+          "contentSnippet": "",
+          "summary": "",
+          "id": "https://matthewrocklin.com/usage-based-pricing.html",
+          "isoDate": "2024-09-04T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": ""
+        },
+        {
+          "title": "How GitHub taught me to Micromanage",
+          "link": "https://matthewrocklin.com/feedback.html",
+          "pubDate": "2024-05-11T00:00:00.000Z",
+          "author": "Matthew Rocklin",
+          "content": "",
+          "contentSnippet": "",
+          "summary": "",
+          "id": "https://matthewrocklin.com/feedback.html",
+          "isoDate": "2024-05-11T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": ""
+        }
+      ],
+      "link": "https://matthewrocklin.com",
+      "feedUrl": "https://matthewrocklin.com/./atom.xml",
+      "title": "Matthew Rocklin's Working Notes",
+      "lastBuildDate": "2024-10-15T16:33:47.404121+00:00"
     }
   }
 }
