@@ -4,6 +4,25 @@
     "CSS Tricks": {
       "items": [
         {
+          "creator": "Geoff Graham",
+          "title": "State of CSS 2024 Results",
+          "link": "https://css-tricks.com/state-of-css-2024-results/",
+          "pubDate": "Wed, 30 Oct 2024 16:43:55 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Geoff Graham",
+          "comments": "https://css-tricks.com/state-of-css-2024-results/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://css-tricks.com/?p=382144",
+          "categories": [
+            "Articles",
+            "news"
+          ],
+          "isoDate": "2024-10-30T16:43:55.000Z",
+          "summary": ""
+        },
+        {
           "creator": "Zell Liew",
           "title": "Tooltip Best Practices",
           "link": "https://css-tricks.com/tooltip-best-practices/",
@@ -11,7 +30,7 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "dc:creator": "Zell Liew",
-          "comments": "https://css-tricks.com/tooltip-best-practices/#respond",
+          "comments": "https://css-tricks.com/tooltip-best-practices/#comments",
           "content": "",
           "contentSnippet": "",
           "guid": "https://css-tricks.com/?p=382082",
@@ -81,52 +100,6 @@
           ],
           "isoDate": "2024-10-24T14:05:56.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Zell Liew",
-          "title": "Clarifying the Relationship Between Popovers and Dialogs",
-          "link": "https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/",
-          "pubDate": "Wed, 23 Oct 2024 13:20:46 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Zell Liew",
-          "comments": "https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://css-tricks.com/?p=382008",
-          "categories": [
-            "Articles",
-            "accessibility",
-            "dialog",
-            "popover"
-          ],
-          "isoDate": "2024-10-23T13:20:46.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "Geoff Graham",
-          "title": "Clamp it! VS Code extension",
-          "link": "https://css-tricks.com/clamp-it-vs-code-extension/",
-          "pubDate": "Wed, 23 Oct 2024 13:15:20 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2024/10/clamp-it_fng4a5.mp4",
-            "length": "549889",
-            "type": "video/mp4"
-          },
-          "dc:creator": "Geoff Graham",
-          "comments": "https://css-tricks.com/clamp-it-vs-code-extension/#respond",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://css-tricks.com/?p=381992",
-          "categories": [
-            "Links",
-            "clamp",
-            "typography"
-          ],
-          "isoDate": "2024-10-23T13:15:20.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://css-tricks.com/feed/",
@@ -145,7 +118,7 @@
       "generator": "https://wordpress.org/?v=6.6.2",
       "link": "https://css-tricks.com",
       "language": "en-US",
-      "lastBuildDate": "Tue, 29 Oct 2024 14:12:56 +0000"
+      "lastBuildDate": "Wed, 30 Oct 2024 16:45:47 +0000"
     },
     "CSS In Real Life": {
       "items": [
@@ -414,7 +387,7 @@
       },
       "title": "Web Designer Depot",
       "description": "Web Design Resources and Tutorials",
-      "pubDate": "Tue, 29 Oct 2024 22:06:26 -0700",
+      "pubDate": "Wed, 30 Oct 2024 22:06:20 -0700",
       "link": "https://www.webdesignerdepot.com",
       "language": "en-us",
       "copyright": "Copyright Web Designer Depot, all rights reserved."
@@ -1004,6 +977,18 @@
     "Go Make Things": {
       "items": [
         {
+          "title": "Web Components and FOUC",
+          "link": "https://gomakethings.com/web-components-and-fouc/",
+          "pubDate": "Wed, 30 Oct 2024 10:30:00 -0400",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://gomakethings.com/web-components-and-fouc/",
+          "isoDate": "2024-10-30T14:30:00.000Z",
+          "summary": ""
+        },
+        {
           "title": "How to add custom events to Web Components",
           "link": "https://gomakethings.com/how-to-add-custom-events-to-web-components/",
           "pubDate": "Wed, 23 Oct 2024 10:30:00 -0400",
@@ -1050,18 +1035,6 @@
           "guid": "https://gomakethings.com/styling-web-components/",
           "isoDate": "2024-10-17T14:30:00.000Z",
           "summary": ""
-        },
-        {
-          "title": "AI is exploitation",
-          "link": "https://gomakethings.com/ai-is-exploitation/",
-          "pubDate": "Wed, 16 Oct 2024 10:30:00 -0400",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://gomakethings.com/ai-is-exploitation/",
-          "isoDate": "2024-10-16T14:30:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://gomakethings.com/feed/index.xml",
@@ -1073,7 +1046,7 @@
       "generator": "Hugo -- gohugo.io",
       "link": "https://gomakethings.com/articles",
       "language": "en-us",
-      "lastBuildDate": "Wed, 30 Oct 2024 00:03:27 EST"
+      "lastBuildDate": "Thu, 31 Oct 2024 00:03:27 EST"
     }
   }
 }
