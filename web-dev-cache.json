@@ -103,7 +103,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Wed, 30 Oct 2024 10:02:27 GMT"
+      "lastBuildDate": "Fri, 01 Nov 2024 03:02:21 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -208,26 +208,6 @@
           ],
           "isoDate": "2024-10-24T18:15:02.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Brandon Szymanski",
-          "title": "Cybersecurity spotlight on bug bounty researcher @adrianoapj",
-          "link": "https://github.blog/security/vulnerability-research/cybersecurity-spotlight-on-bug-bounty-researcher-adrianoapj/",
-          "pubDate": "Thu, 24 Oct 2024 16:00:27 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Brandon Szymanski",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=80679",
-          "categories": [
-            "Security",
-            "Vulnerability research",
-            "bug bounty",
-            "Cybersecurity Awareness Month"
-          ],
-          "isoDate": "2024-10-24T16:00:27.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://github.blog/feed/",
@@ -246,7 +226,7 @@
       "generator": "https://wordpress.org/?v=6.6.2",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Wed, 30 Oct 2024 21:40:47 +0000"
+      "lastBuildDate": "Thu, 31 Oct 2024 18:10:19 +0000"
     },
     "GitHub Blog Atom": {
       "items": [
@@ -337,6 +317,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Cosima Mielke)",
+          "title": "Ingredients For A Cozy November (2024 Wallpapers Edition)",
+          "link": "https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/",
+          "pubDate": "Thu, 31 Oct 2024 14:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-november-2024/nov-24-honoring-the-sound-of-jazz-and-soul-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/",
+          "isoDate": "2024-10-31T14:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Vitaly Friedman)",
           "title": "Designing For Gen Z: Expectations And UX Guidelines",
           "link": "https://smashingmagazine.com/2024/10/designing-for-gen-z/",
@@ -411,25 +410,6 @@
           "guid": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
           "isoDate": "2024-10-11T10:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Karin Hendrikse)",
-          "title": "Build A Static RSS Reader To Fight Your Inner FOMO",
-          "link": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
-          "pubDate": "Mon, 07 Oct 2024 13:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Karin Hendrikse)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/build-static-rss-reader-fight-fomo/build-static-rss-reader-fight-fomo.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/10/build-static-rss-reader-fight-fomo/",
-          "isoDate": "2024-10-07T13:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -447,11 +427,37 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Thu, 31 Oct 2024 04:34:51 GMT",
+      "lastBuildDate": "Fri, 01 Nov 2024 04:34:37 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Matias Perez",
+          "title": "How to Code a Subtle Shader Background Effect with React Three Fiber",
+          "link": "https://tympanus.net/codrops/2024/10/31/how-to-code-a-subtle-shader-background-effect-with-react-three-fiber/",
+          "pubDate": "Thu, 31 Oct 2024 13:13:28 +0000",
+          "enclosure": {
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/10/shaderbackground.mp4?x66413",
+            "length": "1516419",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Matias Perez",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=81438",
+          "categories": [
+            "Tutorials",
+            "react-three-fiber",
+            "shader",
+            "three.js",
+            "webgl"
+          ],
+          "isoDate": "2024-10-31T13:13:28.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Christophe Choffel",
           "title": "Interactive 3D with Three.js BatchedMesh and WebGPURenderer",
@@ -486,6 +492,20 @@
             "yaml"
           ],
           "isoDate": "2024-10-29T12:38:13.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Manoela Ilic",
+          "title": "Collective #876",
+          "link": "https://tympanus.net/codrops/collective/collective-876/",
+          "pubDate": "Tue, 29 Oct 2024 12:00:00 +0000",
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?post_type=collective&p=82033",
+          "isoDate": "2024-10-29T12:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -553,33 +573,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Caio Bassetti",
-          "title": "Creating a 3D Hand Controller Using a Webcam with MediaPipe and Three.js",
-          "link": "https://tympanus.net/codrops/2024/10/24/creating-a-3d-hand-controller-using-a-webcam-with-mediapipe-and-three-js/",
-          "pubDate": "Thu, 24 Oct 2024 12:22:02 +0000",
-          "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/10/spaceship_shorrt.mp4?x66413",
-            "length": "5838375",
-            "type": "video/mp4"
-          },
-          "dc:creator": "Caio Bassetti",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=81744",
-          "categories": [
-            "Tutorials",
-            "3d",
-            "hand tracking",
-            "three.js",
-            "webcam",
-            "webgl"
-          ],
-          "isoDate": "2024-10-24T12:22:02.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -591,10 +584,98 @@
       "generator": "https://wordpress.org/?v=6.6.2",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Wed, 30 Oct 2024 12:12:56 +0000"
+      "lastBuildDate": "Thu, 31 Oct 2024 14:39:01 +0000"
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Aravind Nuthalapati",
+          "title": "How to Identify Bottlenecks and Increase Copy Activity Throughput in Azure Data Factory",
+          "link": "https://dzone.com/articles/identify-bottlenecks-and-increase-copy-activity-adf",
+          "pubDate": "Thu, 31 Oct 2024 20:00:02 GMT",
+          "dc:creator": "Aravind Nuthalapati",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3499194",
+          "isoDate": "2024-10-31T20:00:02.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mark Levy",
+          "title": "4 Essential Strategies for Enhancing Your Application Security Posture",
+          "link": "https://dzone.com/articles/4-strategies-for-enhancing-appsec-posture",
+          "pubDate": "Thu, 31 Oct 2024 18:00:03 GMT",
+          "dc:creator": "Mark Levy",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3500004",
+          "isoDate": "2024-10-31T18:00:03.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Vijay Panwar",
+          "title": "Boosting Efficiency: Implementing Natural Language Processing With AWS RDS Using CloudFormation",
+          "link": "https://dzone.com/articles/implementing-nlp-with-aws-rds-using-cloudformation",
+          "pubDate": "Thu, 31 Oct 2024 16:00:03 GMT",
+          "dc:creator": "Vijay Panwar",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3506856",
+          "isoDate": "2024-10-31T16:00:03.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Lucy Marcum",
+          "title": "Platform Engineering Essentials",
+          "link": "https://dzone.com/refcardz/platform-engineering-essentials",
+          "pubDate": "Thu, 31 Oct 2024 15:51:19 GMT",
+          "dc:creator": "Lucy Marcum",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/refcardz/3505189",
+          "categories": [
+            "devops",
+            "platform engineering"
+          ],
+          "isoDate": "2024-10-31T15:51:19.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Pradeep kumar Saraswathi",
+          "title": "Exploring AI-Powered Web Development: OpenAI, Node.js, and Dynamic UI Creation",
+          "link": "https://dzone.com/articles/exploring-ai-powered-web-development",
+          "pubDate": "Thu, 31 Oct 2024 14:00:04 GMT",
+          "dc:creator": "Pradeep kumar Saraswathi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3490528",
+          "isoDate": "2024-10-31T14:00:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Magnus Larsson",
+          "title": "Faster Startup With Spring Boot 3.2 and CRaC, Part 2",
+          "link": "https://dzone.com/articles/faster-startup-with-spring-boot-32-and-crac-part-2",
+          "pubDate": "Thu, 31 Oct 2024 12:00:04 GMT",
+          "dc:creator": "Magnus Larsson",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3505010",
+          "isoDate": "2024-10-31T12:00:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Dmitry Chuyko",
           "title": "Java Is Greener on Arm",
@@ -650,90 +731,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Nimit Gupta",
-          "title": "Challenges and Ethical Considerations of AI in Team Management",
-          "link": "https://dzone.com/articles/challenges-and-ethics-of-ai-in-team-management",
-          "pubDate": "Wed, 30 Oct 2024 17:00:07 GMT",
-          "dc:creator": "Nimit Gupta",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3503795",
-          "isoDate": "2024-10-30T17:00:07.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sanjeewa Malalgoa",
-          "title": "Navigating API Challenges in Kubernetes",
-          "link": "https://dzone.com/articles/navigating-api-challenges-in-kubernetes",
-          "pubDate": "Wed, 30 Oct 2024 16:00:03 GMT",
-          "dc:creator": "Sanjeewa Malalgoa",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3504028",
-          "isoDate": "2024-10-30T16:00:03.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Takumi Yanagawa",
-          "title": "Compliance Automated Standard Solution (COMPASS), Part 7: Compliance-to-Policy for IT Operation Policies Using Auditree",
-          "link": "https://dzone.com/articles/compass-part-7-c2p-using-auditree",
-          "pubDate": "Wed, 30 Oct 2024 15:00:03 GMT",
-          "dc:creator": "Takumi Yanagawa",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3503384",
-          "isoDate": "2024-10-30T15:00:03.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Mohibul Hassan Chowdhury",
-          "title": "Hot Class Reload in Java: A Webpack HMR-Like Experience for Java Developers",
-          "link": "https://dzone.com/articles/hot-class-reload-in-java",
-          "pubDate": "Wed, 30 Oct 2024 14:00:11 GMT",
-          "dc:creator": "Mohibul Hassan Chowdhury",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3500580",
-          "isoDate": "2024-10-30T14:00:11.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "David Jones",
-          "title": "How to Create a Pokémon Breeding Gaming Calculator Using HTML, CSS, and JavaScript",
-          "link": "https://dzone.com/articles/how-to-create-a-pokemon-breeding-gaming-calculator",
-          "pubDate": "Wed, 30 Oct 2024 13:00:03 GMT",
-          "dc:creator": "David Jones",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3502605",
-          "isoDate": "2024-10-30T13:00:03.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Kapil Kumar Sharma",
-          "title": "Snowflake Cortex Analyst: Unleashing the Power of Conversational AI for Text-to-SQL",
-          "link": "https://dzone.com/articles/unleashing-the-power-of-conversational-ai-for-text",
-          "pubDate": "Wed, 30 Oct 2024 12:00:04 GMT",
-          "dc:creator": "Kapil Kumar Sharma",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3500369",
-          "isoDate": "2024-10-30T12:00:04.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -746,6 +743,108 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Guillermo Quiros",
+          "title": "Pod Security with K8Studio",
+          "link": "https://itnext.io/pod-security-with-k8studio-b86c246ffaa4?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 31 Oct 2024 23:06:45 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Guillermo Quiros",
+          "guid": "https://medium.com/p/b86c246ffaa4",
+          "categories": [
+            "k8s-security",
+            "kubernetes",
+            "cks-exam",
+            "k8s"
+          ],
+          "isoDate": "2024-10-31T23:06:45.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Gabriele “Gabe” Pavanello",
+          "title": "Extend Enum Cases in Swift: Workarounds and Practical Use Cases",
+          "link": "https://itnext.io/extend-enum-cases-in-swift-workarounds-and-practical-use-cases-7fcc192f6567?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 31 Oct 2024 13:26:55 GMT",
+          "dc:creator": "Gabriele “Gabe” Pavanello",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/7fcc192f6567",
+          "categories": [
+            "workarrounds",
+            "coding",
+            "development",
+            "swift",
+            "ios"
+          ],
+          "isoDate": "2024-10-31T13:26:55.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Nasim Salmany",
+          "title": "Taming — code generation beast — how responsible is your AI in Java — how do you adopt AI…",
+          "link": "https://itnext.io/taming-code-generation-beast-how-responsible-is-your-ai-in-java-how-do-you-adopt-ai-7ee8e0c912d1?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 31 Oct 2024 11:24:59 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Nasim Salmany",
+          "guid": "https://medium.com/p/7ee8e0c912d1",
+          "categories": [
+            "java",
+            "ai",
+            "technology",
+            "observability"
+          ],
+          "isoDate": "2024-10-31T11:24:59.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Guillermo Quiros",
+          "title": "Why 90% of Deployments Are Done with VMs and Serverless Instead of Kubernetes — and How We Can…",
+          "link": "https://itnext.io/why-90-of-deployments-are-done-with-vms-and-serverless-instead-of-kubernetes-and-how-we-can-a6311b7f8532?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 31 Oct 2024 08:01:49 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Guillermo Quiros",
+          "guid": "https://medium.com/p/a6311b7f8532",
+          "categories": [
+            "docker",
+            "kubernetes",
+            "kubernetes-cluster",
+            "serverless"
+          ],
+          "isoDate": "2024-10-31T08:01:49.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Michael Eichhorn",
+          "title": "Automated testing for Helm charts— Avoid surprises in production",
+          "link": "https://itnext.io/automated-testing-for-helm-charts-avoid-surprises-in-production-ae942ebd6b3f?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 31 Oct 2024 07:58:49 GMT",
+          "dc:creator": "Michael Eichhorn",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/ae942ebd6b3f",
+          "categories": [
+            "testing",
+            "automation",
+            "kubernetes",
+            "helm",
+            "devops"
+          ],
+          "isoDate": "2024-10-31T07:58:49.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "JavaScript UI Libraries — DHTMLX",
           "title": "JavaScript News, Updates, and Tutorials: October 2024 Edition",
@@ -843,107 +942,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Raghav Joshi",
-          "title": "A Little Trick to Add Elevation to Any Widget — Flutter Bytes",
-          "link": "https://itnext.io/a-little-trick-to-add-elevation-to-any-widget-flutter-bytes-c62892795876?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 29 Oct 2024 21:03:06 GMT",
-          "dc:creator": "Raghav Joshi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/c62892795876",
-          "categories": [
-            "flutter",
-            "ui",
-            "technology",
-            "design",
-            "software-development"
-          ],
-          "isoDate": "2024-10-29T21:03:06.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Denys Poltorak",
-          "title": "Real-world inspirations for architectural patterns",
-          "link": "https://itnext.io/real-world-inspirations-for-architectural-patterns-843768060d22?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 29 Oct 2024 16:19:18 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Denys Poltorak",
-          "guid": "https://medium.com/p/843768060d22",
-          "categories": [
-            "software-architecture",
-            "software-engineering",
-            "design-patterns",
-            "system-architecture",
-            "software-design"
-          ],
-          "isoDate": "2024-10-29T16:19:18.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Andrei Kabylin",
-          "title": "Flutter RAII: Simplifying Resource Management in Your Apps",
-          "link": "https://itnext.io/flutter-raii-simplifying-resource-management-in-your-apps-8d7cc5e46f8b?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 29 Oct 2024 15:26:35 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Andrei Kabylin",
-          "guid": "https://medium.com/p/8d7cc5e46f8b",
-          "categories": [
-            "raii",
-            "dart",
-            "flutter",
-            "resource-management",
-            "state-management"
-          ],
-          "isoDate": "2024-10-29T15:26:35.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Danny Moerkerke",
-          "title": "Hide And Seek: How To Make Sense Of Page Events In Your Web App",
-          "link": "https://itnext.io/hide-and-seek-how-to-make-sense-of-page-events-in-your-web-app-64fd906bdff4?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 29 Oct 2024 15:25:06 GMT",
-          "dc:creator": "Danny Moerkerke",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/64fd906bdff4",
-          "categories": [
-            "web-app-development",
-            "front-end-development",
-            "web-development",
-            "javascript"
-          ],
-          "isoDate": "2024-10-29T15:25:06.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Stefan Weber",
-          "title": "OutSystems 11 Users, Groups and Roles",
-          "link": "https://itnext.io/outsystems-11-users-groups-and-roles-cb17a9a9cb60?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 29 Oct 2024 08:04:00 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Stefan Weber",
-          "guid": "https://medium.com/p/cb17a9a9cb60",
-          "categories": [
-            "outsystems",
-            "low-code"
-          ],
-          "isoDate": "2024-10-29T08:04:00.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -960,194 +958,191 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Thu, 31 Oct 2024 04:54:29 GMT"
+      "lastBuildDate": "Fri, 01 Nov 2024 04:53:14 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Paul",
-          "title": "Awesome Free Tailwind landing page templates",
-          "link": "https://dev.to/paul_freeman/awesome-free-tailwind-landing-page-templates-2gnb",
-          "pubDate": "Thu, 31 Oct 2024 04:51:09 +0000",
-          "dc:creator": "Paul",
+          "creator": "Trix Cyrus",
+          "title": "Automating software installations on Linux using Python.",
+          "link": "https://dev.to/trixsec/automating-software-installations-on-linux-using-python-3611",
+          "pubDate": "Fri, 01 Nov 2024 04:53:20 +0000",
+          "dc:creator": "Trix Cyrus",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/paul_freeman/awesome-free-tailwind-landing-page-templates-2gnb",
+          "guid": "https://dev.to/trixsec/automating-software-installations-on-linux-using-python-3611",
+          "isoDate": "2024-11-01T04:53:20.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Hyunjin Shin (Jin)",
+          "title": "OSD600 - lab06",
+          "link": "https://dev.to/jinger-ale/osd600-lab06-39p8",
+          "pubDate": "Fri, 01 Nov 2024 04:31:44 +0000",
+          "dc:creator": "Hyunjin Shin (Jin)",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/jinger-ale/osd600-lab06-39p8",
+          "categories": [
+            "osd600"
+          ],
+          "isoDate": "2024-11-01T04:31:44.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Seenivasa Ramadurai",
+          "title": "Denoising Images with Autoencoders: A Practical Guide Using MNIST Dataset- Part 2",
+          "link": "https://dev.to/sreeni5018/denoising-images-with-autoencoders-a-practical-guide-using-mnist-dataset-part-2-55dd",
+          "pubDate": "Fri, 01 Nov 2024 04:31:23 +0000",
+          "dc:creator": "Seenivasa Ramadurai",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/sreeni5018/denoising-images-with-autoencoders-a-practical-guide-using-mnist-dataset-part-2-55dd",
+          "isoDate": "2024-11-01T04:31:23.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Siddharth Bhalsod",
+          "title": "AI Democratization: Unlocking the Power of Artificial Intelligence for All",
+          "link": "https://dev.to/siddharthbhalsod/ai-democratization-unlocking-the-power-of-artificial-intelligence-for-all-37ck",
+          "pubDate": "Fri, 01 Nov 2024 04:30:00 +0000",
+          "dc:creator": "Siddharth Bhalsod",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/siddharthbhalsod/ai-democratization-unlocking-the-power-of-artificial-intelligence-for-all-37ck",
+          "categories": [
+            "ai",
+            "python",
+            "deeplearning",
+            "machinelearning"
+          ],
+          "isoDate": "2024-11-01T04:30:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Danial Ranjha",
+          "title": "Maximizing Your Budget: Proven Strategies for AWS Cost Saving",
+          "link": "https://dev.to/billgist/maximizing-your-budget-proven-strategies-for-aws-cost-saving-2k2e",
+          "pubDate": "Fri, 01 Nov 2024 04:26:06 +0000",
+          "dc:creator": "Danial Ranjha",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/billgist/maximizing-your-budget-proven-strategies-for-aws-cost-saving-2k2e",
+          "categories": [
+            "aws",
+            "cloud",
+            "devops",
+            "web"
+          ],
+          "isoDate": "2024-11-01T04:26:06.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mitchell",
+          "title": "Function - JavaScript Challenges",
+          "link": "https://dev.to/mitchell_cheng/function-javascript-challenges-4g9l",
+          "pubDate": "Fri, 01 Nov 2024 04:25:43 +0000",
+          "dc:creator": "Mitchell",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/mitchell_cheng/function-javascript-challenges-4g9l",
           "categories": [
             "webdev",
             "javascript",
-            "html",
-            "tailwindcss"
+            "beginners",
+            "learning"
           ],
-          "isoDate": "2024-10-31T04:51:09.000Z",
+          "isoDate": "2024-11-01T04:25:43.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "wollens",
-          "title": "Golang build a file DB",
-          "link": "https://dev.to/wollens/golang-build-a-file-db-2m7l",
-          "pubDate": "Thu, 31 Oct 2024 04:37:37 +0000",
-          "dc:creator": "wollens",
+          "creator": "Jaeyoung Jung",
+          "title": "Package cannot be published to the shared feed",
+          "link": "https://dev.to/jaeyoung_jung_363d518d448/package-cannot-be-published-to-the-shared-feed-1aee",
+          "pubDate": "Fri, 01 Nov 2024 04:07:35 +0000",
+          "dc:creator": "Jaeyoung Jung",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/wollens/golang-build-a-file-db-2m7l",
+          "guid": "https://dev.to/jaeyoung_jung_363d518d448/package-cannot-be-published-to-the-shared-feed-1aee",
           "categories": [
-            "go"
+            "rpa",
+            "uipath",
+            "errors",
+            "orchestrator"
           ],
-          "isoDate": "2024-10-31T04:37:37.000Z",
+          "isoDate": "2024-11-01T04:07:35.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Kittipat.po",
-          "title": "Checking if a Type Satisfies an Interface in Go",
-          "link": "https://dev.to/kittipat1413/checking-if-a-type-satisfies-an-interface-in-go-432n",
-          "pubDate": "Thu, 31 Oct 2024 04:34:08 +0000",
-          "dc:creator": "Kittipat.po",
+          "creator": "Willie",
+          "title": "Exportar u Obtener Hallazgos en AWS Inspector",
+          "link": "https://dev.to/cyb3rcloud8888/exportar-u-obtener-hallazgos-en-aws-inspector-36c",
+          "pubDate": "Fri, 01 Nov 2024 04:04:54 +0000",
+          "dc:creator": "Willie",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/kittipat1413/checking-if-a-type-satisfies-an-interface-in-go-432n",
+          "guid": "https://dev.to/cyb3rcloud8888/exportar-u-obtener-hallazgos-en-aws-inspector-36c",
           "categories": [
-            "webdev",
-            "go",
-            "programming",
-            "beginners"
-          ],
-          "isoDate": "2024-10-31T04:34:08.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Shree4226",
-          "title": "My Hacktoberfest 2024 Journey: Growth, Collaboration, and New Beginnings 🌱",
-          "link": "https://dev.to/shree4226/my-hacktoberfest-2024-journey-growth-collaboration-and-new-beginnings-1d60",
-          "pubDate": "Thu, 31 Oct 2024 04:29:08 +0000",
-          "dc:creator": "Shree4226",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/shree4226/my-hacktoberfest-2024-journey-growth-collaboration-and-new-beginnings-1d60",
-          "categories": [
-            "devchallenge",
-            "hacktoberfestchallenge",
-            "hacktoberfest",
-            "opensource"
-          ],
-          "isoDate": "2024-10-31T04:29:08.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ahmed Castro",
-          "title": "L1SLOAD: Reading Arrays, Structs and Nested Mappings",
-          "link": "https://dev.to/filosofiacodigoen/l1sload-reading-arrays-structs-and-nested-mappings-4b7h",
-          "pubDate": "Thu, 31 Oct 2024 04:28:59 +0000",
-          "dc:creator": "Ahmed Castro",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/filosofiacodigoen/l1sload-reading-arrays-structs-and-nested-mappings-4b7h",
-          "isoDate": "2024-10-31T04:28:59.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "TheDev",
-          "title": "AI Web Developer - GitHub Spark",
-          "link": "https://dev.to/dev007777/ai-web-developer-github-spark-16n8",
-          "pubDate": "Thu, 31 Oct 2024 04:15:47 +0000",
-          "dc:creator": "TheDev",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/dev007777/ai-web-developer-github-spark-16n8",
-          "categories": [
-            "webdev",
-            "programming",
-            "ai",
-            "news"
-          ],
-          "isoDate": "2024-10-31T04:15:47.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Maxime Lefebvre",
-          "title": "How to create custom VS Code snippets ⌨️",
-          "link": "https://dev.to/maximelbv/how-to-create-custom-vs-code-snippets-cd7",
-          "pubDate": "Thu, 31 Oct 2024 04:11:54 +0000",
-          "dc:creator": "Maxime Lefebvre",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/maximelbv/how-to-create-custom-vs-code-snippets-cd7",
-          "categories": [
-            "vscode",
-            "tooling",
+            "cloudcomputing",
+            "vulnerabilities",
             "tutorial",
-            "productivity"
+            "cloudsecurity"
           ],
-          "isoDate": "2024-10-31T04:11:54.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "chanduthedev",
-          "title": "Book a Cook",
-          "link": "https://dev.to/chanduthedev/testing-4bi2",
-          "pubDate": "Thu, 31 Oct 2024 04:09:36 +0000",
-          "dc:creator": "chanduthedev",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/chanduthedev/testing-4bi2",
-          "categories": [
-            "idea"
-          ],
-          "isoDate": "2024-10-31T04:09:36.000Z",
+          "isoDate": "2024-11-01T04:04:54.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
           "creator": "Judith-Excel-Sharing",
-          "title": "#86 — Calculate Using Adjacent Row/Interval When Data of The Same Group Is Discontinuous (LRR/YOY in The Case of Missing Data)",
-          "link": "https://dev.to/judith677/86-calculate-using-adjacent-rowinterval-when-data-of-the-same-group-is-discontinuous-lrryoy-in-the-case-of-missing-data-59bi",
-          "pubDate": "Thu, 31 Oct 2024 04:09:18 +0000",
+          "title": "#87 — Merge Data of The Same Group",
+          "link": "https://dev.to/judith677/87-merge-data-of-the-same-group-5ap4",
+          "pubDate": "Fri, 01 Nov 2024 04:01:23 +0000",
           "dc:creator": "Judith-Excel-Sharing",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/judith677/86-calculate-using-adjacent-rowinterval-when-data-of-the-same-group-is-discontinuous-lrryoy-in-the-case-of-missing-data-59bi",
+          "guid": "https://dev.to/judith677/87-merge-data-of-the-same-group-5ap4",
           "categories": [
             "productivity",
             "beginners",
             "programming",
             "tutorial"
           ],
-          "isoDate": "2024-10-31T04:09:18.000Z",
+          "isoDate": "2024-11-01T04:01:23.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Tanay Karnik",
-          "title": "Building a Card with Gradient Hover Effect Inspired by Nuxt UI",
-          "link": "https://dev.to/tanay/building-a-card-with-gradient-hover-effect-inspired-by-nuxt-ui-2j",
-          "pubDate": "Thu, 31 Oct 2024 04:05:54 +0000",
-          "dc:creator": "Tanay Karnik",
+          "creator": "Mitchell",
+          "title": "Function prototype - JavaScript Challenges",
+          "link": "https://dev.to/mitchell_cheng/function-prototype-javascript-challenges-19eo",
+          "pubDate": "Fri, 01 Nov 2024 03:59:56 +0000",
+          "dc:creator": "Mitchell",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/tanay/building-a-card-with-gradient-hover-effect-inspired-by-nuxt-ui-2j",
+          "guid": "https://dev.to/mitchell_cheng/function-prototype-javascript-challenges-19eo",
           "categories": [
-            "nuxt",
-            "vue",
-            "tailwindcss",
-            "ui"
+            "webdev",
+            "javascript",
+            "beginners",
+            "learning"
           ],
-          "isoDate": "2024-10-31T04:05:54.000Z",
+          "isoDate": "2024-11-01T03:59:56.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1233,10 +1228,22 @@
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog.atom",
       "title": "The DigitalOcean Blog",
-      "lastBuildDate": "2024-10-30T15:20:50.643Z"
+      "lastBuildDate": "2024-10-31T17:16:18.170Z"
     },
     "Julia Evans": {
       "items": [
+        {
+          "title": "ASCII control characters in my terminal",
+          "link": "https://jvns.ca/blog/2024/10/31/ascii-control-characters/",
+          "pubDate": "2024-10-31T08:00:10.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "id": "https://jvns.ca/blog/2024/10/31/ascii-control-characters/",
+          "isoDate": "2024-10-31T08:00:10.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "Using less memory to look up IP addresses in Mess With DNS",
           "link": "https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/",
@@ -1284,24 +1291,12 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "Reasons I still love the fish shell",
-          "link": "https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/",
-          "pubDate": "2024-09-12T15:09:12.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "id": "https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/",
-          "isoDate": "2024-09-12T15:09:12.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "link": "http://jvns.ca/atom.xml",
       "feedUrl": "http://jvns.ca/atom.xml",
       "title": "Julia Evans",
-      "lastBuildDate": "2024-10-27T07:47:04+00:00"
+      "lastBuildDate": "2024-10-31T08:00:10+00:00"
     },
     "KodeKloud": {
       "items": [
@@ -1512,7 +1507,7 @@
       "link": "https://matthewrocklin.com",
       "feedUrl": "https://matthewrocklin.com/./atom.xml",
       "title": "Matthew Rocklin's Working Notes",
-      "lastBuildDate": "2024-10-25T23:20:16.509169+00:00"
+      "lastBuildDate": "2024-10-31T21:29:58.025659+00:00"
     },
     "Rein Hard": {
       "items": [
