@@ -103,7 +103,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Tue, 05 Nov 2024 03:02:37 GMT"
+      "lastBuildDate": "Wed, 06 Nov 2024 03:02:26 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -226,7 +226,7 @@
       "generator": "https://wordpress.org/?v=6.6.2",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Fri, 01 Nov 2024 20:37:40 +0000"
+      "lastBuildDate": "Wed, 06 Nov 2024 00:16:38 +0000"
     },
     "GitHub Blog Atom": {
       "items": [
@@ -317,6 +317,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Geoff Graham)",
+          "title": "Why Optimizing Your Lighthouse Score Is Not Enough For A Fast Website",
+          "link": "https://smashingmagazine.com/2024/11/why-optimizing-lighthouse-score-not-enough-fast-website/",
+          "pubDate": "Tue, 05 Nov 2024 10:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Geoff Graham)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/why-optimizing-lighthouse-score-not-enough-fast-website/why-optimizing-lighthouse-score-not-enough-fast-website.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/11/why-optimizing-lighthouse-score-not-enough-fast-website/",
+          "isoDate": "2024-11-05T10:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Cosima Mielke)",
           "title": "Ingredients For A Cozy November (2024 Wallpapers Edition)",
           "link": "https://smashingmagazine.com/2024/10/desktop-wallpaper-calendars-november-2024/",
@@ -391,25 +410,6 @@
           "guid": "https://smashingmagazine.com/2024/10/new-video-course-how-to-measure-ux-design-impact/",
           "isoDate": "2024-10-15T14:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Joas Pambou)",
-          "title": "Using Multimodal AI Models For Your Applications (Part 3)",
-          "link": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
-          "pubDate": "Fri, 11 Oct 2024 10:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Joas Pambou)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/using-multimodal-ai-models-applications-part3/using-multimodal-ai-models-applications.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/10/using-multimodal-ai-models-applications-part3/",
-          "isoDate": "2024-10-11T10:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -427,11 +427,25 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Tue, 05 Nov 2024 03:50:40 GMT",
+      "lastBuildDate": "Wed, 06 Nov 2024 04:35:05 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "Collective #878",
+          "link": "https://tympanus.net/codrops/collective/collective-878/",
+          "pubDate": "Tue, 05 Nov 2024 12:00:00 +0000",
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?post_type=collective&p=82035",
+          "isoDate": "2024-11-05T12:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Dariel Vila",
           "title": "How to Create an AI-Powered Newsletter Aggregator with React and AI Agents",
@@ -484,7 +498,7 @@
           "categories": [
             "Articles",
             "designer",
-            "designer-spotlight",
+            "Designer Spotlight",
             "inspiration"
           ],
           "isoDate": "2024-11-01T11:19:47.000Z",
@@ -537,38 +551,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Bruno Pérez",
-          "title": "Simplifying Backend Tasks for Frontend Developers with Manifest, a One-File Solution",
-          "link": "https://tympanus.net/codrops/2024/10/29/simplifying-backend-tasks-for-frontend-developers-with-manifest-a-one-file-solution/",
-          "pubDate": "Tue, 29 Oct 2024 12:38:13 +0000",
-          "dc:creator": "Bruno Pérez",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=81400",
-          "categories": [
-            "Articles",
-            "yaml"
-          ],
-          "isoDate": "2024-10-29T12:38:13.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "Collective #876",
-          "link": "https://tympanus.net/codrops/collective/collective-876/",
-          "pubDate": "Tue, 29 Oct 2024 12:00:00 +0000",
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?post_type=collective&p=82033",
-          "isoDate": "2024-10-29T12:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -585,141 +567,141 @@
     "DZone": {
       "items": [
         {
-          "creator": "Felipe Mendes",
-          "title": "Understanding Distributed System Performance… From the Grocery Store",
-          "link": "https://dzone.com/articles/distributed-system-performance-grocery-store",
-          "pubDate": "Mon, 04 Nov 2024 22:00:03 GMT",
-          "dc:creator": "Felipe Mendes",
+          "creator": "Sweetty P Devassy",
+          "title": "Jakarta WebSocket Essentials: A Guide to Full-Duplex Communication in Java",
+          "link": "https://dzone.com/articles/jakarta-websocket-essentials",
+          "pubDate": "Tue, 05 Nov 2024 22:00:02 GMT",
+          "dc:creator": "Sweetty P Devassy",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3502638",
-          "isoDate": "2024-11-04T22:00:03.000Z",
+          "guid": "https://dzone.com/articles/3505069",
+          "isoDate": "2024-11-05T22:00:02.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Jason Bloomberg",
-          "title": "How to Protect Yourself From the Inevitable GenAI Crash",
-          "link": "https://dzone.com/articles/protect-yourself-from-the-inevitable-genai-crash",
-          "pubDate": "Mon, 04 Nov 2024 21:00:03 GMT",
-          "dc:creator": "Jason Bloomberg",
+          "creator": "arvind toorpu",
+          "title": "Cost Optimization Strategies for Managing Large-Scale Open-Source Databases",
+          "link": "https://dzone.com/articles/cost-optimization-large-scale-open-source-dbs",
+          "pubDate": "Tue, 05 Nov 2024 21:00:09 GMT",
+          "dc:creator": "arvind toorpu",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3504880",
-          "isoDate": "2024-11-04T21:00:03.000Z",
+          "guid": "https://dzone.com/articles/3501746",
+          "isoDate": "2024-11-05T21:00:09.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Joel Lubinitsky",
-          "title": "The Modern Era of Data Orchestration: From Data Fragmentation to Collaboration",
-          "link": "https://dzone.com/articles/the-modern-era-of-data-orchestration",
-          "pubDate": "Mon, 04 Nov 2024 20:00:06 GMT",
-          "dc:creator": "Joel Lubinitsky",
+          "creator": "Aishwarya Murali",
+          "title": "Storybook: A Developer’s Secret Weapon",
+          "link": "https://dzone.com/articles/storybook-a-developers-secret-weapon",
+          "pubDate": "Tue, 05 Nov 2024 20:00:05 GMT",
+          "dc:creator": "Aishwarya Murali",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3508048",
-          "isoDate": "2024-11-04T20:00:06.000Z",
+          "guid": "https://dzone.com/articles/3501828",
+          "isoDate": "2024-11-05T20:00:05.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Katia Aresti",
-          "title": "Supporting Multiple Redis Databases With Infinispan Cache Aliases Enhancement",
-          "link": "https://dzone.com/articles/supporting-multiple-redis-databases-with-infinispan",
-          "pubDate": "Mon, 04 Nov 2024 19:00:07 GMT",
-          "dc:creator": "Katia Aresti",
+          "creator": "Ifeanyi Benny Iheagwara",
+          "title": "Build Retrieval-Augmented Generation (RAG) With Milvus",
+          "link": "https://dzone.com/articles/build-rag-with-milvus",
+          "pubDate": "Tue, 05 Nov 2024 19:00:06 GMT",
+          "dc:creator": "Ifeanyi Benny Iheagwara",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3502577",
-          "isoDate": "2024-11-04T19:00:07.000Z",
+          "guid": "https://dzone.com/articles/3500717",
+          "isoDate": "2024-11-05T19:00:06.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Vaibhavi Tiwari",
-          "title": "AI-Powered Flashcard Application With Next.js, Clerk, Firebase, Material UI, and LLaMA 3.1",
-          "link": "https://dzone.com/articles/ai-powered-flashcard-application",
-          "pubDate": "Mon, 04 Nov 2024 18:00:02 GMT",
-          "dc:creator": "Vaibhavi Tiwari",
+          "creator": "Yogesh Rathod",
+          "title": "Harnessing GenAI for Enhanced Agility and Efficiency During Planning Phase",
+          "link": "https://dzone.com/articles/genai-for-enhanced-agility-and-efficiency",
+          "pubDate": "Tue, 05 Nov 2024 18:00:02 GMT",
+          "dc:creator": "Yogesh Rathod",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3501365",
-          "isoDate": "2024-11-04T18:00:02.000Z",
+          "guid": "https://dzone.com/articles/3501758",
+          "isoDate": "2024-11-05T18:00:02.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Todd Gardner",
-          "title": "Showing Long Animation Frames in Your DevTools",
-          "link": "https://dzone.com/articles/showing-long-animation-frames-in-your-devtools",
-          "pubDate": "Mon, 04 Nov 2024 17:00:03 GMT",
-          "dc:creator": "Todd Gardner",
+          "creator": "Arvind Bharti",
+          "title": "Licenses With Daily Time Fencing",
+          "link": "https://dzone.com/articles/licenses-with-daily-time-fencing",
+          "pubDate": "Tue, 05 Nov 2024 17:00:06 GMT",
+          "dc:creator": "Arvind Bharti",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3503825",
-          "isoDate": "2024-11-04T17:00:03.000Z",
+          "guid": "https://dzone.com/articles/3503619",
+          "isoDate": "2024-11-05T17:00:06.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Shamim Bhuiyan",
-          "title": "Using Oracle Database 23AI for Generative AI RAG Implementation: Part 1",
-          "link": "https://dzone.com/articles/oracle-database-23ai-for-genai-rag-part-1",
-          "pubDate": "Mon, 04 Nov 2024 16:00:03 GMT",
-          "dc:creator": "Shamim Bhuiyan",
+          "creator": "Faisal Khatri",
+          "title": "How to Read JSON Files in Java Using the Google Gson Library",
+          "link": "https://dzone.com/articles/how-to-read-json-files-in-java-using-google-gson-l",
+          "pubDate": "Tue, 05 Nov 2024 16:00:06 GMT",
+          "dc:creator": "Faisal Khatri",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3506981",
-          "isoDate": "2024-11-04T16:00:03.000Z",
+          "guid": "https://dzone.com/articles/3506807",
+          "isoDate": "2024-11-05T16:00:06.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Anujkumarsinh Donvir",
-          "title": "Ditch Your Local Setup: Develop Apps in the Cloud With Project IDX",
-          "link": "https://dzone.com/articles/develop-apps-in-the-cloud-with-project-idx",
-          "pubDate": "Mon, 04 Nov 2024 15:00:13 GMT",
-          "dc:creator": "Anujkumarsinh Donvir",
+          "creator": "Daniil Koshelev",
+          "title": "Two-Pass Huffman in Blocks of 2 Symbols: Golang Implementation",
+          "link": "https://dzone.com/articles/two-pass-huffman-in-blocks-of-2-symbols-golang",
+          "pubDate": "Tue, 05 Nov 2024 15:00:03 GMT",
+          "dc:creator": "Daniil Koshelev",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3500540",
-          "isoDate": "2024-11-04T15:00:13.000Z",
+          "guid": "https://dzone.com/articles/3506742",
+          "isoDate": "2024-11-05T15:00:03.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Kai Wähner",
-          "title": "Digitalization of Airport and Airlines With IoT and Data Streaming Using Kafka and Flink",
-          "link": "https://dzone.com/articles/digitalization-of-airport-and-airlines",
-          "pubDate": "Mon, 04 Nov 2024 14:00:08 GMT",
-          "dc:creator": "Kai Wähner",
+          "creator": "Ram Lakshmanan",
+          "title": "Effective Methods to Diagnose and Troubleshoot CPU Spikes in Java Applications",
+          "link": "https://dzone.com/articles/methods-to-diagnose-and-troubleshoot-cpu-spikes",
+          "pubDate": "Tue, 05 Nov 2024 14:00:08 GMT",
+          "dc:creator": "Ram Lakshmanan",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3506123",
-          "isoDate": "2024-11-04T14:00:08.000Z",
+          "guid": "https://dzone.com/articles/3507080",
+          "isoDate": "2024-11-05T14:00:08.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Venkata Gummadi",
-          "title": "Optimizing Vector Search Performance With Elasticsearch",
-          "link": "https://dzone.com/articles/optimizing-vector-search-performance-with-elasticsearch",
-          "pubDate": "Mon, 04 Nov 2024 13:00:07 GMT",
-          "dc:creator": "Venkata Gummadi",
+          "creator": "Dom Storey",
+          "title": "Organizing Logging Between the Three IBM App Connect Form Factors",
+          "link": "https://dzone.com/articles/logging-between-ibm-app-connect-form-factors",
+          "pubDate": "Tue, 05 Nov 2024 13:00:11 GMT",
+          "dc:creator": "Dom Storey",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3505106",
-          "isoDate": "2024-11-04T13:00:07.000Z",
+          "guid": "https://dzone.com/articles/3495796",
+          "isoDate": "2024-11-05T13:00:11.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -735,6 +717,48 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Raghav Joshi",
+          "title": "Block Screenshots and Screen Recording in Flutter — Flutter Bytes",
+          "link": "https://itnext.io/block-screenshots-and-screen-recording-in-flutter-flutter-bytes-76b3b3ff742f?source=rss----5b301f10ddcd---4",
+          "pubDate": "Tue, 05 Nov 2024 19:49:01 GMT",
+          "dc:creator": "Raghav Joshi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/76b3b3ff742f",
+          "categories": [
+            "app-development",
+            "screenshots",
+            "software-development",
+            "flutter",
+            "technology"
+          ],
+          "isoDate": "2024-11-05T19:49:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Wagner Franchin",
+          "title": "Sysbench Performance: MySQL vs PostgreSQL vs MariaDB in Docker",
+          "link": "https://itnext.io/sysbench-performance-mysql-vs-postgresql-vs-mariadb-in-docker-6b665fcbcf91?source=rss----5b301f10ddcd---4",
+          "pubDate": "Tue, 05 Nov 2024 19:47:41 GMT",
+          "dc:creator": "Wagner Franchin",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/6b665fcbcf91",
+          "categories": [
+            "software-engineering",
+            "mysql",
+            "database",
+            "software-development",
+            "postgresql"
+          ],
+          "isoDate": "2024-11-05T19:47:41.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Artur Artikov",
           "title": "Component-based Approach. Organizing Navigation with the Decompose Library",
@@ -897,47 +921,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Guillermo Quiros",
-          "title": "Pod Security with K8Studio",
-          "link": "https://itnext.io/pod-security-with-k8studio-b86c246ffaa4?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 31 Oct 2024 23:06:45 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Guillermo Quiros",
-          "guid": "https://medium.com/p/b86c246ffaa4",
-          "categories": [
-            "k8s-security",
-            "kubernetes",
-            "cks-exam",
-            "k8s"
-          ],
-          "isoDate": "2024-10-31T23:06:45.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Gabriele “Gabe” Pavanello",
-          "title": "Extend Enum Cases in Swift: Workarounds and Practical Use Cases",
-          "link": "https://medium.com/@gabry.pavanello/extend-enum-cases-in-swift-workarounds-and-practical-use-cases-7fcc192f6567?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 29 Oct 2024 12:58:33 GMT",
-          "dc:creator": "Gabriele “Gabe” Pavanello",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/7fcc192f6567",
-          "categories": [
-            "workarrounds",
-            "coding",
-            "development",
-            "swift",
-            "ios"
-          ],
-          "isoDate": "2024-10-29T12:58:33.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -954,188 +937,197 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Tue, 05 Nov 2024 04:54:27 GMT"
+      "lastBuildDate": "Wed, 06 Nov 2024 04:52:54 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "ViitorCloud Technologies",
-          "title": "AI Tools Every Developer Should Use for Automation",
-          "link": "https://dev.to/viitorcloud/ai-tools-every-developer-should-use-for-automation-231i",
-          "pubDate": "Tue, 05 Nov 2024 04:52:57 +0000",
-          "dc:creator": "ViitorCloud Technologies",
+          "creator": "Sloan the DEV Moderator",
+          "title": "Welcome Thread - v301",
+          "link": "https://dev.to/devteam/welcome-thread-v301-3eom",
+          "pubDate": "Wed, 06 Nov 2024 05:00:00 +0000",
+          "dc:creator": "Sloan the DEV Moderator",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/viitorcloud/ai-tools-every-developer-should-use-for-automation-231i",
+          "guid": "https://dev.to/devteam/welcome-thread-v301-3eom",
           "categories": [
-            "webdev",
-            "ai",
-            "startup",
-            "automation"
+            "welcome"
           ],
-          "isoDate": "2024-11-05T04:52:57.000Z",
+          "isoDate": "2024-11-06T05:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Hirak Parekh",
-          "title": "From Beats to Bytes: AI's Musical Revolution",
-          "link": "https://dev.to/iste-vit/from-beats-to-bytes-ais-musical-revolution-egn",
-          "pubDate": "Tue, 05 Nov 2024 04:22:43 +0000",
-          "dc:creator": "Hirak Parekh",
+          "creator": "Dhanush",
+          "title": "Finding Minimum and Maximum Values in an Array: Effective Approaches with Java Programming",
+          "link": "https://dev.to/dhanush9952/finding-minimum-and-maximum-values-in-an-array-effective-approaches-with-java-programming-39dp",
+          "pubDate": "Wed, 06 Nov 2024 04:45:23 +0000",
+          "dc:creator": "Dhanush",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/iste-vit/from-beats-to-bytes-ais-musical-revolution-egn",
+          "guid": "https://dev.to/dhanush9952/finding-minimum-and-maximum-values-in-an-array-effective-approaches-with-java-programming-39dp",
           "categories": [
-            "genai",
-            "music"
+            "java",
+            "programming",
+            "coding",
+            "oop"
           ],
-          "isoDate": "2024-11-05T04:22:43.000Z",
+          "isoDate": "2024-11-06T04:45:23.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Luis Diaz",
-          "title": "iOS HealthKit Ionic Angular",
-          "link": "https://dev.to/luis_diaz_19a878119983392/ios-healthkit-ionic-angular-35lm",
-          "pubDate": "Tue, 05 Nov 2024 04:22:05 +0000",
-          "dc:creator": "Luis Diaz",
+          "creator": "Om Prakash Tiwari",
+          "title": "Web Development in Docker Containers Using Express.js",
+          "link": "https://dev.to/optiwariindia/web-development-in-docker-containers-using-expressjs-3k3l",
+          "pubDate": "Wed, 06 Nov 2024 04:43:51 +0000",
+          "dc:creator": "Om Prakash Tiwari",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/luis_diaz_19a878119983392/ios-healthkit-ionic-angular-35lm",
-          "isoDate": "2024-11-05T04:22:05.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "tripleo",
-          "title": "Unison speed test",
-          "link": "https://dev.to/tripleo/unison-speed-test-fno",
-          "pubDate": "Tue, 05 Nov 2024 04:11:23 +0000",
-          "dc:creator": "tripleo",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/tripleo/unison-speed-test-fno",
-          "categories": [
-            "unison",
-            "unisonlang"
-          ],
-          "isoDate": "2024-11-05T04:11:23.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Diwakar Verma",
-          "title": "Why C++ ?",
-          "link": "https://dev.to/diwakar_verma_381fc6e5e2f/why-c--16d6",
-          "pubDate": "Tue, 05 Nov 2024 04:01:40 +0000",
-          "dc:creator": "Diwakar Verma",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/diwakar_verma_381fc6e5e2f/why-c--16d6",
-          "isoDate": "2024-11-05T04:01:40.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Shafayet Hossain",
-          "title": "Building a Self-Evolving Codebase: JavaScript’s AST Manipulation and Dynamic Compilation",
-          "link": "https://dev.to/shafayeat/building-a-self-evolving-codebase-javascripts-ast-manipulation-and-dynamic-compilation-hb3",
-          "pubDate": "Tue, 05 Nov 2024 04:00:00 +0000",
-          "dc:creator": "Shafayet Hossain",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/shafayeat/building-a-self-evolving-codebase-javascripts-ast-manipulation-and-dynamic-compilation-hb3",
-          "categories": [
-            "javascript",
-            "webdev",
-            "node",
-            "programming"
-          ],
-          "isoDate": "2024-11-05T04:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Tech Guru",
-          "title": "Why Learn Rust Programming Language?",
-          "link": "https://dev.to/learn-code-in-hindi/why-learn-rust-programming-language-15m5",
-          "pubDate": "Tue, 05 Nov 2024 03:58:41 +0000",
-          "dc:creator": "Tech Guru",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/learn-code-in-hindi/why-learn-rust-programming-language-15m5",
-          "categories": [
-            "webdev",
-            "rust",
-            "tutorial",
-            "learninhindi"
-          ],
-          "isoDate": "2024-11-05T03:58:41.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "scheeseb",
-          "title": "First Blog",
-          "link": "https://dev.to/scheeseb_/first-blog-pie",
-          "pubDate": "Tue, 05 Nov 2024 03:57:40 +0000",
-          "dc:creator": "scheeseb",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/scheeseb_/first-blog-pie",
-          "categories": [
-            "webdev",
-            "beginners",
-            "bootcamp"
-          ],
-          "isoDate": "2024-11-05T03:57:40.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Manikanta",
-          "title": "Top 10 Docker Commands Every Developer Should Know [Chapter 1]",
-          "link": "https://dev.to/devopsbymani/top-10-docker-commands-every-developer-should-know-chapter-1-54ad",
-          "pubDate": "Tue, 05 Nov 2024 03:50:26 +0000",
-          "dc:creator": "Manikanta",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/devopsbymani/top-10-docker-commands-every-developer-should-know-chapter-1-54ad",
+          "guid": "https://dev.to/optiwariindia/web-development-in-docker-containers-using-expressjs-3k3l",
           "categories": [
             "docker",
-            "devops",
-            "cloud",
-            "kubernetes"
+            "express",
+            "javascript",
+            "webdev"
           ],
-          "isoDate": "2024-11-05T03:50:26.000Z",
+          "isoDate": "2024-11-06T04:43:51.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sarva Bharan",
-          "title": "System Design 02 - Caching: The Art of Keeping Users Happy Without Breaking a Sweat",
-          "link": "https://dev.to/sarvabharan/system-design-02-caching-the-art-of-keeping-users-happy-without-breaking-a-sweat-2d57",
-          "pubDate": "Tue, 05 Nov 2024 03:18:10 +0000",
-          "dc:creator": "Sarva Bharan",
+          "creator": "Ingila Ejaz",
+          "title": "Angular 19 - Streamlining Data Retrieval with Experimental Resource and rxResource APIs",
+          "link": "https://dev.to/this-is-angular/angular-19-streamlining-data-retrieval-with-resource-and-rxresource-apis-3lb2",
+          "pubDate": "Wed, 06 Nov 2024 04:41:29 +0000",
+          "dc:creator": "Ingila Ejaz",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/sarvabharan/system-design-02-caching-the-art-of-keeping-users-happy-without-breaking-a-sweat-2d57",
+          "guid": "https://dev.to/this-is-angular/angular-19-streamlining-data-retrieval-with-resource-and-rxresource-apis-3lb2",
           "categories": [
-            "systemdesign",
-            "cache",
-            "basic"
+            "webdev",
+            "angular",
+            "javascript",
+            "programming"
           ],
-          "isoDate": "2024-11-05T03:18:10.000Z",
+          "isoDate": "2024-11-06T04:41:29.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Anna Villarreal",
+          "title": "Of Course I Need Fun Routes! 🌈",
+          "link": "https://dev.to/annavi11arrea1/of-course-i-need-fun-routes-48fe",
+          "pubDate": "Wed, 06 Nov 2024 04:39:43 +0000",
+          "dc:creator": "Anna Villarreal",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/annavi11arrea1/of-course-i-need-fun-routes-48fe",
+          "categories": [
+            "rails",
+            "ruby",
+            "beginners",
+            "webdev"
+          ],
+          "isoDate": "2024-11-06T04:39:43.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Vivesh ",
+          "title": "Deploying a Java Gradle Application on DigitalOcean",
+          "link": "https://dev.to/574n13y/deploying-a-java-gradle-application-on-digitalocean-64a",
+          "pubDate": "Wed, 06 Nov 2024 04:38:41 +0000",
+          "dc:creator": "Vivesh ",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/574n13y/deploying-a-java-gradle-application-on-digitalocean-64a",
+          "categories": [
+            "dohackathon",
+            "devops",
+            "gitlab",
+            "java"
+          ],
+          "isoDate": "2024-11-06T04:38:41.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "technonotes-hacker",
+          "title": "SQL - Dia 10",
+          "link": "https://dev.to/technonotes/sql-dia-10-214l",
+          "pubDate": "Wed, 06 Nov 2024 04:33:49 +0000",
+          "dc:creator": "technonotes-hacker",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/technonotes/sql-dia-10-214l",
+          "isoDate": "2024-11-06T04:33:49.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Vipul Kumar",
+          "title": "Understanding Idempotency in API",
+          "link": "https://dev.to/vipulkumarsviit/understanding-idempotency-in-api-275",
+          "pubDate": "Wed, 06 Nov 2024 04:30:00 +0000",
+          "dc:creator": "Vipul Kumar",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/vipulkumarsviit/understanding-idempotency-in-api-275",
+          "categories": [
+            "apidesign",
+            "reliability",
+            "systemdesign",
+            "knowledgebyte"
+          ],
+          "isoDate": "2024-11-06T04:30:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Genius_InTrouble",
+          "title": "Mastering OSINT for Bug Bounty Success: Advanced Tools and Techniques for Deep Recon",
+          "link": "https://dev.to/genius_introuble/mastering-osint-for-bug-bounty-success-advanced-tools-and-techniques-for-deep-recon-2bi9",
+          "pubDate": "Wed, 06 Nov 2024 04:28:25 +0000",
+          "dc:creator": "Genius_InTrouble",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/genius_introuble/mastering-osint-for-bug-bounty-success-advanced-tools-and-techniques-for-deep-recon-2bi9",
+          "categories": [
+            "webdev",
+            "security",
+            "beginners",
+            "bugbounty"
+          ],
+          "isoDate": "2024-11-06T04:28:25.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Om Prakash Tiwari",
+          "title": "Develop your code online using vscode-tunnel",
+          "link": "https://dev.to/optiwariindia/develop-your-code-online-using-vscode-tunnel-161k",
+          "pubDate": "Wed, 06 Nov 2024 04:25:44 +0000",
+          "dc:creator": "Om Prakash Tiwari",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/optiwariindia/develop-your-code-online-using-vscode-tunnel-161k",
+          "categories": [
+            "vscode",
+            "remotedevelopment",
+            "vscodetunnel",
+            "optiwariindia"
+          ],
+          "isoDate": "2024-11-06T04:25:44.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1221,7 +1213,7 @@
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog.atom",
       "title": "The DigitalOcean Blog",
-      "lastBuildDate": "2024-10-31T17:16:18.170Z"
+      "lastBuildDate": "2024-11-05T18:46:31.147Z"
     },
     "Julia Evans": {
       "items": [
@@ -1426,7 +1418,7 @@
       "description": "Explore our latest insights on DevOps. Get practical tips on tools like Azure, Docker, and Kubernetes. Straightforward advice for your DevOps. Join us and make your DevOps journey better.",
       "generator": "Ghost 5.98",
       "link": "https://kodekloud.com/blog/",
-      "lastBuildDate": "Mon, 04 Nov 2024 09:37:29 GMT",
+      "lastBuildDate": "Tue, 05 Nov 2024 09:40:30 GMT",
       "ttl": "60"
     },
     "Matthew Rocklin": {
