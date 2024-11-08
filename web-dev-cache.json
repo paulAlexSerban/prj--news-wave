@@ -103,7 +103,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Thu, 07 Nov 2024 03:10:23 GMT"
+      "lastBuildDate": "Fri, 08 Nov 2024 03:11:11 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -427,11 +427,30 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Thu, 07 Nov 2024 04:34:48 GMT",
+      "lastBuildDate": "Fri, 08 Nov 2024 04:34:41 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Tobias Anderssohn",
+          "title": "3D x Branding: Shaping a Brand Identity through Dynamic 3D Visuals",
+          "link": "https://tympanus.net/codrops/2024/11/07/3d-x-branding-shaping-a-brand-identity-through-dynamic-3d-visuals/",
+          "pubDate": "Thu, 07 Nov 2024 11:12:26 +0000",
+          "dc:creator": "Tobias Anderssohn",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=82292",
+          "categories": [
+            "Articles",
+            "3d",
+            "branding"
+          ],
+          "isoDate": "2024-11-07T11:12:26.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Jorge Toloza",
           "title": "How to Create an Organic Text Distortion Effect with Infinite Scrolling",
@@ -530,32 +549,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Matias Perez",
-          "title": "How to Code a Subtle Shader Background Effect with React Three Fiber",
-          "link": "https://tympanus.net/codrops/2024/10/31/how-to-code-a-subtle-shader-background-effect-with-react-three-fiber/",
-          "pubDate": "Thu, 31 Oct 2024 13:13:28 +0000",
-          "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/10/shaderbackground.mp4?x21305",
-            "length": "1516419",
-            "type": "video/mp4"
-          },
-          "dc:creator": "Matias Perez",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=81438",
-          "categories": [
-            "Tutorials",
-            "react-three-fiber",
-            "shader",
-            "three.js",
-            "webgl"
-          ],
-          "isoDate": "2024-10-31T13:13:28.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -567,7 +560,7 @@
       "generator": "https://wordpress.org/?v=6.6.2",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Wed, 06 Nov 2024 13:48:45 +0000"
+      "lastBuildDate": "Thu, 07 Nov 2024 11:12:28 +0000"
     },
     "DZone": {
       "items": [
@@ -722,6 +715,27 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Artem Lajko",
+          "title": "GitOps: How to Manage Dynamic Network Policy Changes at Scale Across 25 Clusters?",
+          "link": "https://itnext.io/gitops-how-to-manage-dynamic-network-policy-changes-at-scale-across-25-clusters-0727ce1145e5?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 07 Nov 2024 08:15:43 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Artem Lajko",
+          "guid": "https://medium.com/p/0727ce1145e5",
+          "categories": [
+            "kubernetes",
+            "security",
+            "gitops",
+            "devops",
+            "cloud-computing"
+          ],
+          "isoDate": "2024-11-07T08:15:43.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Raghav Joshi",
           "title": "MediaQuery in Flutter",
@@ -903,27 +917,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Mayank Kumar",
-          "title": "IP address management for your K8s clusters",
-          "link": "https://itnext.io/ip-address-management-for-your-k8s-clusters-4446309a1604?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 04 Nov 2024 08:16:53 GMT",
-          "dc:creator": "Mayank Kumar",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/4446309a1604",
-          "categories": [
-            "networking",
-            "infrastructure-as-code",
-            "ip-address",
-            "aws",
-            "kubernetes"
-          ],
-          "isoDate": "2024-11-04T08:16:53.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -940,189 +933,190 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Thu, 07 Nov 2024 04:55:20 GMT"
+      "lastBuildDate": "Fri, 08 Nov 2024 05:03:13 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "TechForce Academy",
-          "title": "From Startup to Cloud Giant: The Evolution of Salesforce and Its Impact on CRM",
-          "link": "https://dev.to/techforcea/from-startup-to-cloud-giant-the-evolution-of-salesforce-and-its-impact-on-crm-1f3b",
-          "pubDate": "Thu, 07 Nov 2024 04:48:55 +0000",
-          "dc:creator": "TechForce Academy",
+          "creator": "Jess Lee",
+          "title": "What was your win this week? (and last week too because we forgot to post!)",
+          "link": "https://dev.to/devteam/what-was-your-win-this-week-32c4",
+          "pubDate": "Fri, 08 Nov 2024 05:00:00 +0000",
+          "dc:creator": "Jess Lee",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/techforcea/from-startup-to-cloud-giant-the-evolution-of-salesforce-and-its-impact-on-crm-1f3b",
+          "guid": "https://dev.to/devteam/what-was-your-win-this-week-32c4",
           "categories": [
-            "salesforceevolution",
-            "salesforceorigin"
+            "weeklyretro"
           ],
-          "isoDate": "2024-11-07T04:48:55.000Z",
+          "isoDate": "2024-11-08T05:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Naresh Nishad",
-          "title": "Day 28: Model Compression Techniques for Large Language Models (LLMs)",
-          "link": "https://dev.to/nareshnishad/day-28-model-compression-techniques-for-large-language-models-llms-imf",
-          "pubDate": "Thu, 07 Nov 2024 04:48:05 +0000",
-          "dc:creator": "Naresh Nishad",
+          "creator": "Yogesh Chavan",
+          "title": "Top 25 React Tips Every Developer Should Know — Part 2",
+          "link": "https://dev.to/myogeshchavan97/top-25-react-tips-every-developer-should-know-part-2-2ba7",
+          "pubDate": "Fri, 08 Nov 2024 04:56:07 +0000",
+          "dc:creator": "Yogesh Chavan",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/nareshnishad/day-28-model-compression-techniques-for-large-language-models-llms-imf",
+          "guid": "https://dev.to/myogeshchavan97/top-25-react-tips-every-developer-should-know-part-2-2ba7",
           "categories": [
-            "llm",
-            "75daysofllm",
-            "nlp"
+            "react",
+            "javascript"
           ],
-          "isoDate": "2024-11-07T04:48:05.000Z",
+          "isoDate": "2024-11-08T04:56:07.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "TheCSPandz",
-          "title": "Logistic Regression",
-          "link": "https://dev.to/thecspandz/logistic-regression-14o8",
-          "pubDate": "Thu, 07 Nov 2024 04:43:06 +0000",
-          "dc:creator": "TheCSPandz",
+          "creator": "Naym Hossen",
+          "title": "Why Are Type Guards Necessary? Exploring Different Types and Their Use Cases",
+          "link": "https://dev.to/naymhdev/why-are-type-guards-necessary-exploring-different-types-and-their-use-cases-2f8e",
+          "pubDate": "Fri, 08 Nov 2024 04:39:50 +0000",
+          "dc:creator": "Naym Hossen",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/thecspandz/logistic-regression-14o8",
-          "isoDate": "2024-11-07T04:43:06.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Isaac Tonyloi - SWE",
-          "title": "Concurrency and Consistency: Juggling Multiple Users Without Missing a Beat",
-          "link": "https://dev.to/isaactony/concurrency-and-consistency-juggling-multiple-users-without-missing-a-beat-2np5",
-          "pubDate": "Thu, 07 Nov 2024 04:40:28 +0000",
-          "dc:creator": "Isaac Tonyloi - SWE",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/isaactony/concurrency-and-consistency-juggling-multiple-users-without-missing-a-beat-2np5",
-          "categories": [
-            "concurrency",
-            "database",
-            "transactions"
-          ],
-          "isoDate": "2024-11-07T04:40:28.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Fin Chen",
-          "title": "Things You May Not Know About CSS Variables - 1. Naming Rules and Value Assignments",
-          "link": "https://dev.to/finfin/things-you-may-not-know-about-css-variables-1-naming-rules-and-value-assignments-5aa9",
-          "pubDate": "Thu, 07 Nov 2024 04:39:50 +0000",
-          "dc:creator": "Fin Chen",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/finfin/things-you-may-not-know-about-css-variables-1-naming-rules-and-value-assignments-5aa9",
-          "categories": [
-            "css",
-            "webdev",
-            "frontend"
-          ],
-          "isoDate": "2024-11-07T04:39:50.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Selvin PaulRaj",
-          "title": "The Ultimate Cleanup Sidekick for Lazy (but Efficient!) React Developers",
-          "link": "https://dev.to/selvinpaulraj/the-ultimate-cleanup-sidekick-for-lazy-but-efficient-react-developers-450m",
-          "pubDate": "Thu, 07 Nov 2024 04:32:05 +0000",
-          "dc:creator": "Selvin PaulRaj",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/selvinpaulraj/the-ultimate-cleanup-sidekick-for-lazy-but-efficient-react-developers-450m",
+          "guid": "https://dev.to/naymhdev/why-are-type-guards-necessary-exploring-different-types-and-their-use-cases-2f8e",
           "categories": [
             "webdev",
             "javascript",
-            "react",
-            "tailwindcss"
+            "typescript",
+            "programming"
           ],
-          "isoDate": "2024-11-07T04:32:05.000Z",
+          "isoDate": "2024-11-08T04:39:50.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Brass Valley",
+          "title": "Data Security Consulting: Safeguard Your Data with Brass Valley",
+          "link": "https://dev.to/brassvalley_/data-security-consulting-safeguard-your-data-with-brass-valley-1mm3",
+          "pubDate": "Fri, 08 Nov 2024 04:32:04 +0000",
+          "dc:creator": "Brass Valley",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/brassvalley_/data-security-consulting-safeguard-your-data-with-brass-valley-1mm3",
+          "isoDate": "2024-11-08T04:32:04.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
           "creator": "Vipul Kumar",
-          "title": "Understanding Zero Downtime Deployments",
-          "link": "https://dev.to/vipulkumarsviit/understanding-zero-downtime-deployments-1h7e",
-          "pubDate": "Thu, 07 Nov 2024 04:30:00 +0000",
+          "title": "Role of API Gateways in Microservices Architecture",
+          "link": "https://dev.to/vipulkumarsviit/role-of-api-gateways-in-microservices-architecture-5eoo",
+          "pubDate": "Fri, 08 Nov 2024 04:30:00 +0000",
           "dc:creator": "Vipul Kumar",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/vipulkumarsviit/understanding-zero-downtime-deployments-1h7e",
+          "guid": "https://dev.to/vipulkumarsviit/role-of-api-gateways-in-microservices-architecture-5eoo",
           "categories": [
-            "devops",
-            "zerodowntime",
-            "knowledgebyte",
-            "systemdesign"
+            "microservices",
+            "apigateway",
+            "knowledgebyte"
           ],
-          "isoDate": "2024-11-07T04:30:00.000Z",
+          "isoDate": "2024-11-08T04:30:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Abrar Ashd",
-          "title": "The Hidden Benefits of Dilapidations Surveys for Tenants",
-          "link": "https://dev.to/abrar_ashd_d6acbc03eca14a/the-hidden-benefits-of-dilapidations-surveys-for-tenants-372i",
-          "pubDate": "Thu, 07 Nov 2024 04:29:38 +0000",
-          "dc:creator": "Abrar Ashd",
+          "creator": "Teddy Zugana",
+          "title": "Nginx force http to https On 443 https Port",
+          "link": "https://dev.to/kevinmel2000/nginx-force-http-to-https-on-443-https-port-5e3n",
+          "pubDate": "Fri, 08 Nov 2024 04:24:55 +0000",
+          "dc:creator": "Teddy Zugana",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/abrar_ashd_d6acbc03eca14a/the-hidden-benefits-of-dilapidations-surveys-for-tenants-372i",
-          "isoDate": "2024-11-07T04:29:38.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Arum Puri Pratamawati",
-          "title": "Python NumPy Tutorial for Beginners: Learn Array Creation, Indexing, and More",
-          "link": "https://dev.to/arum_puripratamawati_ef5/python-numpy-tutorial-for-beginners-learn-array-creation-indexing-and-more-ajg",
-          "pubDate": "Thu, 07 Nov 2024 04:22:31 +0000",
-          "dc:creator": "Arum Puri Pratamawati",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/arum_puripratamawati_ef5/python-numpy-tutorial-for-beginners-learn-array-creation-indexing-and-more-ajg",
+          "guid": "https://dev.to/kevinmel2000/nginx-force-http-to-https-on-443-https-port-5e3n",
           "categories": [
-            "numpy",
-            "datascience",
-            "phyton",
-            "beginners"
+            "nginx",
+            "php"
           ],
-          "isoDate": "2024-11-07T04:22:31.000Z",
+          "isoDate": "2024-11-08T04:24:55.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "heritech9",
-          "title": "🚀 Week 6 of #100DaysOfCode: Deep Dive into JavaScript, Building Projects, and Overcoming Challenges",
-          "link": "https://dev.to/heritech9/week-6-of-100daysofcode-deep-dive-into-javascript-building-projects-and-overcoming-challenges-i72",
-          "pubDate": "Thu, 07 Nov 2024 04:06:59 +0000",
-          "dc:creator": "heritech9",
+          "creator": "Steve Sanders",
+          "title": "AWS is killing customer AI apps without warning",
+          "link": "https://dev.to/stevendsanders/aws-is-killing-customer-ai-apps-without-warning-20gm",
+          "pubDate": "Fri, 08 Nov 2024 04:23:17 +0000",
+          "dc:creator": "Steve Sanders",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/heritech9/week-6-of-100daysofcode-deep-dive-into-javascript-building-projects-and-overcoming-challenges-i72",
+          "guid": "https://dev.to/stevendsanders/aws-is-killing-customer-ai-apps-without-warning-20gm",
           "categories": [
+            "aws",
+            "ai"
+          ],
+          "isoDate": "2024-11-08T04:23:17.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mahipal Singh",
+          "title": "The Heart of React: Understanding Component Rerendering",
+          "link": "https://dev.to/mahipal0027/the-heart-of-react-understanding-component-rerendering-5c9p",
+          "pubDate": "Fri, 08 Nov 2024 04:23:05 +0000",
+          "dc:creator": "Mahipal Singh",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/mahipal0027/the-heart-of-react-understanding-component-rerendering-5c9p",
+          "categories": [
+            "react",
             "webdev",
             "javascript",
-            "programming",
-            "beginners"
+            "performanceoptimization"
           ],
-          "isoDate": "2024-11-07T04:06:59.000Z",
+          "isoDate": "2024-11-08T04:23:05.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Wanda",
+          "title": "API Response Components: How It Improves Efficiency",
+          "link": "https://dev.to/apilover/api-response-components-how-it-improves-efficiency-4lj",
+          "pubDate": "Fri, 08 Nov 2024 04:15:43 +0000",
+          "dc:creator": "Wanda",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/apilover/api-response-components-how-it-improves-efficiency-4lj",
+          "categories": [
+            "api",
+            "devops",
+            "tooling",
+            "productivity"
+          ],
+          "isoDate": "2024-11-08T04:15:43.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Sajjad Rahman",
+          "title": "Amazon Comprehend for Text and Document Analysis",
+          "link": "https://dev.to/sajjadrahman56/amazon-comprehend-for-text-and-document-analysis-a5c",
+          "pubDate": "Fri, 08 Nov 2024 04:15:35 +0000",
+          "dc:creator": "Sajjad Rahman",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/sajjadrahman56/amazon-comprehend-for-text-and-document-analysis-a5c",
+          "categories": [
+            "aws",
+            "awschallenge",
+            "ai",
+            "nlp"
+          ],
+          "isoDate": "2024-11-08T04:15:35.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1208,7 +1202,7 @@
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog.atom",
       "title": "The DigitalOcean Blog",
-      "lastBuildDate": "2024-11-06T21:00:15.364Z"
+      "lastBuildDate": "2024-11-07T22:28:31.800Z"
     },
     "Julia Evans": {
       "items": [
@@ -1276,7 +1270,7 @@
       "link": "http://jvns.ca/atom.xml",
       "feedUrl": "http://jvns.ca/atom.xml",
       "title": "Julia Evans",
-      "lastBuildDate": "2024-11-06T09:17:11+00:00"
+      "lastBuildDate": "2024-11-07T09:36:44+00:00"
     },
     "KodeKloud": {
       "items": [
@@ -1413,7 +1407,7 @@
       "description": "Explore our latest insights on DevOps. Get practical tips on tools like Azure, Docker, and Kubernetes. Straightforward advice for your DevOps. Join us and make your DevOps journey better.",
       "generator": "Ghost 5.99",
       "link": "https://kodekloud.com/blog/",
-      "lastBuildDate": "Wed, 06 Nov 2024 09:51:47 GMT",
+      "lastBuildDate": "Thu, 07 Nov 2024 23:45:07 GMT",
       "ttl": "60"
     },
     "Matthew Rocklin": {
