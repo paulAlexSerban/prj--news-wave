@@ -117,7 +117,7 @@
       },
       "title": "CSS-Tricks",
       "description": "Tips, Tricks, and Techniques on using Cascading Style Sheets.",
-      "generator": "https://wordpress.org/?v=6.6.2",
+      "generator": "https://wordpress.org/?v=6.7",
       "link": "https://css-tricks.com",
       "language": "en-US",
       "lastBuildDate": "Tue, 12 Nov 2024 14:56:24 +0000"
@@ -384,7 +384,7 @@
       },
       "title": "WDD",
       "description": "Web Design Blog",
-      "generator": "https://wordpress.org/?v=6.6.2",
+      "generator": "https://wordpress.org/?v=6.7",
       "link": "https://webdesignerdepot.com",
       "language": "en-US",
       "lastBuildDate": "Tue, 12 Nov 2024 08:34:41 +0000"
@@ -460,7 +460,7 @@
       "link": "https://bradfrost.com",
       "feedUrl": "https://bradfrost.com/feed/atom/",
       "title": "Brad Frost",
-      "lastBuildDate": "2024-11-13T03:45:50Z"
+      "lastBuildDate": "2024-11-13T14:09:03Z"
     },
     "Jonathan Suh": {
       "items": [
@@ -974,6 +974,18 @@
     "Go Make Things": {
       "items": [
         {
+          "title": "Styling Web Component elements in the shadow DOM with parts",
+          "link": "https://gomakethings.com/styling-web-component-elements-in-the-shadow-dom-with-parts/",
+          "pubDate": "Wed, 13 Nov 2024 10:30:00 -0400",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://gomakethings.com/styling-web-component-elements-in-the-shadow-dom-with-parts/",
+          "isoDate": "2024-11-13T14:30:00.000Z",
+          "summary": ""
+        },
+        {
           "title": "The web is a gift. The web is a weapon.",
           "link": "https://gomakethings.com/the-web-is-a-gift.-the-web-is-a-weapon./",
           "pubDate": "Tue, 12 Nov 2024 10:30:00 -0400",
@@ -1020,18 +1032,6 @@
           "guid": "https://gomakethings.com/the-tech-industry-is-about-to-get-a-lot-worse/",
           "isoDate": "2024-11-07T14:30:00.000Z",
           "summary": ""
-        },
-        {
-          "title": "Styling Web Component shadow DOM elements with inline styles",
-          "link": "https://gomakethings.com/styling-web-component-shadow-dom-elements-with-inline-styles/",
-          "pubDate": "Tue, 05 Nov 2024 10:30:00 -0400",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://gomakethings.com/styling-web-component-shadow-dom-elements-with-inline-styles/",
-          "isoDate": "2024-11-05T14:30:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://gomakethings.com/feed/index.xml",
@@ -1043,7 +1043,7 @@
       "generator": "Hugo -- gohugo.io",
       "link": "https://gomakethings.com/articles",
       "language": "en-us",
-      "lastBuildDate": "Wed, 13 Nov 2024 00:03:30 EST"
+      "lastBuildDate": "Thu, 14 Nov 2024 00:03:29 EST"
     }
   }
 }

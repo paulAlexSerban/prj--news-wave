@@ -101,7 +101,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Wed, 13 Nov 2024 03:02:57 GMT"
+      "lastBuildDate": "Thu, 14 Nov 2024 03:10:45 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -224,7 +224,7 @@
       "generator": "https://wordpress.org/?v=6.6.2",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Thu, 07 Nov 2024 00:05:44 +0000"
+      "lastBuildDate": "Wed, 13 Nov 2024 16:43:34 +0000"
     },
     "GitHub Blog Atom": {
       "items": [
@@ -425,11 +425,37 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Wed, 13 Nov 2024 04:34:57 GMT",
+      "lastBuildDate": "Thu, 14 Nov 2024 04:34:39 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Andrico Karoulla",
+          "title": "Creating an ASCII Shader Using OGL",
+          "link": "https://tympanus.net/codrops/2024/11/13/creating-an-ascii-shader-using-ogl/",
+          "pubDate": "Wed, 13 Nov 2024 11:17:29 +0000",
+          "enclosure": {
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/11/ascii-perlin.mp4?x36030",
+            "length": "2116720",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Andrico Karoulla",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=82209",
+          "categories": [
+            "Tutorials",
+            "glsl",
+            "ogl",
+            "perlin-noise",
+            "shader"
+          ],
+          "isoDate": "2024-11-13T11:17:29.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Manoela Ilic",
           "title": "Collective #880",
@@ -520,31 +546,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Jorge Toloza",
-          "title": "How to Create an Organic Text Distortion Effect with Infinite Scrolling",
-          "link": "https://tympanus.net/codrops/2024/11/06/how-to-create-an-organic-text-distortion-effect-with-infinite-scrolling/",
-          "pubDate": "Wed, 06 Nov 2024 13:48:44 +0000",
-          "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/11/column_smaller.mp4?x36030",
-            "length": "8034123",
-            "type": "video/mp4"
-          },
-          "dc:creator": "Jorge Toloza",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=81921",
-          "categories": [
-            "Tutorials",
-            "distortion",
-            "scroll",
-            "typography"
-          ],
-          "isoDate": "2024-11-06T13:48:44.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -556,7 +557,7 @@
       "generator": "https://wordpress.org/?v=6.6.2",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Tue, 12 Nov 2024 11:24:09 +0000"
+      "lastBuildDate": "Wed, 13 Nov 2024 11:48:22 +0000"
     },
     "DZone": {
       "items": [
@@ -641,6 +642,48 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Zsolt Deak",
+          "title": "The simplest way to leak memory with Angular Signals",
+          "link": "https://itnext.io/the-simplest-way-to-leak-memory-with-angular-signals-aac2118a7627?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 13 Nov 2024 20:54:16 GMT",
+          "dc:creator": "Zsolt Deak",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/aac2118a7627",
+          "categories": [
+            "codi̇ng",
+            "web-development",
+            "software-development",
+            "programming",
+            "angular"
+          ],
+          "isoDate": "2024-11-13T20:54:16.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Tiago Temporin",
+          "title": "Mastering ENUMs in Go",
+          "link": "https://itnext.io/mastering-enums-in-go-04bd85ffcf33?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 13 Nov 2024 08:02:45 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Tiago Temporin",
+          "guid": "https://medium.com/p/04bd85ffcf33",
+          "categories": [
+            "best-practices",
+            "enum-in-go",
+            "go-programming",
+            "code-optimization",
+            "go"
+          ],
+          "isoDate": "2024-11-13T08:02:45.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Cabdukayumova",
           "title": "How to use Outsystems UI components?",
@@ -807,48 +850,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Dichen Li",
-          "title": "Storage Disaggregated Databases and Shared Transaction Log Architecture In Comparison",
-          "link": "https://itnext.io/storage-disaggregated-databases-and-shared-log-abstraction-98be44c63fff?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sun, 10 Nov 2024 21:15:25 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Dichen Li",
-          "guid": "https://medium.com/p/98be44c63fff",
-          "categories": [
-            "postgresql",
-            "postgres",
-            "database",
-            "filesystem",
-            "distributed-systems"
-          ],
-          "isoDate": "2024-11-10T21:15:25.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Gul Ershad",
-          "title": "Solving the Unbounded Knapsack Problem Using 1D Dynamic Programming",
-          "link": "https://itnext.io/solving-the-unbounded-knapsack-problem-using-1d-dynamic-programming-bcc0104be197?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sun, 10 Nov 2024 10:34:42 GMT",
-          "dc:creator": "Gul Ershad",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/bcc0104be197",
-          "categories": [
-            "datastrucutre",
-            "coding",
-            "algorithms",
-            "knapsack-problem",
-            "software-development"
-          ],
-          "isoDate": "2024-11-10T10:34:42.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -865,192 +866,184 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Wed, 13 Nov 2024 05:01:00 GMT"
+      "lastBuildDate": "Thu, 14 Nov 2024 05:02:44 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Steven",
-          "title": "How to test smart contract on Sepolia testnet?",
-          "link": "https://dev.to/steven-dev/how-to-test-smart-contract-on-sepolia-testnet-i1d",
-          "pubDate": "Wed, 13 Nov 2024 05:00:38 +0000",
-          "dc:creator": "Steven",
+          "creator": "Balaramakrishna Kamma",
+          "title": "Request Aborted (NS_BINDING_ABORT) In Firefox but working in remaining browsers",
+          "link": "https://dev.to/balaramakrishna_kamma_d58/request-aborted-in-firefox-but-working-in-remaining-browsers-14hn",
+          "pubDate": "Thu, 14 Nov 2024 04:47:48 +0000",
+          "dc:creator": "Balaramakrishna Kamma",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/steven-dev/how-to-test-smart-contract-on-sepolia-testnet-i1d",
-          "categories": [
-            "smartcontract",
-            "sepolia",
-            "testing",
-            "etherscan"
-          ],
-          "isoDate": "2024-11-13T05:00:38.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sloan the DEV Moderator",
-          "title": "Welcome Thread - v302",
-          "link": "https://dev.to/devteam/welcome-thread-v302-1m81",
-          "pubDate": "Wed, 13 Nov 2024 05:00:00 +0000",
-          "dc:creator": "Sloan the DEV Moderator",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/devteam/welcome-thread-v302-1m81",
-          "categories": [
-            "welcome"
-          ],
-          "isoDate": "2024-11-13T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Aditya Pratap Bhuyan",
-          "title": "Understanding the Differences Between FPGA, AVR, PIC, and ARM Microcontrollers",
-          "link": "https://dev.to/adityabhuyan/understanding-the-differences-between-fpga-avr-pic-and-arm-microcontrollers-35ek",
-          "pubDate": "Wed, 13 Nov 2024 04:58:25 +0000",
-          "dc:creator": "Aditya Pratap Bhuyan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/adityabhuyan/understanding-the-differences-between-fpga-avr-pic-and-arm-microcontrollers-35ek",
-          "categories": [
-            "microcontrollers",
-            "arm"
-          ],
-          "isoDate": "2024-11-13T04:58:25.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ankit Kumar Sinha",
-          "title": "A Comprehensive Guide: Functional Testing Driving Application Modernization",
-          "link": "https://dev.to/misterankit/a-comprehensive-guide-functional-testing-driving-application-modernization-51b6",
-          "pubDate": "Wed, 13 Nov 2024 04:55:58 +0000",
-          "dc:creator": "Ankit Kumar Sinha",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/misterankit/a-comprehensive-guide-functional-testing-driving-application-modernization-51b6",
-          "isoDate": "2024-11-13T04:55:58.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Sospeter Mong'are",
-          "title": "What is an API",
-          "link": "https://dev.to/msnmongare/what-is-an-api-57ch",
-          "pubDate": "Wed, 13 Nov 2024 04:50:40 +0000",
-          "dc:creator": "Sospeter Mong'are",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/msnmongare/what-is-an-api-57ch",
-          "categories": [
-            "beginners",
-            "api",
-            "tutorial",
-            "programming"
-          ],
-          "isoDate": "2024-11-13T04:50:40.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "econowmeet",
-          "title": "Botão Whatsapp c/ popup",
-          "link": "https://dev.to/econowmeet_3372287404e3c6/botao-whatsapp-c-popup-2hia",
-          "pubDate": "Wed, 13 Nov 2024 04:44:51 +0000",
-          "dc:creator": "econowmeet",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/econowmeet_3372287404e3c6/botao-whatsapp-c-popup-2hia",
-          "categories": [
-            "codepen"
-          ],
-          "isoDate": "2024-11-13T04:44:51.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Anil",
-          "title": "Main concept of react || React",
-          "link": "https://dev.to/04anilr/main-concept-of-react-react-342o",
-          "pubDate": "Wed, 13 Nov 2024 04:44:09 +0000",
-          "dc:creator": "Anil",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/04anilr/main-concept-of-react-react-342o",
-          "categories": [
-            "react",
-            "javascript",
-            "webdev",
-            "beginners"
-          ],
-          "isoDate": "2024-11-13T04:44:09.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Manjiro",
-          "title": "We'll write a little virus with python (Learning)",
-          "link": "https://dev.to/mikey_developer/well-write-a-little-virus-with-python-learning-m2k",
-          "pubDate": "Wed, 13 Nov 2024 04:38:38 +0000",
-          "dc:creator": "Manjiro",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/mikey_developer/well-write-a-little-virus-with-python-learning-m2k",
+          "guid": "https://dev.to/balaramakrishna_kamma_d58/request-aborted-in-firefox-but-working-in-remaining-browsers-14hn",
           "categories": [
             "webdev",
-            "javascript",
-            "beginners",
-            "python"
+            "help",
+            "firefox",
+            "javascript"
           ],
-          "isoDate": "2024-11-13T04:38:38.000Z",
+          "isoDate": "2024-11-14T04:47:48.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mayank Kumar",
+          "title": "Setting up Continuous Integration (CI) for dev-mate-cli",
+          "link": "https://dev.to/mayankpareek/setting-up-continuous-integration-ci-for-dev-mate-cli-19ea",
+          "pubDate": "Thu, 14 Nov 2024 04:39:44 +0000",
+          "dc:creator": "Mayank Kumar",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/mayankpareek/setting-up-continuous-integration-ci-for-dev-mate-cli-19ea",
+          "categories": [
+            "seneca",
+            "osd600",
+            "ci"
+          ],
+          "isoDate": "2024-11-14T04:39:44.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
           "creator": "Harshit Singh",
-          "title": "A Deep Dive into Java Maps: The Ultimate Guide for All Developers",
-          "link": "https://dev.to/wittedtech-by-harshit/a-deep-dive-into-java-maps-the-ultimate-guide-for-all-developers-oig",
-          "pubDate": "Wed, 13 Nov 2024 04:30:00 +0000",
+          "title": "The Complete Guide to Queue Data Structure in Java",
+          "link": "https://dev.to/wittedtech-by-harshit/the-complete-guide-to-queue-data-structure-in-java-5hko",
+          "pubDate": "Thu, 14 Nov 2024 04:30:00 +0000",
           "dc:creator": "Harshit Singh",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/wittedtech-by-harshit/a-deep-dive-into-java-maps-the-ultimate-guide-for-all-developers-oig",
+          "guid": "https://dev.to/wittedtech-by-harshit/the-complete-guide-to-queue-data-structure-in-java-5hko",
           "categories": [
             "java",
             "dsa",
-            "map",
+            "queue",
             "wittedtech"
           ],
-          "isoDate": "2024-11-13T04:30:00.000Z",
+          "isoDate": "2024-11-14T04:30:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Anik Deb Nath",
-          "title": "Create a Responsive Navbar Using Tailwind CSS and Next.js",
-          "link": "https://dev.to/anikdebnath/create-a-responsive-navbar-using-tailwind-css-and-nextjs-5h73",
-          "pubDate": "Wed, 13 Nov 2024 04:26:11 +0000",
-          "dc:creator": "Anik Deb Nath",
+          "creator": "転職カメ",
+          "title": "31/365 | ¥10M Job Challenge -",
+          "link": "https://dev.to/kameken100/31365-y10m-job-challenge--47cg",
+          "pubDate": "Thu, 14 Nov 2024 04:20:50 +0000",
+          "dc:creator": "転職カメ",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/anikdebnath/create-a-responsive-navbar-using-tailwind-css-and-nextjs-5h73",
+          "guid": "https://dev.to/kameken100/31365-y10m-job-challenge--47cg",
           "categories": [
-            "navbar",
-            "nextjs",
-            "tailwindcss",
-            "webdev"
+            "career",
+            "japan"
           ],
-          "isoDate": "2024-11-13T04:26:11.000Z",
+          "isoDate": "2024-11-14T04:20:50.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Adrian",
+          "title": "Quick intro to JavaScript and codeguppy.com",
+          "link": "https://dev.to/codeguppy/quick-intro-to-javascript-and-codeguppycom-2ohd",
+          "pubDate": "Thu, 14 Nov 2024 04:06:08 +0000",
+          "dc:creator": "Adrian",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/codeguppy/quick-intro-to-javascript-and-codeguppycom-2ohd",
+          "categories": [
+            "javascript"
+          ],
+          "isoDate": "2024-11-14T04:06:08.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Adrian",
+          "title": "JavaScript is like Python",
+          "link": "https://dev.to/codeguppy/javascript-is-like-python-lic",
+          "pubDate": "Thu, 14 Nov 2024 04:02:12 +0000",
+          "dc:creator": "Adrian",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/codeguppy/javascript-is-like-python-lic",
+          "categories": [
+            "javascript",
+            "python"
+          ],
+          "isoDate": "2024-11-14T04:02:12.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Adrian",
+          "title": "Book: JavaScript for the Whole Family",
+          "link": "https://dev.to/codeguppy/book-javascript-for-the-whole-family-3ghf",
+          "pubDate": "Thu, 14 Nov 2024 03:57:28 +0000",
+          "dc:creator": "Adrian",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/codeguppy/book-javascript-for-the-whole-family-3ghf",
+          "categories": [
+            "javascript",
+            "books"
+          ],
+          "isoDate": "2024-11-14T03:57:28.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Harshal Ranjhani",
+          "title": "Understanding useState in TypeScript React",
+          "link": "https://dev.to/codeparrot/understanding-usestate-in-typescript-react-3gg8",
+          "pubDate": "Thu, 14 Nov 2024 03:52:16 +0000",
+          "dc:creator": "Harshal Ranjhani",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/codeparrot/understanding-usestate-in-typescript-react-3gg8",
+          "categories": [
+            "usestate",
+            "typescript",
+            "react",
+            "javascript"
+          ],
+          "isoDate": "2024-11-14T03:52:16.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "James Li",
+          "title": "Analysis of Limitations of LCEL and AgentExecutor",
+          "link": "https://dev.to/jamesli/analysis-of-limitations-of-lcel-and-agentexecutor-2a3o",
+          "pubDate": "Thu, 14 Nov 2024 03:50:10 +0000",
+          "dc:creator": "James Li",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/jamesli/analysis-of-limitations-of-lcel-and-agentexecutor-2a3o",
+          "isoDate": "2024-11-14T03:50:10.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "James Li",
+          "title": "Introduction to LangGraph: Core Concepts and Basic Components",
+          "link": "https://dev.to/jamesli/introduction-to-langgraph-core-concepts-and-basic-components-5bak",
+          "pubDate": "Thu, 14 Nov 2024 03:48:10 +0000",
+          "dc:creator": "James Li",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/jamesli/introduction-to-langgraph-core-concepts-and-basic-components-5bak",
+          "isoDate": "2024-11-14T03:48:10.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1067,6 +1060,19 @@
     },
     "Digital Ocean Labs": {
       "items": [
+        {
+          "title": "DigitalOcean Expands New York Footprint: NYC2 Data Center Reopens to New Customers",
+          "link": "https://www.digitalocean.com/blog/digitalocean-new-york-data-center-reopens-after-upgrade",
+          "pubDate": "2024-11-13T13:00:00.040Z",
+          "author": "Diane Hannay",
+          "content": "",
+          "contentSnippet": "",
+          "id": "tag:www.digitalocean.com,2005:/blog/digitalocean-new-york-data-center-reopens-after-upgrade",
+          "isoDate": "2024-11-13T13:00:00.040Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "Introducing Scalable Storage for DigitalOcean’s Managed MongoDB",
           "link": "https://www.digitalocean.com/blog/introducing-scalable-storage-for-managed-mongo-db",
@@ -1118,25 +1124,12 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "Announcing 1-Click Models powered by Hugging Face on DigitalOcean",
-          "link": "https://www.digitalocean.com/blog/one-click-models-on-do-powered-by-huggingface",
-          "pubDate": "2024-10-23T16:00:00.044Z",
-          "author": "Grace Morgan",
-          "content": "",
-          "contentSnippet": "",
-          "id": "tag:www.digitalocean.com,2005:/blog/one-click-models-on-do-powered-by-huggingface",
-          "isoDate": "2024-10-23T16:00:00.044Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog.atom",
       "title": "The DigitalOcean Blog",
-      "lastBuildDate": "2024-11-12T22:03:21.902Z"
+      "lastBuildDate": "2024-11-13T21:43:12.392Z"
     },
     "Julia Evans": {
       "items": [
@@ -1341,7 +1334,7 @@
       "description": "Explore our latest insights on DevOps. Get practical tips on tools like Azure, Docker, and Kubernetes. Straightforward advice for your DevOps. Join us and make your DevOps journey better.",
       "generator": "Ghost 5.100",
       "link": "https://kodekloud.com/blog/",
-      "lastBuildDate": "Tue, 12 Nov 2024 14:42:36 GMT",
+      "lastBuildDate": "Wed, 13 Nov 2024 14:30:06 GMT",
       "ttl": "60"
     },
     "Matthew Rocklin": {
