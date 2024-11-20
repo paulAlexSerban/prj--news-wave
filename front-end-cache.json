@@ -5,6 +5,26 @@
       "items": [
         {
           "creator": "Geoff Graham",
+          "title": "Complete CSS Course",
+          "link": "https://css-tricks.com/complete-css-course/",
+          "pubDate": "Tue, 19 Nov 2024 14:21:28 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Geoff Graham",
+          "comments": "https://css-tricks.com/complete-css-course/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://css-tricks.com/?p=382566",
+          "categories": [
+            "Articles",
+            "education",
+            "resource"
+          ],
+          "isoDate": "2024-11-19T14:21:28.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Geoff Graham",
           "title": "Anchoreum: A New Game for Learning Anchor Positioning",
           "link": "https://css-tricks.com/anchoreum-a-new-game-for-learning-anchor-positioning/",
           "pubDate": "Tue, 12 Nov 2024 14:56:22 +0000",
@@ -83,25 +103,6 @@
           ],
           "isoDate": "2024-11-06T15:31:20.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Richard Hubbard",
-          "title": "Fluid Everything Else",
-          "link": "https://css-tricks.com/fluid-everything-else/",
-          "pubDate": "Tue, 05 Nov 2024 20:49:40 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Richard Hubbard",
-          "comments": "https://css-tricks.com/fluid-everything-else/#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://css-tricks.com/?p=382107",
-          "categories": [
-            "Articles",
-            "responsive"
-          ],
-          "isoDate": "2024-11-05T20:49:40.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://css-tricks.com/feed/",
@@ -120,7 +121,7 @@
       "generator": "https://wordpress.org/?v=6.7",
       "link": "https://css-tricks.com",
       "language": "en-US",
-      "lastBuildDate": "Thu, 14 Nov 2024 23:20:09 +0000"
+      "lastBuildDate": "Tue, 19 Nov 2024 19:06:37 +0000"
     },
     "CSS In Real Life": {
       "items": [
@@ -276,6 +277,29 @@
     "Web Designer Depot": {
       "items": [
         {
+          "creator": "Simon Sterne",
+          "title": "[INFOGRAPHIC] 98% of Designers Use AI Daily; Only 65% Say It’s Ethical",
+          "link": "https://webdesignerdepot.com/infographic-98-of-designers-use-ai-daily-only-65-say-its-ethical/",
+          "pubDate": "Tue, 19 Nov 2024 18:47:55 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Simon Sterne",
+          "comments": "https://webdesignerdepot.com/infographic-98-of-designers-use-ai-daily-only-65-say-its-ethical/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://webdesignerdepot.com/?p=61785",
+          "categories": [
+            "AI",
+            "artificial intellihgence",
+            "ethical",
+            "ethics",
+            "infographic",
+            "Web Design"
+          ],
+          "isoDate": "2024-11-19T18:47:55.000Z",
+          "summary": ""
+        },
+        {
           "creator": "Louise North",
           "title": "Why Responsive Design is Failing Modern Users",
           "link": "https://webdesignerdepot.com/why-responsive-design-is-failing-modern-users/",
@@ -357,25 +381,6 @@
           ],
           "isoDate": "2024-10-21T05:07:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Paddi MacDonnell",
-          "title": "20 Best New Websites, October 2024",
-          "link": "https://webdesignerdepot.com/20-best-new-websites-october-2024/",
-          "pubDate": "Mon, 14 Oct 2024 03:41:01 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Paddi MacDonnell",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "http://webdesignerdepot.com/?p=61571",
-          "categories": [
-            "Compilations",
-            "Compilation",
-            "Web Design"
-          ],
-          "isoDate": "2024-10-14T03:41:01.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://webdesignerdepot.com/feed/",
@@ -387,7 +392,7 @@
       "generator": "https://wordpress.org/?v=6.7",
       "link": "https://webdesignerdepot.com",
       "language": "en-US",
-      "lastBuildDate": "Mon, 18 Nov 2024 19:23:00 +0000"
+      "lastBuildDate": "Wed, 20 Nov 2024 04:49:58 +0000"
     },
     "Brad Frost": {
       "items": [
@@ -974,6 +979,18 @@
     "Go Make Things": {
       "items": [
         {
+          "title": "Combining light DOM and shadow DOM in a Web Component",
+          "link": "https://gomakethings.com/combining-light-dom-and-shadow-dom-in-a-web-component/",
+          "pubDate": "Tue, 19 Nov 2024 10:30:00 -0400",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://gomakethings.com/combining-light-dom-and-shadow-dom-in-a-web-component/",
+          "isoDate": "2024-11-19T14:30:00.000Z",
+          "summary": ""
+        },
+        {
           "title": "Styling Web Component elements in the shadow DOM with constructable stylesheets",
           "link": "https://gomakethings.com/styling-web-component-elements-in-the-shadow-dom-with-constructable-stylesheets/",
           "pubDate": "Mon, 18 Nov 2024 10:30:00 -0400",
@@ -1020,18 +1037,6 @@
           "guid": "https://gomakethings.com/styling-the-shadow-dom-with-css-variables-in-web-components/",
           "isoDate": "2024-11-11T14:30:00.000Z",
           "summary": ""
-        },
-        {
-          "title": "Styling Web Component shadow DOM elements with an inline link element",
-          "link": "https://gomakethings.com/styling-web-component-shadow-dom-elements-with-an-inline-link-element/",
-          "pubDate": "Fri, 08 Nov 2024 10:30:00 -0400",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://gomakethings.com/styling-web-component-shadow-dom-elements-with-an-inline-link-element/",
-          "isoDate": "2024-11-08T14:30:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://gomakethings.com/feed/index.xml",
@@ -1043,7 +1048,7 @@
       "generator": "Hugo -- gohugo.io",
       "link": "https://gomakethings.com/articles",
       "language": "en-us",
-      "lastBuildDate": "Tue, 19 Nov 2024 00:03:31 EST"
+      "lastBuildDate": "Wed, 20 Nov 2024 00:03:34 EST"
     }
   }
 }
