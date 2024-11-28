@@ -99,7 +99,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Wed, 27 Nov 2024 03:01:57 GMT"
+      "lastBuildDate": "Thu, 28 Nov 2024 03:01:45 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -309,6 +309,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Atila Fassina)",
+          "title": "The Hype Around Signals",
+          "link": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
+          "pubDate": "Wed, 27 Nov 2024 10:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Atila Fassina)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/the-hype-around-signals/the-hype-around-signals.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
+          "isoDate": "2024-11-27T10:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (The Smashing Team)",
           "title": "Bundle Up And Save On Smashing Books And Workshops",
           "link": "https://smashingmagazine.com/2024/11/bundle-up-and-save/",
@@ -383,25 +402,6 @@
           "guid": "https://smashingmagazine.com/2024/11/open-source-meets-design-tooling-penpot/",
           "isoDate": "2024-11-14T10:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Thomas Bohm)",
-          "title": "Alternatives To Typical Technical Illustrations And Data Visualisations",
-          "link": "https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/",
-          "pubDate": "Fri, 08 Nov 2024 09:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Thomas Bohm)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/rethinking-technical-illustrations-data-visualisations/alternatives-typical-technical-illustrations-data-visualisations.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/11/alternatives-typical-technical-illustrations-data-visualisations/",
-          "isoDate": "2024-11-08T09:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -419,11 +419,37 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Tue, 26 Nov 2024 18:35:15 GMT",
+      "lastBuildDate": "Thu, 28 Nov 2024 04:35:09 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Oguzhan Tufenk",
+          "title": "Creating Dynamic Terrain Deformation with React Three Fiber",
+          "link": "https://tympanus.net/codrops/2024/11/27/creating-dynamic-terrain-deformation-with-react-three-fiber/",
+          "pubDate": "Wed, 27 Nov 2024 11:26:12 +0000",
+          "enclosure": {
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/11/dynamic-terrain-deformation-1.mp4?x72048",
+            "length": "3557241",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Oguzhan Tufenk",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=83147",
+          "categories": [
+            "Tutorials",
+            "3d",
+            "react-three-fiber",
+            "three.js",
+            "webgl"
+          ],
+          "isoDate": "2024-11-27T11:26:12.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Manoela Ilic",
           "title": "Collective #884",
@@ -444,7 +470,7 @@
           "link": "https://tympanus.net/codrops/2024/11/26/case-study-nod-coding-bootcamp/",
           "pubDate": "Tue, 26 Nov 2024 09:49:56 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/11/Mooboard.mp4?x68706",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/11/Mooboard.mp4?x72048",
             "length": "3147833",
             "type": "video/mp4"
           },
@@ -502,7 +528,7 @@
           "link": "https://tympanus.net/codrops/2024/11/21/from-product-to-cart-adding-guiding-animations-to-the-shopping-experience/",
           "pubDate": "Thu, 21 Nov 2024 11:19:30 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/11/08-final-result-2.mp4?x68706",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/11/08-final-result-2.mp4?x72048",
             "length": "3104042",
             "type": "video/mp4"
           },
@@ -519,30 +545,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "Consecutive Scroll Animations with One Element",
-          "link": "https://tympanus.net/codrops/2024/11/20/consecutive-scroll-animations-with-one-element/",
-          "pubDate": "Wed, 20 Nov 2024 14:42:33 +0000",
-          "enclosure": {
-            "url": "https://cdn.dribbble.com/userupload/14538927/file/original-a833e2950a0684003fbf16ca6388e155.mp4",
-            "length": "6617862",
-            "type": "video/mp4"
-          },
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=82884",
-          "categories": [
-            "Playground",
-            "layout",
-            "scroll"
-          ],
-          "isoDate": "2024-11-20T14:42:33.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -554,7 +556,7 @@
       "generator": "https://wordpress.org/?v=6.7.1",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Tue, 26 Nov 2024 16:28:35 +0000"
+      "lastBuildDate": "Wed, 27 Nov 2024 11:26:14 +0000"
     },
     "DZone": {
       "items": [
@@ -639,6 +641,108 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Wasp",
+          "title": "Building React Forms with Ease Using React Hook Form, Zod and Shadcn",
+          "link": "https://itnext.io/building-react-forms-with-ease-using-react-hook-form-zod-and-shadcn-wasp-0ad31e9781b8?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 27 Nov 2024 21:43:29 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Wasp",
+          "guid": "https://medium.com/p/0ad31e9781b8",
+          "categories": [
+            "tutorial",
+            "webdev",
+            "javascript",
+            "react"
+          ],
+          "isoDate": "2024-11-27T21:43:29.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Gavin F.",
+          "title": "GitHub Actions — Versatile and Easy Serverless Pipeline",
+          "link": "https://itnext.io/github-actions-versatile-and-easy-serverless-pipeline-53d088a7a77b?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 27 Nov 2024 18:48:57 GMT",
+          "dc:creator": "Gavin F.",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/53d088a7a77b",
+          "categories": [
+            "software-development",
+            "cicd",
+            "programming",
+            "github",
+            "devops"
+          ],
+          "isoDate": "2024-11-27T18:48:57.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Meysam Karimi",
+          "title": "Unlocking the Power of CLIP AI in .NET: A Guide to Vision-Language Models",
+          "link": "https://itnext.io/unlocking-the-power-of-clip-ai-in-net-a-guide-to-vision-language-models-b07e75570a57?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 27 Nov 2024 18:47:21 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Meysam Karimi",
+          "guid": "https://medium.com/p/b07e75570a57",
+          "categories": [
+            "artificial-intelligence",
+            "dotnet",
+            "multimodal-ai",
+            "contrastive-learning",
+            "machine-learning"
+          ],
+          "isoDate": "2024-11-27T18:47:21.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Raghav Joshi",
+          "title": "Master Custom Painter in Flutter: Unlock the Power of Creative UI Design — Part 1",
+          "link": "https://itnext.io/master-custom-painter-in-flutter-unlock-the-power-of-creative-ui-design-part-1-872b1059af89?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 27 Nov 2024 09:50:09 GMT",
+          "dc:creator": "Raghav Joshi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/872b1059af89",
+          "categories": [
+            "app-development",
+            "painting",
+            "ui",
+            "software-development",
+            "flutter"
+          ],
+          "isoDate": "2024-11-27T09:50:09.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Tiago Temporin",
+          "title": "Unveiling the garbage collector in Go",
+          "link": "https://itnext.io/unveiling-the-garbage-collector-in-go-15e1df910851?source=rss----5b301f10ddcd---4",
+          "pubDate": "Wed, 27 Nov 2024 09:48:56 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Tiago Temporin",
+          "guid": "https://medium.com/p/15e1df910851",
+          "categories": [
+            "garbage-collection",
+            "go-internals",
+            "go"
+          ],
+          "isoDate": "2024-11-27T09:48:56.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Dobri Kostadinov",
           "title": "Top 5 Problems Google Leaves to Third-Party Vendors for Android Developers",
@@ -743,110 +847,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Piotr",
-          "title": "Terminal-Based Presentations",
-          "link": "https://itnext.io/terminal-based-presentations-66c9f0c9b4a3?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sun, 24 Nov 2024 18:34:43 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Piotr",
-          "guid": "https://medium.com/p/66c9f0c9b4a3",
-          "categories": [
-            "presentations",
-            "terminal",
-            "open-source",
-            "development",
-            "technology"
-          ],
-          "isoDate": "2024-11-24T18:34:43.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Benjamin Cane",
-          "title": "Avoid the Go init function",
-          "link": "https://itnext.io/avoid-the-go-init-function-74f7f28e9154?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sun, 24 Nov 2024 09:23:12 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Benjamin Cane",
-          "guid": "https://medium.com/p/74f7f28e9154",
-          "categories": [
-            "coding",
-            "golang",
-            "software-engineering",
-            "software-development",
-            "technology"
-          ],
-          "isoDate": "2024-11-24T09:23:12.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Raghav Joshi",
-          "title": "Best Practices for Securing API Keys in Flutter — Flutter Bytes",
-          "link": "https://itnext.io/best-practices-for-securing-api-keys-in-flutter-flutter-bytes-c1cafb36e7ac?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sat, 23 Nov 2024 08:35:22 GMT",
-          "dc:creator": "Raghav Joshi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/c1cafb36e7ac",
-          "categories": [
-            "flutter",
-            "app-development",
-            "api",
-            "technology",
-            "software-development"
-          ],
-          "isoDate": "2024-11-23T08:35:22.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Pawel Woltschkow",
-          "title": "Deep Dive into .NET Hosted Services",
-          "link": "https://itnext.io/deep-dive-into-net-hosted-services-01b1388ad78b?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sat, 23 Nov 2024 08:34:16 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Pawel Woltschkow",
-          "guid": "https://medium.com/p/01b1388ad78b",
-          "categories": [
-            "software-engineering",
-            "c-sharp-programming",
-            "dotnet",
-            "dotnet-core",
-            "software-development"
-          ],
-          "isoDate": "2024-11-23T08:34:16.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Anton Stöckl",
-          "title": "Unraveling CQRS, Event Sourcing, and EDA — Part 2: Event Sourcing",
-          "link": "https://itnext.io/unraveling-cqrs-event-sourcing-and-eda-part-2-event-sourcing-434404e035f0?source=rss----5b301f10ddcd---4",
-          "pubDate": "Fri, 22 Nov 2024 23:31:49 GMT",
-          "dc:creator": "Anton Stöckl",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/434404e035f0",
-          "categories": [
-            "microservices",
-            "event-driven-architecture",
-            "cqrs",
-            "event-sourcing"
-          ],
-          "isoDate": "2024-11-22T23:31:49.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -863,199 +863,188 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Wed, 27 Nov 2024 05:04:26 GMT"
+      "lastBuildDate": "Thu, 28 Nov 2024 05:06:22 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Sloan the DEV Moderator",
-          "title": "Welcome Thread - v304",
-          "link": "https://dev.to/devteam/welcome-thread-v305-57bl",
-          "pubDate": "Wed, 27 Nov 2024 05:00:00 +0000",
-          "dc:creator": "Sloan the DEV Moderator",
+          "creator": "Max",
+          "title": "🔥 Practical Concurrent Control for Node.js Servers: Keep Your Server from Being Overwhelmed by Traffic!",
+          "link": "https://dev.to/evle/practical-concurrent-control-for-nodejs-servers-keep-your-server-from-being-overwhelmed-by-2kgf",
+          "pubDate": "Thu, 28 Nov 2024 04:36:53 +0000",
+          "dc:creator": "Max",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/devteam/welcome-thread-v305-57bl",
-          "categories": [
-            "welcome"
-          ],
-          "isoDate": "2024-11-27T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Kelvin Wieth",
-          "title": "Rethinking interfaces in Flutter projects",
-          "link": "https://dev.to/kelvinwieth/rethinking-interfaces-in-flutter-projects-3fp9",
-          "pubDate": "Wed, 27 Nov 2024 04:50:20 +0000",
-          "dc:creator": "Kelvin Wieth",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/kelvinwieth/rethinking-interfaces-in-flutter-projects-3fp9",
-          "categories": [
-            "flutter",
-            "dart",
-            "cleancode",
-            "solidprinciples"
-          ],
-          "isoDate": "2024-11-27T04:50:20.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "James Charlie",
-          "title": "Collections in Salesforce Apex",
-          "link": "https://dev.to/jamie4190/collections-in-salesforce-apex-a81",
-          "pubDate": "Wed, 27 Nov 2024 04:48:28 +0000",
-          "dc:creator": "James Charlie",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/jamie4190/collections-in-salesforce-apex-a81",
-          "categories": [
-            "collections",
-            "apex",
-            "salesforce",
-            "list"
-          ],
-          "isoDate": "2024-11-27T04:48:28.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Aditya Pratap Bhuyan",
-          "title": "How Java Development Services Ensure Scalability and Performance in Modern Applications",
-          "link": "https://dev.to/adityabhuyan/how-java-development-services-ensure-scalability-and-performance-in-modern-applications-3gn",
-          "pubDate": "Wed, 27 Nov 2024 04:45:24 +0000",
-          "dc:creator": "Aditya Pratap Bhuyan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/adityabhuyan/how-java-development-services-ensure-scalability-and-performance-in-modern-applications-3gn",
-          "categories": [
-            "java",
-            "scalability",
-            "performance",
-            "applications"
-          ],
-          "isoDate": "2024-11-27T04:45:24.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Prince",
-          "title": "✨ Transform Your Images with a 3D Bend & Reveal Effect! ✨",
-          "link": "https://dev.to/prince_beec5ccde00b7c6c73/transform-your-images-with-a-3d-bend-reveal-effect-28co",
-          "pubDate": "Wed, 27 Nov 2024 04:42:42 +0000",
-          "dc:creator": "Prince",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/prince_beec5ccde00b7c6c73/transform-your-images-with-a-3d-bend-reveal-effect-28co",
+          "guid": "https://dev.to/evle/practical-concurrent-control-for-nodejs-servers-keep-your-server-from-being-overwhelmed-by-2kgf",
           "categories": [
             "webdev",
+            "programming",
+            "node",
+            "beginners"
+          ],
+          "isoDate": "2024-11-28T04:36:53.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Jordan Tingling",
+          "title": "URL Shortener in Go",
+          "link": "https://dev.to/jordan_t/url-shortener-in-go-3d8l",
+          "pubDate": "Thu, 28 Nov 2024 04:11:54 +0000",
+          "dc:creator": "Jordan Tingling",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/jordan_t/url-shortener-in-go-3d8l",
+          "categories": [
+            "go",
+            "cloud",
+            "devops",
+            "webdev"
+          ],
+          "isoDate": "2024-11-28T04:11:54.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "WowTab",
+          "title": "New Tab Page Plugin vs Browser's Home Tab Page",
+          "link": "https://dev.to/wowtabteam/new-tab-page-plugin-vs-browsers-home-tab-page-apf",
+          "pubDate": "Thu, 28 Nov 2024 03:31:15 +0000",
+          "dc:creator": "WowTab",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/wowtabteam/new-tab-page-plugin-vs-browsers-home-tab-page-apf",
+          "isoDate": "2024-11-28T03:31:15.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "DevvEmeka",
+          "title": "Using OpenTelemetry with gRPC in Node.js and Express Hybrid Applications",
+          "link": "https://dev.to/devvemeka/using-opentelemetry-with-grpc-in-nodejs-and-express-hybrid-applications-4ibe",
+          "pubDate": "Thu, 28 Nov 2024 03:26:40 +0000",
+          "dc:creator": "DevvEmeka",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/devvemeka/using-opentelemetry-with-grpc-in-nodejs-and-express-hybrid-applications-4ibe",
+          "categories": [
+            "node",
+            "express",
+            "opentelemetry",
+            "grpc"
+          ],
+          "isoDate": "2024-11-28T03:26:40.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Foyzul Karim",
+          "title": "Improving Commit Message Quality in VSCode with Copilot",
+          "link": "https://dev.to/foyzulkarim/improving-commit-message-quality-in-vscode-with-copilot-299p",
+          "pubDate": "Thu, 28 Nov 2024 03:23:47 +0000",
+          "dc:creator": "Foyzul Karim",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/foyzulkarim/improving-commit-message-quality-in-vscode-with-copilot-299p",
+          "categories": [
+            "githubcopilot",
+            "commit",
+            "vscode",
+            "coding"
+          ],
+          "isoDate": "2024-11-28T03:23:47.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Best Codes",
+          "title": "Testing the new reshare feature with Quickie Posts! Obviously, I'm being a little bit selfish by reposting myself, but oh well. I'll find someone else to repost next. 🤭",
+          "link": "https://dev.to/best_codes/testing-the-new-reshare-feature-with-quickie-posts-obviously-im-being-a-little-bit-selfish-by-476j",
+          "pubDate": "Thu, 28 Nov 2024 03:21:32 +0000",
+          "dc:creator": "Best Codes",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/best_codes/testing-the-new-reshare-feature-with-quickie-posts-obviously-im-being-a-little-bit-selfish-by-476j",
+          "isoDate": "2024-11-28T03:21:32.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Judith-Excel-Sharing",
+          "title": "#106 — Delete Data that Can be Paired",
+          "link": "https://dev.to/judith677/106-delete-data-that-can-be-paired-4pd6",
+          "pubDate": "Thu, 28 Nov 2024 03:10:55 +0000",
+          "dc:creator": "Judith-Excel-Sharing",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/judith677/106-delete-data-that-can-be-paired-4pd6",
+          "categories": [
+            "programming",
+            "beginners",
+            "tutorial",
+            "productivity"
+          ],
+          "isoDate": "2024-11-28T03:10:55.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Dustin Runnells",
+          "title": "Writing an AnythingLLM Custom Agent Skill to Trigger Make.com Webhooks",
+          "link": "https://dev.to/drunnells/writing-an-anythingllm-custom-agent-skill-to-trigger-makecom-webhooks-1dn0",
+          "pubDate": "Thu, 28 Nov 2024 03:08:55 +0000",
+          "dc:creator": "Dustin Runnells",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/drunnells/writing-an-anythingllm-custom-agent-skill-to-trigger-makecom-webhooks-1dn0",
+          "isoDate": "2024-11-28T03:08:55.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Paul A",
+          "title": "7 JavaScript One-Liners That Will Make You Look Like a Pro",
+          "link": "https://dev.to/peboycodes/7-javascript-one-liners-that-will-make-you-look-like-a-pro-4cf7",
+          "pubDate": "Thu, 28 Nov 2024 02:59:06 +0000",
+          "dc:creator": "Paul A",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/peboycodes/7-javascript-one-liners-that-will-make-you-look-like-a-pro-4cf7",
+          "categories": [
             "javascript",
+            "webdev",
             "programming",
             "beginners"
           ],
-          "isoDate": "2024-11-27T04:42:42.000Z",
+          "isoDate": "2024-11-28T02:59:06.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Anshul Kichara",
-          "title": "Modern Traffic Management with Gateway API in Kubernetes",
-          "link": "https://dev.to/anshul_kichara/modern-traffic-management-with-gateway-api-in-kubernetes-567i",
-          "pubDate": "Wed, 27 Nov 2024 04:40:21 +0000",
-          "dc:creator": "Anshul Kichara",
+          "creator": "Juan Garcia",
+          "title": "how can data validation for form inputs be handled both in HTML and JavaScript and Why is it beneficial to use both!",
+          "link": "https://dev.to/jfelipegarcia/how-can-data-validation-for-form-inputs-be-handled-both-in-html-and-javascript-and-why-is-it-564f",
+          "pubDate": "Thu, 28 Nov 2024 02:56:56 +0000",
+          "dc:creator": "Juan Garcia",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/anshul_kichara/modern-traffic-management-with-gateway-api-in-kubernetes-567i",
+          "guid": "https://dev.to/jfelipegarcia/how-can-data-validation-for-form-inputs-be-handled-both-in-html-and-javascript-and-why-is-it-564f",
           "categories": [
-            "devops",
-            "technology",
-            "trending",
-            "software"
+            "html",
+            "javascript",
+            "webdev",
+            "programming"
           ],
-          "isoDate": "2024-11-27T04:40:21.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Rigal Patel",
-          "title": "Top 5 Ways to Secure Your Express.js APIs",
-          "link": "https://dev.to/rigalpatel001/top-5-ways-to-secure-your-expressjs-apis-13i5",
-          "pubDate": "Wed, 27 Nov 2024 04:38:27 +0000",
-          "dc:creator": "Rigal Patel",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/rigalpatel001/top-5-ways-to-secure-your-expressjs-apis-13i5",
-          "categories": [
-            "express",
-            "apisecurity",
-            "node",
-            "codingtips"
-          ],
-          "isoDate": "2024-11-27T04:38:27.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Aditya Pratap Bhuyan",
-          "title": "How Java Development Services Ensure Robust Security for Enterprise-Level Applications",
-          "link": "https://dev.to/adityabhuyan/how-java-development-services-ensure-robust-security-for-enterprise-level-applications-12nj",
-          "pubDate": "Wed, 27 Nov 2024 04:37:24 +0000",
-          "dc:creator": "Aditya Pratap Bhuyan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/adityabhuyan/how-java-development-services-ensure-robust-security-for-enterprise-level-applications-12nj",
-          "categories": [
-            "security",
-            "java",
-            "enterprises"
-          ],
-          "isoDate": "2024-11-27T04:37:24.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Vikas Singh",
-          "title": "Benefits of Managed Services in Cloud Computing",
-          "link": "https://dev.to/brilworks/benefits-of-managed-services-in-cloud-computing-2ibi",
-          "pubDate": "Wed, 27 Nov 2024 04:36:17 +0000",
-          "dc:creator": "Vikas Singh",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/brilworks/benefits-of-managed-services-in-cloud-computing-2ibi",
-          "categories": [
-            "cloudcomputing"
-          ],
-          "isoDate": "2024-11-27T04:36:17.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "S3CloudHub",
-          "title": "DNS Spoofing: Controlling DNS Requests on the Network",
-          "link": "https://dev.to/s3cloudhub/dns-spoofing-controlling-dns-requests-on-the-network-4ia5",
-          "pubDate": "Wed, 27 Nov 2024 04:35:18 +0000",
-          "dc:creator": "S3CloudHub",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/s3cloudhub/dns-spoofing-controlling-dns-requests-on-the-network-4ia5",
-          "categories": [
-            "cybersecurity",
-            "dns",
-            "networking",
-            "security"
-          ],
-          "isoDate": "2024-11-27T04:35:18.000Z",
+          "isoDate": "2024-11-28T02:56:56.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1141,7 +1130,7 @@
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog.atom",
       "title": "The DigitalOcean Blog",
-      "lastBuildDate": "2024-11-26T23:05:12.276Z"
+      "lastBuildDate": "2024-11-27T15:33:03.458Z"
     },
     "Julia Evans": {
       "items": [
@@ -1209,7 +1198,7 @@
       "link": "http://jvns.ca/atom.xml",
       "feedUrl": "http://jvns.ca/atom.xml",
       "title": "Julia Evans",
-      "lastBuildDate": "2024-11-21T08:50:17+00:00"
+      "lastBuildDate": "2024-11-27T13:16:13+00:00"
     },
     "KodeKloud": {
       "items": [
@@ -1346,7 +1335,7 @@
       "description": "Explore our latest insights on DevOps. Get practical tips on tools like Azure, Docker, and Kubernetes. Straightforward advice for your DevOps. Join us and make your DevOps journey better.",
       "generator": "Ghost 5.101",
       "link": "https://kodekloud.com/blog/",
-      "lastBuildDate": "Tue, 26 Nov 2024 10:16:15 GMT",
+      "lastBuildDate": "Wed, 27 Nov 2024 10:06:20 GMT",
       "ttl": "60"
     },
     "Matthew Rocklin": {
