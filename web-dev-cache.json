@@ -99,7 +99,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Thu, 28 Nov 2024 03:01:45 GMT"
+      "lastBuildDate": "Fri, 29 Nov 2024 03:01:43 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -309,6 +309,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (The Smashing Team)",
+          "title": "Bundle Up And Save On Smashing Books And Workshops",
+          "link": "https://smashingmagazine.com/2024/11/bundle-up-and-save/",
+          "pubDate": "Thu, 28 Nov 2024 12:00:00 GMT",
+          "author": "hello@smashingmagazine.com (The Smashing Team)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/bundle-up/bundle-30-magazine-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/11/bundle-up-and-save/",
+          "isoDate": "2024-11-28T12:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (Atila Fassina)",
           "title": "The Hype Around Signals",
           "link": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
@@ -325,25 +344,6 @@
           "contentSnippet": "",
           "guid": "https://smashingmagazine.com/2024/11/the-hype-around-signals/",
           "isoDate": "2024-11-27T10:00:00.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (The Smashing Team)",
-          "title": "Bundle Up And Save On Smashing Books And Workshops",
-          "link": "https://smashingmagazine.com/2024/11/bundle-up-and-save/",
-          "pubDate": "Mon, 25 Nov 2024 15:00:00 GMT",
-          "author": "hello@smashingmagazine.com (The Smashing Team)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/bundle-up/bundle-30-magazine-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/11/bundle-up-and-save/",
-          "isoDate": "2024-11-25T15:00:00.000Z",
           "summary": ""
         },
         {
@@ -419,7 +419,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Thu, 28 Nov 2024 04:35:09 GMT",
+      "lastBuildDate": "Fri, 29 Nov 2024 04:34:44 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -521,30 +521,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Andrea Biason",
-          "title": "From Product to Cart: Adding Guiding Animations to the Shopping Experience",
-          "link": "https://tympanus.net/codrops/2024/11/21/from-product-to-cart-adding-guiding-animations-to-the-shopping-experience/",
-          "pubDate": "Thu, 21 Nov 2024 11:19:30 +0000",
-          "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/11/08-final-result-2.mp4?x72048",
-            "length": "3104042",
-            "type": "video/mp4"
-          },
-          "dc:creator": "Andrea Biason",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=82749",
-          "categories": [
-            "Tutorials",
-            "grid",
-            "shopping-cart"
-          ],
-          "isoDate": "2024-11-21T11:19:30.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -641,6 +617,90 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Vedran Balagovic",
+          "title": "Flutter Riverpod 2.0: Modern State Management and Code Generation",
+          "link": "https://itnext.io/flutter-riverpod-2-0-modern-state-management-and-code-generation-ac82bd6dfb6a?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 28 Nov 2024 18:12:24 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Vedran Balagovic",
+          "guid": "https://medium.com/p/ac82bd6dfb6a",
+          "categories": [
+            "flutter-state-management",
+            "flutter",
+            "riverpod",
+            "state-management",
+            "flutter-app-development"
+          ],
+          "isoDate": "2024-11-28T18:12:24.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Jack Roper",
+          "title": "Essential files for your code repository",
+          "link": "https://itnext.io/essential-files-for-your-code-repository-264c66f9695a?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 28 Nov 2024 13:53:58 GMT",
+          "dc:creator": "Jack Roper",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/264c66f9695a",
+          "categories": [
+            "cloud",
+            "cloud-computing",
+            "devops",
+            "terraform",
+            "github"
+          ],
+          "isoDate": "2024-11-28T13:53:58.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Piotr",
+          "title": "Deploy Virtual Kubernetes Clusters on EKS, AKS, and GKE",
+          "link": "https://itnext.io/deploy-virtual-kubernetes-clusters-on-eks-aks-and-gke-215bc7a07f56?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 28 Nov 2024 10:23:52 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Piotr",
+          "guid": "https://medium.com/p/215bc7a07f56",
+          "categories": [
+            "devops",
+            "kubernetes",
+            "technology",
+            "cncf",
+            "platform-engineering"
+          ],
+          "isoDate": "2024-11-28T10:23:52.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "fatbobman ( 东坡肘子)",
+          "title": "In-Depth Exploration of Overlay and Background Modifiers in SwiftUI",
+          "link": "https://itnext.io/in-depth-exploration-of-overlay-and-background-modifiers-in-swiftui-d8678a976392?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 28 Nov 2024 08:32:29 GMT",
+          "dc:creator": "fatbobman ( 东坡肘子)",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/d8678a976392",
+          "categories": [
+            "ios-app-development",
+            "programming",
+            "mobile-app-development",
+            "swift",
+            "swiftui"
+          ],
+          "isoDate": "2024-11-28T08:32:29.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Wasp",
           "title": "Building React Forms with Ease Using React Hook Form, Zod and Shadcn",
@@ -763,90 +823,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Luke Brandon Farrell",
-          "title": "Expo 52, Sherlock Holmes the Mystery of the Missing Safe Area, and AI Models in Your Pocket",
-          "link": "https://itnext.io/expo-52-sherlock-holmes-the-mystery-of-the-missing-safe-area-and-ai-models-in-your-pocket-e3435050123a?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 25 Nov 2024 19:12:25 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Luke Brandon Farrell",
-          "guid": "https://medium.com/p/e3435050123a",
-          "categories": [
-            "react-native",
-            "newsletter",
-            "expo",
-            "funny",
-            "react"
-          ],
-          "isoDate": "2024-11-25T19:12:25.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Wagner Franchin",
-          "title": "Setting up MySQL Group replication with Docker Compose",
-          "link": "https://itnext.io/setting-up-mysql-group-replication-with-docker-compose-7639347545a2?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 25 Nov 2024 09:10:12 GMT",
-          "dc:creator": "Wagner Franchin",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/7639347545a2",
-          "categories": [
-            "database",
-            "mysql-group-replication",
-            "mysql",
-            "docker",
-            "docker-compose"
-          ],
-          "isoDate": "2024-11-25T09:10:12.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Gul Ershad",
-          "title": "Distributed Commit in Distributed Systems",
-          "link": "https://itnext.io/distributed-commit-in-distributed-systems-5a54049be91b?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 25 Nov 2024 08:06:19 GMT",
-          "dc:creator": "Gul Ershad",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/5a54049be91b",
-          "categories": [
-            "transactions",
-            "software-development",
-            "architecture",
-            "design",
-            "distributed-systems"
-          ],
-          "isoDate": "2024-11-25T08:06:19.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Saeed Zarinfam",
-          "title": "Making a Java Project Cross-IDE using Spotless",
-          "link": "https://itnext.io/making-a-java-project-cross-ide-using-spotless-11aa77b06902?source=rss----5b301f10ddcd---4",
-          "pubDate": "Sun, 24 Nov 2024 18:35:47 GMT",
-          "dc:creator": "Saeed Zarinfam",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/11aa77b06902",
-          "categories": [
-            "java",
-            "intellij",
-            "vscode",
-            "ide",
-            "spotless"
-          ],
-          "isoDate": "2024-11-24T18:35:47.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -863,188 +839,184 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Thu, 28 Nov 2024 05:06:22 GMT"
+      "lastBuildDate": "Fri, 29 Nov 2024 04:58:08 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Max",
-          "title": "🔥 Practical Concurrent Control for Node.js Servers: Keep Your Server from Being Overwhelmed by Traffic!",
-          "link": "https://dev.to/evle/practical-concurrent-control-for-nodejs-servers-keep-your-server-from-being-overwhelmed-by-2kgf",
-          "pubDate": "Thu, 28 Nov 2024 04:36:53 +0000",
-          "dc:creator": "Max",
+          "creator": "Vikas Singh",
+          "title": "10 Ways to Effectively Manage Spring Cloud Dependencies",
+          "link": "https://dev.to/brilworks/10-ways-to-effectively-manage-spring-cloud-dependencies-4kj",
+          "pubDate": "Fri, 29 Nov 2024 04:48:01 +0000",
+          "dc:creator": "Vikas Singh",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/evle/practical-concurrent-control-for-nodejs-servers-keep-your-server-from-being-overwhelmed-by-2kgf",
+          "guid": "https://dev.to/brilworks/10-ways-to-effectively-manage-spring-cloud-dependencies-4kj",
           "categories": [
-            "webdev",
-            "programming",
-            "node",
-            "beginners"
+            "cloud"
           ],
-          "isoDate": "2024-11-28T04:36:53.000Z",
+          "isoDate": "2024-11-29T04:48:01.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Jordan Tingling",
-          "title": "URL Shortener in Go",
-          "link": "https://dev.to/jordan_t/url-shortener-in-go-3d8l",
-          "pubDate": "Thu, 28 Nov 2024 04:11:54 +0000",
-          "dc:creator": "Jordan Tingling",
+          "creator": "Rigal Patel",
+          "title": "Mastering Advanced Error Handling in Express.js for Robust Node.js Applications",
+          "link": "https://dev.to/rigalpatel001/mastering-advanced-error-handling-in-expressjs-for-robust-nodejs-applications-3534",
+          "pubDate": "Fri, 29 Nov 2024 04:39:00 +0000",
+          "dc:creator": "Rigal Patel",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/jordan_t/url-shortener-in-go-3d8l",
+          "guid": "https://dev.to/rigalpatel001/mastering-advanced-error-handling-in-expressjs-for-robust-nodejs-applications-3534",
           "categories": [
-            "go",
-            "cloud",
-            "devops",
-            "webdev"
-          ],
-          "isoDate": "2024-11-28T04:11:54.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "WowTab",
-          "title": "New Tab Page Plugin vs Browser's Home Tab Page",
-          "link": "https://dev.to/wowtabteam/new-tab-page-plugin-vs-browsers-home-tab-page-apf",
-          "pubDate": "Thu, 28 Nov 2024 03:31:15 +0000",
-          "dc:creator": "WowTab",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/wowtabteam/new-tab-page-plugin-vs-browsers-home-tab-page-apf",
-          "isoDate": "2024-11-28T03:31:15.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "DevvEmeka",
-          "title": "Using OpenTelemetry with gRPC in Node.js and Express Hybrid Applications",
-          "link": "https://dev.to/devvemeka/using-opentelemetry-with-grpc-in-nodejs-and-express-hybrid-applications-4ibe",
-          "pubDate": "Thu, 28 Nov 2024 03:26:40 +0000",
-          "dc:creator": "DevvEmeka",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/devvemeka/using-opentelemetry-with-grpc-in-nodejs-and-express-hybrid-applications-4ibe",
-          "categories": [
+            "javascript",
             "node",
             "express",
-            "opentelemetry",
-            "grpc"
+            "errors"
           ],
-          "isoDate": "2024-11-28T03:26:40.000Z",
+          "isoDate": "2024-11-29T04:39:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Foyzul Karim",
-          "title": "Improving Commit Message Quality in VSCode with Copilot",
-          "link": "https://dev.to/foyzulkarim/improving-commit-message-quality-in-vscode-with-copilot-299p",
-          "pubDate": "Thu, 28 Nov 2024 03:23:47 +0000",
-          "dc:creator": "Foyzul Karim",
+          "creator": "Dexter Hale",
+          "title": "Best Photo Editing Software for Stunning Website Images",
+          "link": "https://dev.to/dexterhale/best-photo-editing-software-for-stunning-website-images-34j3",
+          "pubDate": "Fri, 29 Nov 2024 04:35:55 +0000",
+          "dc:creator": "Dexter Hale",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/foyzulkarim/improving-commit-message-quality-in-vscode-with-copilot-299p",
+          "guid": "https://dev.to/dexterhale/best-photo-editing-software-for-stunning-website-images-34j3",
           "categories": [
-            "githubcopilot",
-            "commit",
-            "vscode",
-            "coding"
-          ],
-          "isoDate": "2024-11-28T03:23:47.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Best Codes",
-          "title": "Testing the new reshare feature with Quickie Posts! Obviously, I'm being a little bit selfish by reposting myself, but oh well. I'll find someone else to repost next. 🤭",
-          "link": "https://dev.to/best_codes/testing-the-new-reshare-feature-with-quickie-posts-obviously-im-being-a-little-bit-selfish-by-476j",
-          "pubDate": "Thu, 28 Nov 2024 03:21:32 +0000",
-          "dc:creator": "Best Codes",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/best_codes/testing-the-new-reshare-feature-with-quickie-posts-obviously-im-being-a-little-bit-selfish-by-476j",
-          "isoDate": "2024-11-28T03:21:32.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Judith-Excel-Sharing",
-          "title": "#106 — Delete Data that Can be Paired",
-          "link": "https://dev.to/judith677/106-delete-data-that-can-be-paired-4pd6",
-          "pubDate": "Thu, 28 Nov 2024 03:10:55 +0000",
-          "dc:creator": "Judith-Excel-Sharing",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/judith677/106-delete-data-that-can-be-paired-4pd6",
-          "categories": [
-            "programming",
+            "webdev",
+            "productivity",
             "beginners",
-            "tutorial",
+            "learning"
+          ],
+          "isoDate": "2024-11-29T04:35:55.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Jagroop Singh",
+          "title": "Let's Learn Generators in JavaScript 🚀",
+          "link": "https://dev.to/jagroop2001/lets-learn-generators-in-javascript-4566",
+          "pubDate": "Fri, 29 Nov 2024 04:31:55 +0000",
+          "dc:creator": "Jagroop Singh",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/jagroop2001/lets-learn-generators-in-javascript-4566",
+          "categories": [
+            "webdev",
+            "javascript",
+            "programming",
+            "tutorial"
+          ],
+          "isoDate": "2024-11-29T04:31:55.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Harshit Singh",
+          "title": "Reflection API in Java: The Superpower You Didn’t Know You Had",
+          "link": "https://dev.to/wittedtech-by-harshit/reflection-api-in-java-the-superpower-you-didnt-know-you-had-4n3b",
+          "pubDate": "Fri, 29 Nov 2024 04:30:00 +0000",
+          "dc:creator": "Harshit Singh",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/wittedtech-by-harshit/reflection-api-in-java-the-superpower-you-didnt-know-you-had-4n3b",
+          "categories": [
+            "wittedtech",
+            "webdev",
+            "java",
+            "reflection"
+          ],
+          "isoDate": "2024-11-29T04:30:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Burhanuddin S. Tinwala",
+          "title": "Mastering Closures in JavaScript: A Practical Real-World Example 💡",
+          "link": "https://dev.to/bst53/mastering-closures-in-javascript-a-practical-real-world-example-o07",
+          "pubDate": "Fri, 29 Nov 2024 04:30:00 +0000",
+          "dc:creator": "Burhanuddin S. Tinwala",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/bst53/mastering-closures-in-javascript-a-practical-real-world-example-o07",
+          "categories": [
+            "webdev",
+            "javascript",
+            "programming",
+            "tutorial"
+          ],
+          "isoDate": "2024-11-29T04:30:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Bhuwan chettri",
+          "title": "Coding is like planting seeds — each line of code is a step toward something that grows into greatness. 🌳💾",
+          "link": "https://dev.to/bhuwan71/coding-is-like-planting-seeds-each-line-of-code-is-a-step-toward-something-that-grows-into-3e85",
+          "pubDate": "Fri, 29 Nov 2024 04:29:23 +0000",
+          "dc:creator": "Bhuwan chettri",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/bhuwan71/coding-is-like-planting-seeds-each-line-of-code-is-a-step-toward-something-that-grows-into-3e85",
+          "categories": [
+            "webdev",
+            "programming",
             "productivity"
           ],
-          "isoDate": "2024-11-28T03:10:55.000Z",
+          "isoDate": "2024-11-29T04:29:23.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Dustin Runnells",
-          "title": "Writing an AnythingLLM Custom Agent Skill to Trigger Make.com Webhooks",
-          "link": "https://dev.to/drunnells/writing-an-anythingllm-custom-agent-skill-to-trigger-makecom-webhooks-1dn0",
-          "pubDate": "Thu, 28 Nov 2024 03:08:55 +0000",
-          "dc:creator": "Dustin Runnells",
+          "creator": "Fefe Alves",
+          "title": "Why should data analysts and data scientists study Software Engineering?",
+          "link": "https://dev.to/fefealves/why-should-data-analysts-and-data-scientists-study-software-engineering-235l",
+          "pubDate": "Fri, 29 Nov 2024 04:24:22 +0000",
+          "dc:creator": "Fefe Alves",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/drunnells/writing-an-anythingllm-custom-agent-skill-to-trigger-makecom-webhooks-1dn0",
-          "isoDate": "2024-11-28T03:08:55.000Z",
+          "guid": "https://dev.to/fefealves/why-should-data-analysts-and-data-scientists-study-software-engineering-235l",
+          "isoDate": "2024-11-29T04:24:22.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Paul A",
-          "title": "7 JavaScript One-Liners That Will Make You Look Like a Pro",
-          "link": "https://dev.to/peboycodes/7-javascript-one-liners-that-will-make-you-look-like-a-pro-4cf7",
-          "pubDate": "Thu, 28 Nov 2024 02:59:06 +0000",
-          "dc:creator": "Paul A",
+          "creator": "Harshil Patel",
+          "title": "My Journey Contributing to Node.js Core: The Final Chapter (3/3)",
+          "link": "https://dev.to/harshil_patel/my-journey-contributing-to-nodejs-core-the-final-chapter-33-14",
+          "pubDate": "Fri, 29 Nov 2024 04:06:49 +0000",
+          "dc:creator": "Harshil Patel",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/peboycodes/7-javascript-one-liners-that-will-make-you-look-like-a-pro-4cf7",
-          "categories": [
-            "javascript",
-            "webdev",
-            "programming",
-            "beginners"
-          ],
-          "isoDate": "2024-11-28T02:59:06.000Z",
+          "guid": "https://dev.to/harshil_patel/my-journey-contributing-to-nodejs-core-the-final-chapter-33-14",
+          "isoDate": "2024-11-29T04:06:49.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Juan Garcia",
-          "title": "how can data validation for form inputs be handled both in HTML and JavaScript and Why is it beneficial to use both!",
-          "link": "https://dev.to/jfelipegarcia/how-can-data-validation-for-form-inputs-be-handled-both-in-html-and-javascript-and-why-is-it-564f",
-          "pubDate": "Thu, 28 Nov 2024 02:56:56 +0000",
-          "dc:creator": "Juan Garcia",
+          "creator": "Karina Pereira",
+          "title": "Regex in VSCode: My favorite hacks",
+          "link": "https://dev.to/allmightenglishtech/regex-in-vscode-my-favorite-hacks-2ea6",
+          "pubDate": "Fri, 29 Nov 2024 04:00:06 +0000",
+          "dc:creator": "Karina Pereira",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/jfelipegarcia/how-can-data-validation-for-form-inputs-be-handled-both-in-html-and-javascript-and-why-is-it-564f",
-          "categories": [
-            "html",
-            "javascript",
-            "webdev",
-            "programming"
-          ],
-          "isoDate": "2024-11-28T02:56:56.000Z",
+          "guid": "https://dev.to/allmightenglishtech/regex-in-vscode-my-favorite-hacks-2ea6",
+          "isoDate": "2024-11-29T04:00:06.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1335,7 +1307,7 @@
       "description": "Explore our latest insights on DevOps. Get practical tips on tools like Azure, Docker, and Kubernetes. Straightforward advice for your DevOps. Join us and make your DevOps journey better.",
       "generator": "Ghost 5.101",
       "link": "https://kodekloud.com/blog/",
-      "lastBuildDate": "Wed, 27 Nov 2024 10:06:20 GMT",
+      "lastBuildDate": "Fri, 29 Nov 2024 04:36:55 GMT",
       "ttl": "60"
     },
     "Matthew Rocklin": {
