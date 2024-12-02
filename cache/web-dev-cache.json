@@ -99,7 +99,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Fri, 29 Nov 2024 03:01:43 GMT"
+      "lastBuildDate": "Mon, 02 Dec 2024 04:34:14 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -309,6 +309,25 @@
     "Smashing Magazine": {
       "items": [
         {
+          "creator": "hello@smashingmagazine.com (Cosima Mielke)",
+          "title": "Dreaming Of Miracles (December 2024 Wallpapers Edition)",
+          "link": "https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/",
+          "pubDate": "Sat, 30 Nov 2024 09:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Cosima Mielke)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/desktop-wallpaper-calendars-december-2024/dec-24-paws-itively-festive-preview-opt.png",
+            "length": "0",
+            "type": "image/png"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2024/11/desktop-wallpaper-calendars-december-2024/",
+          "isoDate": "2024-11-30T09:00:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "hello@smashingmagazine.com (The Smashing Team)",
           "title": "Bundle Up And Save On Smashing Books And Workshops",
           "link": "https://smashingmagazine.com/2024/11/bundle-up-and-save/",
@@ -383,25 +402,6 @@
           "guid": "https://smashingmagazine.com/2024/11/ai-transformative-impact-web-design-supercharging-productivity/",
           "isoDate": "2024-11-19T09:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Atila Fassina)",
-          "title": "Open-Source Meets Design Tooling With Penpot",
-          "link": "https://smashingmagazine.com/2024/11/open-source-meets-design-tooling-penpot/",
-          "pubDate": "Thu, 14 Nov 2024 10:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Atila Fassina)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/open-source-meets-design-tooling-penpot/open-source-meets-design-tooling-penpot.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2024/11/open-source-meets-design-tooling-penpot/",
-          "isoDate": "2024-11-14T10:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -419,18 +419,32 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Fri, 29 Nov 2024 04:34:44 GMT",
+      "lastBuildDate": "Mon, 02 Dec 2024 04:34:30 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Manoela Ilic",
+          "title": "Collective #885",
+          "link": "https://tympanus.net/codrops/collective/collective-885/",
+          "pubDate": "Fri, 29 Nov 2024 12:00:00 +0000",
+          "dc:creator": "Manoela Ilic",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?post_type=collective&p=83022",
+          "isoDate": "2024-11-29T12:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Oguzhan Tufenk",
           "title": "Creating Dynamic Terrain Deformation with React Three Fiber",
           "link": "https://tympanus.net/codrops/2024/11/27/creating-dynamic-terrain-deformation-with-react-three-fiber/",
           "pubDate": "Wed, 27 Nov 2024 11:26:12 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/11/dynamic-terrain-deformation-1.mp4?x72048",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/11/dynamic-terrain-deformation-1.mp4?x51189",
             "length": "3557241",
             "type": "video/mp4"
           },
@@ -470,7 +484,7 @@
           "link": "https://tympanus.net/codrops/2024/11/26/case-study-nod-coding-bootcamp/",
           "pubDate": "Tue, 26 Nov 2024 09:49:56 +0000",
           "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/11/Mooboard.mp4?x72048",
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/11/Mooboard.mp4?x51189",
             "length": "3147833",
             "type": "video/mp4"
           },
@@ -504,20 +518,6 @@
             "wordpress-theme"
           ],
           "isoDate": "2024-11-25T09:57:03.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "Collective #883",
-          "link": "https://tympanus.net/codrops/collective/collective-883/",
-          "pubDate": "Fri, 22 Nov 2024 12:00:00 +0000",
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?post_type=collective&p=82870",
-          "isoDate": "2024-11-22T12:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -618,6 +618,148 @@
     "itnext": {
       "items": [
         {
+          "creator": "fatbobman ( 东坡肘子)",
+          "title": "Mastering the containerRelativeFrame Modifier in SwiftUI",
+          "link": "https://itnext.io/mastering-the-containerrelativeframe-modifier-in-swiftui-0461b2b9f691?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sun, 01 Dec 2024 09:41:32 GMT",
+          "dc:creator": "fatbobman ( 东坡肘子)",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/0461b2b9f691",
+          "categories": [
+            "ios-app-development",
+            "swift",
+            "mobile-app-development",
+            "swiftui",
+            "programming"
+          ],
+          "isoDate": "2024-12-01T09:41:32.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mayank Kumar",
+          "title": "Getting Started with Kubernetes: An absolute beginners guide",
+          "link": "https://itnext.io/getting-started-with-kubernetes-an-absolute-beginners-guide-f3950eb8b232?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 30 Nov 2024 21:46:04 GMT",
+          "dc:creator": "Mayank Kumar",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/f3950eb8b232",
+          "categories": [
+            "kubernetes",
+            "beginners-guide",
+            "containerization"
+          ],
+          "isoDate": "2024-11-30T21:46:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Abdulsamet İLERİ",
+          "title": "Tuning Go Application, which has GC issues with a few steps",
+          "link": "https://itnext.io/tuning-go-application-which-has-gc-issues-with-a-few-steps-4487624b313e?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 30 Nov 2024 10:49:45 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Abdulsamet İLERİ",
+          "guid": "https://medium.com/p/4487624b313e",
+          "categories": [
+            "golang",
+            "garbage-collection",
+            "go"
+          ],
+          "isoDate": "2024-11-30T10:49:45.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Raghav Joshi",
+          "title": "How I Clipped Widgets in Flutter — Flutter Stories",
+          "link": "https://itnext.io/how-i-clipped-widgets-in-flutter-flutter-stories-15229668b3ac?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 30 Nov 2024 10:48:40 GMT",
+          "dc:creator": "Raghav Joshi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/15229668b3ac",
+          "categories": [
+            "app-development",
+            "flutter",
+            "problem-solving",
+            "software-development",
+            "stories"
+          ],
+          "isoDate": "2024-11-30T10:48:40.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Stefan Weber",
+          "title": "Aim High in Digitalization by going Low",
+          "link": "https://itnext.io/aim-high-in-digitalization-by-going-low-360e727b170e?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 30 Nov 2024 10:47:39 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Stefan Weber",
+          "guid": "https://medium.com/p/360e727b170e",
+          "categories": [
+            "outsystems",
+            "digital-transformation",
+            "low-code",
+            "digital-optimization"
+          ],
+          "isoDate": "2024-11-30T10:47:39.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Alexey Boyko",
+          "title": "JavaScript. How to Make a Blazingly Fast Multithreaded Data Grid for 1,000,000 Rows. Part 1/2",
+          "link": "https://itnext.io/javascript-how-to-make-a-blazingly-fast-multithreaded-data-grid-for-1-000-000-rows-part-1-2-51c362505fe5?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 30 Nov 2024 10:46:08 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Alexey Boyko",
+          "guid": "https://medium.com/p/51c362505fe5",
+          "categories": [
+            "performance",
+            "web-development",
+            "html",
+            "javascript",
+            "programming"
+          ],
+          "isoDate": "2024-11-30T10:46:08.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "JavaScript UI Libraries — DHTMLX",
+          "title": "JavaScript News, Updates, and Tutorials: November 2024 Edition",
+          "link": "https://itnext.io/javascript-news-updates-and-tutorials-november-2024-edition-c32810188266?source=rss----5b301f10ddcd---4",
+          "pubDate": "Sat, 30 Nov 2024 10:44:59 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "JavaScript UI Libraries — DHTMLX",
+          "guid": "https://medium.com/p/c32810188266",
+          "categories": [
+            "angular",
+            "javascript",
+            "updates",
+            "web-development",
+            "news"
+          ],
+          "isoDate": "2024-11-30T10:44:59.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Vedran Balagovic",
           "title": "Flutter Riverpod 2.0: Modern State Management and Code Generation",
           "link": "https://itnext.io/flutter-riverpod-2-0-modern-state-management-and-code-generation-ac82bd6dfb6a?source=rss----5b301f10ddcd---4",
@@ -679,150 +821,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "fatbobman ( 东坡肘子)",
-          "title": "In-Depth Exploration of Overlay and Background Modifiers in SwiftUI",
-          "link": "https://itnext.io/in-depth-exploration-of-overlay-and-background-modifiers-in-swiftui-d8678a976392?source=rss----5b301f10ddcd---4",
-          "pubDate": "Thu, 28 Nov 2024 08:32:29 GMT",
-          "dc:creator": "fatbobman ( 东坡肘子)",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/d8678a976392",
-          "categories": [
-            "ios-app-development",
-            "programming",
-            "mobile-app-development",
-            "swift",
-            "swiftui"
-          ],
-          "isoDate": "2024-11-28T08:32:29.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Wasp",
-          "title": "Building React Forms with Ease Using React Hook Form, Zod and Shadcn",
-          "link": "https://itnext.io/building-react-forms-with-ease-using-react-hook-form-zod-and-shadcn-wasp-0ad31e9781b8?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 27 Nov 2024 21:43:29 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Wasp",
-          "guid": "https://medium.com/p/0ad31e9781b8",
-          "categories": [
-            "tutorial",
-            "webdev",
-            "javascript",
-            "react"
-          ],
-          "isoDate": "2024-11-27T21:43:29.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Gavin F.",
-          "title": "GitHub Actions — Versatile and Easy Serverless Pipeline",
-          "link": "https://itnext.io/github-actions-versatile-and-easy-serverless-pipeline-53d088a7a77b?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 27 Nov 2024 18:48:57 GMT",
-          "dc:creator": "Gavin F.",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/53d088a7a77b",
-          "categories": [
-            "software-development",
-            "cicd",
-            "programming",
-            "github",
-            "devops"
-          ],
-          "isoDate": "2024-11-27T18:48:57.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Meysam Karimi",
-          "title": "Unlocking the Power of CLIP AI in .NET: A Guide to Vision-Language Models",
-          "link": "https://itnext.io/unlocking-the-power-of-clip-ai-in-net-a-guide-to-vision-language-models-b07e75570a57?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 27 Nov 2024 18:47:21 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Meysam Karimi",
-          "guid": "https://medium.com/p/b07e75570a57",
-          "categories": [
-            "artificial-intelligence",
-            "dotnet",
-            "multimodal-ai",
-            "contrastive-learning",
-            "machine-learning"
-          ],
-          "isoDate": "2024-11-27T18:47:21.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Raghav Joshi",
-          "title": "Master Custom Painter in Flutter: Unlock the Power of Creative UI Design — Part 1",
-          "link": "https://itnext.io/master-custom-painter-in-flutter-unlock-the-power-of-creative-ui-design-part-1-872b1059af89?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 27 Nov 2024 09:50:09 GMT",
-          "dc:creator": "Raghav Joshi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/872b1059af89",
-          "categories": [
-            "app-development",
-            "painting",
-            "ui",
-            "software-development",
-            "flutter"
-          ],
-          "isoDate": "2024-11-27T09:50:09.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Tiago Temporin",
-          "title": "Unveiling the garbage collector in Go",
-          "link": "https://itnext.io/unveiling-the-garbage-collector-in-go-15e1df910851?source=rss----5b301f10ddcd---4",
-          "pubDate": "Wed, 27 Nov 2024 09:48:56 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Tiago Temporin",
-          "guid": "https://medium.com/p/15e1df910851",
-          "categories": [
-            "garbage-collection",
-            "go-internals",
-            "go"
-          ],
-          "isoDate": "2024-11-27T09:48:56.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Dobri Kostadinov",
-          "title": "Top 5 Problems Google Leaves to Third-Party Vendors for Android Developers",
-          "link": "https://itnext.io/top-5-problems-google-leaves-to-third-party-vendors-for-android-developers-3c11ddebb76b?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 26 Nov 2024 08:40:48 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Dobri Kostadinov",
-          "guid": "https://medium.com/p/3c11ddebb76b",
-          "categories": [
-            "android",
-            "kotlin",
-            "mobile-app-development",
-            "jetpack-compose",
-            "androiddev"
-          ],
-          "isoDate": "2024-11-26T08:40:48.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -839,184 +837,189 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Fri, 29 Nov 2024 04:58:08 GMT"
+      "lastBuildDate": "Mon, 02 Dec 2024 05:01:07 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "Vikas Singh",
-          "title": "10 Ways to Effectively Manage Spring Cloud Dependencies",
-          "link": "https://dev.to/brilworks/10-ways-to-effectively-manage-spring-cloud-dependencies-4kj",
-          "pubDate": "Fri, 29 Nov 2024 04:48:01 +0000",
-          "dc:creator": "Vikas Singh",
+          "creator": "Cesar Aguirre",
+          "title": "Learn To Talk to Non-Tech People in Your Team",
+          "link": "https://dev.to/canro91/learn-to-talk-to-non-tech-people-in-your-team-4oec",
+          "pubDate": "Mon, 02 Dec 2024 05:00:00 +0000",
+          "dc:creator": "Cesar Aguirre",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/brilworks/10-ways-to-effectively-manage-spring-cloud-dependencies-4kj",
+          "guid": "https://dev.to/canro91/learn-to-talk-to-non-tech-people-in-your-team-4oec",
           "categories": [
-            "cloud"
+            "career",
+            "careerdevelopment",
+            "softwareengineering",
+            "beginners"
           ],
-          "isoDate": "2024-11-29T04:48:01.000Z",
+          "isoDate": "2024-12-02T05:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Rigal Patel",
-          "title": "Mastering Advanced Error Handling in Express.js for Robust Node.js Applications",
-          "link": "https://dev.to/rigalpatel001/mastering-advanced-error-handling-in-expressjs-for-robust-nodejs-applications-3534",
-          "pubDate": "Fri, 29 Nov 2024 04:39:00 +0000",
-          "dc:creator": "Rigal Patel",
+          "creator": "Valeria",
+          "title": "Day 2: Terminal Gradients 🌈",
+          "link": "https://dev.to/valeriavg/day-2-terminal-gradients-53po",
+          "pubDate": "Mon, 02 Dec 2024 05:00:00 +0000",
+          "dc:creator": "Valeria",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/rigalpatel001/mastering-advanced-error-handling-in-expressjs-for-robust-nodejs-applications-3534",
-          "categories": [
-            "javascript",
-            "node",
-            "express",
-            "errors"
-          ],
-          "isoDate": "2024-11-29T04:39:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Dexter Hale",
-          "title": "Best Photo Editing Software for Stunning Website Images",
-          "link": "https://dev.to/dexterhale/best-photo-editing-software-for-stunning-website-images-34j3",
-          "pubDate": "Fri, 29 Nov 2024 04:35:55 +0000",
-          "dc:creator": "Dexter Hale",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/dexterhale/best-photo-editing-software-for-stunning-website-images-34j3",
+          "guid": "https://dev.to/valeriavg/day-2-terminal-gradients-53po",
           "categories": [
             "webdev",
+            "deno",
+            "webadvent",
+            "beginners"
+          ],
+          "isoDate": "2024-12-02T05:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Soft Heart Engineer",
+          "title": "Mastering Productivity: 10 Effective Ways to Be Productive at the Workplace",
+          "link": "https://dev.to/softheartengineer/mastering-productivity-10-effective-ways-to-be-productive-at-the-workplace-535m",
+          "pubDate": "Mon, 02 Dec 2024 04:42:46 +0000",
+          "dc:creator": "Soft Heart Engineer",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/softheartengineer/mastering-productivity-10-effective-ways-to-be-productive-at-the-workplace-535m",
+          "categories": [
             "productivity",
-            "beginners",
-            "learning"
+            "workplace",
+            "career",
+            "webdev"
           ],
-          "isoDate": "2024-11-29T04:35:55.000Z",
+          "isoDate": "2024-12-02T04:42:46.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Jagroop Singh",
-          "title": "Let's Learn Generators in JavaScript 🚀",
-          "link": "https://dev.to/jagroop2001/lets-learn-generators-in-javascript-4566",
-          "pubDate": "Fri, 29 Nov 2024 04:31:55 +0000",
-          "dc:creator": "Jagroop Singh",
+          "creator": "Growkon",
+          "title": "Benefits of AI in Enhancing Student Creativity",
+          "link": "https://dev.to/growkon21/benefits-of-ai-in-enhancing-student-creativity-3mjp",
+          "pubDate": "Mon, 02 Dec 2024 04:35:45 +0000",
+          "dc:creator": "Growkon",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/jagroop2001/lets-learn-generators-in-javascript-4566",
+          "guid": "https://dev.to/growkon21/benefits-of-ai-in-enhancing-student-creativity-3mjp",
+          "categories": [
+            "news"
+          ],
+          "isoDate": "2024-12-02T04:35:45.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Vipul Kumar",
+          "title": "Understanding Network Protocols",
+          "link": "https://dev.to/vipulkumarsviit/understanding-network-protocols-4okf",
+          "pubDate": "Mon, 02 Dec 2024 04:33:39 +0000",
+          "dc:creator": "Vipul Kumar",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/vipulkumarsviit/understanding-network-protocols-4okf",
+          "categories": [
+            "knowledgebytes",
+            "networking",
+            "internet",
+            "networkprotocols"
+          ],
+          "isoDate": "2024-12-02T04:33:39.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Kasun Perera",
+          "title": "How to connect an EC2 windows agent to the Jenkins master that is running on EKS cluster",
+          "link": "https://dev.to/kasun_perera/how-to-connect-an-ec2-windows-agent-to-the-jenkins-master-that-is-running-on-eks-cluster-2d47",
+          "pubDate": "Mon, 02 Dec 2024 04:28:15 +0000",
+          "dc:creator": "Kasun Perera",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/kasun_perera/how-to-connect-an-ec2-windows-agent-to-the-jenkins-master-that-is-running-on-eks-cluster-2d47",
+          "isoDate": "2024-12-02T04:28:15.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "ccsunny",
+          "title": "Introducing Baseline: a unified view of stable web features",
+          "link": "https://dev.to/ccsunnydev/introducing-baseline-a-unified-view-of-stable-web-features-536d",
+          "pubDate": "Mon, 02 Dec 2024 04:27:28 +0000",
+          "dc:creator": "ccsunny",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/ccsunnydev/introducing-baseline-a-unified-view-of-stable-web-features-536d",
+          "isoDate": "2024-12-02T04:27:28.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "YEJIN LEE",
+          "title": "Multi Threading",
+          "link": "https://dev.to/316nancy/multi-threading-3733",
+          "pubDate": "Mon, 02 Dec 2024 04:22:19 +0000",
+          "dc:creator": "YEJIN LEE",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/316nancy/multi-threading-3733",
+          "categories": [
+            "programming",
+            "beginners"
+          ],
+          "isoDate": "2024-12-02T04:22:19.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ugochi Ukpai",
+          "title": "Open-source No-code Web Builder",
+          "link": "https://dev.to/ugochi_ukpai/open-source-no-code-web-builder-48k0",
+          "pubDate": "Mon, 02 Dec 2024 04:22:03 +0000",
+          "dc:creator": "Ugochi Ukpai",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/ugochi_ukpai/open-source-no-code-web-builder-48k0",
           "categories": [
             "webdev",
+            "nocode",
             "javascript",
-            "programming",
-            "tutorial"
+            "lowcode"
           ],
-          "isoDate": "2024-11-29T04:31:55.000Z",
+          "isoDate": "2024-12-02T04:22:03.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Harshit Singh",
-          "title": "Reflection API in Java: The Superpower You Didn’t Know You Had",
-          "link": "https://dev.to/wittedtech-by-harshit/reflection-api-in-java-the-superpower-you-didnt-know-you-had-4n3b",
-          "pubDate": "Fri, 29 Nov 2024 04:30:00 +0000",
-          "dc:creator": "Harshit Singh",
+          "creator": "Jatin Mehrotra",
+          "title": "Run Kubernetes Like a Pro—Without the Expertise! Introducing EKS Auto Mode",
+          "link": "https://dev.to/aws-builders/run-kubernetes-like-a-pro-without-the-expertise-introducing-eks-auto-mode-5edf",
+          "pubDate": "Mon, 02 Dec 2024 04:17:24 +0000",
+          "dc:creator": "Jatin Mehrotra",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/wittedtech-by-harshit/reflection-api-in-java-the-superpower-you-didnt-know-you-had-4n3b",
+          "guid": "https://dev.to/aws-builders/run-kubernetes-like-a-pro-without-the-expertise-introducing-eks-auto-mode-5edf",
           "categories": [
-            "wittedtech",
-            "webdev",
-            "java",
-            "reflection"
+            "aws",
+            "reinvent2024",
+            "eks",
+            "kubernetes"
           ],
-          "isoDate": "2024-11-29T04:30:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Burhanuddin S. Tinwala",
-          "title": "Mastering Closures in JavaScript: A Practical Real-World Example 💡",
-          "link": "https://dev.to/bst53/mastering-closures-in-javascript-a-practical-real-world-example-o07",
-          "pubDate": "Fri, 29 Nov 2024 04:30:00 +0000",
-          "dc:creator": "Burhanuddin S. Tinwala",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/bst53/mastering-closures-in-javascript-a-practical-real-world-example-o07",
-          "categories": [
-            "webdev",
-            "javascript",
-            "programming",
-            "tutorial"
-          ],
-          "isoDate": "2024-11-29T04:30:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Bhuwan chettri",
-          "title": "Coding is like planting seeds — each line of code is a step toward something that grows into greatness. 🌳💾",
-          "link": "https://dev.to/bhuwan71/coding-is-like-planting-seeds-each-line-of-code-is-a-step-toward-something-that-grows-into-3e85",
-          "pubDate": "Fri, 29 Nov 2024 04:29:23 +0000",
-          "dc:creator": "Bhuwan chettri",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/bhuwan71/coding-is-like-planting-seeds-each-line-of-code-is-a-step-toward-something-that-grows-into-3e85",
-          "categories": [
-            "webdev",
-            "programming",
-            "productivity"
-          ],
-          "isoDate": "2024-11-29T04:29:23.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Fefe Alves",
-          "title": "Why should data analysts and data scientists study Software Engineering?",
-          "link": "https://dev.to/fefealves/why-should-data-analysts-and-data-scientists-study-software-engineering-235l",
-          "pubDate": "Fri, 29 Nov 2024 04:24:22 +0000",
-          "dc:creator": "Fefe Alves",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/fefealves/why-should-data-analysts-and-data-scientists-study-software-engineering-235l",
-          "isoDate": "2024-11-29T04:24:22.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Harshil Patel",
-          "title": "My Journey Contributing to Node.js Core: The Final Chapter (3/3)",
-          "link": "https://dev.to/harshil_patel/my-journey-contributing-to-nodejs-core-the-final-chapter-33-14",
-          "pubDate": "Fri, 29 Nov 2024 04:06:49 +0000",
-          "dc:creator": "Harshil Patel",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/harshil_patel/my-journey-contributing-to-nodejs-core-the-final-chapter-33-14",
-          "isoDate": "2024-11-29T04:06:49.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Karina Pereira",
-          "title": "Regex in VSCode: My favorite hacks",
-          "link": "https://dev.to/allmightenglishtech/regex-in-vscode-my-favorite-hacks-2ea6",
-          "pubDate": "Fri, 29 Nov 2024 04:00:06 +0000",
-          "dc:creator": "Karina Pereira",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/allmightenglishtech/regex-in-vscode-my-favorite-hacks-2ea6",
-          "isoDate": "2024-11-29T04:00:06.000Z",
+          "isoDate": "2024-12-02T04:17:24.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1107,6 +1110,18 @@
     "Julia Evans": {
       "items": [
         {
+          "title": "Why pipes sometimes get \"stuck\": buffering",
+          "link": "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/",
+          "pubDate": "2024-11-29T08:23:31.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "id": "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/",
+          "isoDate": "2024-11-29T08:23:31.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "Importing a frontend Javascript library without a build system",
           "link": "https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/",
           "pubDate": "2024-11-18T09:35:42.000Z",
@@ -1153,27 +1168,43 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "Some notes on upgrading Hugo",
-          "link": "https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/",
-          "pubDate": "2024-10-07T09:19:57.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "id": "https://jvns.ca/blog/2024/10/07/some-notes-on-upgrading-hugo/",
-          "isoDate": "2024-10-07T09:19:57.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "link": "http://jvns.ca/atom.xml",
       "feedUrl": "http://jvns.ca/atom.xml",
       "title": "Julia Evans",
-      "lastBuildDate": "2024-11-27T13:16:13+00:00"
+      "lastBuildDate": "2024-11-29T08:23:31+00:00"
     },
     "KodeKloud": {
       "items": [
+        {
+          "creator": "Nimesha Jinarajadasa",
+          "title": "CKS, CKA Updates, KCSA Security Essentials & Cyber Monday Savings",
+          "link": "https://kodekloud.com/blog/cks-cka-kcsa-security-cyber-monday-savings/",
+          "pubDate": "Mon, 02 Dec 2024 03:59:52 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Nimesha Jinarajadasa",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "67485557c5436300018f96cb",
+          "categories": [
+            "CKS",
+            "CKA",
+            "KCSA",
+            "Cyber Monday",
+            "Kubernetes security",
+            "DevOps Certifications",
+            "Cyber Monday Deals",
+            "Learn DevOps",
+            "Cloud security",
+            "Kubernetes architecture",
+            "Certified Kubernetes Administrator Course",
+            "Certified Kubernetes Security Specialist (CKS)"
+          ],
+          "isoDate": "2024-12-02T03:59:52.000Z",
+          "summary": ""
+        },
         {
           "creator": "Nimesha Jinarajadasa",
           "title": "DevOps vs. DevSecOps: A Beginner-Friendly Guide",
@@ -1278,20 +1309,6 @@
           ],
           "isoDate": "2024-10-04T16:58:31.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Ejiofor Chinonso",
-          "title": "Top 10 Cloud Computing Skills You Need in 2024",
-          "link": "https://kodekloud.com/blog/10-cloud-computing-skills-to-have/",
-          "pubDate": "Sat, 28 Sep 2024 07:00:52 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Ejiofor Chinonso",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "668d12b9bfcdfe0001bdbd80",
-          "isoDate": "2024-09-28T07:00:52.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://kodekloud.com/blog/rss/",
@@ -1307,7 +1324,7 @@
       "description": "Explore our latest insights on DevOps. Get practical tips on tools like Azure, Docker, and Kubernetes. Straightforward advice for your DevOps. Join us and make your DevOps journey better.",
       "generator": "Ghost 5.101",
       "link": "https://kodekloud.com/blog/",
-      "lastBuildDate": "Fri, 29 Nov 2024 04:36:55 GMT",
+      "lastBuildDate": "Mon, 02 Dec 2024 04:00:49 GMT",
       "ttl": "60"
     },
     "Matthew Rocklin": {
