@@ -99,10 +99,31 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Thu, 05 Dec 2024 03:01:51 GMT"
+      "lastBuildDate": "Fri, 06 Dec 2024 03:01:49 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
+        {
+          "creator": "Greg Larkin",
+          "title": "How to generate unit tests with GitHub Copilot: Tips and examples",
+          "link": "https://github.blog/ai-and-ml/how-to-generate-unit-tests-with-github-copilot-tips-and-examples/",
+          "pubDate": "Thu, 05 Dec 2024 17:00:37 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Greg Larkin",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=81531",
+          "categories": [
+            "AI & ML",
+            "GitHub Copilot",
+            "test driven development",
+            "testing",
+            "unit tests"
+          ],
+          "isoDate": "2024-12-05T17:00:37.000Z",
+          "summary": ""
+        },
         {
           "creator": "Ed Summers",
           "title": "Congratulations to the winners of the 2024 Gaady Awards",
@@ -182,27 +203,6 @@
           ],
           "isoDate": "2024-11-20T17:00:51.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Martin Woodward",
-          "title": "Announcing GitHub Secure Open Source Fund: Help secure the open source ecosystem for everyone",
-          "link": "https://github.blog/news-insights/company-news/announcing-github-secure-open-source-fund/",
-          "pubDate": "Tue, 19 Nov 2024 17:00:35 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Martin Woodward",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=81135",
-          "categories": [
-            "Company news",
-            "News & insights",
-            "GitHub Fund",
-            "open source",
-            "Security"
-          ],
-          "isoDate": "2024-11-19T17:00:35.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://github.blog/feed/",
@@ -221,7 +221,7 @@
       "generator": "https://wordpress.org/?v=6.7.1",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Wed, 04 Dec 2024 21:01:59 +0000"
+      "lastBuildDate": "Thu, 05 Dec 2024 17:28:23 +0000"
     },
     "GitHub Blog Atom": {
       "items": [
@@ -422,11 +422,35 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2024, Smashing Media AG",
-      "lastBuildDate": "Thu, 05 Dec 2024 04:35:03 GMT",
+      "lastBuildDate": "Fri, 06 Dec 2024 04:35:26 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Yannis Yannakopoulos",
+          "title": "Case Study: Isabel Moranta Portfolio — 2024",
+          "link": "https://tympanus.net/codrops/2024/12/05/case-study-isabel-moranta-portfolio-2024/",
+          "pubDate": "Thu, 05 Dec 2024 08:52:20 +0000",
+          "enclosure": {
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2024/11/home-opt.mp4?x13747",
+            "length": "9775957",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Yannis Yannakopoulos",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=83094",
+          "categories": [
+            "Articles",
+            "Case Studies",
+            "webgl"
+          ],
+          "isoDate": "2024-12-05T08:52:20.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "advertiser",
           "title": "The 5 Best Website Builders for Small Businesses in 2025",
@@ -538,7 +562,7 @@
       "generator": "https://wordpress.org/?v=6.7.1",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Wed, 04 Dec 2024 10:36:18 +0000"
+      "lastBuildDate": "Thu, 05 Dec 2024 08:58:54 +0000"
     },
     "DZone": {
       "items": [
@@ -623,6 +647,90 @@
     },
     "itnext": {
       "items": [
+        {
+          "creator": "Tiago Temporin",
+          "title": "Mastering memory management in Go: Avoiding slice-related leaks",
+          "link": "https://itnext.io/mastering-memory-management-in-go-avoiding-slice-related-leaks-7d5e97ee48d4?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 05 Dec 2024 17:46:10 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Tiago Temporin",
+          "guid": "https://medium.com/p/7d5e97ee48d4",
+          "categories": [
+            "garbage-collector",
+            "golang",
+            "software-engineering",
+            "go-slices",
+            "memory-leak"
+          ],
+          "isoDate": "2024-12-05T17:46:10.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ivan Franchin",
+          "title": "Building a Web Chat with Social Login using Spring Boot: Introduction",
+          "link": "https://itnext.io/building-a-web-chat-with-social-login-using-spring-boot-introduction-644702e6be8e?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 05 Dec 2024 13:31:58 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Ivan Franchin",
+          "guid": "https://medium.com/p/644702e6be8e",
+          "categories": [
+            "websocket",
+            "technology",
+            "webchat",
+            "spring-boot",
+            "software-development"
+          ],
+          "isoDate": "2024-12-05T13:31:58.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "SVAR UI Components",
+          "title": "How We Migrated SVAR UI Components to Svelte 5",
+          "link": "https://itnext.io/how-we-migrated-svar-ui-components-to-svelte-5-a8392a25ca47?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 05 Dec 2024 10:47:43 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "SVAR UI Components",
+          "guid": "https://medium.com/p/a8392a25ca47",
+          "categories": [
+            "svelte-5",
+            "ui-components-library",
+            "frontend-development",
+            "svelte",
+            "web-development"
+          ],
+          "isoDate": "2024-12-05T10:47:43.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "fatbobman ( 东坡肘子)",
+          "title": "The Evolution of SwiftUI Scroll Control APIs and Highlights from WWDC 2024",
+          "link": "https://itnext.io/the-evolution-of-swiftui-scroll-control-apis-and-highlights-from-wwdc-2024-1796f5b5fed7?source=rss----5b301f10ddcd---4",
+          "pubDate": "Thu, 05 Dec 2024 10:18:08 GMT",
+          "dc:creator": "fatbobman ( 东坡肘子)",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://medium.com/p/1796f5b5fed7",
+          "categories": [
+            "swift",
+            "ios-app-development",
+            "swiftui",
+            "programming",
+            "mobile-app-development"
+          ],
+          "isoDate": "2024-12-05T10:18:08.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Benjamin Cane",
           "title": "Monolith to Micro-services: Avoid Database Sprawl",
@@ -745,89 +853,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "fatbobman ( 东坡肘子)",
-          "title": "What Does spacing = nil Mean in SwiftUI?",
-          "link": "https://itnext.io/what-does-spacing-nil-mean-in-swiftui-9419478057e7?source=rss----5b301f10ddcd---4",
-          "pubDate": "Tue, 03 Dec 2024 08:10:48 GMT",
-          "dc:creator": "fatbobman ( 东坡肘子)",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/9419478057e7",
-          "categories": [
-            "programming",
-            "ios-app-development",
-            "swift",
-            "mobile-app-development",
-            "swiftui"
-          ],
-          "isoDate": "2024-12-03T08:10:48.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Lucas Soares",
-          "title": "OS SEC: Series 3 — Injection",
-          "link": "https://itnext.io/os-sec-series-3-injection-ddee3f00f9ff?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 02 Dec 2024 20:40:49 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Lucas Soares",
-          "guid": "https://medium.com/p/ddee3f00f9ff",
-          "categories": [
-            "outsystems",
-            "hacking",
-            "low-code",
-            "outsystems-development"
-          ],
-          "isoDate": "2024-12-02T20:40:49.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Vedran Balagovic",
-          "title": "Complete Guide to Flutter macOS Distribution Outside the App Store",
-          "link": "https://itnext.io/complete-guide-to-flutter-macos-distribution-outside-the-app-store-e382c6d7db47?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 02 Dec 2024 14:09:07 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Vedran Balagovic",
-          "guid": "https://medium.com/p/e382c6d7db47",
-          "categories": [
-            "flutter-app-development",
-            "distribution",
-            "macos",
-            "flutter-mac",
-            "flutter"
-          ],
-          "isoDate": "2024-12-02T14:09:07.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Saeed Zarinfam",
-          "title": "Deep dive into the Structured Logging in Spring Boot 3.4",
-          "link": "https://itnext.io/deep-dive-into-the-structured-logging-in-spring-boot-3-4-89b2a5b1b75f?source=rss----5b301f10ddcd---4",
-          "pubDate": "Mon, 02 Dec 2024 08:01:53 GMT",
-          "dc:creator": "Saeed Zarinfam",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://medium.com/p/89b2a5b1b75f",
-          "categories": [
-            "logging",
-            "structured-logging",
-            "spring-boot",
-            "observability",
-            "monitoring"
-          ],
-          "isoDate": "2024-12-02T08:01:53.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://itnext.io/feed",
@@ -844,182 +869,199 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Thu, 05 Dec 2024 04:58:47 GMT"
+      "lastBuildDate": "Fri, 06 Dec 2024 05:02:21 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "enampilar inovasi",
-          "title": "How to Address Industrial Wastewater Pollution",
-          "link": "https://dev.to/enam_pilar_inovasi/how-to-address-industrial-wastewater-pollution-222i",
-          "pubDate": "Thu, 05 Dec 2024 04:42:20 +0000",
-          "dc:creator": "enampilar inovasi",
+          "creator": "Trix Cyrus",
+          "title": "Part 2: Building Your Own AI - Setting Up the Environment for AI/ML Development",
+          "link": "https://dev.to/trixsec/part-1-building-your-own-ai-setting-up-the-environment-for-aiml-development-315g",
+          "pubDate": "Fri, 06 Dec 2024 04:36:14 +0000",
+          "dc:creator": "Trix Cyrus",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/enam_pilar_inovasi/how-to-address-industrial-wastewater-pollution-222i",
+          "guid": "https://dev.to/trixsec/part-1-building-your-own-ai-setting-up-the-environment-for-aiml-development-315g",
           "categories": [
-            "pullution",
-            "wastewater",
-            "industrial",
-            "howto"
+            "programming",
+            "python",
+            "ai",
+            "machinelearning"
           ],
-          "isoDate": "2024-12-05T04:42:20.000Z",
+          "isoDate": "2024-12-06T04:36:14.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Vikas Singh",
-          "title": "How to Update Java JDK [A Simple Guide]",
-          "link": "https://dev.to/brilworks/how-to-update-java-jdk-a-simple-guide-194m",
-          "pubDate": "Thu, 05 Dec 2024 04:37:02 +0000",
-          "dc:creator": "Vikas Singh",
+          "creator": "Judy",
+          "title": "SQL: Query the records closest to the specified time each day #eg86",
+          "link": "https://dev.to/esproc_spl/sql-query-the-records-closest-to-the-specified-time-each-day-eg86-3k52",
+          "pubDate": "Fri, 06 Dec 2024 03:54:17 +0000",
+          "dc:creator": "Judy",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/brilworks/how-to-update-java-jdk-a-simple-guide-194m",
+          "guid": "https://dev.to/esproc_spl/sql-query-the-records-closest-to-the-specified-time-each-day-eg86-3k52",
           "categories": [
-            "java",
+            "programming",
+            "beginners",
+            "opensource",
+            "community"
+          ],
+          "isoDate": "2024-12-06T03:54:17.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "arinak1017",
+          "title": "GCC: Automatic Function Multi-Versioning Pt.1",
+          "link": "https://dev.to/arilloid/gcc-automatic-function-multi-versioning-pt1-59c5",
+          "pubDate": "Fri, 06 Dec 2024 03:22:53 +0000",
+          "dc:creator": "arinak1017",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/arilloid/gcc-automatic-function-multi-versioning-pt1-59c5",
+          "categories": [
+            "gcc",
+            "compiling",
+            "afmv"
+          ],
+          "isoDate": "2024-12-06T03:22:53.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Kaja Uvais",
+          "title": "100+ Frontend Projects to level up your Skills",
+          "link": "https://dev.to/kaja_uvais_a8691e947dd399/100-frontend-projects-to-level-up-your-skills-gkc",
+          "pubDate": "Fri, 06 Dec 2024 03:09:18 +0000",
+          "dc:creator": "Kaja Uvais",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/kaja_uvais_a8691e947dd399/100-frontend-projects-to-level-up-your-skills-gkc",
+          "categories": [
+            "webdev",
+            "html",
+            "css",
+            "javascript"
+          ],
+          "isoDate": "2024-12-06T03:09:18.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Gliimly",
+          "title": "Web requests versus functions",
+          "link": "https://dev.to/gliimly/web-requests-versus-functions-1db2",
+          "pubDate": "Fri, 06 Dec 2024 03:09:02 +0000",
+          "dc:creator": "Gliimly",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/gliimly/web-requests-versus-functions-1db2",
+          "categories": [
+            "gliimly",
+            "webdev",
+            "programming",
+            "architecture"
+          ],
+          "isoDate": "2024-12-06T03:09:02.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Robert Mion",
+          "title": "Ceres Search",
+          "link": "https://dev.to/rmion/ceres-search-3iom",
+          "pubDate": "Fri, 06 Dec 2024 03:06:18 +0000",
+          "dc:creator": "Robert Mion",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/rmion/ceres-search-3iom",
+          "categories": [
+            "adventofcode",
+            "algorithms",
+            "javascript",
             "programming"
           ],
-          "isoDate": "2024-12-05T04:37:02.000Z",
+          "isoDate": "2024-12-06T03:06:18.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "No Bullshit Coder",
-          "title": "Comprehensive Comparison: School Management Software - MeraSkool vs Others",
-          "link": "https://dev.to/nobullshit-coder/comprehensive-comparison-school-management-software-meraskool-vs-others-4e7e",
-          "pubDate": "Thu, 05 Dec 2024 04:21:17 +0000",
-          "dc:creator": "No Bullshit Coder",
+          "creator": "Arjun Das",
+          "title": "How to Reset Password for an Account in Windows 11?",
+          "link": "https://dev.to/win11verse/how-to-reset-password-for-an-account-in-windows-11-5a24",
+          "pubDate": "Fri, 06 Dec 2024 02:45:00 +0000",
+          "dc:creator": "Arjun Das",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/nobullshit-coder/comprehensive-comparison-school-management-software-meraskool-vs-others-4e7e",
-          "isoDate": "2024-12-05T04:21:17.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Hrish B",
-          "title": "A Beginner's Guide To Service Discovery in Prometheus",
-          "link": "https://dev.to/incidenthub/a-beginners-guide-to-service-discovery-in-prometheus-3366",
-          "pubDate": "Thu, 05 Dec 2024 04:17:15 +0000",
-          "dc:creator": "Hrish B",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/incidenthub/a-beginners-guide-to-service-discovery-in-prometheus-3366",
+          "guid": "https://dev.to/win11verse/how-to-reset-password-for-an-account-in-windows-11-5a24",
           "categories": [
-            "monitoring",
-            "observability",
-            "devops",
-            "prometheus"
+            "usermanagement",
+            "a",
+            "howto",
+            "tips"
           ],
-          "isoDate": "2024-12-05T04:17:15.000Z",
+          "isoDate": "2024-12-06T02:45:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Haroldo Abreu",
-          "title": "[Docker] instalando docker no debian",
-          "link": "https://dev.to/haroldoabreualves/docker-instalando-docker-no-debian-5622",
-          "pubDate": "Thu, 05 Dec 2024 04:09:30 +0000",
-          "dc:creator": "Haroldo Abreu",
+          "creator": "Peter Teoh",
+          "title": "New ChatGPT creation: wavy lines.",
+          "link": "https://dev.to/tthtlc/new-chatgpt-creation-wavy-lines-1ai8",
+          "pubDate": "Fri, 06 Dec 2024 02:41:35 +0000",
+          "dc:creator": "Peter Teoh",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/haroldoabreualves/docker-instalando-docker-no-debian-5622",
-          "isoDate": "2024-12-05T04:09:30.000Z",
+          "guid": "https://dev.to/tthtlc/new-chatgpt-creation-wavy-lines-1ai8",
+          "isoDate": "2024-12-06T02:41:35.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Omar Faruque Shamim",
-          "title": "Single Responsibility Principle (SRP)",
-          "link": "https://dev.to/mofshamim/single-responsibility-principle-srp-1icb",
-          "pubDate": "Thu, 05 Dec 2024 04:09:18 +0000",
-          "dc:creator": "Omar Faruque Shamim",
+          "creator": "Khan Rabiul ",
+          "title": "Index Routes",
+          "link": "https://dev.to/khanrabiul/index-routes-49n2",
+          "pubDate": "Fri, 06 Dec 2024 02:40:39 +0000",
+          "dc:creator": "Khan Rabiul ",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/mofshamim/single-responsibility-principle-srp-1icb",
+          "guid": "https://dev.to/khanrabiul/index-routes-49n2",
           "categories": [
-            "solidprinciples"
+            "reactrouter",
+            "indexroutes",
+            "react",
+            "reactrouting"
           ],
-          "isoDate": "2024-12-05T04:09:18.000Z",
+          "isoDate": "2024-12-06T02:40:39.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Jamarr Glover",
-          "title": "And so it begins...again",
-          "link": "https://dev.to/yuguru/and-so-it-beginsagain-4i5n",
-          "pubDate": "Thu, 05 Dec 2024 04:05:25 +0000",
-          "dc:creator": "Jamarr Glover",
+          "creator": "Abhishek Deshpande",
+          "title": "Beginner's Guide to Version Control Systems (VCS)",
+          "link": "https://dev.to/fitehal/beginners-guide-to-version-control-systems-vcs-1mjk",
+          "pubDate": "Fri, 06 Dec 2024 02:39:14 +0000",
+          "dc:creator": "Abhishek Deshpande",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/yuguru/and-so-it-beginsagain-4i5n",
+          "guid": "https://dev.to/fitehal/beginners-guide-to-version-control-systems-vcs-1mjk",
           "categories": [
-            "newbeginnings",
-            "unity3d",
-            "beginners"
+            "webdev",
+            "beginners",
+            "programming",
+            "tutorial"
           ],
-          "isoDate": "2024-12-05T04:05:25.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Haroldo Abreu",
-          "title": "[Estudos] update/upgrade 2025",
-          "link": "https://dev.to/haroldoabreualves/estudos-updateupgrade-2025-3fkn",
-          "pubDate": "Thu, 05 Dec 2024 04:02:00 +0000",
-          "dc:creator": "Haroldo Abreu",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/haroldoabreualves/estudos-updateupgrade-2025-3fkn",
-          "isoDate": "2024-12-05T04:02:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Abhinav",
-          "title": "RxJS vs. JavaScript: A Comparative Guide to Reactive Programming 🚀✨",
-          "link": "https://dev.to/abhinav707/rxjs-vs-javascript-a-comparative-guide-to-reactive-programming-4bi8",
-          "pubDate": "Thu, 05 Dec 2024 03:40:55 +0000",
-          "dc:creator": "Abhinav",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/abhinav707/rxjs-vs-javascript-a-comparative-guide-to-reactive-programming-4bi8",
-          "categories": [
-            "javascript",
-            "rxjs",
-            "learning",
-            "discuss"
-          ],
-          "isoDate": "2024-12-05T03:40:55.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "AmalaReegan",
-          "title": "Day 1",
-          "link": "https://dev.to/reegan/day-1-12eo",
-          "pubDate": "Thu, 05 Dec 2024 03:39:39 +0000",
-          "dc:creator": "AmalaReegan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/reegan/day-1-12eo",
-          "categories": [
-            "payilagam",
-            "java",
-            "community",
-            "support"
-          ],
-          "isoDate": "2024-12-05T03:39:39.000Z",
+          "isoDate": "2024-12-06T02:39:14.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -1105,7 +1147,7 @@
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog.atom",
       "title": "The DigitalOcean Blog",
-      "lastBuildDate": "2024-12-02T23:55:16.997Z"
+      "lastBuildDate": "2024-12-05T18:14:00.361Z"
     },
     "Julia Evans": {
       "items": [
@@ -1322,9 +1364,9 @@
       },
       "title": "DevOps Blog",
       "description": "Explore our latest insights on DevOps. Get practical tips on tools like Azure, Docker, and Kubernetes. Straightforward advice for your DevOps. Join us and make your DevOps journey better.",
-      "generator": "Ghost 5.101",
+      "generator": "Ghost 5.103",
       "link": "https://kodekloud.com/blog/",
-      "lastBuildDate": "Wed, 04 Dec 2024 11:53:25 GMT",
+      "lastBuildDate": "Thu, 05 Dec 2024 12:47:23 GMT",
       "ttl": "60"
     },
     "Matthew Rocklin": {
