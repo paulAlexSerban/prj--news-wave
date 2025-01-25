@@ -5,13 +5,14 @@
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\"",
-        "fetch:tech": "node source/fetch.js tech",
-        "fetch:web-dev": "node source/fetch.js web-dev",
-        "fetch:front-end": "node source/fetch.js front-end",
-        "fetch:javascript": "node source/fetch.js javascript",
-        "fetch:programming": "node source/fetch.js programming",
+        "fetch:tech": "node src/phase-fetch.js tech",
+        "fetch:web-dev": "node src/phase-fetch.js web-dev",
+        "fetch:front-end": "node src/phase-fetch.js front-end",
+        "fetch:javascript": "node src/phase-fetch.js javascript",
+        "fetch:programming": "node src/phase-fetch.js programming",
+        "fetch:system-design": "node src/phase-fetch.js system-design",
         "fetch": "npm-run-all --parallel fetch:*",
-        "build": "node source/build.js",
+        "build": "node src/phase-build.js",
         "serve": "serve dist"
     },
     "repository": {
