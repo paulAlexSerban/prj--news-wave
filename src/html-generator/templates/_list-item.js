@@ -16,7 +16,7 @@ const itemMarkup = (item) => {
   return `
   <li class="list-group-item d-flex justify-content-between">
       <a class="link-secondary" rel="noopener" target="_blank" href="${link}" title="${title}">
-        ${isToday && `[ TODAY ] `}${title}
+        ${isToday ? `[ TODAY ] ` : ''}${title}
       </a>
       <time datetime="${publishDate}" class="ps-2 small">${day}-${month}-${year}</time>
    </li>
