@@ -4,6 +4,25 @@
     "CSS Tricks": {
       "items": [
         {
+          "creator": "Geoff Graham",
+          "title": "Scroll Driven Animations Notebook",
+          "link": "https://css-tricks.com/scroll-driven-animations-notebook/",
+          "pubDate": "Thu, 13 Feb 2025 13:24:29 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Geoff Graham",
+          "comments": "https://css-tricks.com/scroll-driven-animations-notebook/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://css-tricks.com/?p=384634",
+          "categories": [
+            "Links",
+            "Scroll Driven Animation"
+          ],
+          "isoDate": "2025-02-13T13:24:29.000Z",
+          "summary": ""
+        },
+        {
           "creator": "Juan Diego Rodríguez",
           "title": "Typecasting and Viewport Transitions in CSS With tan(atan2())",
           "link": "https://css-tricks.com/typecasting-and-viewport-transitions-in-css-with-tanatan2/",
@@ -291,26 +310,6 @@
           ],
           "isoDate": "2025-01-21T14:21:32.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Temani Afif",
-          "title": "Fancy Menu Navigation Using Anchor Positioning",
-          "link": "https://css-tricks.com/fancy-menu-navigation-using-anchor-positioning/",
-          "pubDate": "Fri, 17 Jan 2025 14:57:39 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Temani Afif",
-          "comments": "https://css-tricks.com/fancy-menu-navigation-using-anchor-positioning/#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://css-tricks.com/?p=383518",
-          "categories": [
-            "Articles",
-            "anchor positioning",
-            "Links & URLs"
-          ],
-          "isoDate": "2025-01-17T14:57:39.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://css-tricks.com/feed/",
@@ -329,10 +328,34 @@
       "generator": "https://wordpress.org/?v=6.7.2",
       "link": "https://css-tricks.com",
       "language": "en-US",
-      "lastBuildDate": "Mon, 10 Feb 2025 17:00:41 +0000"
+      "lastBuildDate": "Thu, 13 Feb 2025 17:04:20 +0000"
     },
     "CSS In Real Life": {
       "items": [
+        {
+          "title": "Debating the Merits of LLMs",
+          "link": "https://css-irl.info/debating-the-merits-of-llms/",
+          "pubDate": "2025-02-13T00:00:00.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "id": "https://css-irl.info/debating-the-merits-of-llms/",
+          "isoDate": "2025-02-13T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "What I learned from migrating a Vue project from Vuex to Pinia",
+          "link": "https://css-irl.info/what-i-learned-from-migrating-a-vuex-app-to-pinia/",
+          "pubDate": "2025-02-06T00:00:00.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "id": "https://css-irl.info/what-i-learned-from-migrating-a-vuex-app-to-pinia/",
+          "isoDate": "2025-02-06T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "Creating Static SVGs from GeoJSON",
           "link": "https://css-irl.info/creating-static-svgs-from-geojson/",
@@ -673,7 +696,7 @@
       "link": "https://css-irl.info/rss.xml/",
       "feedUrl": "https://css-irl.info/rss.xml/",
       "title": "CSS In Real Life",
-      "lastBuildDate": "2025-01-17T00:00:00Z"
+      "lastBuildDate": "2025-02-13T00:00:00Z"
     },
     "A list Apart": {
       "items": [
@@ -2954,6 +2977,18 @@
     "Go Make Things": {
       "items": [
         {
+          "title": "How to dynamically update content with an HTML Web Component",
+          "link": "https://gomakethings.com/how-to-dynamically-update-content-with-an-html-web-component/",
+          "pubDate": "Thu, 13 Feb 2025 10:30:00 -0400",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://gomakethings.com/how-to-dynamically-update-content-with-an-html-web-component/",
+          "isoDate": "2025-02-13T14:30:00.000Z",
+          "summary": ""
+        },
+        {
           "title": "Progressively enhancing forms with an HTML Web Component (part 2)",
           "link": "https://gomakethings.com/progressively-enhancing-forms-with-an-html-web-component-part-2/",
           "pubDate": "Wed, 12 Feb 2025 10:30:00 -0400",
@@ -3024,18 +3059,6 @@
           "guid": "https://gomakethings.com/when-should-you-use-react/",
           "isoDate": "2025-02-04T14:30:00.000Z",
           "summary": ""
-        },
-        {
-          "title": "Alienating the right people",
-          "link": "https://gomakethings.com/alienating-the-right-people/",
-          "pubDate": "Mon, 03 Feb 2025 10:30:00 -0400",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://gomakethings.com/alienating-the-right-people/",
-          "isoDate": "2025-02-03T14:30:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://gomakethings.com/feed/index.xml",
@@ -3047,7 +3070,7 @@
       "generator": "Hugo -- gohugo.io",
       "link": "https://gomakethings.com/articles",
       "language": "en-us",
-      "lastBuildDate": "Thu, 13 Feb 2025 00:03:32 EST"
+      "lastBuildDate": "Fri, 14 Feb 2025 00:03:30 EST"
     },
     "Trevor Lasn": {
       "items": [
