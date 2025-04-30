@@ -1615,7 +1615,7 @@
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
       "generator": "GatsbyJS",
       "link": "https://www.sitepoint.com",
-      "lastBuildDate": "Wed, 30 Apr 2025 03:02:05 GMT"
+      "lastBuildDate": "Wed, 30 Apr 2025 05:02:10 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
@@ -2706,7 +2706,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2025, Smashing Media AG",
-      "lastBuildDate": "Wed, 30 Apr 2025 04:33:10 GMT",
+      "lastBuildDate": "Wed, 30 Apr 2025 08:03:32 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -3603,228 +3603,225 @@
       "webMaster": "yourfriends@medium.com",
       "generator": "Medium",
       "link": "https://itnext.io?source=rss----5b301f10ddcd---4",
-      "lastBuildDate": "Wed, 30 Apr 2025 05:04:11 GMT"
+      "lastBuildDate": "Wed, 30 Apr 2025 08:23:29 GMT"
     },
     "DEV Community": {
       "items": [
         {
-          "creator": "ZenOfCode",
-          "title": "Vibe Coding: The Calm Revolution in Developer Workflows",
-          "link": "https://dev.to/sung_jinwoo_ae9a810f8c46a/vibe-coding-the-calm-revolution-in-developer-workflows-d04",
-          "pubDate": "Wed, 30 Apr 2025 05:00:00 +0000",
-          "dc:creator": "ZenOfCode",
+          "creator": "Sergio Peris",
+          "title": "MicroCeph: Setting up a multi-node Ceph cluster",
+          "link": "https://dev.to/sertxudev/microceph-setting-up-a-multi-node-ceph-cluster-2kdi",
+          "pubDate": "Wed, 30 Apr 2025 08:24:23 +0000",
+          "dc:creator": "Sergio Peris",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/sung_jinwoo_ae9a810f8c46a/vibe-coding-the-calm-revolution-in-developer-workflows-d04",
+          "guid": "https://dev.to/sertxudev/microceph-setting-up-a-multi-node-ceph-cluster-2kdi",
           "categories": [
-            "vibecoding",
-            "softwaredevelopment",
-            "aidev",
+            "tutorial",
+            "ubuntu",
+            "ceph"
+          ],
+          "isoDate": "2025-04-30T08:24:23.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "sonex godswill",
+          "title": "14 Days of Dev Hustle: The Countdown Begins!",
+          "link": "https://dev.to/godswillchinonsosonex/14-days-of-dev-hustle-the-countdown-begins-1hn3",
+          "pubDate": "Wed, 30 Apr 2025 08:23:05 +0000",
+          "dc:creator": "sonex godswill",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/godswillchinonsosonex/14-days-of-dev-hustle-the-countdown-begins-1hn3",
+          "isoDate": "2025-04-30T08:23:05.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Odunayo Ogungbure",
+          "title": "Shorthand Conditionals in PHP You Should Know",
+          "link": "https://dev.to/mr_steelze/shorthand-conditionals-in-php-you-should-know-22np",
+          "pubDate": "Wed, 30 Apr 2025 08:09:34 +0000",
+          "dc:creator": "Odunayo Ogungbure",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/mr_steelze/shorthand-conditionals-in-php-you-should-know-22np",
+          "isoDate": "2025-04-30T08:09:34.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Megaminds SEO",
+          "title": "The impact of Power Apps on resource management in healthcare",
+          "link": "https://dev.to/megaminds/the-impact-of-power-apps-on-resource-management-in-healthcare-pi4",
+          "pubDate": "Wed, 30 Apr 2025 08:09:20 +0000",
+          "dc:creator": "Megaminds SEO",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/megaminds/the-impact-of-power-apps-on-resource-management-in-healthcare-pi4",
+          "categories": [
+            "digitalhealth",
+            "healthcaretechnology",
+            "businessapps",
+            "powerapps"
+          ],
+          "isoDate": "2025-04-30T08:09:20.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Shubham Joshi",
+          "title": "Why Is Real Device Testing Preferred Over Emulators And Simulators",
+          "link": "https://dev.to/shubham-theqa/why-is-real-device-testing-preferred-over-emulators-and-simulators-2415",
+          "pubDate": "Wed, 30 Apr 2025 08:07:53 +0000",
+          "dc:creator": "Shubham Joshi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/shubham-theqa/why-is-real-device-testing-preferred-over-emulators-and-simulators-2415",
+          "categories": [
+            "testing",
+            "webdev",
+            "mobile",
+            "softwaredevelopment"
+          ],
+          "isoDate": "2025-04-30T08:07:53.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Youssef Betho",
+          "title": "Apprenez à créer une connexion sécurisée en PHP avec PDO et le hachage de mots de passe.",
+          "link": "https://dev.to/youssef_betho_b7642962fd2/apprenez-a-creer-une-connexion-securisee-en-php-avec-pdo-et-le-hachage-de-mots-de-passe-2099",
+          "pubDate": "Wed, 30 Apr 2025 08:07:02 +0000",
+          "dc:creator": "Youssef Betho",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/youssef_betho_b7642962fd2/apprenez-a-creer-une-connexion-securisee-en-php-avec-pdo-et-le-hachage-de-mots-de-passe-2099",
+          "isoDate": "2025-04-30T08:07:02.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Megaminds SEO",
+          "title": "Real-Time KPI monitoring for factory performance with Power BI",
+          "link": "https://dev.to/megaminds/real-time-kpi-monitoring-for-factory-performance-with-power-bi-5edf",
+          "pubDate": "Wed, 30 Apr 2025 08:03:10 +0000",
+          "dc:creator": "Megaminds SEO",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/megaminds/real-time-kpi-monitoring-for-factory-performance-with-power-bi-5edf",
+          "categories": [
+            "manufacturing",
+            "realtimeanalytics",
+            "powerbi",
+            "businessintelligence"
+          ],
+          "isoDate": "2025-04-30T08:03:10.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Omri Luz",
+          "title": "Pointer Events API for Advanced Gesture Handling",
+          "link": "https://dev.to/omriluz1/pointer-events-api-for-advanced-gesture-handling-2nf9",
+          "pubDate": "Wed, 30 Apr 2025 07:59:57 +0000",
+          "dc:creator": "Omri Luz",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/omriluz1/pointer-events-api-for-advanced-gesture-handling-2nf9",
+          "categories": [
+            "javascript",
+            "programming",
+            "webdev",
+            "advanced"
+          ],
+          "isoDate": "2025-04-30T07:59:57.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "gerry leo nugroho",
+          "title": "Why Upgrading to Tailwind CSS 4.1.4 Might Be the Best Decision You Make This Year",
+          "link": "https://dev.to/gerryleonugroho/why-upgrading-to-tailwindcss-414-might-be-the-best-decision-you-make-this-year-4bc5",
+          "pubDate": "Wed, 30 Apr 2025 07:57:11 +0000",
+          "dc:creator": "gerry leo nugroho",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/gerryleonugroho/why-upgrading-to-tailwindcss-414-might-be-the-best-decision-you-make-this-year-4bc5",
+          "categories": [
+            "webdev",
+            "tailwindcss",
+            "beginners",
             "programming"
           ],
-          "isoDate": "2025-04-30T05:00:00.000Z",
+          "isoDate": "2025-04-30T07:57:11.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Cesar Aguirre",
-          "title": "Re: Will AI Take My Job? A Coder's Reality Check",
-          "link": "https://dev.to/canro91/re-will-ai-take-my-job-a-coders-reality-check-4gmg",
-          "pubDate": "Wed, 30 Apr 2025 05:00:00 +0000",
-          "dc:creator": "Cesar Aguirre",
+          "creator": "MCPhubs",
+          "title": "What kind of MCP server fits your use case?",
+          "link": "https://dev.to/mcphubs/what-kind-of-mcp-server-fits-your-use-case-3noe",
+          "pubDate": "Wed, 30 Apr 2025 07:54:08 +0000",
+          "dc:creator": "MCPhubs",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/canro91/re-will-ai-take-my-job-a-coders-reality-check-4gmg",
-          "isoDate": "2025-04-30T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "MJB Technology",
-          "title": "How Generative AI Is Redefining ITSM Workflows in 2025",
-          "link": "https://dev.to/sip_mjb/how-generative-ai-is-redefining-itsm-workflows-in-2025-1ia2",
-          "pubDate": "Wed, 30 Apr 2025 04:59:14 +0000",
-          "dc:creator": "MJB Technology",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/sip_mjb/how-generative-ai-is-redefining-itsm-workflows-in-2025-1ia2",
+          "guid": "https://dev.to/mcphubs/what-kind-of-mcp-server-fits-your-use-case-3noe",
           "categories": [
-            "gpt3",
-            "godotengine",
-            "aws",
-            "beginners"
+            "webdev",
+            "ai"
           ],
-          "isoDate": "2025-04-30T04:59:14.000Z",
+          "isoDate": "2025-04-30T07:54:08.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "MJB Technology",
-          "title": "Beyond Automation: How Generative AI Is Redefining ITSM Workflows in 2025",
-          "link": "https://dev.to/sip_mjb/beyond-automation-how-generative-ai-is-redefining-itsm-workflows-in-2025-4aaj",
-          "pubDate": "Wed, 30 Apr 2025 04:58:43 +0000",
-          "dc:creator": "MJB Technology",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/sip_mjb/beyond-automation-how-generative-ai-is-redefining-itsm-workflows-in-2025-4aaj",
-          "categories": [
-            "gpt3",
-            "godotengine",
-            "aws",
-            "beginners"
-          ],
-          "isoDate": "2025-04-30T04:58:43.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "nikhil sachapara",
+          "creator": "Firas Hisham Mohammad rizeq alrefaei ",
           "title": "[Boost]",
-          "link": "https://dev.to/nikhil_sachapara/-56a2",
-          "pubDate": "Wed, 30 Apr 2025 04:49:42 +0000",
-          "dc:creator": "nikhil sachapara",
+          "link": "https://dev.to/firas2515/-2p8c",
+          "pubDate": "Wed, 30 Apr 2025 07:53:11 +0000",
+          "dc:creator": "Firas Hisham Mohammad rizeq alrefaei ",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/nikhil_sachapara/-56a2",
+          "guid": "https://dev.to/firas2515/-2p8c",
           "categories": [
-            "webdev",
-            "productivity",
-            "devops",
+            "mcp",
+            "devto",
+            "python",
             "opensource"
           ],
-          "isoDate": "2025-04-30T04:49:42.000Z",
+          "isoDate": "2025-04-30T07:53:11.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sejal",
-          "title": "[Boost]",
-          "link": "https://dev.to/naik_sejal/-5enl",
-          "pubDate": "Wed, 30 Apr 2025 04:49:25 +0000",
-          "dc:creator": "Sejal",
+          "creator": "Christopher Kocel",
+          "title": "Wednesday Links - Edition 2025-04-30",
+          "link": "https://dev.to/0xkkocel/wednesday-links-edition-2025-04-30-4jao",
+          "pubDate": "Wed, 30 Apr 2025 07:51:05 +0000",
+          "dc:creator": "Christopher Kocel",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/naik_sejal/-5enl",
+          "guid": "https://dev.to/0xkkocel/wednesday-links-edition-2025-04-30-4jao",
           "categories": [
-            "webdev",
-            "productivity",
-            "devops",
-            "opensource"
+            "java",
+            "jvm",
+            "spring",
+            "nats"
           ],
-          "isoDate": "2025-04-30T04:49:25.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Model Reef",
-          "title": "How to Calculate and Use Year-Over-Year (YOY) Growth",
-          "link": "https://dev.to/modelreef/how-to-calculate-and-use-year-over-year-yoy-growth-56f2",
-          "pubDate": "Wed, 30 Apr 2025 04:48:44 +0000",
-          "dc:creator": "Model Reef",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/modelreef/how-to-calculate-and-use-year-over-year-yoy-growth-56f2",
-          "isoDate": "2025-04-30T04:48:44.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Pranesh patel",
-          "title": "[Boost]",
-          "link": "https://dev.to/pranesh_patel/-2g67",
-          "pubDate": "Wed, 30 Apr 2025 04:48:39 +0000",
-          "dc:creator": "Pranesh patel",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/pranesh_patel/-2g67",
-          "categories": [
-            "webdev",
-            "productivity",
-            "devops",
-            "opensource"
-          ],
-          "isoDate": "2025-04-30T04:48:39.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Pratham naik",
-          "title": "The Role of the Product Owner vs. Scrum Master: Clearing Up Common Confusions",
-          "link": "https://dev.to/teamcamp/the-role-of-the-product-owner-vs-scrum-master-clearing-up-common-confusions-bba",
-          "pubDate": "Wed, 30 Apr 2025 04:47:13 +0000",
-          "dc:creator": "Pratham naik",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/teamcamp/the-role-of-the-product-owner-vs-scrum-master-clearing-up-common-confusions-bba",
-          "categories": [
-            "webdev",
-            "productivity",
-            "devops",
-            "opensource"
-          ],
-          "isoDate": "2025-04-30T04:47:13.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Code WithDhanian",
-          "title": "How to Structure Your Fullstack Project with Next.js 15 and TypeScript — The Modern Way ⬇️",
-          "link": "https://dev.to/code_2/how-to-structure-your-fullstack-project-with-nextjs-15-and-typescript-the-modern-way-7m6",
-          "pubDate": "Wed, 30 Apr 2025 04:46:52 +0000",
-          "dc:creator": "Code WithDhanian",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/code_2/how-to-structure-your-fullstack-project-with-nextjs-15-and-typescript-the-modern-way-7m6",
-          "categories": [
-            "webdev",
-            "typescript",
-            "nextjs",
-            "javascript"
-          ],
-          "isoDate": "2025-04-30T04:46:52.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Vikas Singh",
-          "title": "React Native Benefits & Limitations: What You Should Know Before You Build",
-          "link": "https://dev.to/brilworks/react-native-benefits-limitations-what-you-should-know-before-you-build-5f2o",
-          "pubDate": "Wed, 30 Apr 2025 04:38:12 +0000",
-          "dc:creator": "Vikas Singh",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/brilworks/react-native-benefits-limitations-what-you-should-know-before-you-build-5f2o",
-          "categories": [
-            "reactnative",
-            "programming",
-            "javascript",
-            "beginners"
-          ],
-          "isoDate": "2025-04-30T04:38:12.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Andrew Morrison",
-          "title": "Why Your Team Needs a Slack DEI Tool to Foster Inclusive Communication",
-          "link": "https://dev.to/andrew_morrison_05164d314/why-your-team-needs-a-slack-dei-tool-to-foster-inclusive-communication-4aja",
-          "pubDate": "Wed, 30 Apr 2025 04:37:13 +0000",
-          "dc:creator": "Andrew Morrison",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/andrew_morrison_05164d314/why-your-team-needs-a-slack-dei-tool-to-foster-inclusive-communication-4aja",
-          "isoDate": "2025-04-30T04:37:13.000Z",
+          "isoDate": "2025-04-30T07:51:05.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -9503,7 +9500,7 @@
       "description": "\n             Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice. \n        ",
       "generator": "Eleventy",
       "link": "https://www.freecodecamp.org/news/",
-      "lastBuildDate": "Tue, 29 Apr 2025 21:45:21 +0000",
+      "lastBuildDate": "Wed, 30 Apr 2025 06:44:53 +0000",
       "ttl": "60"
     },
     "Github Blog": {
@@ -11273,7 +11270,7 @@
       "link": "https://www.cloudbees.com/blog/feed",
       "language": "en",
       "copyright": "All rights reserved 2025, CloudBees",
-      "lastBuildDate": "Wed, 30 Apr 2025 04:28:45 GMT",
+      "lastBuildDate": "Wed, 30 Apr 2025 08:31:14 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     }
   }
