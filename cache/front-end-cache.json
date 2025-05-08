@@ -4,6 +4,25 @@
     "CSS Tricks": {
       "items": [
         {
+          "creator": "Sunkanmi Fafowora",
+          "title": "Why is Nobody Using the hwb() Color Function?",
+          "link": "https://css-tricks.com/why-is-nobody-using-the-hwb-color-function/",
+          "pubDate": "Wed, 07 May 2025 12:25:19 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Sunkanmi Fafowora",
+          "comments": "https://css-tricks.com/why-is-nobody-using-the-hwb-color-function/#comments",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://css-tricks.com/?p=386463",
+          "categories": [
+            "Articles",
+            "color"
+          ],
+          "isoDate": "2025-05-07T12:25:19.000Z",
+          "summary": ""
+        },
+        {
           "creator": "Ryan Trimble",
           "title": "GSAP is Now Completely Free, Even for Commercial Use!",
           "link": "https://css-tricks.com/gsap-is-now-completely-free-even-for-commercial-use/",
@@ -276,27 +295,6 @@
           ],
           "isoDate": "2025-04-10T12:39:43.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Geoff Graham",
-          "title": "Cascading Layouts: A Workshop on Resilient CSS Layouts",
-          "link": "https://css-tricks.com/cascading-layouts-a-workshop-on-resilient-css-layouts/",
-          "pubDate": "Thu, 10 Apr 2025 11:26:00 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Geoff Graham",
-          "comments": "https://css-tricks.com/cascading-layouts-a-workshop-on-resilient-css-layouts/#respond",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://css-tricks.com/?p=385758",
-          "categories": [
-            "Links",
-            "education",
-            "layout",
-            "resource"
-          ],
-          "isoDate": "2025-04-10T11:26:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://css-tricks.com/feed/",
@@ -314,7 +312,7 @@
       "description": "Tips, Tricks, and Techniques on using Cascading Style Sheets.",
       "link": "https://css-tricks.com",
       "language": "en-US",
-      "lastBuildDate": "Tue, 06 May 2025 14:19:22 +0000"
+      "lastBuildDate": "Wed, 07 May 2025 12:27:43 +0000"
     },
     "CSS In Real Life": {
       "items": [
@@ -785,6 +783,33 @@
     "Web Designer Depot": {
       "items": [
         {
+          "creator": "Simon Sterne",
+          "title": "Why Listening to the Same Song on Repeat Might Just Unlock Your Creativity",
+          "link": "https://webdesignerdepot.com/why-listening-to-the-same-song-on-repeat-might-just-unlock-your-creativity/",
+          "pubDate": "Wed, 07 May 2025 13:27:36 +0000",
+          "dc:creator": "Simon Sterne",
+          "comments": "https://webdesignerdepot.com/why-listening-to-the-same-song-on-repeat-might-just-unlock-your-creativity/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://webdesignerdepot.com/?p=63567",
+          "categories": [
+            "Design",
+            "Tech",
+            "boost",
+            "brain",
+            "Creativity",
+            "dopamine",
+            "improve",
+            "increase",
+            "music",
+            "repeat"
+          ],
+          "isoDate": "2025-05-07T13:27:36.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Noah Davis",
           "title": "Rethinking Responsive Grids with a Content-Aware Approach",
           "link": "https://webdesignerdepot.com/rethinking-responsive-grids-with-a-content-aware-approach/",
@@ -1178,31 +1203,6 @@
             "ux"
           ],
           "isoDate": "2025-04-03T12:10:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Simon Sterne",
-          "title": "Apple Releases New “Exhausted” Emoji – It’s All of Us, Always!",
-          "link": "https://webdesignerdepot.com/apple-releases-new-exhausted-emoji-its-all-of-us-always/",
-          "pubDate": "Wed, 02 Apr 2025 15:26:41 +0000",
-          "dc:creator": "Simon Sterne",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://webdesignerdepot.com/?p=63824",
-          "categories": [
-            "News",
-            "Business",
-            "Design",
-            "Apple",
-            "emoji",
-            "exhausted",
-            "face with bags under eyes",
-            "news",
-            "tired"
-          ],
-          "isoDate": "2025-04-02T15:26:41.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -2714,22 +2714,6 @@
           ],
           "isoDate": "2024-08-29T00:00:00.000Z",
           "summary": ""
-        },
-        {
-          "title": "Data Table Accessibility in 2024",
-          "link": "https://zellwk.com/blog/2024-05-08-data-table-accessibility-2024/",
-          "pubDate": "Wed, 08 May 2024 00:00:00 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://zellwk.com/blog/2024-05-08-data-table-accessibility-2024/",
-          "categories": [
-            "Accessibility",
-            "Html"
-          ],
-          "isoDate": "2024-05-08T00:00:00.000Z",
-          "summary": ""
         }
       ],
       "title": "Zell Liew",
@@ -2738,6 +2722,18 @@
     },
     "Go Make Things": {
       "items": [
+        {
+          "title": "A custom React hook for watching media query changes",
+          "link": "https://gomakethings.com/a-custom-react-hook-for-watching-media-query-changes/",
+          "pubDate": "Wed, 07 May 2025 10:30:00 -0400",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://gomakethings.com/a-custom-react-hook-for-watching-media-query-changes/",
+          "isoDate": "2025-05-07T14:30:00.000Z",
+          "summary": ""
+        },
         {
           "title": "No default exports",
           "link": "https://gomakethings.com/no-default-exports/",
@@ -2809,18 +2805,6 @@
           "guid": "https://gomakethings.com/mixing-colors-with-css/",
           "isoDate": "2025-04-28T14:30:00.000Z",
           "summary": ""
-        },
-        {
-          "title": "The duality of creating change",
-          "link": "https://gomakethings.com/the-duality-of-creating-change/",
-          "pubDate": "Sun, 27 Apr 2025 10:30:00 -0400",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://gomakethings.com/the-duality-of-creating-change/",
-          "isoDate": "2025-04-27T14:30:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://gomakethings.com/feed/index.xml",
@@ -2832,7 +2816,7 @@
       "generator": "Hugo -- gohugo.io",
       "link": "https://gomakethings.com/articles",
       "language": "en-us",
-      "lastBuildDate": "Wed, 07 May 2025 00:01:39 EST"
+      "lastBuildDate": "Thu, 08 May 2025 00:01:35 EST"
     },
     "Trevor Lasn": {
       "items": [
