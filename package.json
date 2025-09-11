@@ -11,6 +11,7 @@
         "fetch:javascript": "node src/phase-fetch.js javascript",
         "fetch:programming": "node src/phase-fetch.js programming",
         "fetch:system-design": "node src/phase-fetch.js system-design",
+        "fetch:cybersecruity": "node src/phase-fetch.js cybersecruity",
         "fetch": "npm-run-all --parallel fetch:*",
         "build": "node src/phase-build.js",
         "serve": "serve dist"
