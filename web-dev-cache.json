@@ -1754,14 +1754,35 @@
       },
       "title": "SitePoint",
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
-      "pubDate": "Mon, 15 Sep 2025 03:00:40 GMT",
+      "pubDate": "Tue, 16 Sep 2025 02:29:03 GMT",
       "generator": "RSS for Node",
       "link": "https://www.sitepoint.com",
       "language": "en",
-      "lastBuildDate": "Mon, 15 Sep 2025 03:00:41 GMT"
+      "lastBuildDate": "Tue, 16 Sep 2025 02:29:04 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
+        {
+          "creator": "brian m. carlson",
+          "title": "Post-quantum security for SSH access on GitHub",
+          "link": "https://github.blog/engineering/platform-security/post-quantum-security-for-ssh-access-on-github/",
+          "pubDate": "Mon, 15 Sep 2025 16:00:00 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "brian m. carlson",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=90756",
+          "categories": [
+            "Engineering",
+            "Platform security",
+            "Git",
+            "Security",
+            "SSH"
+          ],
+          "isoDate": "2025-09-15T16:00:00.000Z",
+          "summary": ""
+        },
         {
           "creator": "Kedasha Kerr",
           "title": "Building personal apps with open source and AI",
@@ -1939,27 +1960,6 @@
           ],
           "isoDate": "2025-09-03T16:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Den Delimarsky",
-          "title": "Spec-driven development with AI: Get started with a new open source toolkit",
-          "link": "https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/",
-          "pubDate": "Tue, 02 Sep 2025 16:48:03 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Den Delimarsky",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=90579",
-          "categories": [
-            "AI & ML",
-            "Generative AI",
-            "GitHub Copilot",
-            "open source",
-            "Spec-driven development"
-          ],
-          "isoDate": "2025-09-02T16:48:03.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://github.blog/feed/",
@@ -1978,7 +1978,7 @@
       "generator": "https://wordpress.org/?v=6.8.2",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Thu, 11 Sep 2025 20:48:38 +0000"
+      "lastBuildDate": "Mon, 15 Sep 2025 14:26:43 +0000"
     },
     "GitHub Blog Atom": {
       "items": [
@@ -2068,6 +2068,25 @@
     },
     "Smashing Magazine": {
       "items": [
+        {
+          "creator": "hello@smashingmagazine.com (Marius Sarca)",
+          "title": "Creating Elastic And Bounce Effects With Expressive Animator",
+          "link": "https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/",
+          "pubDate": "Mon, 15 Sep 2025 10:00:00 GMT",
+          "author": "hello@smashingmagazine.com (Marius Sarca)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "http://files.smashing.media/articles/creating-elastic-bounce-effects-expressive-animator/creating-elastic-bounce-effects-expressive-animator.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://smashingmagazine.com/2025/09/creating-elastic-bounce-effects-expressive-animator/",
+          "isoDate": "2025-09-15T10:00:00.000Z",
+          "summary": ""
+        },
         {
           "creator": "hello@smashingmagazine.com (Karan Rawal)",
           "title": "From Data To Decisions: UX Strategies For Real-Time Dashboards",
@@ -2808,25 +2827,6 @@
           "guid": "https://smashingmagazine.com/2025/06/smashing-animations-part-4-optimising-svgs/",
           "isoDate": "2025-06-04T08:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "hello@smashingmagazine.com (Nikita Samutin)",
-          "title": "Why Designers Get Stuck In The Details And How To Stop",
-          "link": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
-          "pubDate": "Tue, 03 Jun 2025 14:00:00 GMT",
-          "author": "hello@smashingmagazine.com (Nikita Samutin)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/why-designers-get-stuck-in-details/why-designers-get-stuck-in-details.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://smashingmagazine.com/2025/06/why-designers-get-stuck-in-details/",
-          "isoDate": "2025-06-03T14:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.smashingmagazine.com/feed/",
@@ -2844,11 +2844,34 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2025, Smashing Media AG",
-      "lastBuildDate": "Mon, 15 Sep 2025 04:32:39 GMT",
+      "lastBuildDate": "Tue, 16 Sep 2025 04:32:56 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Kevin Kopp",
+          "title": "The Journey Behind inspo.page: A Better Way to Collect Web Design Inspiration",
+          "link": "https://tympanus.net/codrops/2025/09/15/the-journey-behind-inspo-page-a-better-way-to-collect-web-design-inspiration/",
+          "pubDate": "Mon, 15 Sep 2025 09:31:08 +0000",
+          "enclosure": {
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2025/08/CleanShot2025-08-27at10.20.55-ezgif.com-resize-video.mp4?x84090",
+            "length": "3235521",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Kevin Kopp",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=99548",
+          "categories": [
+            "Articles",
+            "inspiration"
+          ],
+          "isoDate": "2025-09-15T09:31:08.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Mengchu Yao",
           "title": "Craft, Clarity, and Care: The Story and Work of Mengchu Yao",
@@ -3051,31 +3074,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Manoela Ilic",
-          "title": "Motion Highlights #12",
-          "link": "https://tympanus.net/codrops/2025/08/30/motion-highlights-12/",
-          "pubDate": "Sat, 30 Aug 2025 10:56:37 +0000",
-          "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2025/08/ssstwitter.com_1756448420445.mp4?x84090",
-            "length": "4274873",
-            "type": "video/mp4"
-          },
-          "dc:creator": "Manoela Ilic",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=99735",
-          "categories": [
-            "UI Interactions and Animations Roundups",
-            "inspiration",
-            "Motion Design",
-            "roundup"
-          ],
-          "isoDate": "2025-08-30T10:56:37.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -3087,10 +3085,136 @@
       "generator": "https://wordpress.org/?v=6.8.2",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Fri, 12 Sep 2025 12:38:20 +0000"
+      "lastBuildDate": "Mon, 15 Sep 2025 09:31:10 +0000"
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Pragya Keshap",
+          "title": "From Laptop to Cloud: Building and Scaling AI Agents With Docker Compose and Offload",
+          "link": "https://dzone.com/articles/ai-agents-docker-compose-cloud-offload",
+          "pubDate": "Mon, 15 Sep 2025 19:00:00 GMT",
+          "dc:creator": "Pragya Keshap",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3593480",
+          "isoDate": "2025-09-15T19:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Vishnu Viswambharan",
+          "title": "Spring Cloud Gateway With Service Discovery Using HashiCorp Consul",
+          "link": "https://dzone.com/articles/spring-cloud-gateway-service-discovery-consul",
+          "pubDate": "Mon, 15 Sep 2025 18:00:00 GMT",
+          "dc:creator": "Vishnu Viswambharan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3580710",
+          "isoDate": "2025-09-15T18:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Baskar Sikkayan",
+          "title": "Mastering Approximate Top K: Choosing Optimal Count-Min Sketch Parameters",
+          "link": "https://dzone.com/articles/top-k-count-min-sketch-configuration",
+          "pubDate": "Mon, 15 Sep 2025 17:00:09 GMT",
+          "dc:creator": "Baskar Sikkayan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3553974",
+          "isoDate": "2025-09-15T17:00:09.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Daniel Akomolafe",
+          "title": "How AI and Machine Learning Are Shaping the Fight Against Ransomware",
+          "link": "https://dzone.com/articles/how-ai-and-machine-learning-are-shaping-the-fight",
+          "pubDate": "Mon, 15 Sep 2025 16:00:00 GMT",
+          "dc:creator": "Daniel Akomolafe",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3560338",
+          "isoDate": "2025-09-15T16:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Frederic Jacquet",
+          "title": "Toward Explainable AI (Part 10): Bridging Theory and Practice—Responsible AI: Ambition or Illusion?",
+          "link": "https://dzone.com/articles/explainable-ai-responsible-ai",
+          "pubDate": "Mon, 15 Sep 2025 15:00:01 GMT",
+          "dc:creator": "Frederic Jacquet",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3588078",
+          "isoDate": "2025-09-15T15:00:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Nimit Patel",
+          "title": "GenAI Beyond Just LLMs",
+          "link": "https://dzone.com/articles/genai-beyond-just-llms",
+          "pubDate": "Mon, 15 Sep 2025 14:00:00 GMT",
+          "dc:creator": "Nimit Patel",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3566921",
+          "isoDate": "2025-09-15T14:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "harshraj bhoite",
+          "title": "Benchmarking Open-Source LLMs: LLaMA vs Mistral vs Gemma — A Practical Guide for Developers Building Private Models",
+          "link": "https://dzone.com/articles/benchmarking-open-source-llama-mistral-gemma",
+          "pubDate": "Mon, 15 Sep 2025 13:00:00 GMT",
+          "dc:creator": "harshraj bhoite",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3565829",
+          "isoDate": "2025-09-15T13:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Shubham Gupta",
+          "title": "Agentic AI: The Next Evolution of Artificial Intelligence and Autonomous Automation",
+          "link": "https://dzone.com/articles/next-evolution-ai-autonomous-automation",
+          "pubDate": "Mon, 15 Sep 2025 12:00:07 GMT",
+          "dc:creator": "Shubham Gupta",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3539704",
+          "isoDate": "2025-09-15T12:00:07.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Guhaprasaanth Nandagopal",
+          "title": "Tuples and Records (Part 5): Performance Challenges",
+          "link": "https://dzone.com/articles/tuples-and-records-part-5",
+          "pubDate": "Mon, 15 Sep 2025 11:00:00 GMT",
+          "dc:creator": "Guhaprasaanth Nandagopal",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3592072",
+          "isoDate": "2025-09-15T11:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Shaurya Jain",
           "title": "Enhancing AI Privacy: Federated Learning and Differential Privacy in Machine Learning",
@@ -3384,132 +3508,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Dmitry Marinov",
-          "title": "Beyond DORA: Building a Holistic Framework for Engineering Metrics",
-          "link": "https://dzone.com/articles/beyond-dora-engineering-metrics",
-          "pubDate": "Wed, 10 Sep 2025 17:00:00 GMT",
-          "dc:creator": "Dmitry Marinov",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3590964",
-          "isoDate": "2025-09-10T17:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Subhashini Raman",
-          "title": "Crafting Keys: Best Naming Strategies and Sorting Techniques in Redis",
-          "link": "https://dzone.com/articles/best-naming-strategies-and-sorting-techniques-redis",
-          "pubDate": "Wed, 10 Sep 2025 16:00:11 GMT",
-          "dc:creator": "Subhashini Raman",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3588287",
-          "isoDate": "2025-09-10T16:00:11.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ion Pascari",
-          "title": "From HTTP to Kafka: A Custom Source Connector",
-          "link": "https://dzone.com/articles/from-http-to-kafka-a-custom-source-connector",
-          "pubDate": "Wed, 10 Sep 2025 15:00:00 GMT",
-          "dc:creator": "Ion Pascari",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3591956",
-          "isoDate": "2025-09-10T15:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Gaurav Gaur",
-          "title": "Vibe Coding: Conversational Software Development — Part 4: Guiding AI Through Iteration",
-          "link": "https://dzone.com/articles/vibe-coding-guiding-ai",
-          "pubDate": "Wed, 10 Sep 2025 14:00:00 GMT",
-          "dc:creator": "Gaurav Gaur",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3587372",
-          "isoDate": "2025-09-10T14:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Zen Hua",
-          "title": "Using Arrow Flight SQL to Improve Data Transfer Performance in Apache Doris",
-          "link": "https://dzone.com/articles/arrow-flight-sql-data-transfer",
-          "pubDate": "Wed, 10 Sep 2025 13:00:00 GMT",
-          "dc:creator": "Zen Hua",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3537468",
-          "isoDate": "2025-09-10T13:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ioan Tinca",
-          "title": "An Introduction to Artificial Intelligence: Neural Networks, NLP, and Word Embeddings",
-          "link": "https://dzone.com/articles/intro-to-ai-neural-nlp-embeddings",
-          "pubDate": "Wed, 10 Sep 2025 12:00:10 GMT",
-          "dc:creator": "Ioan Tinca",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3534467",
-          "isoDate": "2025-09-10T12:00:10.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Guhaprasaanth Nandagopal",
-          "title": "Tuples and Records (Part 3): Potential ECMAScript Proposals",
-          "link": "https://dzone.com/articles/tuples-records-javascript-part-3",
-          "pubDate": "Wed, 10 Sep 2025 11:00:13 GMT",
-          "dc:creator": "Guhaprasaanth Nandagopal",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3592071",
-          "isoDate": "2025-09-10T11:00:13.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Tanmay Batham",
-          "title": "Using ChartMuseum as a Helm Repository",
-          "link": "https://dzone.com/articles/using-chartmuseum-as-a-helm-repository",
-          "pubDate": "Tue, 09 Sep 2025 20:00:02 GMT",
-          "dc:creator": "Tanmay Batham",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3538006",
-          "isoDate": "2025-09-09T20:00:02.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Vivek Venkatesan",
-          "title": "Tutorial: RAG at Scale With Vector Databases vs Lakehouse Architectures",
-          "link": "https://dzone.com/articles/tutorial-rag-at-scale-with-vector-databases-vs-lakehouse",
-          "pubDate": "Tue, 09 Sep 2025 19:00:05 GMT",
-          "dc:creator": "Vivek Venkatesan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3592972",
-          "isoDate": "2025-09-09T19:00:05.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -3750,231 +3748,227 @@
     "DEV Community": {
       "items": [
         {
-          "creator": "Cesar Aguirre",
-          "title": "15 Takeaways From \"Breaking in the Mindset That Gets You Hired\" With ALX Community",
-          "link": "https://dev.to/canro91/15-takeaways-from-breaking-in-the-mindset-that-gets-you-hired-with-alx-community-3bei",
-          "pubDate": "Mon, 15 Sep 2025 05:00:00 +0000",
-          "dc:creator": "Cesar Aguirre",
+          "creator": "Panto AI",
+          "title": "Cloudflare's Self-DDoS Outage: How a Simple React Bug Knocked Out the Dashboard",
+          "link": "https://dev.to/pantoai/cloudflares-self-ddos-outage-how-a-simple-react-bug-knocked-out-the-dashboard-2onc",
+          "pubDate": "Tue, 16 Sep 2025 04:59:23 +0000",
+          "dc:creator": "Panto AI",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/canro91/15-takeaways-from-breaking-in-the-mindset-that-gets-you-hired-with-alx-community-3bei",
+          "guid": "https://dev.to/pantoai/cloudflares-self-ddos-outage-how-a-simple-react-bug-knocked-out-the-dashboard-2onc",
           "categories": [
-            "career",
-            "coding",
-            "writing",
-            "beginners"
+            "cloud",
+            "backend",
+            "react",
+            "ai"
           ],
-          "isoDate": "2025-09-15T05:00:00.000Z",
+          "isoDate": "2025-09-16T04:59:23.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sushant Gaurav",
-          "title": "Python Multiprocessing: Start Methods, Pools, and Communication",
-          "link": "https://dev.to/imsushant12/python-multiprocessing-start-methods-pools-and-communication-4o6d",
-          "pubDate": "Mon, 15 Sep 2025 05:00:00 +0000",
-          "dc:creator": "Sushant Gaurav",
+          "creator": "Aleksei Berezkin",
+          "title": "Stop Memorizing, Start Scripting: My Journey to cli-bits",
+          "link": "https://dev.to/alekseiberezkin/stop-memorizing-start-scripting-my-journey-to-cli-bits-79h",
+          "pubDate": "Tue, 16 Sep 2025 04:58:03 +0000",
+          "dc:creator": "Aleksei Berezkin",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/imsushant12/python-multiprocessing-start-methods-pools-and-communication-4o6d",
+          "guid": "https://dev.to/alekseiberezkin/stop-memorizing-start-scripting-my-journey-to-cli-bits-79h",
           "categories": [
-            "programming",
-            "beginners",
-            "python",
-            "tutorial"
-          ],
-          "isoDate": "2025-09-15T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Mohammad Ganji",
-          "title": "Kiro Might Be the Next Game-Changer AI Coding Tool: Building Credi With Kiro's Spec-Driven Development",
-          "link": "https://dev.to/ganjim/kiro-might-be-the-next-game-changer-ai-coding-tool-building-credi-with-kiros-spec-driven-18f4",
-          "pubDate": "Mon, 15 Sep 2025 04:50:49 +0000",
-          "dc:creator": "Mohammad Ganji",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/ganjim/kiro-might-be-the-next-game-changer-ai-coding-tool-building-credi-with-kiros-spec-driven-18f4",
-          "categories": [
-            "typescript",
-            "kiro",
-            "programming",
-            "llm"
-          ],
-          "isoDate": "2025-09-15T04:50:49.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Seongcheol Jeon",
-          "title": "[UE] ClassRedirects",
-          "link": "https://dev.to/seongcheoljeon/ue-classredirects-3l70",
-          "pubDate": "Mon, 15 Sep 2025 04:47:32 +0000",
-          "dc:creator": "Seongcheol Jeon",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/seongcheoljeon/ue-classredirects-3l70",
-          "categories": [
-            "programming",
-            "unrealengine"
-          ],
-          "isoDate": "2025-09-15T04:47:32.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Adam",
-          "title": "Stay ahead in web development: latest news, tools, and insights #102",
-          "link": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-102-56ja",
-          "pubDate": "Mon, 15 Sep 2025 04:46:18 +0000",
-          "dc:creator": "Adam",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-102-56ja",
-          "categories": [
-            "webdev",
-            "weeklyfoo",
-            "javascript",
-            "node"
-          ],
-          "isoDate": "2025-09-15T04:46:18.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "madhu kiran",
-          "title": "Tip for Faster Debugging with Local Files with File Access MCP",
-          "link": "https://dev.to/avmadhukiran/tip-for-faster-debugging-with-local-files-with-file-access-mcp-53a3",
-          "pubDate": "Mon, 15 Sep 2025 04:43:54 +0000",
-          "dc:creator": "madhu kiran",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/avmadhukiran/tip-for-faster-debugging-with-local-files-with-file-access-mcp-53a3",
-          "categories": [
-            "tooling",
-            "mcp",
-            "llm",
+            "bash",
+            "cli",
             "productivity"
           ],
-          "isoDate": "2025-09-15T04:43:54.000Z",
+          "isoDate": "2025-09-16T04:58:03.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Samuel Adeduntan ",
-          "title": "#DAY 9: Accelerating Analysis with Splunkbase",
-          "link": "https://dev.to/samueladeduntan/day-9-accelerating-analysis-with-splunkbase-59l6",
-          "pubDate": "Mon, 15 Sep 2025 04:40:57 +0000",
-          "dc:creator": "Samuel Adeduntan ",
+          "creator": "lengjingzju",
+          "title": "GB/s Level Editable DOM JSON Engine: The Architectural Philosophy Behind LJSON",
+          "link": "https://dev.to/lengjingzju/gbs-level-editable-dom-json-engine-the-architectural-philosophy-behind-ljson-4gdb",
+          "pubDate": "Tue, 16 Sep 2025 04:57:13 +0000",
+          "dc:creator": "lengjingzju",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/samueladeduntan/day-9-accelerating-analysis-with-splunkbase-59l6",
+          "guid": "https://dev.to/lengjingzju/gbs-level-editable-dom-json-engine-the-architectural-philosophy-behind-ljson-4gdb",
           "categories": [
-            "dfirlab",
-            "securityanalytics",
-            "cybertools",
-            "cybersecurity"
+            "programming",
+            "devops",
+            "c",
+            "json"
           ],
-          "isoDate": "2025-09-15T04:40:57.000Z",
+          "isoDate": "2025-09-16T04:57:13.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Adam Yates",
-          "title": "Challenge Entry: Dataset Crafter",
-          "link": "https://dev.to/adam_yates_4d533250b19263/challenge-entry-dataset-crafter-5957",
-          "pubDate": "Mon, 15 Sep 2025 04:40:32 +0000",
-          "dc:creator": "Adam Yates",
+          "creator": "JigNect Technologies",
+          "title": "Mastering BDD with Cucumber & Java for Test Automation",
+          "link": "https://dev.to/jignect-technologies/mastering-bdd-with-cucumber-java-for-test-automation-4dh3",
+          "pubDate": "Tue, 16 Sep 2025 04:56:22 +0000",
+          "dc:creator": "JigNect Technologies",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/adam_yates_4d533250b19263/challenge-entry-dataset-crafter-5957",
+          "guid": "https://dev.to/jignect-technologies/mastering-bdd-with-cucumber-java-for-test-automation-4dh3",
           "categories": [
-            "devchallenge",
-            "googleaichallenge",
-            "ai",
-            "gemini"
+            "bdd",
+            "testing",
+            "automaton",
+            "testautomation"
           ],
-          "isoDate": "2025-09-15T04:40:32.000Z",
+          "isoDate": "2025-09-16T04:56:22.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Sven Krämer",
-          "title": "Linux Bash: To search an empty folder (easy script)",
-          "link": "https://dev.to/sven_krmer_6f8a15646f686/linux-bash-to-search-an-empty-folder-easy-script-plf",
-          "pubDate": "Mon, 15 Sep 2025 04:38:32 +0000",
-          "dc:creator": "Sven Krämer",
+          "creator": "Hasan Ashab",
+          "title": "Productionizing AWS’s Retail Sample App with GitOps on EKS",
+          "link": "https://dev.to/hasan_ashab/productionizing-awss-retail-sample-app-with-gitops-on-eks-22f2",
+          "pubDate": "Tue, 16 Sep 2025 04:54:56 +0000",
+          "dc:creator": "Hasan Ashab",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/sven_krmer_6f8a15646f686/linux-bash-to-search-an-empty-folder-easy-script-plf",
+          "guid": "https://dev.to/hasan_ashab/productionizing-awss-retail-sample-app-with-gitops-on-eks-22f2",
           "categories": [
-            "linux",
-            "bash"
+            "devops",
+            "cicd",
+            "aws",
+            "cloud"
           ],
-          "isoDate": "2025-09-15T04:38:32.000Z",
+          "isoDate": "2025-09-16T04:54:56.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Debkanta Dey",
-          "title": "HackSpire’25 – A Platform to Build, Connect & Inspire 🚀",
-          "link": "https://dev.to/debkanta_dey_09b98f7eebb9/hackspire25-a-platform-to-build-connect-inspire-k0d",
-          "pubDate": "Mon, 15 Sep 2025 04:35:52 +0000",
-          "dc:creator": "Debkanta Dey",
+          "creator": "Andrey B",
+          "title": "Why you should NOT choose DevOps as a career.",
+          "link": "https://dev.to/andrey_b_ef783b39557a78cf/why-you-should-not-choose-devops-as-a-career-4gl2",
+          "pubDate": "Tue, 16 Sep 2025 04:51:20 +0000",
+          "dc:creator": "Andrey B",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/debkanta_dey_09b98f7eebb9/hackspire25-a-platform-to-build-connect-inspire-k0d",
-          "isoDate": "2025-09-15T04:35:52.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "NVelUp",
-          "title": "🧠 When to Seek Help: 5 Clear Signs You Might Need a Therapist",
-          "link": "https://dev.to/nvelup_e92618d5196e8d9f43/when-to-seek-help-5-clear-signs-you-might-need-a-therapist-1dk6",
-          "pubDate": "Mon, 15 Sep 2025 04:32:53 +0000",
-          "dc:creator": "NVelUp",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/nvelup_e92618d5196e8d9f43/when-to-seek-help-5-clear-signs-you-might-need-a-therapist-1dk6",
+          "guid": "https://dev.to/andrey_b_ef783b39557a78cf/why-you-should-not-choose-devops-as-a-career-4gl2",
           "categories": [
-            "mentalhealth",
-            "productivity",
+            "devops",
+            "softwaredevelopment",
             "career",
-            "burnout"
+            "software"
           ],
-          "isoDate": "2025-09-15T04:32:53.000Z",
+          "isoDate": "2025-09-16T04:51:20.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Max aka Mosheh",
+          "title": "TwinMind’s Ear-3 Is Changing Voice AI: 5.26% WER, 140+ Languages, Real-Time Savings",
+          "link": "https://dev.to/aiwithapex/twinminds-ear-3-is-changing-voice-ai-526-wer-140-languages-real-time-savings-3jc0",
+          "pubDate": "Tue, 16 Sep 2025 04:44:04 +0000",
+          "dc:creator": "Max aka Mosheh",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/aiwithapex/twinminds-ear-3-is-changing-voice-ai-526-wer-140-languages-real-time-savings-3jc0",
+          "isoDate": "2025-09-16T04:44:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Manthan Ankolekar",
+          "title": "🚀 Deploying a Node.js CRUD App on AWS with Terraform",
+          "link": "https://dev.to/manthanank/deploying-a-nodejs-crud-app-on-aws-with-terraform-50l3",
+          "pubDate": "Tue, 16 Sep 2025 04:30:00 +0000",
+          "dc:creator": "Manthan Ankolekar",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/manthanank/deploying-a-nodejs-crud-app-on-aws-with-terraform-50l3",
+          "categories": [
+            "node",
+            "aws",
+            "terraform",
+            "webdev"
+          ],
+          "isoDate": "2025-09-16T04:30:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Devi Kaliappan",
+          "title": "What if AI had moods—and we could track them like signal waves? An experimental prototype on visualizing AI engagement.",
+          "link": "https://dev.to/devi_kaliappan_01fa4411c9/what-if-ai-had-moods-and-we-could-track-them-like-signal-waves-an-experimental-prototype-on-3p93",
+          "pubDate": "Tue, 16 Sep 2025 04:27:34 +0000",
+          "dc:creator": "Devi Kaliappan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/devi_kaliappan_01fa4411c9/what-if-ai-had-moods-and-we-could-track-them-like-signal-waves-an-experimental-prototype-on-3p93",
+          "isoDate": "2025-09-16T04:27:34.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
           "creator": "Bhavy K",
-          "title": "Debug Journal Method",
-          "link": "https://dev.to/bhavy_k_5a3b6c88887b58c92/debug-journal-method-55cc",
-          "pubDate": "Mon, 15 Sep 2025 04:30:19 +0000",
+          "title": "Great article on % Minutes Daily code cleanup",
+          "link": "https://dev.to/bhavy_k_5a3b6c88887b58c92/great-article-on-minutes-daily-code-cleanup-4107",
+          "pubDate": "Tue, 16 Sep 2025 04:26:29 +0000",
           "dc:creator": "Bhavy K",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/bhavy_k_5a3b6c88887b58c92/debug-journal-method-55cc",
+          "guid": "https://dev.to/bhavy_k_5a3b6c88887b58c92/great-article-on-minutes-daily-code-cleanup-4107",
           "categories": [
+            "codereview",
             "webdev",
             "devops",
-            "learning",
-            "bug"
+            "learning"
           ],
-          "isoDate": "2025-09-15T04:30:19.000Z",
+          "isoDate": "2025-09-16T04:26:29.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Pratham naik",
+          "title": "The 5-Minute Daily Code Cleanup: How One Small Habit Doubled My Bug-Free Deployments",
+          "link": "https://dev.to/teamcamp/the-5-minute-daily-code-cleanup-how-one-small-habit-doubled-my-bug-free-deployments-lil",
+          "pubDate": "Tue, 16 Sep 2025 04:24:34 +0000",
+          "dc:creator": "Pratham naik",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/teamcamp/the-5-minute-daily-code-cleanup-how-one-small-habit-doubled-my-bug-free-deployments-lil",
+          "categories": [
+            "codereview",
+            "webdev",
+            "devops",
+            "learning"
+          ],
+          "isoDate": "2025-09-16T04:24:34.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Kingson Wu",
+          "title": "Driving AI CLI Tools to Write Code: A Semi-Automated Workflow",
+          "link": "https://dev.to/kingson4ng/driving-ai-cli-tools-to-write-code-a-semi-automated-workflow-1kj1",
+          "pubDate": "Tue, 16 Sep 2025 04:14:12 +0000",
+          "dc:creator": "Kingson Wu",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/kingson4ng/driving-ai-cli-tools-to-write-code-a-semi-automated-workflow-1kj1",
+          "categories": [
+            "coding",
+            "ai",
+            "automation"
+          ],
+          "isoDate": "2025-09-16T04:14:12.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -5295,7 +5289,7 @@
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/blog.atom",
       "title": "DigitalOcean Blog",
-      "lastBuildDate": "2025-09-12T02:03:35.911Z"
+      "lastBuildDate": "2025-09-15T17:01:17.979Z"
     },
     "Julia Evans": {
       "items": [
@@ -6846,6 +6840,28 @@
     "Frontend Masters": {
       "items": [
         {
+          "creator": "John Rhea",
+          "title": "Replace Your Animated GIFs with SVGs",
+          "link": "https://frontendmasters.com/blog/replace-your-animated-gifs-with-svgs/",
+          "pubDate": "Mon, 15 Sep 2025 16:12:53 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "John Rhea",
+          "comments": "https://frontendmasters.com/blog/replace-your-animated-gifs-with-svgs/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://frontendmasters.com/blog/?p=7112",
+          "categories": [
+            "Blog Post",
+            "Animation",
+            "CSS",
+            "Images",
+            "SVG"
+          ],
+          "isoDate": "2025-09-15T16:12:53.000Z",
+          "summary": ""
+        },
+        {
           "creator": "Chris Coyier",
           "title": "Breakpoint Columns, Five Ways. Which Do You Like?",
           "link": "https://frontendmasters.com/blog/breakpoint-columns-five-ways-which-do-you-like/",
@@ -7037,27 +7053,6 @@
           ],
           "isoDate": "2025-09-01T19:50:36.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Amit Sheen",
-          "title": "The `-path` of Least Resistance (Part 2)",
-          "link": "https://frontendmasters.com/blog/the-path-of-least-resistance-part-2/",
-          "pubDate": "Sat, 30 Aug 2025 05:47:10 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Amit Sheen",
-          "comments": "https://frontendmasters.com/blog/the-path-of-least-resistance-part-2/#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://frontendmasters.com/blog/?p=6976",
-          "categories": [
-            "Blog Post",
-            "Animation",
-            "CSS",
-            "offset-path"
-          ],
-          "isoDate": "2025-08-30T05:47:10.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://frontendmasters.com/blog/feed/",
@@ -7069,7 +7064,7 @@
       "generator": "https://wordpress.org/?v=6.8.2",
       "link": "https://frontendmasters.com/blog",
       "language": "en-US",
-      "lastBuildDate": "Sat, 13 Sep 2025 14:58:15 +0000"
+      "lastBuildDate": "Mon, 15 Sep 2025 17:49:02 +0000"
     },
     "Darren Horrocks": {
       "items": [
@@ -7357,18 +7352,6 @@
           "contentSnippet": "",
           "guid": "https://www.darrenhorrocks.co.uk/why-rust-its-memory-safety-lulls-developers-into-false-sense-security/",
           "isoDate": "2024-10-02T22:49:04.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Stop Designing Your Web Application for Millions of Users When You Don’t Even Have 100",
-          "link": "https://www.darrenhorrocks.co.uk/stop-designing-web-applications-for-millions/",
-          "pubDate": "Sun, 15 Sep 2024 22:05:07 +0100",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darrenhorrocks.co.uk/stop-designing-web-applications-for-millions/",
-          "isoDate": "2024-09-15T21:05:07.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -9163,6 +9146,24 @@
     "Free Code Camp - News": {
       "items": [
         {
+          "creator": "\n                     Beau Carnes \n                ",
+          "title": "\n                     Code Your Own Code Editor \n                ",
+          "link": "https://www.freecodecamp.org/news/code-your-own-code-editor/",
+          "pubDate": "Mon, 15 Sep 2025 14:50:15 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "\n                     Beau Carnes \n                ",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "68c827a7023360e7e4bf5f8f",
+          "categories": [
+            "\n                         JavaScript \n                    ",
+            "\n                         youtube \n                    "
+          ],
+          "isoDate": "2025-09-15T14:50:15.000Z",
+          "summary": ""
+        },
+        {
           "creator": "\n                     Gabor Koos \n                ",
           "title": "\n                     How to Work with Collections in Go Using the Standard Library Helpers \n                ",
           "link": "https://www.freecodecamp.org/news/how-to-work-with-collections-in-go-using-the-standard-library-helpers/",
@@ -9329,24 +9330,6 @@
           ],
           "isoDate": "2025-09-10T15:39:44.000Z",
           "summary": ""
-        },
-        {
-          "creator": "\n                     Beau Carnes \n                ",
-          "title": "\n                     Learn Game Development by Building Your First Platformer with Godot \n                ",
-          "link": "https://www.freecodecamp.org/news/learn-game-development-by-building-your-first-platformer-with-godot/",
-          "pubDate": "Wed, 10 Sep 2025 14:00:43 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "\n                     Beau Carnes \n                ",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "68c1848b89889b1c80036d24",
-          "categories": [
-            "\n                         Godot \n                    ",
-            "\n                         youtube \n                    "
-          ],
-          "isoDate": "2025-09-10T14:00:43.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.freecodecamp.org/news/rss.xml",
@@ -9362,11 +9345,32 @@
       "description": "\n             Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice. \n        ",
       "generator": "Eleventy",
       "link": "https://www.freecodecamp.org/news/",
-      "lastBuildDate": "Mon, 15 Sep 2025 02:16:15 +0000",
+      "lastBuildDate": "Tue, 16 Sep 2025 02:06:52 +0000",
       "ttl": "60"
     },
     "Github Blog": {
       "items": [
+        {
+          "creator": "brian m. carlson",
+          "title": "Post-quantum security for SSH access on GitHub",
+          "link": "https://github.blog/engineering/platform-security/post-quantum-security-for-ssh-access-on-github/",
+          "pubDate": "Mon, 15 Sep 2025 16:00:00 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "brian m. carlson",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=90756",
+          "categories": [
+            "Engineering",
+            "Platform security",
+            "Git",
+            "Security",
+            "SSH"
+          ],
+          "isoDate": "2025-09-15T16:00:00.000Z",
+          "summary": ""
+        },
         {
           "creator": "Kedasha Kerr",
           "title": "Building personal apps with open source and AI",
@@ -9544,27 +9548,6 @@
           ],
           "isoDate": "2025-09-03T16:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Den Delimarsky",
-          "title": "Spec-driven development with AI: Get started with a new open source toolkit",
-          "link": "https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/",
-          "pubDate": "Tue, 02 Sep 2025 16:48:03 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Den Delimarsky",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=90579",
-          "categories": [
-            "AI & ML",
-            "Generative AI",
-            "GitHub Copilot",
-            "open source",
-            "Spec-driven development"
-          ],
-          "isoDate": "2025-09-02T16:48:03.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://github.blog/feed/",
@@ -9583,7 +9566,7 @@
       "generator": "https://wordpress.org/?v=6.8.2",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Thu, 11 Sep 2025 20:48:38 +0000"
+      "lastBuildDate": "Mon, 15 Sep 2025 14:26:43 +0000"
     },
     "Mi Yau Chi": {
       "items": [
@@ -10037,6 +10020,24 @@
       "items": [
         {
           "creator": "Rajkumar",
+          "title": "TestCollab Review (2025): AI-Powered Test Management Tool for Modern QA Teams",
+          "link": "https://www.softwaretestingmaterial.com/testcollab-review/?utm_source=rss&utm_medium=rss&utm_campaign=testcollab-review",
+          "pubDate": "Mon, 15 Sep 2025 12:56:35 +0000",
+          "dc:creator": "Rajkumar",
+          "comments": "https://www.softwaretestingmaterial.com/testcollab-review/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.softwaretestingmaterial.com/?p=45821",
+          "categories": [
+            "Reviews"
+          ],
+          "isoDate": "2025-09-15T12:56:35.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Rajkumar",
           "title": "9 Best ITSM Tools 2025: Features, Pros & How to Choose",
           "link": "https://www.softwaretestingmaterial.com/itsm-tools/?utm_source=rss&utm_medium=rss&utm_campaign=itsm-tools",
           "pubDate": "Wed, 16 Jul 2025 17:55:57 +0000",
@@ -10198,24 +10199,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Rajkumar",
-          "title": "6 Best Manufacturing IT Automation Software Solutions for SAP Production Planning in 2025",
-          "link": "https://www.softwaretestingmaterial.com/manufacturing-it-automation-software-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=manufacturing-it-automation-software-solutions",
-          "pubDate": "Fri, 04 Apr 2025 00:42:26 +0000",
-          "dc:creator": "Rajkumar",
-          "comments": "https://www.softwaretestingmaterial.com/manufacturing-it-automation-software-solutions/#respond",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.softwaretestingmaterial.com/?p=44720",
-          "categories": [
-            "SAP"
-          ],
-          "isoDate": "2025-04-04T00:42:26.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.softwaretestingmaterial.com/blog/feed/",
@@ -10234,7 +10217,7 @@
       "generator": "https://wordpress.org/?v=6.8.2",
       "link": "https://www.softwaretestingmaterial.com",
       "language": "en-US",
-      "lastBuildDate": "Wed, 16 Jul 2025 18:57:59 +0000"
+      "lastBuildDate": "Mon, 15 Sep 2025 12:56:38 +0000"
     },
     "JWorks Tech Blog": {
       "items": [
@@ -11128,7 +11111,7 @@
       "link": "https://www.cloudbees.com/blog/feed",
       "language": "en",
       "copyright": "All rights reserved 2025, CloudBees",
-      "lastBuildDate": "Mon, 15 Sep 2025 04:59:18 GMT",
+      "lastBuildDate": "Tue, 16 Sep 2025 04:12:12 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     }
   }
