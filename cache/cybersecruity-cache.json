@@ -4,6 +4,23 @@
     "Snyk Blog": {
       "items": [
         {
+          "title": "Secure Your AI Workflows: New Governance & Visibility Features from Snyk",
+          "link": "https://snyk.io/blog/govern-and-secure-AI-driven-workflows/",
+          "pubDate": "Thu, 18 Sep 2025 08:00:00 GMT",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/snyk/image/upload/v1686150119/blog-feature-parlay-announcement.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://snyk.io/blog/govern-and-secure-AI-driven-workflows/",
+          "isoDate": "2025-09-18T08:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "Speaking Different Languages: How to Align Dev and Sec Teams Effectively",
           "link": "https://snyk.io/blog/speaking-different-languages-how-to-align-dev-and-sec-teams-effectively/",
           "pubDate": "Mon, 15 Sep 2025 23:00:00 GMT",
@@ -70,23 +87,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "What an 'Aha' Moment with an Org Admin Token Taught One DevSecCon Speaker About AI Security",
-          "link": "https://snyk.io/blog/what-an-aha-moment-with-an-org-admin-token-taught-one-devseccon-speaker/",
-          "pubDate": "Thu, 04 Sep 2025 04:00:00 GMT",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/snyk/image/upload/v1686163008/feature-snyk-platform-learn-ways-to-integrate-snyk.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://snyk.io/blog/what-an-aha-moment-with-an-org-admin-token-taught-one-devseccon-speaker/",
-          "isoDate": "2025-09-04T04:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://snyk.io/blog/feed/",
@@ -98,11 +98,131 @@
       "generator": "Custom Next.js RSS generator",
       "link": "https://snyk.io",
       "language": "en-US",
-      "lastBuildDate": "Thu, 18 Sep 2025 05:06:17 GMT",
+      "lastBuildDate": "Fri, 19 Sep 2025 05:06:25 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "The Hacker News": {
       "items": [
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "CISA Warns of Two Malware Strains Exploiting Ivanti EPMM CVE-2025-4427 and CVE-2025-4428",
+          "link": "https://thehackernews.com/2025/09/cisa-warns-of-two-malware-strains.html",
+          "pubDate": "Fri, 19 Sep 2025 09:40:00 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO9PVt1uJywn46YI4l6-DXrIDYd_UbAIruaqT_GRq6c6jeycH8T0RZqFbl_PmH8ggLM_p4iNcp1rwb4kmf55-bHOH-NS-Fj_tJXDueUcK3ORjroBo10NxrFXrYO0pzJ8yYRkhX_QUO_hSqeIHwSdigBkhu-XPuqzXk96RPS0g6fDqg3-wkzNO4Dx6ammA4/s1600/cisa.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2025/09/cisa-warns-of-two-malware-strains.html",
+          "isoDate": "2025-09-19T04:10:00.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "SonicWall Urges Password Resets After Cloud Backup Breach Affecting Under 5% of Customers",
+          "link": "https://thehackernews.com/2025/09/sonicwall-urges-password-resets-after.html",
+          "pubDate": "Thu, 18 Sep 2025 19:42:00 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6DuAOeSPPKaTtfFkphJnx31HWv2K4Y1c_lE-JaYDRAKekoUTLLYiAh-A38ZTiRmpFisp_R39ajqwFpGc_27G_wnR-YQ09FpJ2CJSGc4sI_0ruO3l_BCHJqzFjAeOimCWFp8nUTVbjurA3Ip8Xnff68KE7sH2McLp66iAcOsvOQwe2rZaopi0iNn4IYCgv/s1600/sonicwall.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2025/09/sonicwall-urges-password-resets-after.html",
+          "isoDate": "2025-09-18T14:12:00.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "CountLoader Broadens Russian Ransomware Operations With Multi-Version Malware Loader",
+          "link": "https://thehackernews.com/2025/09/countloader-broadens-russian-ransomware.html",
+          "pubDate": "Thu, 18 Sep 2025 18:26:00 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZnVtv_PbVjEISGhCVekRjxkYEf9o-sXD-aOoO6xgVDbJNEFLNAPRPirIFMImRY2iQMBiwJTmnwj5WM4AtG3JzXPL2u8wkzk6g00NUfPtnn9UJv1xCTHqqVBvVp2urMJSRQvjTLp7bUHbuO21Z-HWS-Jw3eCoToIZVqhwIRxzUGLLAz89NnIzqjH5ztMt6/s1600/ransomware.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2025/09/countloader-broadens-russian-ransomware.html",
+          "isoDate": "2025-09-18T12:56:00.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "SilentSync RAT Delivered via Two Malicious PyPI Packages Targeting Python Developers",
+          "link": "https://thehackernews.com/2025/09/silentsync-rat-delivered-via-two.html",
+          "pubDate": "Thu, 18 Sep 2025 17:08:00 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAbjw1B2M-4If7F3tFoqS9Ra3GqczXVQOAbTf0vTt6qhOxIgMMtyiF1yqZhxx8rl12vpRQ0AyJgmwreH83TJuqiNzEGCAP3XFCMVvY1w6l8FVWXWfQHy27UkRx38y-wLYHoGOfTx-lOJ7yMYidbCR2dkQv4wDolBiHz8k_7z23Z5QHBarkSazwWc9oSlv1/s1600/python.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2025/09/silentsync-rat-delivered-via-two.html",
+          "isoDate": "2025-09-18T11:38:00.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "How CISOs Can Drive Effective AI Governance",
+          "link": "https://thehackernews.com/2025/09/how-cisos-can-drive-effective-ai.html",
+          "pubDate": "Thu, 18 Sep 2025 17:00:00 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRM8iwFSFKUaICXnkUF6KsZW1IRpj76VfyKo-NhQxaiK2pezPbuowa0brBu2TsF9yJ4VMWDSR7TvbNoxJrBNWMv9bonFhZN1RtrEhHC2iA6qlU0toJ6nPddPTQ-rR0P3kmyB-4jfuxdLBGeqeQbGRYlmpdfB-0CnkG4UArF2pReMy3pj4NvLwyAv20JWY/s1600/ai-sans.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2025/09/how-cisos-can-drive-effective-ai.html",
+          "isoDate": "2025-09-18T11:30:00.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "Google Patches Chrome Zero-Day CVE-2025-10585 as Active V8 Exploit Threatens Millions",
+          "link": "https://thehackernews.com/2025/09/google-patches-chrome-zero-day-cve-2025.html",
+          "pubDate": "Thu, 18 Sep 2025 11:19:00 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVlzRvr9tBHSRQqe_2jj8SrExmcCFhoLUrrMI4GzbM0-GggNMW0BTO02GXh8i_ShmsUpEJyy85FIPBXIbXwMjR68D30ldhn8osa8zG-wKqJu6KDR3Kuri6sd9GXMbhyannAnOJEQMY4tsxJ26pXPujtzzC-8U-kncd-YNj6LfRgiETNHccmSwQQY0zh3gQ/s1600/chrome.png"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2025/09/google-patches-chrome-zero-day-cve-2025.html",
+          "isoDate": "2025-09-18T05:49:00.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "info@thehackernews.com (The Hacker News)",
           "title": "TA558 Uses AI-Generated Scripts to Deploy Venom RAT in Brazil Hotel Attacks",
@@ -982,126 +1102,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "From MostereRAT to ClickFix: New Malware Campaigns Highlight Rising AI and Phishing Risks",
-          "link": "https://thehackernews.com/2025/09/from-mostererat-to-clickfix-new-malware.html",
-          "pubDate": "Tue, 09 Sep 2025 15:57:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAdZLxSJozEiJQWYTBgt-QhqVkMmpjmNpeKtS7jgblF1ITNJICXp3bm_otSyVtV0jZ_DXHhKH7oXAcEluFPCRu3YdKAuaYLgGHCkz3d4szKsi6gE1fbUJrMxZMAf92kWvntoQcgFo5fyVjDmudo5_lfnSahb4feX5afYxD12wywSe3Gb3QQWSMA8m8RKHu/s1600/phishing-click.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2025/09/from-mostererat-to-clickfix-new-malware.html",
-          "isoDate": "2025-09-09T10:27:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "How Leading CISOs are Getting Budget Approval",
-          "link": "https://thehackernews.com/2025/09/how-leading-cisos-are-getting-budget.html",
-          "pubDate": "Tue, 09 Sep 2025 15:56:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNemBGo1w1Iji50azIFpwJiworVCvUGt9bsnZtEyj7yI_XNBa-oEOH2mVDfCnXrzC8D-qghxGax7BOB1ILh27DQb6ZLxD5oyiB9m2-uDFDv-r_JSysIU3t6XZMrGCPbKd1snUuJAJ0zftk4KlfxptFYl_SRSkgmA2pd94BpLf5a0evSpIJlsogwlGxWZM/s1600/pentera.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2025/09/how-leading-cisos-are-getting-budget.html",
-          "isoDate": "2025-09-09T10:26:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "TOR-Based Cryptojacking Attack Expands Through Misconfigured Docker APIs",
-          "link": "https://thehackernews.com/2025/09/tor-based-cryptojacking-attack-expands.html",
-          "pubDate": "Tue, 09 Sep 2025 15:32:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTyVEL-sVGK04WfS6I9fiQcWLnTLiP7kInJxyq-ngjBUXeaVY-5Qz28Ry2RAYdhfxpYZQj7_7Y6QM5k4MLyWLd7MB8fI8rnJ-9m6AhwT8DymYkZvNWxX3TGJYWWNyYBzf2xpV3nHV6X1fCVgeZy1jjUv4hxA6xWgf1teDdEsImJh15RViyra8BVcBOXvlZ/s1600/docker.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2025/09/tor-based-cryptojacking-attack-expands.html",
-          "isoDate": "2025-09-09T10:02:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "20 Popular npm Packages With 2 Billion Weekly Downloads Compromised in Supply Chain Attack",
-          "link": "https://thehackernews.com/2025/09/20-popular-npm-packages-with-2-billion.html",
-          "pubDate": "Tue, 09 Sep 2025 11:43:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtemm9XFX7C2s0emclL3-7RrQ5wLlQ2ltlzDI0sOVKMC8NirJxT9C9yMnNO0DrcwB6yDwsArFXsKik-k9b1FvWeelLcN3rwubVJnllQwDUwoEH4WkTuUOiU5wgLCBrSaHhvvx9MNaH0dFr8tt9oqnDfSFY_26Cy6r-Nhwnrr00QiUifziWejCo5vd5jyQ/s1600/1000015719.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2025/09/20-popular-npm-packages-with-2-billion.html",
-          "isoDate": "2025-09-09T06:13:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "45 Previously Unreported Domains Expose Longstanding Salt Typhoon Cyber Espionage",
-          "link": "https://thehackernews.com/2025/09/45-previously-unreported-domains-expose.html",
-          "pubDate": "Tue, 09 Sep 2025 05:57:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglZuw9enA7bnbzASBFlbShQ2KyhX7RryG_Csl3ikIBdQpjOAuVEybc9Am3_zgXgcpUQNxSwa3AwE9jBjZ3w6_mdHUWVjBPf1PC7yoDp3TaUVlp_nMcKXmCFVdF-rhyjPJb5AdtJfoRzljLNH_h8RdhbSOq34Yeqe9eAQN2Eix6pgo58y0rpD2MAeG6Xbb_/s1600/chinese-hackers.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2025/09/45-previously-unreported-domains-expose.html",
-          "isoDate": "2025-09-09T00:27:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "GitHub Account Compromise Led to Salesloft Drift Breach Affecting 22 Companies",
-          "link": "https://thehackernews.com/2025/09/github-account-compromise-led-to.html",
-          "pubDate": "Mon, 08 Sep 2025 20:56:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhBbiqxBO337yWI2JoE0RHA0r-uvScXk-wvnLGrncz0eMtHij2MOijjXGQY9Q5Xi5QrpZVHmNJr2T882tVoT5AAMz2yXAT_1ujFMoRKd_hkyjWPzQH2I-2OIjouz_GrwuJP2qj6_O9Cdx9qRoCf6Yd9pbz702tvFIok3KgjdLv_uyB1fhYaaBF6dsZGZ2X/s1600/git.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2025/09/github-account-compromise-led-to.html",
-          "isoDate": "2025-09-08T15:26:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
@@ -1112,7 +1112,7 @@
       "description": "Most trusted, widely-read independent cybersecurity news source for everyone; supported by hackers and IT professionals — Send TIPs to admin@thehackernews.com",
       "link": "https://thehackernews.com",
       "language": "en-us",
-      "lastBuildDate": "Thu, 18 Sep 2025 08:30:03 +0530",
+      "lastBuildDate": "Fri, 19 Sep 2025 08:58:12 +0530",
       "itunes": {}
     },
     "Krebson Security": {
@@ -1470,6 +1470,28 @@
       "items": [
         {
           "creator": "Bruce Schneier",
+          "title": "Time-of-Check Time-of-Use Attacks Against LLMs",
+          "link": "https://www.schneier.com/blog/archives/2025/09/time-of-check-time-of-use-attacks-against-llms.html",
+          "pubDate": "Thu, 18 Sep 2025 11:06:38 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Bruce Schneier",
+          "comments": "https://www.schneier.com/blog/archives/2025/09/time-of-check-time-of-use-attacks-against-llms.html#comments",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.schneier.com/?p=70832",
+          "categories": [
+            "Uncategorized",
+            "academic papers",
+            "cyberattack",
+            "LLM",
+            "vulnerabilities"
+          ],
+          "isoDate": "2025-09-18T11:06:38.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Bruce Schneier",
           "title": "Hacking Electronic Safes",
           "link": "https://www.schneier.com/blog/archives/2025/09/hacking-electronic-safes.html",
           "pubDate": "Wed, 17 Sep 2025 11:05:59 +0000",
@@ -1657,26 +1679,6 @@
           ],
           "isoDate": "2025-09-08T11:05:31.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Bruce Schneier",
-          "title": "Friday Squid Blogging: The Origin and Propagation of Squid",
-          "link": "https://www.schneier.com/blog/archives/2025/09/friday-squid-blogging-the-origin-and-propagation-of-squid.html",
-          "pubDate": "Sat, 06 Sep 2025 00:05:27 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Bruce Schneier",
-          "comments": "https://www.schneier.com/blog/archives/2025/09/friday-squid-blogging-the-origin-and-propagation-of-squid.html#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.schneier.com/?p=70661",
-          "categories": [
-            "Uncategorized",
-            "academic papers",
-            "squid"
-          ],
-          "isoDate": "2025-09-06T00:05:27.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.schneier.com/feed/",
@@ -1694,7 +1696,7 @@
       "description": "",
       "link": "https://www.schneier.com/",
       "language": "en-US",
-      "lastBuildDate": "Tue, 16 Sep 2025 16:10:41 +0000"
+      "lastBuildDate": "Wed, 17 Sep 2025 15:58:11 +0000"
     },
     "Tao Security": {
       "items": [
@@ -1920,6 +1922,148 @@
     },
     "Graham Cluley": {
       "items": [
+        {
+          "creator": "Graham Cluley",
+          "title": "“Pompompurin” resentenced: BreachForums creator heads back behind bars",
+          "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/pompompurin-resentenced-breachforums-creator-heads-back-behind-bars",
+          "pubDate": "Thu, 18 Sep 2025 07:57:12 +0000",
+          "dc:creator": "Graham Cluley",
+          "comments": "https://www.bitdefender.com/en-us/blog/hotforsecurity/pompompurin-resentenced-breachforums-creator-heads-back-behind-bars#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://grahamcluley.com/?p=17348722",
+          "categories": [
+            "Data loss",
+            "Guest blog",
+            "Law & order",
+            "Malware",
+            "BreachForums",
+            "data breach"
+          ],
+          "isoDate": "2025-09-18T07:57:12.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Graham Cluley",
+          "title": "Smashing Security podcast #435: Lights! Camera! Hacktion!",
+          "link": "https://grahamcluley.com/smashing-security-podcast-435/",
+          "pubDate": "Wed, 17 Sep 2025 23:00:51 +0000",
+          "dc:creator": "Graham Cluley",
+          "comments": "https://grahamcluley.com/smashing-security-podcast-435/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://grahamcluley.com/?p=17348709",
+          "categories": [
+            "Law & order",
+            "Malware",
+            "Phishing",
+            "Podcast",
+            "Privacy",
+            "Iran",
+            "israel",
+            "phishing",
+            "school",
+            "Smashing Security"
+          ],
+          "isoDate": "2025-09-17T23:00:51.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Graham Cluley",
+          "title": "From mischief to malware: ICO warns schools about student hackers",
+          "link": "https://www.fortra.com/blog/mischief-malware-ico-warns-schools-about-student-hackers",
+          "pubDate": "Wed, 17 Sep 2025 16:25:44 +0000",
+          "dc:creator": "Graham Cluley",
+          "comments": "https://www.fortra.com/blog/mischief-malware-ico-warns-schools-about-student-hackers#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://grahamcluley.com/?p=17348717",
+          "categories": [
+            "Guest blog",
+            "Law & order",
+            "Security threats",
+            "hacking",
+            "ico",
+            "insider threat",
+            "school"
+          ],
+          "isoDate": "2025-09-17T16:25:44.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Graham Cluley",
+          "title": "Luxury fashion brands Gucci, Balenciaga and Alexander McQueen hacked – customer data stolen",
+          "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/luxury-fashion-brands-gucci-balenciaga-and-alexander-mcqueen-hacked-customer-data-stolen",
+          "pubDate": "Tue, 16 Sep 2025 14:03:02 +0000",
+          "dc:creator": "Graham Cluley",
+          "comments": "https://www.bitdefender.com/en-us/blog/hotforsecurity/luxury-fashion-brands-gucci-balenciaga-and-alexander-mcqueen-hacked-customer-data-stolen#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://grahamcluley.com/?p=17348703",
+          "categories": [
+            "Data loss",
+            "Guest blog",
+            "Ransomware",
+            "data breach",
+            "Gucci",
+            "ransomware"
+          ],
+          "isoDate": "2025-09-16T14:03:02.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Graham Cluley",
+          "title": "The AI Fix #68: AI telepathy, and rights for robots",
+          "link": "https://grahamcluley.com/the-ai-fix-68/",
+          "pubDate": "Tue, 16 Sep 2025 14:00:40 +0000",
+          "dc:creator": "Graham Cluley",
+          "comments": "https://grahamcluley.com/the-ai-fix-68/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://grahamcluley.com/?p=17348670",
+          "categories": [
+            "AI",
+            "OpenAI",
+            "Podcast",
+            "Privacy",
+            "artificial intelligence",
+            "telepathy",
+            "The AI Fix"
+          ],
+          "isoDate": "2025-09-16T14:00:40.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Graham Cluley",
+          "title": "British rail passengers urged to stay on guard after hack signals failure",
+          "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/british-rail-passengers-hack-signals-failure",
+          "pubDate": "Fri, 12 Sep 2025 14:42:02 +0000",
+          "dc:creator": "Graham Cluley",
+          "comments": "https://www.bitdefender.com/en-us/blog/hotforsecurity/british-rail-passengers-hack-signals-failure#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://grahamcluley.com/?p=17348650",
+          "categories": [
+            "Data loss",
+            "Guest blog",
+            "data breach",
+            "rail"
+          ],
+          "isoDate": "2025-09-12T14:42:02.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Graham Cluley",
           "title": "Smashing Security podcast #434: Whopper Hackers, and AI Whoppers",
@@ -2261,149 +2405,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Graham Cluley",
-          "title": "Alleged mastermind behind K-Pop celebrity stock heist extradited to South Korea",
-          "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/alleged-mastermind-behind-k-pop-celebrity-stock-heist-extradited-to-south-korea",
-          "pubDate": "Tue, 26 Aug 2025 11:31:08 +0000",
-          "dc:creator": "Graham Cluley",
-          "comments": "https://www.bitdefender.com/en-us/blog/hotforsecurity/alleged-mastermind-behind-k-pop-celebrity-stock-heist-extradited-to-south-korea#respond",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://grahamcluley.com/?p=17348377",
-          "categories": [
-            "Celebrities",
-            "Guest blog",
-            "Hacked celebrities",
-            "Law & order",
-            "cryptocurrency",
-            "K-Pop",
-            "South Korea",
-            "Thailand"
-          ],
-          "isoDate": "2025-08-26T11:31:08.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Graham Cluley",
-          "title": "Yemen Cyber Army hacker jailed after stealing millions of people’s data",
-          "link": "https://grahamcluley.com/yemen-cyber-army-hacker-jailed-after-stealing-millions-of-peoples-data/",
-          "pubDate": "Mon, 25 Aug 2025 07:46:39 +0000",
-          "dc:creator": "Graham Cluley",
-          "comments": "https://grahamcluley.com/yemen-cyber-army-hacker-jailed-after-stealing-millions-of-peoples-data/#respond",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://grahamcluley.com/?p=17348382",
-          "categories": [
-            "Law & order",
-            "Yemen Cyber Army"
-          ],
-          "isoDate": "2025-08-25T07:46:39.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Graham Cluley",
-          "title": "Europol says Telegram post about $50,000 Qilin ransomware award is fake",
-          "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/europol-says-telegram-post-about-50-000-qilin-ransomware-award-is-fake",
-          "pubDate": "Fri, 22 Aug 2025 15:01:03 +0000",
-          "dc:creator": "Graham Cluley",
-          "comments": "https://www.bitdefender.com/en-us/blog/hotforsecurity/europol-says-telegram-post-about-50-000-qilin-ransomware-award-is-fake#respond",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://grahamcluley.com/?p=17348300",
-          "categories": [
-            "Guest blog",
-            "Law & order",
-            "Malware",
-            "Ransomware",
-            "bounty",
-            "Europol",
-            "Qilin",
-            "ransomware",
-            "Telegram"
-          ],
-          "isoDate": "2025-08-22T15:01:03.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Graham Cluley",
-          "title": "Blue Locker ransomware hits critical infrastructure – is your organisation ready?",
-          "link": "https://www.exponential-e.com/blog/blue-locker-ransomware-hits-critical-infrastructure-is-your-organisation-ready",
-          "pubDate": "Fri, 22 Aug 2025 07:07:13 +0000",
-          "dc:creator": "Graham Cluley",
-          "comments": "https://www.exponential-e.com/blog/blue-locker-ransomware-hits-critical-infrastructure-is-your-organisation-ready#respond",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://grahamcluley.com/?p=17348304",
-          "categories": [
-            "Data loss",
-            "Guest blog",
-            "Malware",
-            "Ransomware",
-            "Blue Locker",
-            "critical infrastructure",
-            "ransomware"
-          ],
-          "isoDate": "2025-08-22T07:07:13.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Graham Cluley",
-          "title": "Smashing Security podcast #431: How to mine millions without paying the bill",
-          "link": "https://grahamcluley.com/smashing-security-podcast-431/",
-          "pubDate": "Wed, 20 Aug 2025 23:03:26 +0000",
-          "dc:creator": "Graham Cluley",
-          "comments": "https://grahamcluley.com/smashing-security-podcast-431/#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://grahamcluley.com/?p=17348285",
-          "categories": [
-            "Law & order",
-            "Malware",
-            "Microsoft",
-            "Podcast",
-            "Vulnerability",
-            "Amazon",
-            "cloud",
-            "cryptocurrency",
-            "cryptomining",
-            "Smashing Security"
-          ],
-          "isoDate": "2025-08-20T23:03:26.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Graham Cluley",
-          "title": "Warlock ransomware: What you need to know",
-          "link": "https://www.fortra.com/blog/warlock-ransomware-what-you-need-know",
-          "pubDate": "Wed, 20 Aug 2025 16:03:33 +0000",
-          "dc:creator": "Graham Cluley",
-          "comments": "https://www.fortra.com/blog/warlock-ransomware-what-you-need-know#respond",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://grahamcluley.com/?p=17348273",
-          "categories": [
-            "Data loss",
-            "Guest blog",
-            "Malware",
-            "Ransomware",
-            "ransomware"
-          ],
-          "isoDate": "2025-08-20T16:03:33.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://grahamcluley.com/feed/",
@@ -2422,7 +2423,7 @@
       "generator": "https://wordpress.org/?v=6.8.2",
       "link": "https://grahamcluley.com",
       "language": "en-GB",
-      "lastBuildDate": "Wed, 10 Sep 2025 21:24:02 +0000"
+      "lastBuildDate": "Thu, 18 Sep 2025 07:57:12 +0000"
     },
     "Troy Hunt": {
       "items": [
@@ -2807,6 +2808,20 @@
           "content:encodedSnippet": "",
           "guid": "https://danielmiessler.com/blog/two-creativity-barriers",
           "isoDate": "2025-08-16T18:30:00.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "daniel@danielmiessler.com (Daniel Miessler)",
+          "title": "Our 20,000 Eyes and Hands",
+          "link": "https://danielmiessler.com/blog/our-20000-eyes-hands 2?utm_source=rss&utm_medium=feed&utm_campaign=website",
+          "pubDate": "Sat, 16 Aug 2025 16:45:00 GMT",
+          "author": "daniel@danielmiessler.com (Daniel Miessler)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "guid": "https://danielmiessler.com/blog/our-20000-eyes-hands 2",
+          "isoDate": "2025-08-16T16:45:00.000Z",
           "content": "",
           "contentSnippet": "",
           "summary": ""
@@ -3887,7 +3902,7 @@
       "link": "https://danielmiessler.com",
       "language": "en-US",
       "copyright": "-",
-      "lastBuildDate": "Tue, 16 Sep 2025 18:57:17 GMT",
+      "lastBuildDate": "Thu, 18 Sep 2025 08:44:33 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Architect Security": {
@@ -4134,6 +4149,62 @@
     },
     "Dark Reading": {
       "items": [
+        {
+          "creator": "Jai Vijayan, Contributing Writer",
+          "title": "TikTok Deal Won't End Enterprise Risks",
+          "link": "https://www.darkreading.com/cyber-risk/tiktok-deal-enterprise-risks",
+          "pubDate": "Thu, 18 Sep 2025 20:28:19 GMT",
+          "dc:creator": "Jai Vijayan, Contributing Writer",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/cyber-risk/tiktok-deal-enterprise-risks",
+          "isoDate": "2025-09-18T20:28:19.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Alexander Culafi",
+          "title": "SonicWall Breached, Firewall Backup Data Exposed",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-breached-firewall-backup",
+          "pubDate": "Thu, 18 Sep 2025 19:26:36 GMT",
+          "dc:creator": "Alexander Culafi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/cyberattacks-data-breaches/sonicwall-breached-firewall-backup",
+          "isoDate": "2025-09-18T19:26:36.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Richard Thurston",
+          "title": "Mastering Digital Breadcrumbs to Stay Ahead of Evolving Threats",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/mastering-digital-breadcrumbs-stay-ahead-of-evolving-threats",
+          "pubDate": "Wed, 17 Sep 2025 22:14:02 GMT",
+          "dc:creator": "Richard Thurston",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/vulnerabilities-threats/mastering-digital-breadcrumbs-stay-ahead-of-evolving-threats",
+          "isoDate": "2025-09-17T22:14:02.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Robert Lemos, Contributing Writer",
+          "title": "The Cloud Edge Is the New Attack Surface",
+          "link": "https://www.darkreading.com/cloud-security/cloud-edge-new-attack-surface",
+          "pubDate": "Wed, 17 Sep 2025 21:44:02 GMT",
+          "dc:creator": "Robert Lemos, Contributing Writer",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/cloud-security/cloud-edge-new-attack-surface",
+          "isoDate": "2025-09-17T21:44:02.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Alexander Culafi",
           "title": "Microsoft Disrupts 'RaccoonO365' Phishing Service",
@@ -4777,62 +4848,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Nate Nelson, Contributing Writer",
-          "title": "Secretive MaaS Group 'TAG-150' Develops Novel 'CastleRAT'",
-          "link": "https://www.darkreading.com/threat-intelligence/secretive-maas-group-tag-150-novel-castlerat",
-          "pubDate": "Fri, 05 Sep 2025 18:28:14 GMT",
-          "dc:creator": "Nate Nelson, Contributing Writer",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darkreading.com/threat-intelligence/secretive-maas-group-tag-150-novel-castlerat",
-          "isoDate": "2025-09-05T18:28:14.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nate Nelson, Contributing Writer",
-          "title": "Scammers Are Using Grok to Spread Malicious Links on X",
-          "link": "https://www.darkreading.com/threat-intelligence/scammers-grok-malicious-links-x",
-          "pubDate": "Fri, 05 Sep 2025 15:41:48 GMT",
-          "dc:creator": "Nate Nelson, Contributing Writer",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darkreading.com/threat-intelligence/scammers-grok-malicious-links-x",
-          "isoDate": "2025-09-05T15:41:48.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Bruce Johnson",
-          "title": "Embracing the Next Generation of Cybersecurity Talent",
-          "link": "https://www.darkreading.com/cybersecurity-operations/embracing-next-generation-cybersecurity-talent",
-          "pubDate": "Fri, 05 Sep 2025 14:00:00 GMT",
-          "dc:creator": "Bruce Johnson",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darkreading.com/cybersecurity-operations/embracing-next-generation-cybersecurity-talent",
-          "isoDate": "2025-09-05T14:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Robert Lemos, Contributing Writer",
-          "title": "Federal Cuts Put Local, State Agencies at Cyber-Risk",
-          "link": "https://www.darkreading.com/cyber-risk/federal-cuts-local-state-agencies-risk",
-          "pubDate": "Fri, 05 Sep 2025 13:00:00 GMT",
-          "dc:creator": "Robert Lemos, Contributing Writer",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darkreading.com/cyber-risk/federal-cuts-local-state-agencies-risk",
-          "isoDate": "2025-09-05T13:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.darkreading.com/feeds/rss.xml",
@@ -4847,182 +4862,353 @@
     "CIO": {
       "items": [
         {
-          "title": "Windows 10’s final countdown: Why smart SMBs are upgrading now and loving the upside",
-          "link": "https://www.cio.com/article/4056854/windows-10s-final-countdown-why-smart-smbs-are-upgrading-now-and-loving-the-upside.html",
-          "pubDate": "Thu, 18 Sep 2025 05:05:52 +0000",
+          "title": "전례 없는 엔비디아-인텔 반도체 동맹··· 전문가가 본 ‘7조원 투자’의 의미",
+          "link": "https://www.cio.com/article/4059783/%ec%a0%84%eb%a1%80-%ec%97%86%eb%8a%94-%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%ec%9d%b8%ed%85%94-%eb%b0%98%eb%8f%84%ec%b2%b4-%eb%8f%99%eb%a7%b9%c2%b7%c2%b7%c2%b7-%ec%a0%84%eb%ac%b8%ea%b0%80%ea%b0%80.html",
+          "pubDate": "Fri, 19 Sep 2025 02:36:58 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/09/4056854-0-32676600-1758171970-shutterstock_2060865356.jpg?quality=50&strip=all",
-            "length": "16787791",
+            "url": "https://www.cio.com/wp-content/uploads/2025/09/4059783-0-50716200-1758249433-geforce-rtx-founders-nvlink-100769213-orig.jpg?quality=50&strip=all",
+            "length": "288137",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Digital Transformation, IT Strategy"
+            "Data Center, GPUs, Technology Industry"
           ],
-          "isoDate": "2025-09-18T05:05:52.000Z",
+          "isoDate": "2025-09-19T02:36:58.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "CIO, CDO e l’importanza delle loro relazioni efficaci: ecco come crearle",
-          "link": "https://www.cio.com/article/4058734/cio-cdo-e-limportanza-delle-loro-relazioni-efficaci-ecco-come-crearle.html",
-          "pubDate": "Thu, 18 Sep 2025 05:00:00 +0000",
+          "title": "Outpacing Risk: How AI, quantum, and cloud are reshaping data security today",
+          "link": "https://www.cio.com/article/4058010/outpacing-risk-how-ai-quantum-and-cloud-are-reshaping-data-security-today.html",
+          "pubDate": "Thu, 18 Sep 2025 18:43:48 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/09/4058734-0-82929600-1758171704-shutterstock_2287651235.jpg?quality=50&strip=all",
-            "length": "10315556",
+            "url": "https://www.cio.com/wp-content/uploads/2025/09/4058010-0-11752000-1758221046-shutterstock_2003176019.jpg?quality=50&strip=all",
+            "length": "5603847",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Business Relationship Manager, CIO, Employee Experience"
+            "Artificial Intelligence, Security"
           ],
-          "isoDate": "2025-09-18T05:00:00.000Z",
+          "isoDate": "2025-09-18T18:43:48.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "東洋紡（TOYOBO）のCDOが語る「CDOの役割や魅力」とは",
-          "link": "https://www.cio.com/article/4057153/%e6%9d%b1%e6%b4%8b%e7%b4%a1%ef%bc%88toyobo%ef%bc%89%e3%81%aecdo%e3%81%8c%e8%aa%9e%e3%82%8b%e3%80%8ccdo%e3%81%ae%e5%bd%b9%e5%89%b2%e3%82%84%e9%ad%85%e5%8a%9b%e3%80%8d%e3%81%a8%e3%81%af.html",
-          "pubDate": "Wed, 17 Sep 2025 21:00:00 +0000",
+          "title": "Línea Directa Aseguradora ficha al CIO de Deutsche Bank en España para liderar su estrategia de Tecnología y Ciberseguridad",
+          "link": "https://www.cio.com/article/4059505/linea-directa-aseguradora-ficha-al-cio-de-deutsche-bank-en-espana-para-liderar-su-estrategia-de-tecnologia-y-ciberseguridad.html",
+          "pubDate": "Thu, 18 Sep 2025 15:38:28 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/09/4057153-0-91285700-1758142910-Foundry_-03.jpg?quality=50&strip=all",
-            "length": "3453867",
+            "url": "https://www.cio.com/wp-content/uploads/2025/09/4059505-0-52196800-1758210743-luis-garcia-san-luis-deutsche-bank.jpg?quality=50&strip=all",
+            "length": "117229",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "CIO"
+            "Careers, Insurance Industry, IT Leadership"
           ],
-          "isoDate": "2025-09-17T21:00:00.000Z",
+          "isoDate": "2025-09-18T15:38:28.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "The biggest enterprise technology M&A deals of the year (so far)",
-          "link": "https://www.cio.com/article/196371/the-biggest-enterprise-technology-ma-deals.html",
-          "pubDate": "Wed, 17 Sep 2025 19:15:39 +0000",
+          "title": "生成AIが揺るがす著作権、世界の動向は？",
+          "link": "https://www.cio.com/article/4056615/%e7%94%9f%e6%88%90ai%e3%81%8c%e6%8f%ba%e3%82%8b%e3%81%8c%e3%81%99%e8%91%97%e4%bd%9c%e6%a8%a9%e3%80%81%e4%b8%96%e7%95%8c%e3%81%ae%e5%8b%95%e5%90%91%e3%81%af%ef%bc%9f.html",
+          "pubDate": "Thu, 18 Sep 2025 15:05:02 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/09/196371-0-53461900-1758137515-mike-kononov-lFv0V3_2H6s-unsplash.jpg?quality=50&strip=all",
-            "length": "1748790",
+            "url": "https://www.cio.com/wp-content/uploads/2025/09/4056615-0-15843500-1758208024-shutterstock_2345949869.jpg?quality=50&strip=all",
+            "length": "14668206",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Mergers and Acquisitions, Technology Industry"
+            "Generative AI"
           ],
-          "isoDate": "2025-09-17T19:15:39.000Z",
+          "isoDate": "2025-09-18T15:05:02.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "SAP: Latest news and insights",
-          "link": "https://www.cio.com/article/3487010/sap-latest-news-and-insights.html",
-          "pubDate": "Wed, 17 Sep 2025 18:56:25 +0000",
+          "title": "Why people will always be the priority in a tech-driven world",
+          "link": "https://www.cio.com/article/4059475/why-people-will-always-be-the-priority-in-a-tech-driven-world.html",
+          "pubDate": "Thu, 18 Sep 2025 14:35:22 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/09/3487010-0-59373900-1758135403-shutterstock_editorial_1347234716.jpg?quality=50&strip=all",
-            "length": "1678160",
+            "url": "https://www.cio.com/wp-content/uploads/2025/09/4059475-0-97779600-1758206141-Gorodenkoff.jpg?quality=50&strip=all",
+            "length": "6668045",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Enterprise Applications, ERP Systems, SAP, Technology Industry"
+            "Business IT Alignment, Digital Transformation"
           ],
-          "isoDate": "2025-09-17T18:56:25.000Z",
+          "isoDate": "2025-09-18T14:35:22.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "Workday buys Sana to address the ‘era of superintelligence for work’",
-          "link": "https://www.cio.com/article/4058625/workday-buys-sana-for-1-1-billion-to-address-the-era-of-superintelligence-in-the-workplace.html",
-          "pubDate": "Wed, 17 Sep 2025 18:07:21 +0000",
+          "title": "5 steps to dodge budget surprises in your Windows 11 migration",
+          "link": "https://www.cio.com/article/4059469/5-steps-to-dodge-budget-surprises-in-your-windows-11-migration.html",
+          "pubDate": "Thu, 18 Sep 2025 14:29:28 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/09/4058625-0-68585500-1758142527-a-workday-photos-buildings-pleasanton-6110-ext-1.jpg?quality=50&strip=all",
-            "length": "2142400",
+            "url": "https://www.cio.com/wp-content/uploads/2025/09/4059469-0-56977100-1758205783-insta_photos_5d3b56.jpg?quality=50&strip=all",
+            "length": "15074740",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Artificial Intelligence, Enterprise Applications, Mergers and Acquisitions, Microsoft, Workday"
+            "Budget, IT Strategy"
           ],
-          "isoDate": "2025-09-17T18:07:21.000Z",
+          "isoDate": "2025-09-18T14:29:28.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "SAP user group calls for licensing clarity",
-          "link": "https://www.cio.com/article/4058824/sap-user-group-calls-for-licensing-clarity.html",
-          "pubDate": "Wed, 17 Sep 2025 16:48:10 +0000",
+          "title": "La estrategia tecnológica detrás de TuringDream, la ‘startup’ española de IA agentiva impulsada por los fundadores de Meta4",
+          "link": "https://www.cio.com/article/4059428/la-estrategia-tecnologica-detras-de-turingdream-la-startup-espanola-de-ia-agentiva-impulsada-por-los-fundadores-de-meta4.html",
+          "pubDate": "Thu, 18 Sep 2025 14:01:16 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/09/4058824-0-10028900-1758127713-SAP-building.jpg?quality=50&strip=all",
-            "length": "120968",
+            "url": "https://www.cio.com/wp-content/uploads/2025/09/4059428-0-44628600-1758204654-Juan-Moran-Enrique-Dans-Manuel-Tarrasa.jpg?quality=50&strip=all",
+            "length": "1412718",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Cloud Computing, SAP, Software Licensing"
+            "Artificial Intelligence, Digital Transformation, Education Industry, Generative AI, IT Leadership"
           ],
-          "isoDate": "2025-09-17T16:48:10.000Z",
+          "isoDate": "2025-09-18T14:01:16.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "Slackのダイレクトメッセージ、実は会社も見られるかもしれない",
-          "link": "https://www.cio.com/article/4056613/slack%e3%81%ae%e3%83%80%e3%82%a4%e3%83%ac%e3%82%af%e3%83%88%e3%83%a1%e3%83%83%e3%82%bb%e3%83%bc%e3%82%b8%e3%80%81%e5%ae%9f%e3%81%af%e4%bc%9a%e7%a4%be%e3%82%82%e8%a6%8b%e3%82%89%e3%82%8c%e3%82%8b.html",
-          "pubDate": "Wed, 17 Sep 2025 14:11:11 +0000",
+          "title": "IT operations career paths in the age of AI",
+          "link": "https://www.cio.com/article/4058780/it-operations-career-paths-in-the-age-of-ai.html",
+          "pubDate": "Thu, 18 Sep 2025 12:12:00 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/09/4056613-0-42336200-1758118380-shutterstock_editorial_1455626558.jpg?quality=50&strip=all",
-            "length": "9183153",
+            "url": "https://www.cio.com/wp-content/uploads/2025/09/4058780-0-39520700-1758213903-cio_automation_career_path_shakeup_2400x1600-100838901-orig-100924877-orig.jpg?quality=50&strip=all",
+            "length": "493291",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Communications Security"
+            "Artificial Intelligence, Careers, IT Leadership, Staff Management"
           ],
-          "isoDate": "2025-09-17T14:11:11.000Z",
+          "isoDate": "2025-09-18T12:12:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "How software architects and project managers can leverage agentic AI",
-          "link": "https://www.cio.com/article/4058031/how-software-architects-and-project-managers-can-leverage-agentic-ai.html",
-          "pubDate": "Wed, 17 Sep 2025 13:08:00 +0000",
+          "title": "Agentic AI helps AUM Biotech punch above its weight",
+          "link": "https://www.cio.com/article/4059209/agentic-ai-helps-aum-biotech-punch-above-its-weight.html",
+          "pubDate": "Thu, 18 Sep 2025 12:00:00 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/09/4058031-0-52503200-1758114622-shutterstock_2200894181_fe4147.jpg?quality=50&strip=all",
-            "length": "3231057",
+            "url": "https://www.cio.com/wp-content/uploads/2025/09/4059209-0-80770500-1758209054-Veenu-Aishwarya-founder-and-CEO-AUM-Biotech.jpg?quality=50&strip=all",
+            "length": "288495",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Artificial Intelligence, Developer, Enterprise Architecture, Software Development"
+            "Artificial Intelligence, Emerging Technology, Science Industry, Startups"
           ],
-          "isoDate": "2025-09-17T13:08:00.000Z",
+          "isoDate": "2025-09-18T12:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "Quantum computing is coming for your data. Here’s how to stay secure",
-          "link": "https://www.cio.com/article/4058026/quantum-computing-is-coming-for-your-data-heres-how-to-stay-secure.html",
-          "pubDate": "Wed, 17 Sep 2025 12:12:00 +0000",
+          "title": "My first 10,000 days in cybersecurity",
+          "link": "https://www.cio.com/article/4043107/my-first-10000-days-in-cybersecurity.html",
+          "pubDate": "Thu, 18 Sep 2025 11:57:52 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/09/4058026-0-70324200-1758111240-quantum_computer_by_thedigitalartist_aka_pete_linforth_cc0_via_pixabay_futuristic_quantum_fractal_by_insspirito_garik_barseghyan_cc0_via_pixabay-100820885-orig.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2025/09/4043107-0-57925100-1758196790-My-First-10_000-Days-in-Cybersecurity.png",
+            "length": "6558972",
+            "type": "image/png"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "CSO and CISO"
+          ],
+          "isoDate": "2025-09-18T11:57:52.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "The talent blueprint for getting AI agents to production",
+          "link": "https://www.cio.com/article/4058647/the-talent-blueprint-for-getting-ai-agents-to-production.html",
+          "pubDate": "Thu, 18 Sep 2025 11:11:00 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2025/09/4058647-0-80017300-1758213990-TALENTO.jpg?quality=50&strip=all",
+            "length": "98904",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence, IT Leadership, Staff Management"
+          ],
+          "isoDate": "2025-09-18T11:11:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Qué estrategias de talento establecen los CIO para preparar su plantilla de TI de cara al futuro",
+          "link": "https://www.cio.com/article/4059310/que-estrategias-de-talento-establecen-los-cio-para-preparar-su-plantilla-de-ti-de-cara-al-futuro.html",
+          "pubDate": "Thu, 18 Sep 2025 10:30:29 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2025/09/4059310-0-54779500-1758191640-shutterstock_173627015.jpg?quality=50&strip=all",
+            "length": "10502984",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Careers"
+          ],
+          "isoDate": "2025-09-18T10:30:29.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "35 essential book recommendations by and for IT leaders",
+          "link": "https://www.cio.com/article/479905/essential-book-recommendations-by-and-for-it-leaders.html",
+          "pubDate": "Thu, 18 Sep 2025 10:01:00 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2025/09/479905-0-35907400-1758189803-shutterstock_1471191233.jpg?quality=50&strip=all",
+            "length": "35479831",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Careers, IT Leadership"
+          ],
+          "isoDate": "2025-09-18T10:01:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Evidence-based decision-making: A framework for IT",
+          "link": "https://www.cio.com/article/4051633/evidence-based-decision-making-a-framework-for-it.html",
+          "pubDate": "Thu, 18 Sep 2025 09:30:00 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2025/09/4051633-0-44642500-1758187936-shutterstock_2117160308.jpg?quality=50&strip=all",
+            "length": "5452287",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Business IT Alignment, IT Governance Frameworks, IT Leadership, Risk Management"
+          ],
+          "isoDate": "2025-09-18T09:30:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "AI 개발 시장 주도권, 앤트로픽으로?···MS, VS코드에 클로드 우선 노출",
+          "link": "https://www.cio.com/article/4059207/ai-%ea%b0%9c%eb%b0%9c-%ec%8b%9c%ec%9e%a5-%ec%a3%bc%eb%8f%84%ea%b6%8c-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd%ec%9c%bc%eb%a1%9c%c2%b7%c2%b7%c2%b7ms-vs%ec%bd%94%eb%93%9c%ec%97%90-%ed%81%b4%eb%a1%9c.html",
+          "pubDate": "Thu, 18 Sep 2025 07:24:23 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2025/09/4059207-0-67765700-1758180278-shutterstock_2338803257.jpg?quality=50&strip=all",
+            "length": "2220107",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Developer, Generative AI, Integrated Development Environments, Software Development"
+          ],
+          "isoDate": "2025-09-18T07:24:23.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "“협업하는 CIO의 시대” CIO와 CDO의 관계 구축에 필요한 것",
+          "link": "https://www.cio.com/article/4059213/%ed%98%91%ec%97%85%ed%95%98%eb%8a%94-cio%ec%9d%98-%ec%8b%9c%eb%8c%80-cio%ec%99%80-cdo%ec%9d%98-%ea%b4%80%ea%b3%84-%ea%b5%ac%ec%b6%95%ec%97%90-%ed%95%84%ec%9a%94%ed%95%9c-%ea%b2%83.html",
+          "pubDate": "Thu, 18 Sep 2025 07:23:50 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2025/09/4059213-0-01986600-1758180271-office-colleagues-in-conversation-shutterstock_2482326579.jpg?quality=50&strip=all",
+            "length": "10226909",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "CIO, IT Leadership"
+          ],
+          "isoDate": "2025-09-18T07:23:50.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "끝없이 수정하다 AI 성과 무너뜨린다··· ‘둠프롬프팅’의 함정",
+          "link": "https://www.cio.com/article/4059200/%eb%81%9d%ec%97%86%ec%9d%b4-%ec%88%98%ec%a0%95%ed%95%98%eb%8b%a4-ai-%ec%84%b1%ea%b3%bc-%eb%ac%b4%eb%84%88%eb%9c%a8%eb%a6%b0%eb%8b%a4%c2%b7%c2%b7%c2%b7-%eb%91%a0%ed%94%84%eb%a1%ac%ed%94%84%ed%8c%85.html",
+          "pubDate": "Thu, 18 Sep 2025 07:03:08 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2025/09/4059200-0-94062200-1758179008-shutterstock_2530897299.jpg?quality=50&strip=all",
+            "length": "7305009",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence, Generative AI, Project Management"
+          ],
+          "isoDate": "2025-09-18T07:03:08.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "우아한형제들, 브랜드·커뮤니케이션 전략부문 신설···총괄에 윤석준 전 제일기획 부사장 선임",
+          "link": "https://www.cio.com/article/4059194/%ec%9a%b0%ec%95%84%ed%95%9c%ed%98%95%ec%a0%9c%eb%93%a4-%eb%b8%8c%eb%9e%9c%eb%93%9c%c2%b7%ec%bb%a4%eb%ae%a4%eb%8b%88%ec%bc%80%ec%9d%b4%ec%85%98-%ec%a0%84%eb%9e%b5%eb%b6%80%eb%ac%b8-%ec%8b%a0%ec%84%a4.html",
+          "pubDate": "Thu, 18 Sep 2025 06:36:01 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2025/09/4059194-0-06246300-1758181948-Baemin.jpg?quality=50&strip=all",
+            "length": "795340",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "IT Leadership"
+          ],
+          "isoDate": "2025-09-18T06:36:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "칼럼 | 양자컴퓨팅으로 기업 데이터 노리는 시대, 안전 지키는 방법은?",
+          "link": "https://www.cio.com/article/4059189/%ec%b9%bc%eb%9f%bc-%ec%96%91%ec%9e%90%ec%bb%b4%ed%93%a8%ed%8c%85%ec%9c%bc%eb%a1%9c-%ea%b8%b0%ec%97%85-%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%85%b8%eb%a6%ac%eb%8a%94-%ec%8b%9c%eb%8c%80-%ec%95%88%ec%a0%84.html",
+          "pubDate": "Thu, 18 Sep 2025 06:23:33 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2025/09/4059189-0-23702500-1758176678-quantum_computer_by_thedigitalartist_aka_pete_linforth_cc0_via_pixabay_futuristic_quantum_fractal_by_insspirito_garik_barseghyan_cc0_via_pixabay-100820885-orig.jpg?quality=50&strip=all",
             "length": "4664933",
             "type": "image/jpeg"
           },
@@ -5031,208 +5217,37 @@
           "categories": [
             "Data and Information Security, Encryption, Quantum Computing"
           ],
-          "isoDate": "2025-09-17T12:12:00.000Z",
+          "isoDate": "2025-09-18T06:23:33.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "Why Culture Is the First Line of Defense in the Age of Agentic AI",
-          "link": "https://www.cio.com/article/4043094/why-culture-is-the-first-line-of-defense-in-the-age-of-agentic-ai.html",
-          "pubDate": "Wed, 17 Sep 2025 11:26:57 +0000",
+          "title": "AI 해커로 보안을 강화하다···에이전트 레드팀 구축 5단계",
+          "link": "https://www.cio.com/article/4059184/ai-%ed%95%b4%ec%bb%a4%eb%a1%9c-%eb%b3%b4%ec%95%88%ec%9d%84-%ea%b0%95%ed%99%94%ed%95%98%eb%8b%a4%c2%b7%c2%b7%c2%b7%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%a0%88%eb%93%9c%ed%8c%80-%ea%b5%ac%ec%b6%95-5.html",
+          "pubDate": "Thu, 18 Sep 2025 06:22:25 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/09/4043094-0-28743200-1758108433-Why-Culture-Is-the-First-Line-of-Defense-in-the-Age-of-Agentic-AI.jpeg?quality=50&strip=all",
-            "length": "4132747",
+            "url": "https://www.cio.com/wp-content/uploads/2025/09/4059184-0-05929800-1758177654-shutterstock_1858812901_1200x800_redteam-100938532-orig.jpg?quality=50&strip=all",
+            "length": "230151",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Artificial Intelligence"
+            "Artificial Intelligence, Cyberattacks, Security"
           ],
-          "isoDate": "2025-09-17T11:26:57.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Why human-in-the-loop is the only path to trustworthy AI in CPG R&D",
-          "link": "https://www.cio.com/article/4057986/why-human-in-the-loop-is-the-only-path-to-trustworthy-ai-in-cpg-rd.html",
-          "pubDate": "Wed, 17 Sep 2025 11:11:00 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/09/4057986-0-60880500-1758107581-shutterstock_2554935545.jpg?quality=50&strip=all",
-            "length": "11317990",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Artificial Intelligence, Manufacturing Industry, Regulation"
-          ],
-          "isoDate": "2025-09-17T11:11:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "The work required to create working CIO-CDO relationships",
-          "link": "https://www.cio.com/article/4049291/the-work-required-to-create-working-cio-cdo-relationships.html",
-          "pubDate": "Wed, 17 Sep 2025 10:00:00 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/09/4049291-0-05446300-1758143535-office-colleagues-in-conversation-shutterstock_2482326579.jpg?quality=50&strip=all",
-            "length": "10226909",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Business Relationship Manager, CIO, Employee Experience, IT Leadership, IT Strategy, Relationship Building, Roles"
-          ],
-          "isoDate": "2025-09-17T10:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "How International is building AI into a 200-year-old culture of transformation",
-          "link": "https://www.cio.com/article/4052822/how-international-is-building-ai-into-a-200-year-old-culture-of-transformation.html",
-          "pubDate": "Wed, 17 Sep 2025 10:00:00 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/09/4052822-0-09040800-1758142899-Robert-Oh-CDIO-International.jpg?quality=50&strip=all",
-            "length": "301910",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Artificial Intelligence, Automotive Industry, CIO, Digital Transformation, Emerging Technology, IT Leadership, IT Management, IT Strategy"
-          ],
-          "isoDate": "2025-09-17T10:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "La canadiense Colliers ubica en Madrid un centro tecnológico para dar servicio a EMEA",
-          "link": "https://www.cio.com/article/4058483/la-canadiense-colliers-ubica-en-madrid-un-centro-tecnologico-para-dar-servicio-a-emea.html",
-          "pubDate": "Wed, 17 Sep 2025 09:45:31 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/09/4058483-0-08917800-1758109645-Corporate-Colliers.jpg?quality=50&strip=all",
-            "length": "3051687",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Digital Transformation, Software Development"
-          ],
-          "isoDate": "2025-09-17T09:45:31.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Madrid ‘conecta’ la M-30 para facilitar a los conductores la navegación guiada en sus túneles",
-          "link": "https://www.cio.com/article/4058509/madrid-conecta-la-m-30-para-facilitar-a-los-conductores-la-navegacion-guiada-en-sus-tuneles.html",
-          "pubDate": "Wed, 17 Sep 2025 09:40:49 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/09/4058509-0-32222200-1758102313-M30.jpg?quality=50&strip=all",
-            "length": "445979",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Digital Transformation, Networking"
-          ],
-          "isoDate": "2025-09-17T09:40:49.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Doomprompting: Endless tinkering with AI outputs can cripple IT results",
-          "link": "https://www.cio.com/article/4056586/doomprompting-endless-tinkering-with-ai-outputs-can-cripple-it-results.html",
-          "pubDate": "Wed, 17 Sep 2025 09:30:00 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/09/4056586-0-48858200-1758101514-shutterstock_2530897299.jpg?quality=50&strip=all",
-            "length": "7305009",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Generative AI, Project Management"
-          ],
-          "isoDate": "2025-09-17T09:30:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "델 테크놀로지스 포럼 2025 개최···데이터 중심 AI 인프라로 혁신 실행 전략 제시",
-          "link": "https://www.cio.com/article/4058434/%eb%8d%b8-%ed%85%8c%ed%81%ac%eb%86%80%eb%a1%9c%ec%a7%80%ec%8a%a4-%ed%8f%ac%eb%9f%bc-2025-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%a4%91%ec%8b%ac-ai-%ec%9d%b8%ed%94%84%eb%9d%bc%eb%a1%9c-%ed%98%81.html",
-          "pubDate": "Wed, 17 Sep 2025 08:21:08 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/09/4058434-0-67528300-1758098580-한국-델-테크놀로지스-김경진-총괄사장.jpg?quality=50&strip=all",
-            "length": "2033889",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Artificial Intelligence, Dell, Infrastructure Management"
-          ],
-          "isoDate": "2025-09-17T08:21:08.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "삼성 이미지 라이브러리 취약점, ‘제로 클릭’ 백도어 위협 드러나",
-          "link": "https://www.cio.com/article/4058430/%ec%82%bc%ec%84%b1-%ec%9d%b4%eb%af%b8%ec%a7%80-%eb%9d%bc%ec%9d%b4%eb%b8%8c%eb%9f%ac%eb%a6%ac-%ec%b7%a8%ec%95%bd%ec%a0%90-%ec%a0%9c%eb%a1%9c-%ed%81%b4%eb%a6%ad-%eb%b0%b1%eb%8f%84.html",
-          "pubDate": "Wed, 17 Sep 2025 08:16:29 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/09/4058430-0-03416100-1758099803-shutterstock_2437522395.jpg?quality=50&strip=all",
-            "length": "6283756",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Mobile Security, Security, Vulnerabilities"
-          ],
-          "isoDate": "2025-09-17T08:16:29.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "‘오픈텍스트 서밋 코리아 2025’ 성료…AI 기반 정보관리 및 보안 혁신 방안 공유",
-          "link": "https://www.cio.com/article/4058424/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ec%84%9c%eb%b0%8b-%ec%bd%94%eb%a6%ac%ec%95%84-2025-%ec%84%b1%eb%a3%8cai-%ea%b8%b0%eb%b0%98-%ec%a0%95%eb%b3%b4%ea%b4%80%eb%a6%ac-%eb%b0%8f.html",
-          "pubDate": "Wed, 17 Sep 2025 08:12:11 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/09/4058424-0-00530600-1758096753-OpenText-Summit-Korea-2025-전경_waifu2x_noise1_scale2x.png",
-            "length": "3254481",
-            "type": "image/png"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Enterprise Applications, Vendors and Providers"
-          ],
-          "isoDate": "2025-09-17T08:12:11.000Z",
+          "isoDate": "2025-09-18T06:22:25.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         }
       ],
-      "title": "Windows 10’s final countdown: Why smart SMBs are upgrading now and loving the upside | CIO",
+      "title": "전례 없는 엔비디아-인텔 반도체 동맹··· 전문가가 본 ‘7조원 투자’의 의미 | CIO",
       "description": "",
       "link": "https://www.cio.com",
       "language": "en",
-      "copyright": "Copyright (c) 2025 IDG Communications, Inc.",
-      "lastBuildDate": "Thu, 18 Sep 2025 05:05:56 +0000",
+      "copyright": "Copyright (c) 2025 FoundryCo, Inc.",
+      "lastBuildDate": "Fri, 19 Sep 2025 02:36:58 +0000",
       "docs": "http://backend.userland.com/rss092"
     }
   }
