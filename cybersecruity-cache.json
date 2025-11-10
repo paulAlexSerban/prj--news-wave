@@ -98,11 +98,31 @@
       "generator": "Custom Next.js RSS generator",
       "link": "https://snyk.io",
       "language": "en-US",
-      "lastBuildDate": "Sat, 08 Nov 2025 12:16:40 GMT",
+      "lastBuildDate": "Mon, 10 Nov 2025 05:07:58 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "The Hacker News": {
       "items": [
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "Microsoft Uncovers 'Whisper Leak' Attack That Identifies AI Chat Topics in Encrypted Traffic",
+          "link": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html",
+          "pubDate": "Sat, 08 Nov 2025 19:59:00 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpBHsV_c7cesyV98XY3_PW3Ag8I1NBsboj592iw07Rlmy2xCs3QTpBUcZf59rmLBCo4JppU4HFF9GU8H7i_ADzqyvO_IxWj3GZWoVkzsh4GRWHyD1LSPWZgUEii8SnZE_BJxTmJMdG8RfstqNmGNIRcUdshTfQcPTJRVzVUJopn6FrCk5KvI0xc18Vy7bk/s1600/ai-leak.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2025/11/microsoft-uncovers-whisper-leak-attack.html",
+          "isoDate": "2025-11-08T14:29:00.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "info@thehackernews.com (The Hacker News)",
           "title": "Samsung Mobile Flaw Exploited as Zero-Day to Deploy LANDFALL Android Spyware",
@@ -1082,26 +1102,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "ThreatsDay Bulletin: DNS Poisoning Flaw, Supply-Chain Heist, Rust Malware Trick and New RATs Rising",
-          "link": "https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html",
-          "pubDate": "Thu, 30 Oct 2025 16:24:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgFjzmzkNrkKADylrwEMbXfJunGKEjaABUl6du-8jHmRjLcCttz7ppiq6xeoln6n2HiAd84y27XQD1LtPPlGSMbqVOk0S3xfdWlTa9ng7reAU4iAapmmJlorwCam4AyT4Sdw3KiNXyx_KLuuH6_uCdxLBLjyO7fvUzx2OwecJv0_hOR8svqk1aQLrY5O6R/s1600/threatsday-main.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2025/10/threatsday-bulletin-dns-poisoning-flaw.html",
-          "isoDate": "2025-10-30T10:54:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
@@ -1112,11 +1112,41 @@
       "description": "Most trusted, widely-read independent cybersecurity news source for everyone; supported by hackers and IT professionals — Send TIPs to admin@thehackernews.com",
       "link": "https://thehackernews.com",
       "language": "en-us",
-      "lastBuildDate": "Sat, 08 Nov 2025 15:38:20 +0530",
+      "lastBuildDate": "Mon, 10 Nov 2025 08:51:20 +0530",
       "itunes": {}
     },
     "Krebson Security": {
       "items": [
+        {
+          "creator": "BrianKrebs",
+          "title": "Drilling Down on Uncle Sam’s Proposed TP-Link Ban",
+          "link": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/",
+          "pubDate": "Sun, 09 Nov 2025 18:14:40 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "BrianKrebs",
+          "comments": "https://krebsonsecurity.com/2025/11/drilling-down-on-uncle-sams-proposed-tp-link-ban/#comments",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://krebsonsecurity.com/?p=72491",
+          "categories": [
+            "A Little Sunshine",
+            "Internet of Things (IoT)",
+            "Latest Warnings",
+            "The Coming Storm",
+            "Camaro Dragon",
+            "Check Point Research",
+            "DD-WRT",
+            "microsoft",
+            "OpenWrt",
+            "The Washington Post",
+            "TP-Link Systems",
+            "U.S. Department of Commerce",
+            "wired"
+          ],
+          "isoDate": "2025-11-09T18:14:40.000Z",
+          "summary": ""
+        },
         {
           "creator": "BrianKrebs",
           "title": "Cloudflare Scrubs Aisuru Botnet from Top Domains List",
@@ -1460,36 +1490,6 @@
           ],
           "isoDate": "2025-09-24T11:48:31.000Z",
           "summary": ""
-        },
-        {
-          "creator": "BrianKrebs",
-          "title": "Self-Replicating Worm Hits 180+ Software Packages",
-          "link": "https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/",
-          "pubDate": "Tue, 16 Sep 2025 14:08:02 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "BrianKrebs",
-          "comments": "https://krebsonsecurity.com/2025/09/self-replicating-worm-hits-180-software-packages/#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://krebsonsecurity.com/?p=72190",
-          "categories": [
-            "Latest Warnings",
-            "The Coming Storm",
-            "Time to Patch",
-            "Web Fraud 2.0",
-            "Aikido",
-            "Ashish Kurmi",
-            "Charlie Eriksen",
-            "GitHub",
-            "International Computer Science Institute",
-            "Nicholas Weaver",
-            "NPM",
-            "Shai-Hulud worm",
-            "StepSecurity"
-          ],
-          "isoDate": "2025-09-16T14:08:02.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://krebsonsecurity.com/feed/",
@@ -1501,7 +1501,7 @@
       "generator": "https://wordpress.org/?v=6.2.2",
       "link": "https://krebsonsecurity.com",
       "language": "en-US",
-      "lastBuildDate": "Thu, 06 Nov 2025 02:14:12 +0000"
+      "lastBuildDate": "Sun, 09 Nov 2025 18:14:40 +0000"
     },
     "Schneier on Security": {
       "items": [
@@ -2736,7 +2736,7 @@
       "description": "Hi, I'm Troy Hunt, I write this blog, run \"Have I Been Pwned\" and am a Microsoft Regional Director and MVP who travels the world speaking at events and training technology professionals",
       "generator": "Ghost 6.6",
       "link": "https://www.troyhunt.com/",
-      "lastBuildDate": "Fri, 07 Nov 2025 19:59:17 GMT",
+      "lastBuildDate": "Sat, 08 Nov 2025 16:08:41 GMT",
       "ttl": "60"
     },
     "Daniel Miessler": {
@@ -3888,20 +3888,6 @@
           "content": "",
           "contentSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "daniel@danielmiessler.com (Daniel Miessler)",
-          "title": "UL NO. 458: Ollama Vulnerabilities, Rating AI Using AI, The Mantis Hack-back Framework",
-          "link": "https://danielmiessler.com/blog/ul-458?utm_source=rss&utm_medium=feed&utm_campaign=website",
-          "pubDate": "Fri, 08 Nov 2024 16:59:59 GMT",
-          "author": "daniel@danielmiessler.com (Daniel Miessler)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "guid": "https://danielmiessler.com/blog/ul-458",
-          "isoDate": "2024-11-08T16:59:59.000Z",
-          "content": "",
-          "contentSnippet": "",
-          "summary": ""
         }
       ],
       "image": {
@@ -3915,7 +3901,7 @@
       "link": "https://danielmiessler.com",
       "language": "en-US",
       "copyright": "-",
-      "lastBuildDate": "Fri, 07 Nov 2025 05:50:31 GMT",
+      "lastBuildDate": "Sun, 09 Nov 2025 20:50:22 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Architect Security": {
@@ -4345,20 +4331,6 @@
           "summary": ""
         },
         {
-          "creator": "Adam Etherington, Rik Turner",
-          "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
-          "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
-          "pubDate": "Wed, 05 Nov 2025 14:00:00 GMT",
-          "dc:creator": "Adam Etherington, Rik Turner",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
-          "isoDate": "2025-11-05T14:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
           "creator": "Nate Nelson, Contributing Writer",
           "title": "Risk 'Comparable' to SolarWinds Incident Lurks in Popular Software Update Tool",
           "link": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
@@ -4367,6 +4339,20 @@
           "content": "",
           "contentSnippet": "",
           "guid": "https://www.darkreading.com/application-security/risk-solarwinds-popular-software-tool-update",
+          "isoDate": "2025-11-05T14:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Adam Etherington, Rik Turner",
+          "title": "Closing the AI Execution Gap in Cybersecurity — A CISO Framework",
+          "link": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
+          "pubDate": "Wed, 05 Nov 2025 14:00:00 GMT",
+          "dc:creator": "Adam Etherington, Rik Turner",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/cybersecurity-operations/closing-ai-execution-gap-cybersecurity-ciso-framework",
           "isoDate": "2025-11-05T14:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
@@ -4875,11 +4861,68 @@
     "CIO": {
       "items": [
         {
+          "title": "인터뷰 | 이은주 GS칼텍스 DX센터장 “현업이 직접 AI 에이전트 만드는 에너지 기업, 비결은 DAX 통합 추진”",
+          "link": "https://www.cio.com/article/4087123/%ec%9d%b8%ed%84%b0%eb%b7%b0-%ec%9d%b4%ec%9d%80%ec%a3%bc-gs%ec%b9%bc%ed%85%8d%ec%8a%a4-dx%ec%84%bc%ed%84%b0%ec%9e%a5-%ed%98%84%ec%97%85%ec%9d%b4-%ec%a7%81%ec%a0%91-ai-%ec%97%90%ec%9d%b4.html",
+          "pubDate": "Mon, 10 Nov 2025 03:21:39 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2025/11/4087123-0-40868700-1762745394-lee.png",
+            "length": "1148345",
+            "type": "image/png"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence, C-Suite, Careers, CIO, Digital Transformation, Energy Industry, Industry, IT Leadership, Markets, Mining, Oil, and Gas"
+          ],
+          "isoDate": "2025-11-10T03:21:39.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "“AI 진짜 주인은 누구인가” AI 정렬의 딜레마와 통제를 위한 설계",
+          "link": "https://www.cio.com/article/4087047/ai-%ec%a7%84%ec%a7%9c-%ec%a3%bc%ec%9d%b8%ec%9d%80-%eb%88%84%ea%b5%ac%ec%9d%b8%ea%b0%80-ai-%ec%a0%95%eb%a0%ac%ec%9d%98-%eb%94%9c%eb%a0%88%eb%a7%88%ec%99%80-%ed%86%b5%ec%a0%9c%eb%a5%bc.html",
+          "pubDate": "Mon, 10 Nov 2025 01:38:00 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2025/11/4087047-0-10759200-1762738747-real-boss-of-your-AI-shutterstock_2699293469.jpg?quality=50&strip=all",
+            "length": "1212212",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence, CIO, Data Management, Data Quality, Generative AI"
+          ],
+          "isoDate": "2025-11-10T01:38:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "“혁신과 책임을 동시에 잡아라” 클라우드 거버넌스가 당장 필요한 이유",
+          "link": "https://www.cio.com/article/4087041/%ed%98%81%ec%8b%a0%ea%b3%bc-%ec%b1%85%ec%9e%84%ec%9d%84-%eb%8f%99%ec%8b%9c%ec%97%90-%ec%9e%a1%ec%95%84%eb%9d%bc-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ea%b1%b0%eb%b2%84%eb%84%8c.html",
+          "pubDate": "Mon, 10 Nov 2025 00:32:00 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2025/11/4087041-0-50854800-1762734788-shutterstock_1914949381_e55a8e.jpg?quality=50&strip=all",
+            "length": "6581405",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence, Cloud Computing, IT Governance, Risk Management"
+          ],
+          "isoDate": "2025-11-10T00:32:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "Microsoft lets shopping bots loose in a sandbox",
           "link": "https://www.cio.com/article/4086985/microsoft-lets-shopping-bots-loose-in-a-sandbox-2.html",
           "pubDate": "Sat, 08 Nov 2025 03:52:28 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/11/4086985-0-33742100-1762573964-shopping-cart_online-shopping_shutterstock_2521070597.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2025/11/4086985-0-34406200-1762625042-shopping-cart_online-shopping_shutterstock_2521070597.jpg?quality=50&strip=all",
             "length": "9255319",
             "type": "image/jpeg"
           },
@@ -5196,71 +5239,14 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "グリーンITの理想と現実: サステナビナビリティ対応がIT現場にもたらす疲弊とその先の展望",
-          "link": "https://www.cio.com/article/4086458/%e3%82%b0%e3%83%aa%e3%83%bc%e3%83%b3it%e3%81%ae%e7%90%86%e6%83%b3%e3%81%a8%e7%8f%be%e5%ae%9f-%e3%82%b5%e3%82%b9%e3%83%86%e3%83%8a%e3%83%93%e3%83%8a%e3%83%93%e3%83%aa%e3%83%86%e3%82%a3%e5%af%be.html",
-          "pubDate": "Fri, 07 Nov 2025 06:03:44 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/11/4086458-0-07936300-1762495439-shutterstock_2497778525.jpg?quality=50&strip=all",
-            "length": "10345610",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Data Center, Sustainable IT"
-          ],
-          "isoDate": "2025-11-07T06:03:44.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "デジタルDNA：AIは企業文化をどうコード化するのか",
-          "link": "https://www.cio.com/article/4086437/%e3%83%87%e3%82%b8%e3%82%bf%e3%83%abdna%ef%bc%9aai%e3%81%af%e4%bc%81%e6%a5%ad%e6%96%87%e5%8c%96%e3%82%92%e3%81%a9%e3%81%86%e3%82%b3%e3%83%bc%e3%83%89%e5%8c%96%e3%81%99%e3%82%8b%e3%81%ae%e3%81%8b.html",
-          "pubDate": "Fri, 07 Nov 2025 05:37:24 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/11/4086437-0-76647100-1762493858-shutterstock_1941013627.jpg?quality=50&strip=all",
-            "length": "2007127",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Analytics, Business Intelligence"
-          ],
-          "isoDate": "2025-11-07T05:37:24.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Transforming IT from a service counter into a strategic advantage",
-          "link": "https://www.cio.com/article/4086167/transforming-it-from-a-service-counter-into-a-strategic-advantage.html",
-          "pubDate": "Thu, 06 Nov 2025 19:52:25 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/11/4086167-0-58249200-1762538527-shutterstock_2472678935.png",
-            "length": "44403774",
-            "type": "image/png"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Artificial Intelligence, Digital Transformation"
-          ],
-          "isoDate": "2025-11-06T19:52:25.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
-      "title": "Microsoft lets shopping bots loose in a sandbox | CIO",
+      "title": "인터뷰 | 이은주 GS칼텍스 DX센터장 “현업이 직접 AI 에이전트 만드는 에너지 기업, 비결은 DAX 통합 추진” | CIO",
       "description": "",
       "link": "https://www.cio.com",
       "language": "en",
       "copyright": "Copyright (c) 2025 FoundryCo, Inc.",
-      "lastBuildDate": "Sat, 08 Nov 2025 03:52:28 +0000",
+      "lastBuildDate": "Mon, 10 Nov 2025 03:29:41 +0000",
       "docs": "http://backend.userland.com/rss092"
     }
   }
