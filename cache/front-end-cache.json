@@ -4,6 +4,26 @@
     "CSS Tricks": {
       "items": [
         {
+          "creator": "Sunkanmi Fafowora",
+          "title": "Should We Even Have :closed?",
+          "link": "https://css-tricks.com/should-we-even-have-closed/",
+          "pubDate": "Thu, 20 Nov 2025 15:10:26 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Sunkanmi Fafowora",
+          "comments": "https://css-tricks.com/should-we-even-have-closed/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://css-tricks.com/?p=390115",
+          "categories": [
+            "Articles",
+            "csswg",
+            "selectors"
+          ],
+          "isoDate": "2025-11-20T15:10:26.000Z",
+          "summary": ""
+        },
+        {
           "creator": "Juan Diego Rodríguez",
           "title": "The “Most Hated” CSS Feature: asin(), acos(), atan() and atan2()",
           "link": "https://css-tricks.com/the-most-hated-css-feature-asin-acos-atan-and-atan2/",
@@ -308,26 +328,6 @@
           ],
           "isoDate": "2025-10-10T14:03:52.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Geoff Graham",
-          "title": "The thing about contrast-color",
-          "link": "https://css-tricks.com/the-thing-about-contrast-color/",
-          "pubDate": "Wed, 08 Oct 2025 14:52:58 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Geoff Graham",
-          "comments": "https://css-tricks.com/the-thing-about-contrast-color/#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://css-tricks.com/?p=389698",
-          "categories": [
-            "Links",
-            "color",
-            "CSS functions"
-          ],
-          "isoDate": "2025-10-08T14:52:58.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://css-tricks.com/feed/",
@@ -345,7 +345,7 @@
       "description": "Tips, Tricks, and Techniques on using Cascading Style Sheets.",
       "link": "https://css-tricks.com",
       "language": "en-US",
-      "lastBuildDate": "Mon, 17 Nov 2025 17:14:07 +0000"
+      "lastBuildDate": "Thu, 20 Nov 2025 15:10:32 +0000"
     },
     "CSS In Real Life": {
       "items": [
@@ -2539,6 +2539,143 @@
     "Zell Wel": {
       "items": [
         {
+          "title": "Building a Honeypot Field That Works",
+          "link": "https://zellwk.com/blog/composition-in-css/",
+          "pubDate": "Tue, 14 Oct 2025 00:00:00 GMT",
+          "content:encoded": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://zellwk.com/blog/composition-in-css/",
+          "categories": [
+            "Javascript",
+            "Svelte",
+            "Splendidlabz"
+          ],
+          "isoDate": "2025-10-14T00:00:00.000Z",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "We Might Need Something Between Root and Relative CSS Units for “Base Elements”",
+          "link": "https://zellwk.com/blog/base-units/",
+          "pubDate": "Wed, 13 Aug 2025 00:00:00 GMT",
+          "content:encoded": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://zellwk.com/blog/base-units/",
+          "categories": [
+            "Css",
+            "Typography",
+            "Splendidlabz"
+          ],
+          "isoDate": "2025-08-13T00:00:00.000Z",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Thinking Deeply About Theming and Color Naming",
+          "link": "https://zellwk.com/blog/color-theming-and-naming/",
+          "pubDate": "Mon, 04 Aug 2025 00:00:00 GMT",
+          "content:encoded": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://zellwk.com/blog/color-theming-and-naming/",
+          "categories": [
+            "Css",
+            "Theming",
+            "Design",
+            "Splendidlabz"
+          ],
+          "isoDate": "2025-08-04T00:00:00.000Z",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Making a Masonry Layout That Works Today",
+          "link": "https://zellwk.com/blog/masonry/",
+          "pubDate": "Mon, 28 Jul 2025 00:00:00 GMT",
+          "content:encoded": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://zellwk.com/blog/masonry/",
+          "categories": [
+            "Css",
+            "Javascript",
+            "Layouts",
+            "Splendidlabz"
+          ],
+          "isoDate": "2025-07-28T00:00:00.000Z",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "A Primer on Focus Trapping",
+          "link": "https://zellwk.com/blog/focus-trapping/",
+          "pubDate": "Tue, 22 Jul 2025 00:00:00 GMT",
+          "content:encoded": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://zellwk.com/blog/focus-trapping/",
+          "categories": [
+            "Accessibility",
+            "Javascript",
+            "Splendidlabz"
+          ],
+          "isoDate": "2025-07-22T00:00:00.000Z",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Using CSS Cascade Layers With Tailwind Utilities",
+          "link": "https://zellwk.com/blog/tailwind-and-css-layers/",
+          "pubDate": "Mon, 21 Jul 2025 00:00:00 GMT",
+          "content:encoded": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://zellwk.com/blog/tailwind-and-css-layers/",
+          "categories": [
+            "Css",
+            "Tailwind",
+            "Unorthodox tailwind",
+            "Magicaldevs"
+          ],
+          "isoDate": "2025-07-21T00:00:00.000Z",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "A Better API for the Intersection and Mutation Observers",
+          "link": "https://zellwk.com/blog/mutation-and-intersection-observers/",
+          "pubDate": "Mon, 14 Jul 2025 00:00:00 GMT",
+          "content:encoded": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://zellwk.com/blog/mutation-and-intersection-observers/",
+          "categories": [
+            "Javascript",
+            "Splendidlabz"
+          ],
+          "isoDate": "2025-07-14T00:00:00.000Z",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "A Better API for the Resize Observer",
+          "link": "https://zellwk.com/blog/resize-observer/",
+          "pubDate": "Mon, 16 Jun 2025 00:00:00 GMT",
+          "content:encoded": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://zellwk.com/blog/resize-observer/",
+          "categories": [
+            "Javascript",
+            "Splendidlabz"
+          ],
+          "isoDate": "2025-06-16T00:00:00.000Z",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "Streaming capabilities comes to zlFetch",
           "link": "https://zellwk.com/blog/streaming-capabilities-comes-to-zlfetch/",
           "pubDate": "Tue, 27 May 2025 00:00:00 GMT",
@@ -2567,6 +2704,41 @@
             "Css"
           ],
           "isoDate": "2025-05-19T00:00:00.000Z",
+          "summary": ""
+        },
+        {
+          "title": "So, You Want to Give Up CSS Pre- and Post-Processors…",
+          "link": "https://zellwk.com/blog/switching-from-sass-to-css/",
+          "pubDate": "Thu, 17 Apr 2025 00:00:00 GMT",
+          "content:encoded": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://zellwk.com/blog/switching-from-sass-to-css/",
+          "categories": [
+            "Css",
+            "Sass",
+            "Tailwind"
+          ],
+          "isoDate": "2025-04-17T00:00:00.000Z",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Tailwind’s @apply Feature is Better Than it Sounds",
+          "link": "https://zellwk.com/blog/tailwind-apply/",
+          "pubDate": "Fri, 11 Apr 2025 00:00:00 GMT",
+          "content:encoded": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://zellwk.com/blog/tailwind-apply/",
+          "categories": [
+            "Tailwind",
+            "Css",
+            "Unorthodox tailwind",
+            "Magicaldevs"
+          ],
+          "isoDate": "2025-04-11T00:00:00.000Z",
+          "content:encodedSnippet": "",
           "summary": ""
         },
         {
@@ -2766,6 +2938,18 @@
     "Go Make Things": {
       "items": [
         {
+          "title": "Safari strikes again",
+          "link": "https://gomakethings.com/safari-strikes-again/",
+          "pubDate": "Thu, 20 Nov 2025 10:30:00 -0400",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://gomakethings.com/safari-strikes-again/",
+          "isoDate": "2025-11-20T14:30:00.000Z",
+          "summary": ""
+        },
+        {
           "title": "AI and cigarettes",
           "link": "https://gomakethings.com/ai-and-cigarettes/",
           "pubDate": "Wed, 19 Nov 2025 10:30:00 -0400",
@@ -2836,18 +3020,6 @@
           "guid": "https://gomakethings.com/pull-request-templates/",
           "isoDate": "2025-11-04T14:30:00.000Z",
           "summary": ""
-        },
-        {
-          "title": "Cloud4eva",
-          "link": "https://gomakethings.com/cloud4eva/",
-          "pubDate": "Mon, 03 Nov 2025 10:30:00 -0400",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://gomakethings.com/cloud4eva/",
-          "isoDate": "2025-11-03T14:30:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://gomakethings.com/feed/index.xml",
@@ -2859,7 +3031,7 @@
       "generator": "Hugo -- gohugo.io",
       "link": "https://gomakethings.com/articles",
       "language": "en-us",
-      "lastBuildDate": "Thu, 20 Nov 2025 00:01:39 EST"
+      "lastBuildDate": "Fri, 21 Nov 2025 00:01:38 EST"
     },
     "Trevor Lasn": {
       "items": [
