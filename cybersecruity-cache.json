@@ -4,6 +4,23 @@
     "Snyk Blog": {
       "items": [
         {
+          "title": "The Holiday Whisper: Shai-Hulud 3.0",
+          "link": "https://snyk.io/blog/shai-hulud-3-0/",
+          "pubDate": "Mon, 29 Dec 2025 05:00:00 GMT",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/snyk/image/upload/v1686004185/feature-insights-context.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://snyk.io/blog/shai-hulud-3-0/",
+          "isoDate": "2025-12-29T05:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "Evo Adds CycloneDX Support to Give Full AI Visibility",
           "link": "https://snyk.io/blog/evo-adds-cyclonedx/",
           "pubDate": "Fri, 19 Dec 2025 05:00:00 GMT",
@@ -70,23 +87,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "Accelerating innovation with AWS: Snyk selected as an AWS Pattern Partner",
-          "link": "https://snyk.io/blog/snyk-selected-as-an-aws-pattern-partner/",
-          "pubDate": "Wed, 03 Dec 2025 05:00:00 GMT",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/snyk/image/upload/v1764103334/snyk-aws-social_1_ppur0v.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://snyk.io/blog/snyk-selected-as-an-aws-pattern-partner/",
-          "isoDate": "2025-12-03T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://snyk.io/blog/feed/",
@@ -98,11 +98,91 @@
       "generator": "Custom Next.js RSS generator",
       "link": "https://snyk.io",
       "language": "en-US",
-      "lastBuildDate": "Mon, 29 Dec 2025 05:13:24 GMT",
+      "lastBuildDate": "Tue, 30 Dec 2025 05:09:55 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "The Hacker News": {
       "items": [
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More",
+          "link": "https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html",
+          "pubDate": "Mon, 29 Dec 2025 19:08:00 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrlyxi5CiR5jY-vAJtPcjpGz_L8q6_hbThbQ6ZRXd0HLNpNxG4_KNwle_7EXt_ecUGABpDmjxO2bLwLPfjUmWKfTwuP0Lh910lNr4TE6q2MAm44XQzS2k0b9RJTr1aA74Q_aNkz9frFFNZjlGuafhIChvMiOpQhzD7OfEpXZZhh_GRntRLqmRtmsdrW1NX/s1600/recap.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html",
+          "isoDate": "2025-12-29T13:38:00.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide",
+          "link": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
+          "pubDate": "Mon, 29 Dec 2025 15:16:00 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNiZRABqAp7GJHhqKTlxX3mAmNX9ySsz9docL7x7bhIaRThcg3I-nlQu1UaXaS6t8T2lQCRhw9xrLkB8neLx4H_a4cJtoOBkvRsUFg29lg6TsqSjCga61QB0xU4H72eeXjXvfRepZGXIpcLWVrcqNpu3_dCwaSbusP2AJc11PIkYmWmxrW5b_6SOlJPivt/s1600/mongodb-exploit.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html",
+          "isoDate": "2025-12-29T09:46:00.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials",
+          "link": "https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html",
+          "pubDate": "Mon, 29 Dec 2025 15:14:00 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbarqmk-H0SfVP8X3eR-wcY-UAzQs4vgDfk6mZCaOhgsKNAmf1pLBT_CfB6bMSHARl1UMwvkmd1SL9INOF4KyHSMr7eCO4lWF6745uHql2CwA4iWIGik-6yynnmPNOjdNi9FMXD6pCx3GIJ8T8em0Y6kvg-98a8AuatSM9Ql4zgApKEPOP1pySjfOrblmd/s1600/npm-login.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html",
+          "isoDate": "2025-12-29T09:44:00.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors",
+          "link": "https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html",
+          "pubDate": "Mon, 29 Dec 2025 12:04:00 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiomGjDLekFSBoR01Dq_fed3Ka4xlF2C7QEUPeyjySDg6tHRMKyjzilC9TfZYd4xTzwrsSAKhDZ8hpMGjiEZ-APKcq9cCLPtkHHWvaJeWXTNG5D63C3dDvJVd_8Ws6z8PdrwDpHxUOfgVC4xIs6OeUk1YLO6M8Zx9gXTmJy9oDl6hoJ-oCVQ52qt5cC-BiQ/s1600/main.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html",
+          "isoDate": "2025-12-29T06:34:00.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "info@thehackernews.com (The Hacker News)",
           "title": "New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory",
@@ -1022,86 +1102,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "Rogue NuGet Package Poses as Tracer.Fody, Steals Cryptocurrency Wallet Data",
-          "link": "https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html",
-          "pubDate": "Tue, 16 Dec 2025 21:09:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia6FxrdzMepgwKkHbdQyn-9xpiZ9an3eTxENAvy8AZ8sKO43S3KW5Lum4lXXo9PU8NbrVcoTYI4pEoX6MCEJjHPgh4qk5N7wjclH_8IrY_h_2mByqU7H-e8GsRgsJeXcB9bBNDFdkFOLtmqBidpS5YLn1Jbgu4bL9I3yuG8WFT58zGVDNCua4K_6yOHUnT/s1600/nuget.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2025/12/rogue-nuget-package-poses-as-tracerfody.html",
-          "isoDate": "2025-12-16T15:39:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "Amazon Exposes Years-Long GRU Cyber Campaign Targeting Energy and Cloud Infrastructure",
-          "link": "https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html",
-          "pubDate": "Tue, 16 Dec 2025 17:57:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmP5wc4kQ_fstR7DVyxpp7nwoP36IRuDO6oBSyghPEx9VCjLCy2LPOoIYBHvfUELKpnhUQTWFtfCW8RiceJj5qgDVJpptVCfGNA9eeOi0vvbPCX9FFxF-kcTRnZN49Gqw0x71mloL7e2gN-I0lW0pFIkttwupJhJp5LMWc94ozebd-Yu9k-b8CUpJvFDpY/s1600/russian.gif"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2025/12/amazon-exposes-years-long-gru-cyber.html",
-          "isoDate": "2025-12-16T12:27:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "Why Data Security and Privacy Need to Start in Code",
-          "link": "https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html",
-          "pubDate": "Tue, 16 Dec 2025 17:00:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheLe0xus43fBC5WVlloIHxChsFoGH2XkRBVCinnA2bHl3CWBF3dSk16c_8SwEnq0I4PTXEn9ddR4c2zSpbtCDlvVrV4_cfw3YHZPi53COc7qWcispxF1AQ8UXYh4CPh1oRkoTg1KH6UPZjKc_Pa-C4MB3BGsqhemVAteYmXrMpp8mUlbCUxcjnt4adsdE/s1600/shift.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2025/12/why-data-security-and-privacy-need-to.html",
-          "isoDate": "2025-12-16T11:30:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "Fortinet FortiGate Under Active Attack Through SAML SSO Authentication Bypass",
-          "link": "https://thehackernews.com/2025/12/fortinet-fortigate-under-active-attack.html",
-          "pubDate": "Tue, 16 Dec 2025 16:28:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQJ_qq1hYIZDr0BJrkSi2LLidWTwFd6Hulhty9DbaKd-4PuGyZcmRDQDMyMfHj0dsS87KDoQba3ZEo7ohgSpjNCziDz5NasZQ-qleWrf5lZduSbw8Ptjx_uX_V8SgFrp4k8fUFR5mQCtFhFBeu8ykYU_dUhuW6R27KQQQk_tpDOB-DZ-XIK9gWEW2TJLdT/s1600/fortinet.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2025/12/fortinet-fortigate-under-active-attack.html",
-          "isoDate": "2025-12-16T10:58:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
@@ -1112,11 +1112,35 @@
       "description": "Most trusted, widely-read independent cybersecurity news source for everyone; supported by hackers and IT professionals — Send TIPs to admin@thehackernews.com",
       "link": "https://thehackernews.com",
       "language": "en-us",
-      "lastBuildDate": "Mon, 29 Dec 2025 09:29:48 +0530",
+      "lastBuildDate": "Tue, 30 Dec 2025 09:15:09 +0530",
       "itunes": {}
     },
     "Krebson Security": {
       "items": [
+        {
+          "creator": "BrianKrebs",
+          "title": "Happy 16th Birthday, KrebsOnSecurity.com!",
+          "link": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/",
+          "pubDate": "Mon, 29 Dec 2025 20:23:26 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "BrianKrebs",
+          "comments": "https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/#comments",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://krebsonsecurity.com/?p=72907",
+          "categories": [
+            "A Little Sunshine",
+            "Aisuru",
+            "Cryptomus",
+            "Funnull",
+            "HeartSender",
+            "lastpass",
+            "Stark Industries Solutions Ltd"
+          ],
+          "isoDate": "2025-12-29T20:23:26.000Z",
+          "summary": ""
+        },
         {
           "creator": "BrianKrebs",
           "title": "Dismantling Defenses: Trump 2.0 Cyber Year in Review",
@@ -1421,43 +1445,6 @@
           ],
           "isoDate": "2025-11-19T14:07:03.000Z",
           "summary": ""
-        },
-        {
-          "creator": "BrianKrebs",
-          "title": "Microsoft Patch Tuesday, November 2025 Edition",
-          "link": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/",
-          "pubDate": "Sun, 16 Nov 2025 21:47:14 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "BrianKrebs",
-          "comments": "https://krebsonsecurity.com/2025/11/microsoft-patch-tuesday-november-2025-edition/#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://krebsonsecurity.com/?p=72594",
-          "categories": [
-            "Time to Patch",
-            "Action1",
-            "Alex Vovk",
-            "Azure Monitor Agent",
-            "Chris Goettl",
-            "CVE-2025-60274",
-            "CVE-2025-62199",
-            "CVE-2025-62215",
-            "GitHub Copilot",
-            "Ivanti",
-            "Johannes Ullrich",
-            "KB5071959",
-            "Microsoft Patch Tuesday November 2025",
-            "Nick Carroll",
-            "Nightwing",
-            "Office",
-            "SANS Technology Institute",
-            "Sharepoint",
-            "SQL Server",
-            "Visual Studio"
-          ],
-          "isoDate": "2025-11-16T21:47:14.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://krebsonsecurity.com/feed/",
@@ -1469,10 +1456,31 @@
       "generator": "https://wordpress.org/?v=6.2.2",
       "link": "https://krebsonsecurity.com",
       "language": "en-US",
-      "lastBuildDate": "Fri, 19 Dec 2025 17:00:11 +0000"
+      "lastBuildDate": "Mon, 29 Dec 2025 20:23:26 +0000"
     },
     "Schneier on Security": {
       "items": [
+        {
+          "creator": "Bruce Schneier",
+          "title": "Are We Ready to Be Governed by Artificial Intelligence?",
+          "link": "https://www.schneier.com/blog/archives/2025/12/are-we-ready-to-be-governed-by-artificial-intelligence.html",
+          "pubDate": "Mon, 29 Dec 2025 12:07:15 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Bruce Schneier",
+          "comments": "https://www.schneier.com/blog/archives/2025/12/are-we-ready-to-be-governed-by-artificial-intelligence.html#comments",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.schneier.com/?p=71386",
+          "categories": [
+            "Uncategorized",
+            "AI",
+            "democracy",
+            "LLM"
+          ],
+          "isoDate": "2025-12-29T12:07:15.000Z",
+          "summary": ""
+        },
         {
           "creator": "Bruce Schneier",
           "title": "Friday Squid Blogging: Squid Camouflage",
@@ -1665,31 +1673,6 @@
           ],
           "isoDate": "2025-12-17T12:02:01.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Bruce Schneier",
-          "title": "Chinese Surveillance and AI",
-          "link": "https://www.schneier.com/blog/archives/2025/12/chinese-surveillance-and-ai.html",
-          "pubDate": "Tue, 16 Dec 2025 12:02:32 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Bruce Schneier",
-          "comments": "https://www.schneier.com/blog/archives/2025/12/chinese-surveillance-and-ai.html#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.schneier.com/?p=71330",
-          "categories": [
-            "Uncategorized",
-            "AI",
-            "censorship",
-            "China",
-            "human rights",
-            "privacy",
-            "reports",
-            "surveillance"
-          ],
-          "isoDate": "2025-12-16T12:02:32.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.schneier.com/feed/",
@@ -1707,7 +1690,7 @@
       "description": "",
       "link": "https://www.schneier.com/",
       "language": "en-US",
-      "lastBuildDate": "Thu, 25 Dec 2025 13:28:58 +0000"
+      "lastBuildDate": "Fri, 26 Dec 2025 10:52:13 +0000"
     },
     "Tao Security": {
       "items": [
@@ -2744,20 +2727,6 @@
           "contentSnippet": "",
           "guid": "https://danielmiessler.com/blog/ai-enabled-self-software",
           "isoDate": "2025-12-22T15:10:00.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "daniel@danielmiessler.com (Daniel Miessler)",
-          "title": "Why Sunlight by Itself Won't Work Against Nick Fuentes",
-          "link": "https://danielmiessler.com/blog/sunlight-disinfectant-problem?utm_source=rss&utm_medium=feed&utm_campaign=website",
-          "pubDate": "Wed, 17 Dec 2025 11:30:00 GMT",
-          "author": "daniel@danielmiessler.com (Daniel Miessler)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://danielmiessler.com/blog/sunlight-disinfectant-problem",
-          "isoDate": "2025-12-17T11:30:00.000Z",
           "summary": ""
         },
         {
@@ -4116,7 +4085,7 @@
       "link": "https://danielmiessler.com",
       "language": "en-US",
       "copyright": "-",
-      "lastBuildDate": "Mon, 29 Dec 2025 01:30:02 GMT",
+      "lastBuildDate": "Tue, 30 Dec 2025 03:26:03 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Architect Security": {
@@ -4353,6 +4322,34 @@
     "Dark Reading": {
       "items": [
         {
+          "creator": "Robert Lemos, Contributing Writer",
+          "title": "SBOMs in 2026: Some Love, Some Hate, Much Ambivalence",
+          "link": "https://www.darkreading.com/application-security/sboms-in-2026-some-love-some-hate-much-ambivalence",
+          "pubDate": "Mon, 29 Dec 2025 14:51:59 GMT",
+          "dc:creator": "Robert Lemos, Contributing Writer",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/application-security/sboms-in-2026-some-love-some-hate-much-ambivalence",
+          "isoDate": "2025-12-29T14:51:59.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Alexander Culafi",
+          "title": "5 Threats That Defined Security in 2025",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025",
+          "pubDate": "Mon, 29 Dec 2025 14:00:00 GMT",
+          "dc:creator": "Alexander Culafi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/vulnerabilities-threats/five-threats-that-defined-security-2025",
+          "isoDate": "2025-12-29T14:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Kristina Beek",
           "title": "Mentorship and Diversity: Shaping the Next Generation of Cyber Experts",
           "link": "https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts",
@@ -4558,6 +4555,20 @@
           "contentSnippet": "",
           "guid": "https://www.darkreading.com/vulnerabilities-threats/sonicwall-edge-devices-zero-day-attacks",
           "isoDate": "2025-12-18T22:25:46.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Dark Reading Staff",
+          "title": "Dark Reading Confidential: Stop Secrets Creep Across Developer Platforms",
+          "link": "https://www.darkreading.com/cybersecurity-operations/stop-secrets-creep-across-developer-platforms",
+          "pubDate": "Thu, 18 Dec 2025 18:55:13 GMT",
+          "dc:creator": "Dark Reading Staff",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/cybersecurity-operations/stop-secrets-creep-across-developer-platforms",
+          "isoDate": "2025-12-18T18:55:13.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -5009,48 +5020,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Alexander Culafi",
-          "title": "ClickFix Style Attack Uses Grok, ChatGPT for Malware Delivery",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/clickfix-style-attack-grok-chatgpt-malware",
-          "pubDate": "Wed, 10 Dec 2025 21:02:30 GMT",
-          "dc:creator": "Alexander Culafi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darkreading.com/vulnerabilities-threats/clickfix-style-attack-grok-chatgpt-malware",
-          "isoDate": "2025-12-10T21:02:30.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Elizabeth Montalbano, Contributing Writer",
-          "title": "Feds: Pro-Russia Hacktivists Target US Critical Infrastructure",
-          "link": "https://www.darkreading.com/threat-intelligence/hactivists-target-critical-infrastructure",
-          "pubDate": "Wed, 10 Dec 2025 12:56:02 GMT",
-          "dc:creator": "Elizabeth Montalbano, Contributing Writer",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darkreading.com/threat-intelligence/hactivists-target-critical-infrastructure",
-          "isoDate": "2025-12-10T12:56:02.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Robert Lemos, Contributing Writer",
-          "title": "Japanese Firms Suffer Long Tail of Ransomware Damage",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/japanese-firms-suffer-long-tail-ransomware-damage",
-          "pubDate": "Wed, 10 Dec 2025 00:00:00 GMT",
-          "dc:creator": "Robert Lemos, Contributing Writer",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darkreading.com/cyberattacks-data-breaches/japanese-firms-suffer-long-tail-ransomware-damage",
-          "isoDate": "2025-12-10T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.darkreading.com/feeds/rss.xml",
@@ -5064,6 +5033,177 @@
     },
     "CIO": {
       "items": [
+        {
+          "title": "AI, che cosa dobbiamo aspettarci nel 2026: disillusione o maturità?",
+          "link": "https://www.cio.com/article/4111922/ai-che-cosa-dobbiamo-aspettarci-nel-2026-disillusione-o-maturita.html",
+          "pubDate": "Tue, 30 Dec 2025 05:00:00 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2025/12/4111922-0-75589900-1767070877-ai_in_the_data_center.jpg?quality=50&strip=all",
+            "length": "2207836",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence, Digital Transformation, Generative AI"
+          ],
+          "isoDate": "2025-12-30T05:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "2026년 AI 예산 전략, 기업이 놓치지 말아야 할 기준",
+          "link": "https://www.cio.com/article/4106847/2026%eb%85%84-ai-%ec%98%88%ec%82%b0-%ec%a0%84%eb%9e%b5-%ea%b8%b0%ec%97%85%ec%9d%b4-%eb%86%93%ec%b9%98%ec%a7%80-%eb%a7%90%ec%95%84%ec%95%bc-%ed%95%a0-%ea%b8%b0%ec%a4%80.html",
+          "pubDate": "Tue, 30 Dec 2025 01:00:00 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2025/12/4106847-0-78636600-1767056484-budgetcalculator.jpg?quality=50&strip=all",
+            "length": "93353",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence, Budgeting, IT Leadership, IT Management, IT Strategy"
+          ],
+          "isoDate": "2025-12-30T01:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "“AI 기반 자동화 테스트 활용” 오픈텍스트, 금융 IT 안전성 강화 전략 제시",
+          "link": "https://www.cio.com/article/4109213/ai-%ea%b8%b0%eb%b0%98-%ec%9e%90%eb%8f%99%ed%99%94-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ed%99%9c%ec%9a%a9-%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b8%88%ec%9c%b5-it-%ec%95%88.html",
+          "pubDate": "Tue, 30 Dec 2025 00:55:00 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2025/12/4109213-0-15107900-1767056178-shutterstock_2504511609.jpg?quality=50&strip=all",
+            "length": "2180039",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence, Devops, Software Development, Vendors and Providers"
+          ],
+          "isoDate": "2025-12-30T00:55:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "SoftBank expands AI infrastructure ambitions with $4B DigitalBridge acquisition",
+          "link": "https://www.cio.com/article/4111978/softbank-expands-ai-infrastructure-ambitions-with-4b-digitalbridge-acquisition-3.html",
+          "pubDate": "Mon, 29 Dec 2025 19:01:31 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2025/12/4111978-0-56345700-1767034912-bluredgehandshake.jpg?quality=50&strip=all",
+            "length": "71848",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence, Data Center, Mergers and Acquisitions, Technology Industry"
+          ],
+          "isoDate": "2025-12-29T19:01:31.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Engineering the AI-ready enterprise: From middleware to mindware",
+          "link": "https://www.cio.com/article/4111146/engineering-the-ai-ready-enterprise-from-middleware-to-mindware.html",
+          "pubDate": "Mon, 29 Dec 2025 15:10:00 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2025/12/4111146-0-74155800-1767021144-AI-ready-data-culture-shutterstock_2676206639.jpg?quality=50&strip=all",
+            "length": "2824361",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence, Enterprise Architecture, IT Leadership, IT Strategy"
+          ],
+          "isoDate": "2025-12-29T15:10:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "CIOs keep buying tools. Workers keep burning out. Here’s the disconnect",
+          "link": "https://www.cio.com/article/4111139/cios-keep-buying-tools-workers-keep-burning-out-heres-the-disconnect.html",
+          "pubDate": "Mon, 29 Dec 2025 13:10:00 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2025/12/4111139-0-52565600-1767016728-shutterstock_2218224849.jpg?quality=50&strip=all",
+            "length": "13295551",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Burnout, Digital Transformation, Employee Experience, IT Leadership, IT Management"
+          ],
+          "isoDate": "2025-12-29T13:10:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "7 major IT disasters of 2025",
+          "link": "https://www.cio.com/article/4109186/7-major-it-disasters-of-2025.html",
+          "pubDate": "Mon, 29 Dec 2025 10:01:00 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2025/12/4109186-0-81260000-1767002639-shutterstock_1954285369.jpg?quality=50&strip=all",
+            "length": "9360663",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Business Continuity, Disaster Recovery, Technology Industry"
+          ],
+          "isoDate": "2025-12-29T10:01:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "The IT sector had its best year since 1996 — thanks to AI",
+          "link": "https://www.cio.com/article/4108316/the-it-sector-records-its-best-year-since-1996-thanks-to-ai.html",
+          "pubDate": "Mon, 29 Dec 2025 09:30:00 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2025/12/4108316-0-71170300-1767000748-shutterstock_484714729_16.jpg?quality=50&strip=all",
+            "length": "6259858",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence, Budgeting, Industry, Markets, Technology Industry"
+          ],
+          "isoDate": "2025-12-29T09:30:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "La IA en 2025: entre el despliegue total y la sobredimensión",
+          "link": "https://www.cio.com/article/4111678/la-ia-en-2025-entre-el-despliegue-total-y-la-sobredimension.html",
+          "pubDate": "Mon, 29 Dec 2025 07:10:26 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2025/12/4111678-0-77186000-1766992244-aric-cheng-aEtQIdfcxDw-unsplash.jpg?quality=50&strip=all",
+            "length": "1774260",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence, Generative AI, IT Leadership, IT Strategy"
+          ],
+          "isoDate": "2025-12-29T07:10:26.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "AI 이후를 위한 계획: 2026년 CIO가 주목해야 할 5가지 원칙",
           "link": "https://www.cio.com/article/4106856/ai-%ec%9d%b4%ed%9b%84%eb%a5%bc-%ec%9c%84%ed%95%9c-%ea%b3%84%ed%9a%8d-2026%eb%85%84-cio%ea%b0%80-%ec%a3%bc%eb%aa%a9%ed%95%b4%ec%95%bc-%ed%95%a0-5%ea%b0%80%ec%a7%80-%ec%9b%90%ec%b9%99.html",
@@ -5272,185 +5412,14 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "異常検知は「アラートを鳴らす」より「原因を絞る」――運用で効くデータサイエンス入門",
-          "link": "https://www.cio.com/article/4106840/%e7%95%b0%e5%b8%b8%e6%a4%9c%e7%9f%a5%e3%81%af%e3%80%8c%e3%82%a2%e3%83%a9%e3%83%bc%e3%83%88%e3%82%92%e9%b3%b4%e3%82%89%e3%81%99%e3%80%8d%e3%82%88%e3%82%8a%e3%80%8c%e5%8e%9f%e5%9b%a0%e3%82%92%e7%b5%9e.html",
-          "pubDate": "Thu, 25 Dec 2025 07:09:46 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/12/4106840-0-63309600-1766646650-shutterstock_2615381561.jpg?quality=50&strip=all",
-            "length": "3187189",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Analytics, Data Science"
-          ],
-          "isoDate": "2025-12-25T07:09:46.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "4 modi in cui il ruolo del CIO si espanderà nel 2026",
-          "link": "https://www.cio.com/article/4111568/4-modi-in-cui-il-ruolo-del-cio-si-espandera-nel-2026.html",
-          "pubDate": "Thu, 25 Dec 2025 05:00:00 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/12/4111568-0-93515100-1766638890-Four-women-featured-image.jpg?quality=50&strip=all",
-            "length": "2820128",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "C-Suite, Careers, CIO, IT Leadership"
-          ],
-          "isoDate": "2025-12-25T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "ServiceNow: Latest news and insights",
-          "link": "https://www.cio.com/article/3477783/servicenow-latest-news-and-insights.html",
-          "pubDate": "Wed, 24 Dec 2025 16:21:12 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/12/3477783-0-86108800-1766593290-servicenow_shutterstock_editorial_2356641345.jpg?quality=50&strip=all",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Enterprise Applications, IT Operations, ITSM, ServiceNow, Vendors and Providers"
-          ],
-          "isoDate": "2025-12-24T16:21:12.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Microsoft is not rewriting Windows in Rust",
-          "link": "https://www.cio.com/article/4111554/microsoft-is-not-rewriting-windows-in-rust-2.html",
-          "pubDate": "Wed, 24 Dec 2025 15:16:45 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/12/4111554-0-71151000-1766592679-shutterstock_1536940715.jpg?quality=50&strip=all",
-            "length": "21109732",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Artificial Intelligence, Development Tools, Generative AI, Software Development"
-          ],
-          "isoDate": "2025-12-24T15:16:45.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "5 stages to observability maturity",
-          "link": "https://www.cio.com/article/4110550/5-stages-to-observability-maturity.html",
-          "pubDate": "Wed, 24 Dec 2025 10:00:00 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/12/4110550-0-83648000-1766570589-observability-shutterstock_2717493289.jpg?quality=50&strip=all",
-            "length": "1606833",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Artificial Intelligence, Business Continuity, Business IT Alignment, C-Suite, Careers, CIO, Digital Transformation, Emerging Technology, IT Governance, IT Leadership, IT Strategy, Security"
-          ],
-          "isoDate": "2025-12-24T10:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "4 ways the CIO role will expand in 2026",
-          "link": "https://www.cio.com/article/4109232/4-ways-the-cio-role-will-expand-in-2026.html",
-          "pubDate": "Wed, 24 Dec 2025 09:30:00 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/12/4109232-0-30569700-1766568745-shutterstock_2090541787.jpg?quality=50&strip=all",
-            "length": "3607734",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "C-Suite, Careers, CIO, IT Leadership"
-          ],
-          "isoDate": "2025-12-24T09:30:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "개발자 AI 지원, 어디까지 왔나…앤트로픽·토스·올리브영 등이 전한 현장의 고민과 전망",
-          "link": "https://www.cio.com/article/4111488/%ea%b0%9c%eb%b0%9c%ec%9e%90-ai-%ec%a7%80%ec%9b%90-%ec%96%b4%eb%94%94%ea%b9%8c%ec%a7%80-%ec%99%94%eb%82%98%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd%c2%b7%ed%86%a0%ec%8a%a4%c2%b7%ec%98%ac%eb%a6%ac.html",
-          "pubDate": "Wed, 24 Dec 2025 08:06:23 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/12/4111488-0-86747500-1766594100-img1_devchat.jpg?quality=50&strip=all",
-            "length": "3100731",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Artificial Intelligence, Careers, Developer, Roles, Software Development"
-          ],
-          "isoDate": "2025-12-24T08:06:23.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "현업에 번진 AI 기대감, 리더십 부재로 추진력 잃다",
-          "link": "https://www.cio.com/article/4111486/%ed%98%84%ec%97%85%ec%97%90-%eb%b2%88%ec%a7%84-ai-%ea%b8%b0%eb%8c%80%ea%b0%90-%eb%a6%ac%eb%8d%94%ec%8b%ad-%eb%b6%80%ec%9e%ac%eb%a1%9c-%ec%b6%94%ec%a7%84%eb%a0%a5-%ec%9e%83%eb%8b%a4.html",
-          "pubDate": "Wed, 24 Dec 2025 07:24:07 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/12/4111486-0-93160600-1766561061-lost-employee-AI-optimism-shutterstock_2717164767.jpg?quality=50&strip=all",
-            "length": "1947868",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Artificial Intelligence, Change Management, IT Leadership, IT Operations"
-          ],
-          "isoDate": "2025-12-24T07:24:07.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "クラスタリングは「分類」ではない――使えるセグメントを作るための設計・評価・解釈のコツ",
-          "link": "https://www.cio.com/article/4106836/%e3%82%af%e3%83%a9%e3%82%b9%e3%82%bf%e3%83%aa%e3%83%b3%e3%82%b0%e3%81%af%e3%80%8c%e5%88%86%e9%a1%9e%e3%80%8d%e3%81%a7%e3%81%af%e3%81%aa%e3%81%84%e2%80%95%e2%80%95%e4%bd%bf%e3%81%88%e3%82%8b%e3%82%bb.html",
-          "pubDate": "Wed, 24 Dec 2025 07:08:54 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2025/12/4106836-0-11126200-1766560206-shutterstock_offset_2244835187-100955863-orig.jpg?quality=50&strip=all",
-            "length": "2662541",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Analytics, Data Science"
-          ],
-          "isoDate": "2025-12-24T07:08:54.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
-      "title": "AI 이후를 위한 계획: 2026년 CIO가 주목해야 할 5가지 원칙 | CIO",
+      "title": "AI, che cosa dobbiamo aspettarci nel 2026: disillusione o maturità? | CIO",
       "description": "",
       "link": "https://www.cio.com",
       "language": "en",
       "copyright": "Copyright (c) 2025 FoundryCo, Inc.",
-      "lastBuildDate": "Mon, 29 Dec 2025 01:00:00 +0000",
+      "lastBuildDate": "Tue, 30 Dec 2025 05:00:00 +0000",
       "docs": "http://backend.userland.com/rss092"
     }
   }
