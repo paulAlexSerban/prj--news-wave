@@ -1767,14 +1767,34 @@
       },
       "title": "SitePoint",
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
-      "pubDate": "Mon, 26 Jan 2026 03:42:24 GMT",
+      "pubDate": "Tue, 27 Jan 2026 02:20:29 GMT",
       "generator": "RSS for Node",
       "link": "https://www.sitepoint.com",
       "language": "en",
-      "lastBuildDate": "Mon, 26 Jan 2026 03:42:25 GMT"
+      "lastBuildDate": "Tue, 27 Jan 2026 02:20:30 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
+        {
+          "creator": "Dylan Birtolo",
+          "title": "Power agentic workflows in your terminal with GitHub Copilot CLI",
+          "link": "https://github.blog/ai-and-ml/github-copilot/power-agentic-workflows-in-your-terminal-with-github-copilot-cli/",
+          "pubDate": "Mon, 26 Jan 2026 18:54:49 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Dylan Birtolo",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=93447",
+          "categories": [
+            "AI & ML",
+            "GitHub Copilot",
+            "GitHub CLI",
+            "GitHub Copilot CLI"
+          ],
+          "isoDate": "2026-01-26T18:54:49.000Z",
+          "summary": ""
+        },
         {
           "creator": "Mario Rodriguez",
           "title": "Build an agent into any app with the GitHub Copilot SDK",
@@ -1969,26 +1989,6 @@
           ],
           "isoDate": "2026-01-13T18:39:24.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Christina Warren",
-          "title": "Want better AI outputs? Try context engineering.",
-          "link": "https://github.blog/ai-and-ml/generative-ai/want-better-ai-outputs-try-context-engineering/",
-          "pubDate": "Mon, 12 Jan 2026 17:00:00 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Christina Warren",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=93198",
-          "categories": [
-            "AI & ML",
-            "Generative AI",
-            "GitHub Copilot",
-            "Insider"
-          ],
-          "isoDate": "2026-01-12T17:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://github.blog/feed/",
@@ -2007,7 +2007,7 @@
       "generator": "https://wordpress.org/?v=6.9",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Fri, 23 Jan 2026 21:34:14 +0000"
+      "lastBuildDate": "Mon, 26 Jan 2026 18:54:52 +0000"
     },
     "GitHub Blog Atom": {
       "items": [
@@ -2858,7 +2858,7 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2026, Smashing Media AG",
-      "lastBuildDate": "Mon, 26 Jan 2026 05:05:26 GMT",
+      "lastBuildDate": "Tue, 27 Jan 2026 05:02:53 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
@@ -3113,6 +3113,132 @@
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Yilia Lin",
+          "title": "Building an AI Agent Traffic Management Platform: APISIX AI Gateway in Practice",
+          "link": "https://dzone.com/articles/building-ai-agent-traffic-management-apisix-ai-gateway",
+          "pubDate": "Mon, 26 Jan 2026 20:00:00 GMT",
+          "dc:creator": "Yilia Lin",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3616825",
+          "isoDate": "2026-01-26T20:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "ava clark",
+          "title": "Prompt Injection Is the New SQL Injection: How Hackers Are Breaking into AI Systems",
+          "link": "https://dzone.com/articles/prompt-injection-ai-security",
+          "pubDate": "Mon, 26 Jan 2026 19:00:00 GMT",
+          "dc:creator": "ava clark",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3619460",
+          "isoDate": "2026-01-26T19:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Alina Chyzh",
+          "title": "When Agile Teams Drown in Reports: How to Eliminate Noise and Build a Lean Reporting System",
+          "link": "https://dzone.com/articles/agile-teams-lean-reporting",
+          "pubDate": "Mon, 26 Jan 2026 18:00:08 GMT",
+          "dc:creator": "Alina Chyzh",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3618613",
+          "isoDate": "2026-01-26T18:00:08.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ammar Ekbote",
+          "title": "Engineering Habits for Building Resilient Software",
+          "link": "https://dzone.com/articles/engineering-habits-building-resilient-software",
+          "pubDate": "Mon, 26 Jan 2026 17:00:00 GMT",
+          "dc:creator": "Ammar Ekbote",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3619664",
+          "isoDate": "2026-01-26T17:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Kyriakos Mandalas",
+          "title": "HAIP 1.0 for Verifiable Presentations: Securing the VP Flow",
+          "link": "https://dzone.com/articles/haip-1-0-securing-verifiable-presentations",
+          "pubDate": "Mon, 26 Jan 2026 16:00:05 GMT",
+          "dc:creator": "Kyriakos Mandalas",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3626114",
+          "isoDate": "2026-01-26T16:00:05.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Siri Varma Vegiraju",
+          "title": "The Anatomy of an AI Agent and How to Build One With Docker Cagent",
+          "link": "https://dzone.com/articles/developing-agents-using-docker-cagent",
+          "pubDate": "Mon, 26 Jan 2026 15:00:00 GMT",
+          "dc:creator": "Siri Varma Vegiraju",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3629361",
+          "isoDate": "2026-01-26T15:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mohit Menghnani",
+          "title": "How to Create AI-Enhanced Code Review Systems",
+          "link": "https://dzone.com/articles/create-ai-enhanced-code-review-systems",
+          "pubDate": "Mon, 26 Jan 2026 14:00:00 GMT",
+          "dc:creator": "Mohit Menghnani",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3629370",
+          "isoDate": "2026-01-26T14:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Stefan Wolpers",
+          "title": "The A3 Framework: Assist, Automate, Avoid — A Decision System for AI Delegation",
+          "link": "https://dzone.com/articles/a3-framework-ai-assist-automate-avoid",
+          "pubDate": "Mon, 26 Jan 2026 13:00:00 GMT",
+          "dc:creator": "Stefan Wolpers",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3629367",
+          "isoDate": "2026-01-26T13:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Krishnam Raju Narsepalle",
+          "title": "Building Fault-Tolerant Data Pipelines in GCP",
+          "link": "https://dzone.com/articles/building-fault-tolerant-data-pipelines-in-gcp",
+          "pubDate": "Mon, 26 Jan 2026 12:00:00 GMT",
+          "dc:creator": "Krishnam Raju Narsepalle",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3623631",
+          "isoDate": "2026-01-26T12:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Mohan Sankaran",
           "title": "Secure AI Architecture for Payments: From Risk Signals to Real-Time Decisions",
@@ -3406,132 +3532,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Damil Shahzad",
-          "title": "RAG Architectures AI Builders Should Understand",
-          "link": "https://dzone.com/articles/rag-ai-for-ai-builders",
-          "pubDate": "Wed, 21 Jan 2026 17:00:00 GMT",
-          "dc:creator": "Damil Shahzad",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3623769",
-          "isoDate": "2026-01-21T17:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "VIVEK KATARYA",
-          "title": "The No-Buffering Strategy: Streaming Search Results",
-          "link": "https://dzone.com/articles/no-buffering-strategy-streaming-search-results",
-          "pubDate": "Wed, 21 Jan 2026 16:00:06 GMT",
-          "dc:creator": "VIVEK KATARYA",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3626004",
-          "isoDate": "2026-01-21T16:00:06.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Avi Yehuda",
-          "title": "MERGE and Liquid Clustering: Common Performance Issues",
-          "link": "https://dzone.com/articles/merge-liquid-clustering-common-issues",
-          "pubDate": "Wed, 21 Jan 2026 15:00:01 GMT",
-          "dc:creator": "Avi Yehuda",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3626021",
-          "isoDate": "2026-01-21T15:00:01.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Krishna Kandi",
-          "title": "Why High-Availability Java Systems Fail Quietly Before They Fail Loudly",
-          "link": "https://dzone.com/articles/java-high-availability-failures",
-          "pubDate": "Wed, 21 Jan 2026 14:00:00 GMT",
-          "dc:creator": "Krishna Kandi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3617931",
-          "isoDate": "2026-01-21T14:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Mohan Sankaran",
-          "title": "Multimodal AI Architecture: Unifying Vision, Text, and Sensor Intelligence",
-          "link": "https://dzone.com/articles/multimodal-ai-vision-text-sensor",
-          "pubDate": "Wed, 21 Jan 2026 13:00:00 GMT",
-          "dc:creator": "Mohan Sankaran",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3619860",
-          "isoDate": "2026-01-21T13:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Oreoluwa Omoike",
-          "title": "AI-Driven Autonomous CI/CD for Risk-Aware DevOps",
-          "link": "https://dzone.com/articles/autonomous-cicd-ai-risk-aware-devops",
-          "pubDate": "Wed, 21 Jan 2026 12:00:13 GMT",
-          "dc:creator": "Oreoluwa Omoike",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3619850",
-          "isoDate": "2026-01-21T12:00:13.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Dippu Kumar Singh",
-          "title": "Automating Traceability with Generative AI",
-          "link": "https://dzone.com/articles/automating-traceability-with-generative-ai",
-          "pubDate": "Tue, 20 Jan 2026 20:00:00 GMT",
-          "dc:creator": "Dippu Kumar Singh",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3619103",
-          "isoDate": "2026-01-20T20:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ram Ghadiyaram",
-          "title": "Enterprise LLM Architecture Patterns, From RAG to Agentic Systems",
-          "link": "https://dzone.com/articles/llm-architecture-patterns-rag-to-agentic",
-          "pubDate": "Tue, 20 Jan 2026 19:00:02 GMT",
-          "dc:creator": "Ram Ghadiyaram",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3598506",
-          "isoDate": "2026-01-20T19:00:02.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Siri Varma Vegiraju",
-          "title": "Docker Hardened Images for Container Security",
-          "link": "https://dzone.com/articles/docker-hardened-images-container-security",
-          "pubDate": "Tue, 20 Jan 2026 18:00:00 GMT",
-          "dc:creator": "Siri Varma Vegiraju",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3626107",
-          "isoDate": "2026-01-20T18:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -3772,239 +3772,234 @@
     "DEV Community": {
       "items": [
         {
-          "creator": "Paige Bailey",
-          "title": "Benchmarking on a Budget: Running massive evals for 50% less with the Gemini Batch API ⚡️",
-          "link": "https://dev.to/googleai/benchmarking-on-a-budget-running-massive-evals-for-50-less-with-the-gemini-batch-api-5d1j",
-          "pubDate": "Mon, 26 Jan 2026 05:09:53 +0000",
-          "dc:creator": "Paige Bailey",
+          "creator": "QA Journey",
+          "title": "Why QA Fails Without Fragmentation (and How Fragmentation Protects Systems)",
+          "link": "https://dev.to/qajourney/why-qa-fails-without-fragmentation-and-how-fragmentation-protects-systems-1fn0",
+          "pubDate": "Tue, 27 Jan 2026 05:03:26 +0000",
+          "dc:creator": "QA Journey",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/googleai/benchmarking-on-a-budget-running-massive-evals-for-50-less-with-the-gemini-batch-api-5d1j",
+          "guid": "https://dev.to/qajourney/why-qa-fails-without-fragmentation-and-how-fragmentation-protects-systems-1fn0",
           "categories": [
-            "python",
-            "ai",
-            "machinelearning",
-            "tutorial"
+            "qa",
+            "testing",
+            "devops",
+            "agile"
           ],
-          "isoDate": "2026-01-26T05:09:53.000Z",
+          "isoDate": "2026-01-27T05:03:26.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Gathuru_M",
-          "title": "Introduction to Linux for Data Engineers, Including Practical Use of Vi and Nano with Examples",
-          "link": "https://dev.to/gathurum/introduction-to-linux-for-data-engineers-including-practical-use-of-vi-and-nano-with-examples-2ck0",
-          "pubDate": "Mon, 26 Jan 2026 05:08:41 +0000",
-          "dc:creator": "Gathuru_M",
+          "creator": "Joey",
+          "title": "My tech blogs got deleted. So I engineered an unbannable \"Dual-Core\" Reader with Next.js & Nostr.",
+          "link": "https://dev.to/joey_b2e0652bacd69d5b15b9/my-tech-blogs-got-deleted-so-i-engineered-an-unbannable-dual-core-reader-with-nextjs-nostr-40a8",
+          "pubDate": "Tue, 27 Jan 2026 04:57:02 +0000",
+          "dc:creator": "Joey",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/gathurum/introduction-to-linux-for-data-engineers-including-practical-use-of-vi-and-nano-with-examples-2ck0",
+          "guid": "https://dev.to/joey_b2e0652bacd69d5b15b9/my-tech-blogs-got-deleted-so-i-engineered-an-unbannable-dual-core-reader-with-nextjs-nostr-40a8",
+          "categories": [
+            "networking",
+            "nextjs",
+            "showdev",
+            "web3"
+          ],
+          "isoDate": "2026-01-27T04:57:02.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Hemant Patel",
+          "title": "Can a Countertop Wine Fridge Fit Your Lifestyle and Budget?",
+          "link": "https://dev.to/hemant546/can-a-countertop-wine-fridge-fit-your-lifestyle-and-budget-37he",
+          "pubDate": "Tue, 27 Jan 2026 04:49:34 +0000",
+          "dc:creator": "Hemant Patel",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/hemant546/can-a-countertop-wine-fridge-fit-your-lifestyle-and-budget-37he",
+          "categories": [
+            "fridge",
+            "cooler"
+          ],
+          "isoDate": "2026-01-27T04:49:34.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Rost",
+          "title": "Wayland vs X11: 2026 Comparison",
+          "link": "https://dev.to/rosgluk/wayland-vs-x11-2026-comparison-5cok",
+          "pubDate": "Tue, 27 Jan 2026 04:47:38 +0000",
+          "dc:creator": "Rost",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/rosgluk/wayland-vs-x11-2026-comparison-5cok",
           "categories": [
             "linux",
-            "beginners",
-            "dataengineering",
-            "datascience"
-          ],
-          "isoDate": "2026-01-26T05:08:41.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Jaideep Parashar",
-          "title": "A poorly defined instruction doesn’t fail once; it fails everywhere in AI. No amount of AI integration will solve this problem; actually, it will amplify it. That forces developers to confront design decisions earlier than they’re used to.",
-          "link": "https://dev.to/jaideepparashar/a-poorly-defined-instruction-doesnt-fail-once-it-fails-everywhere-in-ai-no-amount-of-ai-27j",
-          "pubDate": "Mon, 26 Jan 2026 05:06:59 +0000",
-          "dc:creator": "Jaideep Parashar",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/jaideepparashar/a-poorly-defined-instruction-doesnt-fail-once-it-fails-everywhere-in-ai-no-amount-of-ai-27j",
-          "categories": [
-            "programming",
             "devops",
-            "developer",
-            "ai"
-          ],
-          "isoDate": "2026-01-26T05:06:59.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Shelner",
-          "title": "Create Simple API using Express, Swagger UI",
-          "link": "https://dev.to/shelner/create-simple-api-using-express-swagger-ui-18e3",
-          "pubDate": "Mon, 26 Jan 2026 05:05:42 +0000",
-          "dc:creator": "Shelner",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/shelner/create-simple-api-using-express-swagger-ui-18e3",
-          "categories": [
-            "express",
-            "openapi"
-          ],
-          "isoDate": "2026-01-26T05:05:42.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Jaideep Parashar",
-          "title": "Why Developers Blame AI for Their Own Thinking Gaps",
-          "link": "https://dev.to/jaideepparashar/why-developers-blame-ai-for-their-own-thinking-gaps-f34",
-          "pubDate": "Mon, 26 Jan 2026 05:04:52 +0000",
-          "dc:creator": "Jaideep Parashar",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/jaideepparashar/why-developers-blame-ai-for-their-own-thinking-gaps-f34",
-          "categories": [
-            "programming",
-            "devops",
-            "developer",
-            "ai"
-          ],
-          "isoDate": "2026-01-26T05:04:52.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "noear",
-          "title": "MCP Evolution: Transforming Static Tools into Remote Skills with \"Context Awareness\"",
-          "link": "https://dev.to/noear/mcp-evolution-transforming-static-tools-into-remote-skills-with-context-awareness-32mp",
-          "pubDate": "Mon, 26 Jan 2026 05:03:18 +0000",
-          "dc:creator": "noear",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/noear/mcp-evolution-transforming-static-tools-into-remote-skills-with-context-awareness-32mp",
-          "categories": [
-            "ai",
-            "mcp",
-            "java",
-            "solon"
-          ],
-          "isoDate": "2026-01-26T05:03:18.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Cesar Aguirre",
-          "title": "What Coders Could Offer Instead of Writing Lines of Code If AI Takes Over",
-          "link": "https://dev.to/canro91/what-coders-could-offer-instead-of-writing-lines-of-code-if-ai-takes-over-24ii",
-          "pubDate": "Mon, 26 Jan 2026 05:00:00 +0000",
-          "dc:creator": "Cesar Aguirre",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/canro91/what-coders-could-offer-instead-of-writing-lines-of-code-if-ai-takes-over-24ii",
-          "categories": [
-            "career",
-            "coding",
-            "programming",
-            "ai"
-          ],
-          "isoDate": "2026-01-26T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nikesh Dahal",
-          "title": "The Easiest Way to Generate a GitHub SSH Key",
-          "link": "https://dev.to/nikeshdahal/the-easiest-way-to-generate-a-github-ssh-key-2gf",
-          "pubDate": "Mon, 26 Jan 2026 04:54:31 +0000",
-          "dc:creator": "Nikesh Dahal",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/nikeshdahal/the-easiest-way-to-generate-a-github-ssh-key-2gf",
-          "categories": [
-            "ssh",
-            "sshkey",
-            "github",
-            "bitbucket"
-          ],
-          "isoDate": "2026-01-26T04:54:31.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ve Sharma",
-          "title": "Building Context-Aware CI with GitHub Copilot SDK and Microsoft WorkIQ",
-          "link": "https://dev.to/vevarunsharma/building-context-aware-ci-with-github-copilot-sdk-and-microsoft-workiq-31bg",
-          "pubDate": "Mon, 26 Jan 2026 04:42:57 +0000",
-          "dc:creator": "Ve Sharma",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/vevarunsharma/building-context-aware-ci-with-github-copilot-sdk-and-microsoft-workiq-31bg",
-          "categories": [
-            "github",
-            "githubcopilot",
-            "microsoft",
-            "githubactions"
-          ],
-          "isoDate": "2026-01-26T04:42:57.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Yuting Zhong",
-          "title": "Building an open-source markdown resume builder",
-          "link": "https://dev.to/ununununium/building-an-open-source-markdown-resume-builder-4nap",
-          "pubDate": "Mon, 26 Jan 2026 04:39:46 +0000",
-          "dc:creator": "Yuting Zhong",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/ununununium/building-an-open-source-markdown-resume-builder-4nap",
-          "categories": [
-            "opensource",
-            "webdev",
-            "buildinpublic",
-            "nextjs"
-          ],
-          "isoDate": "2026-01-26T04:39:46.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Vivek Kalyanarangan",
-          "title": "I got 29x speedup rewriting Python's validators library in Rust",
-          "link": "https://dev.to/vivek_kalyanarangan_f66cc/i-got-29x-speedup-rewriting-pythons-validators-library-in-rust-2nhk",
-          "pubDate": "Mon, 26 Jan 2026 04:39:27 +0000",
-          "dc:creator": "Vivek Kalyanarangan",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/vivek_kalyanarangan_f66cc/i-got-29x-speedup-rewriting-pythons-validators-library-in-rust-2nhk",
-          "categories": [
-            "rust",
-            "python",
-            "performance",
             "opensource"
           ],
-          "isoDate": "2026-01-26T04:39:27.000Z",
+          "isoDate": "2026-01-27T04:47:38.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "OP-Bright",
-          "title": "How to Think About Games: GameMaker",
-          "link": "https://dev.to/opbright/how-to-think-about-games-gamemaker-35fm",
-          "pubDate": "Mon, 26 Jan 2026 04:31:55 +0000",
-          "dc:creator": "OP-Bright",
+          "creator": "Rama Can",
+          "title": "Modular Architecture Example for Next.js 16",
+          "link": "https://dev.to/ramacan/modular-architecture-example-for-nextjs-16-1nln",
+          "pubDate": "Tue, 27 Jan 2026 04:47:32 +0000",
+          "dc:creator": "Rama Can",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/opbright/how-to-think-about-games-gamemaker-35fm",
+          "guid": "https://dev.to/ramacan/modular-architecture-example-for-nextjs-16-1nln",
           "categories": [
-            "architecture",
-            "gamedev",
-            "learning",
-            "softwaredevelopment"
+            "nextjs",
+            "architecture"
           ],
-          "isoDate": "2026-01-26T04:31:55.000Z",
+          "isoDate": "2026-01-27T04:47:32.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "anirudh",
+          "title": "Developers: Do you skip meals, forget breaks, or code until 2am? [3-min health survey]",
+          "link": "https://dev.to/anirudh_b0c9a24f2a326a549/developers-do-you-skip-meals-forget-breaks-or-code-until-2am-3-min-health-survey-278i",
+          "pubDate": "Tue, 27 Jan 2026 04:36:49 +0000",
+          "dc:creator": "anirudh",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/anirudh_b0c9a24f2a326a549/developers-do-you-skip-meals-forget-breaks-or-code-until-2am-3-min-health-survey-278i",
+          "categories": [
+            "developers",
+            "discuss",
+            "mentalhealth",
+            "productivity"
+          ],
+          "isoDate": "2026-01-27T04:36:49.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Jasper Brookers",
+          "title": "Cron Job Monitoring for Backups: What Actually Goes Wrong",
+          "link": "https://dev.to/jasper_brookers/cron-job-monitoring-for-backups-what-actually-goes-wrong-296i",
+          "pubDate": "Tue, 27 Jan 2026 04:08:10 +0000",
+          "dc:creator": "Jasper Brookers",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/jasper_brookers/cron-job-monitoring-for-backups-what-actually-goes-wrong-296i",
+          "categories": [
+            "cron",
+            "devops",
+            "workflow",
+            "monitoring"
+          ],
+          "isoDate": "2026-01-27T04:08:10.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Voke ",
+          "title": "Building in Public: CV Analyzer - Act 5 · Scene 1 : Here Comes the Backend",
+          "link": "https://dev.to/voke_vawkei/building-in-public-cv-analyzer-act-5-scene-1-here-comes-the-backend-ej7",
+          "pubDate": "Tue, 27 Jan 2026 04:05:47 +0000",
+          "dc:creator": "Voke ",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/voke_vawkei/building-in-public-cv-analyzer-act-5-scene-1-here-comes-the-backend-ej7",
+          "categories": [
+            "buildinginpublic",
+            "node",
+            "webdev",
+            "devjourney"
+          ],
+          "isoDate": "2026-01-27T04:05:47.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Vicente G. Reyes",
+          "title": "Problem 11: Count Character Frequency",
+          "link": "https://dev.to/highcenburg/problem-11-count-character-frequency-2ik9",
+          "pubDate": "Tue, 27 Jan 2026 04:01:51 +0000",
+          "dc:creator": "Vicente G. Reyes",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/highcenburg/problem-11-count-character-frequency-2ik9",
+          "categories": [
+            "python",
+            "beginners",
+            "learning"
+          ],
+          "isoDate": "2026-01-27T04:01:51.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Lovee Jain",
+          "title": "Extending MCP Agents with the AWS MCP Server: Why Python ADK Shines?!",
+          "link": "https://dev.to/aws-builders/extending-mcp-agents-with-the-aws-mcp-server-why-python-adk-shines-3kd9",
+          "pubDate": "Tue, 27 Jan 2026 03:55:16 +0000",
+          "dc:creator": "Lovee Jain",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/aws-builders/extending-mcp-agents-with-the-aws-mcp-server-why-python-adk-shines-3kd9",
+          "categories": [
+            "awsmcp",
+            "aws",
+            "adk",
+            "agents"
+          ],
+          "isoDate": "2026-01-27T03:55:16.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "hinlocaesar",
+          "title": "Lost Updates, Dirty Reads, and Phantom Rows: A Simple Guide to SQL Transaction Problems",
+          "link": "https://dev.to/hinlocaesar/lost-updates-dirty-reads-and-phantom-rows-a-simple-guide-to-sql-transaction-problems-51hd",
+          "pubDate": "Tue, 27 Jan 2026 03:53:17 +0000",
+          "dc:creator": "hinlocaesar",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/hinlocaesar/lost-updates-dirty-reads-and-phantom-rows-a-simple-guide-to-sql-transaction-problems-51hd",
+          "categories": [
+            "sql",
+            "database",
+            "transactions",
+            "beginners"
+          ],
+          "isoDate": "2026-01-27T03:53:17.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Mario García",
+          "title": "BSON to JSON: The Python Way",
+          "link": "https://dev.to/letstalkoss/bson-to-json-the-python-way-16d9",
+          "pubDate": "Tue, 27 Jan 2026 03:51:41 +0000",
+          "dc:creator": "Mario García",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/letstalkoss/bson-to-json-the-python-way-16d9",
+          "categories": [
+            "tutorial",
+            "mongodb",
+            "python"
+          ],
+          "isoDate": "2026-01-27T03:51:41.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -5286,7 +5281,7 @@
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/rss/blog.atom",
       "title": "DigitalOcean Blog",
-      "lastBuildDate": "2026-01-25T21:25:00.575Z"
+      "lastBuildDate": "2026-01-26T17:53:49.554Z"
     },
     "Julia Evans": {
       "items": [
@@ -5418,6 +5413,28 @@
     },
     "KodeKloud": {
       "items": [
+        {
+          "creator": "Nimesha Jinarajadasa",
+          "title": "Top Myths About Learning Cloud Skills (and the Truth Behind Them)",
+          "link": "https://kodekloud.com/blog/top-myths-about-learning-cloud-skills/",
+          "pubDate": "Mon, 26 Jan 2026 07:13:16 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Nimesha Jinarajadasa",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "6942dff6c5eb9e00019fd0b7",
+          "categories": [
+            "Cloud",
+            "Associate Cloud Engineer",
+            "Cloud Skills",
+            "AWS",
+            "Azure",
+            "GCP"
+          ],
+          "isoDate": "2026-01-26T07:13:16.000Z",
+          "summary": ""
+        },
         {
           "creator": "Nimesha Jinarajadasa",
           "title": "From Scattered Learning to Structured Growth: Inside KodeKloud Cohorts",
@@ -5701,26 +5718,6 @@
           ],
           "isoDate": "2025-12-08T14:21:34.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Pramodh Kumar M",
-          "title": "Istio Certified Associate (ICA) Study Guide",
-          "link": "https://kodekloud.com/blog/istio-certified-associate-ica-study-guide/",
-          "pubDate": "Wed, 03 Dec 2025 15:10:32 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Pramodh Kumar M",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "6908c5f0d5513c00012968c4",
-          "categories": [
-            "Istio",
-            "service mesh",
-            "Istio Certified Associate",
-            "ICA"
-          ],
-          "isoDate": "2025-12-03T15:10:32.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://kodekloud.com/blog/rss/",
@@ -5734,9 +5731,9 @@
       },
       "title": "DevOps Blog",
       "description": "Explore our latest insights on DevOps. Get practical tips on tools like Azure, Docker, and Kubernetes. Straightforward advice for your DevOps. Join us and make your DevOps journey better.",
-      "generator": "Ghost 6.13",
+      "generator": "Ghost 6.14",
       "link": "https://kodekloud.com/blog/",
-      "lastBuildDate": "Thu, 22 Jan 2026 12:32:04 GMT",
+      "lastBuildDate": "Mon, 26 Jan 2026 18:19:14 GMT",
       "ttl": "60"
     },
     "Matthew Rocklin": {
@@ -5744,16 +5741,16 @@
         {
           "title": "Working Notes",
           "link": "https://matthewrocklin.com/",
-          "pubDate": "Mon, 26 Jan 2026 03:18:40 +0000",
+          "pubDate": "Mon, 26 Jan 2026 12:49:38 +0000",
           "enclosure": {
             "url": "https://matthewrocklin.com/assets/images/social/index.png",
             "type": "image/png",
-            "length": "308090"
+            "length": "306576"
           },
           "content": "",
           "contentSnippet": "",
           "guid": "https://matthewrocklin.com/",
-          "isoDate": "2026-01-26T03:18:40.000Z",
+          "isoDate": "2026-01-26T12:49:38.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -5761,16 +5758,16 @@
         {
           "title": "Articles",
           "link": "https://matthewrocklin.com/articles/",
-          "pubDate": "Mon, 26 Jan 2026 03:18:40 +0000",
+          "pubDate": "Mon, 26 Jan 2026 12:49:38 +0000",
           "enclosure": {
             "url": "https://matthewrocklin.com/assets/images/social/articles.png",
             "type": "image/png",
-            "length": "293503"
+            "length": "292547"
           },
           "content": "",
           "contentSnippet": "",
           "guid": "https://matthewrocklin.com/articles/",
-          "isoDate": "2026-01-26T03:18:40.000Z",
+          "isoDate": "2026-01-26T12:49:38.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -5803,7 +5800,7 @@
           "enclosure": {
             "url": "https://matthewrocklin.com/assets/images/social/ai-zealotry.png",
             "type": "image/png",
-            "length": "303236"
+            "length": "302369"
           },
           "content": "",
           "contentSnippet": "",
@@ -5939,11 +5936,11 @@
       },
       "title": "Matthew Rocklin",
       "description": "Personal site of Matthew Rocklin - thoughts on open source, startups, and engineering",
-      "pubDate": "Mon, 26 Jan 2026 04:09:11 -0000",
+      "pubDate": "Mon, 26 Jan 2026 12:50:23 -0000",
       "generator": "MkDocs RSS plugin - v1.17.7",
       "link": "https://matthewrocklin.com/",
       "language": "en",
-      "lastBuildDate": "Mon, 26 Jan 2026 04:09:11 -0000",
+      "lastBuildDate": "Mon, 26 Jan 2026 12:50:23 -0000",
       "ttl": "1440"
     },
     "Rein Hard": {
@@ -6811,10 +6808,29 @@
       "generator": "RSS for Node",
       "link": "https://alexharri.com",
       "language": "en",
-      "lastBuildDate": "Sun, 25 Jan 2026 22:33:17 GMT"
+      "lastBuildDate": "Mon, 26 Jan 2026 20:00:10 GMT"
     },
     "Frontend Masters": {
       "items": [
+        {
+          "creator": "Marc Grabanski",
+          "title": "Supporting Open Source in 2026: Why It Matters More Than Ever ($50,000)",
+          "link": "https://frontendmasters.com/blog/supporting-open-source-in-2026-why-it-matters-more-than-ever-50000/",
+          "pubDate": "Mon, 26 Jan 2026 19:48:14 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Marc Grabanski",
+          "comments": "https://frontendmasters.com/blog/supporting-open-source-in-2026-why-it-matters-more-than-ever-50000/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://frontendmasters.com/blog/?p=8339",
+          "categories": [
+            "Blog Post",
+            "Open Source"
+          ],
+          "isoDate": "2026-01-26T19:48:14.000Z",
+          "summary": ""
+        },
         {
           "creator": "Adam Rackis",
           "title": "Single Flight Mutations in TanStack Start: Part 1",
@@ -7006,27 +7022,6 @@
           ],
           "isoDate": "2026-01-13T03:24:50.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Amit Sheen",
-          "title": "Beyond the Mouse: Animating with Mobile Accelerometers",
-          "link": "https://frontendmasters.com/blog/beyond-the-mouse-animating-with-mobile-accelerometers/",
-          "pubDate": "Fri, 09 Jan 2026 13:24:47 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Amit Sheen",
-          "comments": "https://frontendmasters.com/blog/beyond-the-mouse-animating-with-mobile-accelerometers/#respond",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://frontendmasters.com/blog/?p=8178",
-          "categories": [
-            "Blog Post",
-            "Accelerometer",
-            "CSS",
-            "JavaScript"
-          ],
-          "isoDate": "2026-01-09T13:24:47.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://frontendmasters.com/blog/feed/",
@@ -7038,7 +7033,7 @@
       "generator": "https://wordpress.org/?v=6.9",
       "link": "https://frontendmasters.com/blog",
       "language": "en-US",
-      "lastBuildDate": "Fri, 23 Jan 2026 15:51:52 +0000"
+      "lastBuildDate": "Mon, 26 Jan 2026 19:48:15 +0000"
     },
     "Darren Horrocks": {
       "items": [
@@ -9036,6 +9031,25 @@
     "Free Code Camp - News": {
       "items": [
         {
+          "creator": "\n                     Manish Shivanandhan \n                ",
+          "title": "\n                     How to Chat with Your PDF Using Retrieval Augmented Generation \n                ",
+          "link": "https://www.freecodecamp.org/news/how-to-chat-with-your-pdf-using-retrieval-augmented-generation/",
+          "pubDate": "Tue, 27 Jan 2026 02:27:57 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "\n                     Manish Shivanandhan \n                ",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "697822ad5a8ba7b3a0cfc888",
+          "categories": [
+            "\n                         RAG  \n                    ",
+            "\n                         AI \n                    ",
+            "\n                         llm \n                    "
+          ],
+          "isoDate": "2026-01-27T02:27:57.000Z",
+          "summary": ""
+        },
+        {
           "creator": "\n                     Oluwaseyi Fatunmole \n                ",
           "title": "\n                     How to Use the Singleton Design Pattern in Flutter: Lazy, Eager, and Factory Variations \n                ",
           "link": "https://www.freecodecamp.org/news/how-to-use-the-singleton-design-pattern-in-flutter-lazy-eager-and-factory-variations/",
@@ -9207,24 +9221,6 @@
           ],
           "isoDate": "2026-01-21T18:26:34.000Z",
           "summary": ""
-        },
-        {
-          "creator": "\n                     Beau Carnes \n                ",
-          "title": "\n                     Build a The Backrooms Game in Unreal Engine 5 \n                ",
-          "link": "https://www.freecodecamp.org/news/build-a-the-backrooms-game-in-unreal-engine-5/",
-          "pubDate": "Wed, 21 Jan 2026 18:12:56 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "\n                     Beau Carnes \n                ",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "69711728bb0d008e8a022fe5",
-          "categories": [
-            "\n                         Unreal Engine 5 \n                    ",
-            "\n                         youtube \n                    "
-          ],
-          "isoDate": "2026-01-21T18:12:56.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.freecodecamp.org/news/rss.xml",
@@ -9240,11 +9236,31 @@
       "description": "\n             Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice. \n        ",
       "generator": "Eleventy",
       "link": "https://www.freecodecamp.org/news/",
-      "lastBuildDate": "Mon, 26 Jan 2026 04:33:34 +0000",
+      "lastBuildDate": "Tue, 27 Jan 2026 02:43:34 +0000",
       "ttl": "60"
     },
     "Github Blog": {
       "items": [
+        {
+          "creator": "Dylan Birtolo",
+          "title": "Power agentic workflows in your terminal with GitHub Copilot CLI",
+          "link": "https://github.blog/ai-and-ml/github-copilot/power-agentic-workflows-in-your-terminal-with-github-copilot-cli/",
+          "pubDate": "Mon, 26 Jan 2026 18:54:49 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Dylan Birtolo",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=93447",
+          "categories": [
+            "AI & ML",
+            "GitHub Copilot",
+            "GitHub CLI",
+            "GitHub Copilot CLI"
+          ],
+          "isoDate": "2026-01-26T18:54:49.000Z",
+          "summary": ""
+        },
         {
           "creator": "Mario Rodriguez",
           "title": "Build an agent into any app with the GitHub Copilot SDK",
@@ -9439,26 +9455,6 @@
           ],
           "isoDate": "2026-01-13T18:39:24.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Christina Warren",
-          "title": "Want better AI outputs? Try context engineering.",
-          "link": "https://github.blog/ai-and-ml/generative-ai/want-better-ai-outputs-try-context-engineering/",
-          "pubDate": "Mon, 12 Jan 2026 17:00:00 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Christina Warren",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=93198",
-          "categories": [
-            "AI & ML",
-            "Generative AI",
-            "GitHub Copilot",
-            "Insider"
-          ],
-          "isoDate": "2026-01-12T17:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://github.blog/feed/",
@@ -9477,7 +9473,7 @@
       "generator": "https://wordpress.org/?v=6.9",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Fri, 23 Jan 2026 21:34:14 +0000"
+      "lastBuildDate": "Mon, 26 Jan 2026 18:54:52 +0000"
     },
     "Mi Yau Chi": {
       "items": [
@@ -11018,7 +11014,7 @@
       "link": "https://www.cloudbees.com/blog/feed",
       "language": "en",
       "copyright": "All rights reserved 2026, CloudBees",
-      "lastBuildDate": "Mon, 26 Jan 2026 05:15:13 GMT",
+      "lastBuildDate": "Tue, 27 Jan 2026 04:32:32 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "https://overreacted.io by Dan Abramov": {
