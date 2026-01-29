@@ -4,6 +4,51 @@
     "CSS Tricks": {
       "items": [
         {
+          "creator": "Daniel Schwarz",
+          "title": "How to Style the New ::search-text and Other Highlight-y Pseudo-Elements",
+          "link": "https://css-tricks.com/how-to-style-the-new-search-text-and-other-highlight-pseudo-elements/",
+          "pubDate": "Wed, 28 Jan 2026 15:08:04 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/01/Screen-Recording-2026-01-21-at-10.28.07-AM.mov",
+            "length": "6902193",
+            "type": "video/quicktime"
+          },
+          "dc:creator": "Daniel Schwarz",
+          "comments": "https://css-tricks.com/how-to-style-the-new-search-text-and-other-highlight-pseudo-elements/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://css-tricks.com/?p=391705",
+          "categories": [
+            "Articles",
+            "pseudo elements"
+          ],
+          "isoDate": "2026-01-28T15:08:04.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Geoff Graham",
+          "title": "ReliCSS",
+          "link": "https://css-tricks.com/relicss/",
+          "pubDate": "Wed, 28 Jan 2026 13:25:00 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Geoff Graham",
+          "comments": "https://css-tricks.com/relicss/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://css-tricks.com/?p=391920",
+          "categories": [
+            "Links",
+            "audit",
+            "css analysis",
+            "resource"
+          ],
+          "isoDate": "2026-01-28T13:25:00.000Z",
+          "summary": ""
+        },
+        {
           "creator": "Zell Liew",
           "title": "There is No Need to Trap Focus on a Dialog Element",
           "link": "https://css-tricks.com/there-is-no-need-to-trap-focus-on-a-dialog-element/",
@@ -272,45 +317,6 @@
           ],
           "isoDate": "2025-12-22T14:39:52.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Sunkanmi Fafowora",
-          "title": "Masonry Layout is Now grid-lanes",
-          "link": "https://css-tricks.com/masonry-layout-is-now-grid-lanes/",
-          "pubDate": "Fri, 19 Dec 2025 16:08:28 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Sunkanmi Fafowora",
-          "comments": "https://css-tricks.com/masonry-layout-is-now-grid-lanes/#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://css-tricks.com/?p=390640",
-          "categories": [
-            "Articles",
-            "csswg",
-            "masonry"
-          ],
-          "isoDate": "2025-12-19T16:08:28.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "Geoff Graham",
-          "title": "Search CSS-Tricks Raycast Extension",
-          "link": "https://css-tricks.com/search-css-tricks-raycast-extension/",
-          "pubDate": "Thu, 18 Dec 2025 15:34:23 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Geoff Graham",
-          "comments": "https://css-tricks.com/search-css-tricks-raycast-extension/#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://css-tricks.com/?p=391171",
-          "categories": [
-            "Links",
-            "resource"
-          ],
-          "isoDate": "2025-12-18T15:34:23.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://css-tricks.com/feed/",
@@ -328,7 +334,7 @@
       "description": "Tips, Tricks, and Techniques on using Cascading Style Sheets.",
       "link": "https://css-tricks.com",
       "language": "en-US",
-      "lastBuildDate": "Mon, 26 Jan 2026 16:52:28 +0000"
+      "lastBuildDate": "Wed, 28 Jan 2026 17:26:53 +0000"
     },
     "CSS In Real Life": {
       "items": [
@@ -2286,6 +2292,18 @@
     "Hidde's Blog": {
       "items": [
         {
+          "title": "I'm back to building my own digital music collection",
+          "link": "https://hidde.blog/owning-music/",
+          "pubDate": "2026-01-28T00:00:00.000Z",
+          "content": "",
+          "contentSnippet": "",
+          "id": "https://hidde.blog/owning-music/",
+          "isoDate": "2026-01-28T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "Dear Mozilla, I don't want an “AI kill switch”, I want a more responsible approach for all",
           "link": "https://hidde.blog/mozilla-ai-kill-switch/",
           "pubDate": "2025-12-27T00:00:00.000Z",
@@ -2517,7 +2535,7 @@
       "link": "https://hidde.blog/feed",
       "feedUrl": "https://hidde.blog/feed",
       "title": "Hidde's blog",
-      "lastBuildDate": "2025-12-27T00:00:00Z"
+      "lastBuildDate": "2026-01-28T00:00:00Z"
     },
     "Zell Wel": {
       "items": [
@@ -2922,10 +2940,22 @@
       "generator": "Hugo -- gohugo.io",
       "link": "https://gomakethings.com/articles",
       "language": "en-us",
-      "lastBuildDate": "Wed, 28 Jan 2026 00:01:44 EST"
+      "lastBuildDate": "Thu, 29 Jan 2026 00:01:41 EST"
     },
     "Trevor Lasn": {
       "items": [
+        {
+          "title": "Building Custom MCP Servers with Next.js and mcp-handler",
+          "link": "https://www.trevorlasn.com/blog/building-custom-mcp-servers-with-nextjs-and-mcp-handler",
+          "pubDate": "Wed, 28 Jan 2026 00:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.trevorlasn.com/blog/building-custom-mcp-servers-with-nextjs-and-mcp-handler",
+          "isoDate": "2026-01-28T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "Good Enough Is a Strategy",
           "link": "https://www.trevorlasn.com/blog/good-enough-is-a-strategy",
@@ -3330,18 +3360,6 @@
           "contentSnippet": "",
           "guid": "https://www.trevorlasn.com/blog/jql-for-engineering-metrics-and-trends",
           "isoDate": "2025-02-11T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Keep Your Node.js Apps Secure with `npx is-my-node-vulnerable`",
-          "link": "https://www.trevorlasn.com/blog/is-my-node-vulnerable",
-          "pubDate": "Wed, 29 Jan 2025 00:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.trevorlasn.com/blog/is-my-node-vulnerable",
-          "isoDate": "2025-01-29T00:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
