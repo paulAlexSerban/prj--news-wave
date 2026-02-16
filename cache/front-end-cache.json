@@ -4,6 +4,30 @@
     "CSS Tricks": {
       "items": [
         {
+          "creator": "Daniel Schwarz",
+          "title": "What’s !important #5: Lazy-loading iframes, Repeating corner-shape Backgrounds, and More",
+          "link": "https://css-tricks.com/whats-important-5/",
+          "pubDate": "Fri, 13 Feb 2026 15:19:57 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/02/time-layout.mp4",
+            "length": "7627313",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Daniel Schwarz",
+          "comments": "https://css-tricks.com/whats-important-5/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://css-tricks.com/?p=392302",
+          "categories": [
+            "Articles",
+            "news"
+          ],
+          "isoDate": "2026-02-13T15:19:57.000Z",
+          "summary": ""
+        },
+        {
           "creator": "Temani Afif",
           "title": "Making a Responsive Pyramidal Grid With Modern CSS",
           "link": "https://css-tricks.com/making-a-responsive-pyramidal-grid-with-modern-css/",
@@ -306,26 +330,6 @@
           ],
           "isoDate": "2026-01-16T17:30:43.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Geoff Graham",
-          "title": "“I Heart CSS” DailyDev Squad",
-          "link": "https://css-tricks.com/i-heart-css-dailydev-squad/",
-          "pubDate": "Fri, 16 Jan 2026 14:46:24 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Geoff Graham",
-          "comments": "https://css-tricks.com/i-heart-css-dailydev-squad/#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://css-tricks.com/?p=391529",
-          "categories": [
-            "Links",
-            "news",
-            "resource"
-          ],
-          "isoDate": "2026-01-16T14:46:24.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://css-tricks.com/feed/",
@@ -343,7 +347,7 @@
       "description": "Tips, Tricks, and Techniques on using Cascading Style Sheets.",
       "link": "https://css-tricks.com",
       "language": "en-US",
-      "lastBuildDate": "Thu, 12 Feb 2026 14:57:43 +0000"
+      "lastBuildDate": "Fri, 13 Feb 2026 15:23:00 +0000"
     },
     "CSS In Real Life": {
       "items": [
@@ -3043,10 +3047,22 @@
       "generator": "Hugo -- gohugo.io",
       "link": "https://gomakethings.com/articles",
       "language": "en-us",
-      "lastBuildDate": "Fri, 13 Feb 2026 00:01:43 EST"
+      "lastBuildDate": "Mon, 16 Feb 2026 00:01:45 EST"
     },
     "Trevor Lasn": {
       "items": [
+        {
+          "title": "Google Search Console MCP for Claude Code",
+          "link": "https://www.trevorlasn.com/blog/google-search-console-mcp-claude-code",
+          "pubDate": "Sun, 15 Feb 2026 00:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.trevorlasn.com/blog/google-search-console-mcp-claude-code",
+          "isoDate": "2026-02-15T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "I Built 0xInsider.com — a Whale Trade Tracker for Prediction Markets",
           "link": "https://www.trevorlasn.com/blog/0xinsider-prediction-market-whale-tracking",
@@ -3096,7 +3112,7 @@
           "summary": ""
         },
         {
-          "title": "CSS :interest-invoker and :interest-target Pseudo-Classes",
+          "title": "CSS :interest-source and :interest-target Pseudo-Classes",
           "link": "https://www.trevorlasn.com/blog/css-interest-pseudo-classes",
           "pubDate": "Wed, 12 Nov 2025 00:00:00 GMT",
           "content": "",
@@ -3144,7 +3160,7 @@
           "summary": ""
         },
         {
-          "title": "How I force Claude Code to plan before coding with Superpowers MCP",
+          "title": "Claude Code Superpowers: How to Add Skills That Plan Before Coding",
           "link": "https://www.trevorlasn.com/blog/superpowers-claude-code-skills",
           "pubDate": "Tue, 04 Nov 2025 00:00:00 GMT",
           "content": "",
@@ -3180,7 +3196,7 @@
           "summary": ""
         },
         {
-          "title": "Context7 MCP: Up-to-date Docs for LLMs and AI code editors",
+          "title": "Context7 MCP: Stop LLM Hallucinations with Live Docs",
           "link": "https://www.trevorlasn.com/blog/context7-mcp",
           "pubDate": "Sat, 01 Nov 2025 00:00:00 GMT",
           "content": "",
@@ -3192,7 +3208,7 @@
           "summary": ""
         },
         {
-          "title": "IndexNow: Get your content indexed instantly by AI search engines and traditional search",
+          "title": "IndexNow: Get Pages Indexed in Minutes, Not Weeks",
           "link": "https://www.trevorlasn.com/blog/how-to-setup-indexnow-for-instant-search-engine-indexing",
           "pubDate": "Mon, 27 Oct 2025 00:00:00 GMT",
           "content": "",
@@ -3204,7 +3220,7 @@
           "summary": ""
         },
         {
-          "title": "What's new in Next.js 16",
+          "title": "What's New in Next.js 16: Every Change Explained",
           "link": "https://www.trevorlasn.com/blog/whats-new-in-nextjs-16",
           "pubDate": "Sat, 25 Oct 2025 00:00:00 GMT",
           "content": "",
@@ -3420,8 +3436,8 @@
           "summary": ""
         }
       ],
-      "title": "Trevor I. Lasn, Founder & CEO of 0xinsider",
-      "description": "Founder & CEO of 0xinsider.com — the Bloomberg terminal for prediction markets. Product engineer based in Tartu, Estonia, building and shipping for over a decade.",
+      "title": "Trevor I. Lasn, Building 0xinsider",
+      "description": "Building 0xinsider.com — the Bloomberg terminal for prediction markets. Product engineer based in Tartu, Estonia, building and shipping for over a decade.",
       "link": "https://www.trevorlasn.com"
     }
   }
