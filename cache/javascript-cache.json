@@ -205,6 +205,18 @@
     "JavaScript Weekly": {
       "items": [
         {
+          "title": "MDN ditches React for web components in frontend rebuild",
+          "link": "https://javascriptweekly.com/issues/781",
+          "pubDate": "Tue, 14 Apr 2026 00:00:00 +0000",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://javascriptweekly.com/issues/781",
+          "isoDate": "2026-04-14T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "What to know about JavaScript in 2026",
           "link": "https://javascriptweekly.com/issues/780",
           "pubDate": "Tue, 7 Apr 2026 00:00:00 +0000",
@@ -236,18 +248,6 @@
           "contentSnippet": "",
           "guid": "https://javascriptweekly.com/issues/778",
           "isoDate": "2026-03-24T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "It’s about time: Temporal advances, Vite accelerates",
-          "link": "https://javascriptweekly.com/issues/777",
-          "pubDate": "Tue, 17 Mar 2026 00:00:00 +0000",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://javascriptweekly.com/issues/777",
-          "isoDate": "2026-03-17T00:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -675,6 +675,19 @@
     "AppSignal": {
       "items": [
         {
+          "title": "Tracing a Slow Request Through Your Django App",
+          "link": "https://blog.appsignal.com/2026/04/14/tracing-a-slow-request-through-your-django-app.html",
+          "pubDate": "2026-04-14T00:00:00.000Z",
+          "author": "Jaume Boguña",
+          "content": "",
+          "contentSnippet": "",
+          "summary": "",
+          "id": "https://blog.appsignal.com/2026/04/14/tracing-a-slow-request-through-your-django-app.html",
+          "isoDate": "2026-04-14T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": ""
+        },
+        {
           "title": "Tracking Celery Task Failures in Python",
           "link": "https://blog.appsignal.com/2026/04/09/tracking-celery-task-failures-in-python.html",
           "pubDate": "2026-04-09T00:00:00.000Z",
@@ -920,25 +933,12 @@
           "isoDate": "2025-12-17T00:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": ""
-        },
-        {
-          "title": "Monitoring Node.js Express Application Performance with AppSignal",
-          "link": "https://blog.appsignal.com/2025/12/10/monitoring-nodejs-express-application-performance-with-appsignal.html",
-          "pubDate": "2025-12-10T00:00:00.000Z",
-          "author": "Damilola Olatunji",
-          "content": "",
-          "contentSnippet": "",
-          "summary": "",
-          "id": "https://blog.appsignal.com/2025/12/10/monitoring-nodejs-express-application-performance-with-appsignal.html",
-          "isoDate": "2025-12-10T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": ""
         }
       ],
       "link": "https://blog.appsignal.com",
       "feedUrl": "https://blog.appsignal.com/feed.xml",
       "title": "AppSignal",
-      "lastBuildDate": "2026-04-10T15:00:00+00:00"
+      "lastBuildDate": "2026-04-14T10:00:00+00:00"
     },
     "Total TypeScript": {
       "items": [
@@ -1073,6 +1073,20 @@
     },
     "Josh W Comeau": {
       "items": [
+        {
+          "creator": "Josh W. Comeau",
+          "title": "Squash and Stretch",
+          "link": "https://www.joshwcomeau.com/animation/squash-and-stretch/",
+          "pubDate": "Mon, 13 Apr 2026 12:00:00 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Josh W. Comeau",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.joshwcomeau.com/animation/squash-and-stretch/",
+          "isoDate": "2026-04-13T12:00:00.000Z",
+          "summary": ""
+        },
         {
           "creator": "Josh W. Comeau",
           "title": "Sneaky Header Blocker Trick",
@@ -1212,20 +1226,6 @@
           "guid": "https://www.joshwcomeau.com/css/height-enigma/",
           "isoDate": "2025-05-12T11:30:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Josh W. Comeau",
-          "title": "The Post-Developer Era",
-          "link": "https://www.joshwcomeau.com/blog/the-post-developer-era/",
-          "pubDate": "Mon, 14 Apr 2025 13:00:00 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Josh W. Comeau",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.joshwcomeau.com/blog/the-post-developer-era/",
-          "isoDate": "2025-04-14T13:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.joshwcomeau.com/rss.xml",
@@ -1236,7 +1236,7 @@
       "description": "Friendly tutorials for developers. Focus on React, CSS, animation, and careers.",
       "generator": "RSS for Node",
       "link": "https://www.joshwcomeau.com/",
-      "lastBuildDate": "Mon, 13 Apr 2026 05:55:31 GMT"
+      "lastBuildDate": "Wed, 15 Apr 2026 05:45:23 GMT"
     },
     "Philip Walton": {
       "items": [
