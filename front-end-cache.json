@@ -4,6 +4,52 @@
     "CSS Tricks": {
       "items": [
         {
+          "creator": "Amit Sheen",
+          "title": "The Radio State Machine",
+          "link": "https://css-tricks.com/the-radio-state-machine/",
+          "pubDate": "Tue, 14 Apr 2026 13:55:38 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Amit Sheen",
+          "comments": "https://css-tricks.com/the-radio-state-machine/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://css-tricks.com/?p=393344",
+          "categories": [
+            "Articles",
+            "checkbox hack",
+            "forms",
+            "state",
+            "state machines"
+          ],
+          "isoDate": "2026-04-14T13:55:38.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Sunkanmi Fafowora",
+          "title": "7 View Transitions Recipes to Try",
+          "link": "https://css-tricks.com/7-view-transitions-recipes-to-try/",
+          "pubDate": "Mon, 13 Apr 2026 14:14:43 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "enclosure": {
+            "url": "https://css-tricks.com/wp-content/uploads/2026/02/View-transition-Pixelate-dissolve.mp4",
+            "length": "658932",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Sunkanmi Fafowora",
+          "comments": "https://css-tricks.com/7-view-transitions-recipes-to-try/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://css-tricks.com/?p=392002",
+          "categories": [
+            "Articles",
+            "view transitions"
+          ],
+          "isoDate": "2026-04-13T14:14:43.000Z",
+          "summary": ""
+        },
+        {
           "creator": "Preethi",
           "title": "Selecting a Date Range in CSS",
           "link": "https://css-tricks.com/selecting-a-date-range-in-css/",
@@ -271,52 +317,6 @@
           ],
           "isoDate": "2026-03-16T14:01:02.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Patrick Brosset",
-          "title": "Abusing Customizable Selects",
-          "link": "https://css-tricks.com/abusing-customizable-selects/",
-          "pubDate": "Wed, 11 Mar 2026 13:59:15 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "enclosure": {
-            "url": "https://css-tricks.com/wp-content/uploads/2026/02/css-tricks-custom-select-folder-stack.mp4",
-            "length": "410481",
-            "type": "video/mp4"
-          },
-          "dc:creator": "Patrick Brosset",
-          "comments": "https://css-tricks.com/abusing-customizable-selects/#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://css-tricks.com/?p=392463",
-          "categories": [
-            "Articles",
-            "CSS functions",
-            "html elements",
-            "select"
-          ],
-          "isoDate": "2026-03-11T13:59:15.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "Amit Sheen",
-          "title": "The Value of z-index",
-          "link": "https://css-tricks.com/the-value-of-z-index/",
-          "pubDate": "Mon, 09 Mar 2026 14:20:01 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Amit Sheen",
-          "comments": "https://css-tricks.com/the-value-of-z-index/#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://css-tricks.com/?p=392843",
-          "categories": [
-            "Articles",
-            "css properties",
-            "stacking contexts"
-          ],
-          "isoDate": "2026-03-09T14:20:01.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://css-tricks.com/feed/",
@@ -334,7 +334,7 @@
       "description": "Tips, Tricks, and Techniques on using Cascading Style Sheets.",
       "link": "https://css-tricks.com",
       "language": "en-US",
-      "lastBuildDate": "Thu, 09 Apr 2026 13:52:59 +0000"
+      "lastBuildDate": "Tue, 14 Apr 2026 20:49:20 +0000"
     },
     "CSS In Real Life": {
       "items": [
@@ -1108,6 +1108,19 @@
     "Brad Frost": {
       "items": [
         {
+          "title": "Adaptability, Curiosity, &#038; Creative Breadth with Brendan Dawes",
+          "link": "https://bradfrost.com/blog/post/adaptability-curiosity-creative-breadth-with-brendan-dawes/",
+          "pubDate": "2026-04-13T17:37:11.000Z",
+          "author": "Brad Frost",
+          "content": "",
+          "contentSnippet": "",
+          "summary": "",
+          "id": "https://bradfrost.com/?p=25450",
+          "isoDate": "2026-04-13T17:37:11.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": ""
+        },
+        {
           "title": "An update on life and work",
           "link": "https://bradfrost.com/blog/post/an-update-on-life-and-work/",
           "pubDate": "2026-04-08T04:01:10.000Z",
@@ -1483,25 +1496,12 @@
           "isoDate": "2025-12-09T03:24:10.000Z",
           "content:encoded": "",
           "content:encodedSnippet": ""
-        },
-        {
-          "title": "A Love Letter To The People Who Believe In People &#124; CreativeMornings",
-          "link": "https://bradfrost.com/blog/link/a-love-letter-to-the-people-who-believe-in-people-creativemornings/",
-          "pubDate": "2025-11-29T21:13:01.000Z",
-          "author": "Brad Frost",
-          "content": "",
-          "contentSnippet": "",
-          "summary": "",
-          "id": "https://bradfrost.com/?p=25184",
-          "isoDate": "2025-11-29T21:13:01.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": ""
         }
       ],
       "link": "https://bradfrost.com",
       "feedUrl": "https://bradfrost.com/feed/atom/",
       "title": "Brad Frost",
-      "lastBuildDate": "2026-04-08T04:01:11Z"
+      "lastBuildDate": "2026-04-13T17:46:17Z"
     },
     "Jonathan Suh": {
       "items": [
@@ -1774,6 +1774,18 @@
     "Dave Rupert": {
       "items": [
         {
+          "title": "When moving fast, talking is the first thing to break",
+          "link": "https://daverupert.com/2026/04/more-talk-less-grok/",
+          "pubDate": "Mon, 13 Apr 2026 15:10:00 +0000",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://daverupert.com/2026/04/more-talk-less-grok/",
+          "isoDate": "2026-04-13T15:10:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "Inverted themes with light-dark()",
           "link": "https://daverupert.com/2026/04/inverted-light-dark/",
           "pubDate": "Tue, 07 Apr 2026 15:31:00 +0000",
@@ -1997,18 +2009,6 @@
           "contentSnippet": "",
           "guid": "https://daverupert.com/2025/11/grid-paper/",
           "isoDate": "2025-11-23T18:20:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Inkwell Games",
-          "link": "https://daverupert.com/2025/11/inkwell-games/",
-          "pubDate": "Fri, 14 Nov 2025 16:14:00 +0000",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://daverupert.com/2025/11/inkwell-games/",
-          "isoDate": "2025-11-14T16:14:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -2515,6 +2515,39 @@
     },
     "Zell Wel": {
       "items": [
+        {
+          "title": "Anchor Habits",
+          "link": "https://zellwk.com/blog/anchor-habits/",
+          "pubDate": "Sun, 12 Apr 2026 00:00:00 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://zellwk.com/blog/anchor-habits/",
+          "categories": [
+            "Life",
+            "Habits",
+            "Personal growth"
+          ],
+          "isoDate": "2026-04-12T00:00:00.000Z",
+          "summary": ""
+        },
+        {
+          "title": "Eliminating MCP Token Costs in Claude",
+          "link": "https://zellwk.com/blog/eliminating-mcp-token-costs-in-claude/",
+          "pubDate": "Sun, 12 Apr 2026 00:00:00 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://zellwk.com/blog/eliminating-mcp-token-costs-in-claude/",
+          "categories": [
+            "Ai",
+            "Claude"
+          ],
+          "isoDate": "2026-04-12T00:00:00.000Z",
+          "summary": ""
+        },
         {
           "title": "I Used AI to Lose Weight (And It Worked)",
           "link": "https://zellwk.com/blog/i-used-ai-to-lose-weight/",
@@ -3094,7 +3127,7 @@
       "generator": "Hugo -- gohugo.io",
       "link": "https://gomakethings.com/articles",
       "language": "en-us",
-      "lastBuildDate": "Mon, 13 Apr 2026 00:01:43 EST"
+      "lastBuildDate": "Wed, 15 Apr 2026 00:01:46 EST"
     },
     "Trevor Lasn": {
       "items": [
@@ -3430,18 +3463,6 @@
           "contentSnippet": "",
           "guid": "https://www.trevorlasn.com/blog/fetching-data-for-complex-next-and-react-apps",
           "isoDate": "2025-05-04T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Float16Array in JavaScript",
-          "link": "https://www.trevorlasn.com/blog/float16array-javascript",
-          "pubDate": "Mon, 14 Apr 2025 00:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.trevorlasn.com/blog/float16array-javascript",
-          "isoDate": "2025-04-14T00:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
