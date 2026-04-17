@@ -1851,14 +1851,35 @@
       },
       "title": "SitePoint",
       "description": "Learn CSS | HTML5 | JavaScript | Wordpress | Tutorials-Web Development | Reference | Books and More",
-      "pubDate": "Thu, 16 Apr 2026 05:47:03 GMT",
+      "pubDate": "Fri, 17 Apr 2026 05:00:32 GMT",
       "generator": "RSS for Node",
       "link": "https://www.sitepoint.com",
       "language": "en",
-      "lastBuildDate": "Thu, 16 Apr 2026 05:47:04 GMT"
+      "lastBuildDate": "Fri, 17 Apr 2026 05:00:33 GMT"
     },
     "GitHub Blog FEED": {
       "items": [
+        {
+          "creator": "Lawrence Gripper",
+          "title": "How GitHub uses eBPF to improve deployment safety",
+          "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
+          "pubDate": "Thu, 16 Apr 2026 16:00:00 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Lawrence Gripper",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=95074",
+          "categories": [
+            "Engineering",
+            "Infrastructure",
+            "Deployment",
+            "eBPF",
+            "platform engineering"
+          ],
+          "isoDate": "2026-04-16T16:00:00.000Z",
+          "summary": ""
+        },
         {
           "creator": "Cassidy Williams",
           "title": "Build a personal organization command center with GitHub Copilot CLI",
@@ -2044,27 +2065,6 @@
           ],
           "isoDate": "2026-04-06T21:53:49.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Luke Ghenco",
-          "title": "The uphill climb of making diff lines performant",
-          "link": "https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/",
-          "pubDate": "Fri, 03 Apr 2026 16:00:00 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Luke Ghenco",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=94994",
-          "categories": [
-            "Architecture & optimization",
-            "Engineering",
-            "diffs",
-            "performance engineering",
-            "pull requests"
-          ],
-          "isoDate": "2026-04-03T16:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://github.blog/feed/",
@@ -2083,7 +2083,7 @@
       "generator": "https://wordpress.org/?v=6.9.4",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Wed, 15 Apr 2026 15:56:59 +0000"
+      "lastBuildDate": "Wed, 15 Apr 2026 23:44:24 +0000"
     },
     "GitHub Blog Atom": {
       "items": [
@@ -2949,11 +2949,34 @@
       "link": "https://www.smashingmagazine.com/",
       "language": "en",
       "copyright": "All rights reserved 2026, Smashing Media AG",
-      "lastBuildDate": "Thu, 16 Apr 2026 05:32:08 GMT",
+      "lastBuildDate": "Fri, 17 Apr 2026 05:32:17 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Codrops": {
       "items": [
+        {
+          "creator": "Corentin Bernadou",
+          "title": "The Art of Complex Motion: Corentin Bernadou’s World of Shaders and Experimentation",
+          "link": "https://tympanus.net/codrops/2026/04/16/the-art-of-complex-motion-corentin-bernadous-world-of-shaders-and-experimentation/",
+          "pubDate": "Thu, 16 Apr 2026 13:52:04 +0000",
+          "enclosure": {
+            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/04/moving-portraits_1-1.mp4?x81522",
+            "length": "1012728",
+            "type": "video/mp4"
+          },
+          "dc:creator": "Corentin Bernadou",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://tympanus.net/codrops/?p=114125",
+          "categories": [
+            "Articles",
+            "Developer Spotlight"
+          ],
+          "isoDate": "2026-04-16T13:52:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Giulio Collesei",
           "title": "They Call Me Giulio: The Making of a Cinematic Cyberpunk Portfolio",
@@ -3172,32 +3195,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Arnaud Rocca",
-          "title": "Arnaud Rocca’s Portfolio: From a GSAP-Powered Motion System to Fluid WebGL",
-          "link": "https://tympanus.net/codrops/2026/03/31/arnaud-roccas-portfolio-from-a-gsap-powered-motion-system-to-fluid-webgl/",
-          "pubDate": "Tue, 31 Mar 2026 14:29:05 +0000",
-          "enclosure": {
-            "url": "https://codrops-1f606.kxcdn.com/codrops/wp-content/uploads/2026/03/home-mask.mp4?x81522",
-            "length": "4579092",
-            "type": "video/mp4"
-          },
-          "dc:creator": "Arnaud Rocca",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://tympanus.net/codrops/?p=112139",
-          "categories": [
-            "Articles",
-            "case study",
-            "GSAP",
-            "portfolio",
-            "WebGL"
-          ],
-          "isoDate": "2026-03-31T14:29:05.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://tympanus.net/codrops/feed/",
@@ -3209,10 +3206,136 @@
       "generator": "https://wordpress.org/?v=6.9.4",
       "link": "https://tympanus.net/codrops",
       "language": "en-US",
-      "lastBuildDate": "Wed, 15 Apr 2026 03:42:01 +0000"
+      "lastBuildDate": "Thu, 16 Apr 2026 13:52:06 +0000"
     },
     "DZone": {
       "items": [
+        {
+          "creator": "Igboanugo David Ugochukwu",
+          "title": "Part I: The Build You Can’t See Is the One That Will Kill You: Software Supply Chains, SBOMs, and the Long Reckoning After SolarWinds",
+          "link": "https://dzone.com/articles/part-i-software-supply-chains-sboms-and-solarwinds",
+          "pubDate": "Thu, 16 Apr 2026 20:00:00 GMT",
+          "dc:creator": "Igboanugo David Ugochukwu",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3639931",
+          "isoDate": "2026-04-16T20:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Seshendranath Balla Venkata",
+          "title": "Advanced Auto Loader Patterns for Large-Scale JSON and Semi-Structured Data",
+          "link": "https://dzone.com/articles/advanced-auto-loader-json-semi-structured-data",
+          "pubDate": "Thu, 16 Apr 2026 19:00:00 GMT",
+          "dc:creator": "Seshendranath Balla Venkata",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3640415",
+          "isoDate": "2026-04-16T19:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Nishant Bhanot",
+          "title": "Beyond Fail-Safe: Designing Fail-Operational State Machines for Physical AI",
+          "link": "https://dzone.com/articles/beyond-fail-safe-designing-fail-operational-state",
+          "pubDate": "Thu, 16 Apr 2026 18:00:00 GMT",
+          "dc:creator": "Nishant Bhanot",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3641596",
+          "isoDate": "2026-04-16T18:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Alexander Samuel",
+          "title": "How To Build A White-label AI Chatbot: Here's the Complete Process",
+          "link": "https://dzone.com/articles/how-to-build-a-white-label-ai-chatbot",
+          "pubDate": "Thu, 16 Apr 2026 17:00:12 GMT",
+          "dc:creator": "Alexander Samuel",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3639824",
+          "isoDate": "2026-04-16T17:00:12.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Igboanugo David Ugochukwu",
+          "title": "Seeing the Whole System: Why OpenTelemetry Is Ending the Era of Fragmented Visibility",
+          "link": "https://dzone.com/articles/opentelemetry-ending-era-of-fragmented-visibility",
+          "pubDate": "Thu, 16 Apr 2026 16:00:16 GMT",
+          "dc:creator": "Igboanugo David Ugochukwu",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3639930",
+          "isoDate": "2026-04-16T16:00:16.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Rajesh Kumar Pandey",
+          "title": "Stop Burning Money on AI Inference: A Cloud-Agnostic Guide to Serverless Cost Optimization",
+          "link": "https://dzone.com/articles/cloud-agnostic-guide-serverless-cost-optimization",
+          "pubDate": "Thu, 16 Apr 2026 15:00:11 GMT",
+          "dc:creator": "Rajesh Kumar Pandey",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3641805",
+          "isoDate": "2026-04-16T15:00:11.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Vineet Bhatkoti",
+          "title": "SBOM in Practice: Embedding Compliance Into the Software Delivery Lifecycle",
+          "link": "https://dzone.com/articles/sbom-embedding-compliance-into-sdlc",
+          "pubDate": "Thu, 16 Apr 2026 14:00:01 GMT",
+          "dc:creator": "Vineet Bhatkoti",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3639841",
+          "isoDate": "2026-04-16T14:00:01.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Igboanugo David Ugochukwu",
+          "title": "The Architecture Tax: What Nobody Tells You About Deploying LLMs in Production",
+          "link": "https://dzone.com/articles/the-architecture-tax-deploying-llms",
+          "pubDate": "Thu, 16 Apr 2026 13:00:00 GMT",
+          "dc:creator": "Igboanugo David Ugochukwu",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3639929",
+          "isoDate": "2026-04-16T13:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Ramya vani Rayala",
+          "title": "Optimizing Java Back-End Performance Profiling and Best Practices",
+          "link": "https://dzone.com/articles/optimizing-java-backend-performance-profiling-best-practices",
+          "pubDate": "Thu, 16 Apr 2026 12:00:00 GMT",
+          "dc:creator": "Ramya vani Rayala",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dzone.com/articles/3641688",
+          "isoDate": "2026-04-16T12:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "Braden Riggs",
           "title": "Code Security Remediation: What 50,000 Repositories Reveal About PR Scanning",
@@ -3506,132 +3629,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Seshendranath Balla Venkata",
-          "title": "Boost Your Spark Jobs: How Photon Accelerates Apache Spark Performance",
-          "link": "https://dzone.com/articles/how-photon-accelerates-apache-spark-performance",
-          "pubDate": "Mon, 13 Apr 2026 20:00:00 GMT",
-          "dc:creator": "Seshendranath Balla Venkata",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3635884",
-          "isoDate": "2026-04-13T20:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Suresh Kurapati",
-          "title": "Designing AI-Assisted Integration Pipelines for Enterprise SaaS",
-          "link": "https://dzone.com/articles/designing-ai-assisted-integration-pipelines-for-en",
-          "pubDate": "Mon, 13 Apr 2026 19:00:00 GMT",
-          "dc:creator": "Suresh Kurapati",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3632466",
-          "isoDate": "2026-04-13T19:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Suresh Kurapati",
-          "title": "SelfService HR Dashboards with Workday Extend and APIs",
-          "link": "https://dzone.com/articles/selfservice-hr-dashboards-with-workday-ext",
-          "pubDate": "Mon, 13 Apr 2026 18:00:00 GMT",
-          "dc:creator": "Suresh Kurapati",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3629278",
-          "isoDate": "2026-04-13T18:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Iyanuoluwa Ajao",
-          "title": "Beyond Request-Response: Architecting Stateful Agentic Chatbots with the Command and State Patterns",
-          "link": "https://dzone.com/articles/beyond-request-response-architecting-agentic",
-          "pubDate": "Mon, 13 Apr 2026 17:00:01 GMT",
-          "dc:creator": "Iyanuoluwa Ajao",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3626093",
-          "isoDate": "2026-04-13T17:00:01.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Amit Sonar",
-          "title": "Respecting robots.txt in Web Scraping",
-          "link": "https://dzone.com/articles/respecting-robotstxt-in-web-scraping-1",
-          "pubDate": "Mon, 13 Apr 2026 16:00:00 GMT",
-          "dc:creator": "Amit Sonar",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3629513",
-          "isoDate": "2026-04-13T16:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Ashly Joseph",
-          "title": "AI in SRE: What's Actually Coming in 2026",
-          "link": "https://dzone.com/articles/ai-in-sre-whats-actually-coming-in-2026",
-          "pubDate": "Mon, 13 Apr 2026 15:00:00 GMT",
-          "dc:creator": "Ashly Joseph",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3623662",
-          "isoDate": "2026-04-13T15:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Faisal Khatri",
-          "title": "How to Test a GET API Request Using REST-Assured Java",
-          "link": "https://dzone.com/articles/test-get-api-rest-assured-java",
-          "pubDate": "Mon, 13 Apr 2026 14:30:00 GMT",
-          "dc:creator": "Faisal Khatri",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3649945",
-          "isoDate": "2026-04-13T14:30:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Rajaganapathi Rangdale Srinivasa Rao",
-          "title": "Pushdown-First Modernization: Engineering Execution-Plan Stability in SAP HANA Migrations",
-          "link": "https://dzone.com/articles/pushdown-first-modernization-engineering-execution",
-          "pubDate": "Mon, 13 Apr 2026 14:00:17 GMT",
-          "dc:creator": "Rajaganapathi Rangdale Srinivasa Rao",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3639601",
-          "isoDate": "2026-04-13T14:00:17.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Gaurav Gaur",
-          "title": "The 4 Signals That Actually Predict Production Failures - Part 2",
-          "link": "https://dzone.com/articles/production-failure-signals",
-          "pubDate": "Mon, 13 Apr 2026 13:30:00 GMT",
-          "dc:creator": "Gaurav Gaur",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dzone.com/articles/3650048",
-          "isoDate": "2026-04-13T13:30:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.dzone.com/home",
@@ -3872,226 +3869,238 @@
     "DEV Community": {
       "items": [
         {
-          "creator": "Kushagra Kapoor",
-          "title": "Voice Agent",
-          "link": "https://dev.to/kushagra_kapoor_04/voice-agent-3je5",
-          "pubDate": "Thu, 16 Apr 2026 05:38:08 +0000",
-          "dc:creator": "Kushagra Kapoor",
+          "creator": "Shivappa",
+          "title": "(EDA Part-2) First Look at the Titanic Dataset — Loading Data and Understanding Big 5",
+          "link": "https://dev.to/shivappa/eda-part-2-first-look-at-the-titanic-dataset-loading-data-and-understanding-big-5-5ag2",
+          "pubDate": "Fri, 17 Apr 2026 05:45:22 +0000",
+          "dc:creator": "Shivappa",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/kushagra_kapoor_04/voice-agent-3je5",
+          "guid": "https://dev.to/shivappa/eda-part-2-first-look-at-the-titanic-dataset-loading-data-and-understanding-big-5-5ag2",
           "categories": [
+            "pandas",
+            "kaggle",
+            "titanic",
+            "machinelearning"
+          ],
+          "isoDate": "2026-04-17T05:45:22.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Rui-Tech",
+          "title": "Beyond new and delete: A Practical Guide to Refactoring Raw Pointers to Smart Pointers",
+          "link": "https://dev.to/legacycpp/beyond-new-and-delete-a-practical-guide-to-refactoring-raw-pointers-to-smart-pointers-3pcd",
+          "pubDate": "Fri, 17 Apr 2026 05:45:18 +0000",
+          "dc:creator": "Rui-Tech",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/legacycpp/beyond-new-and-delete-a-practical-guide-to-refactoring-raw-pointers-to-smart-pointers-3pcd",
+          "categories": [
+            "cpp",
+            "leagcy",
+            "refactoring",
+            "ptr"
+          ],
+          "isoDate": "2026-04-17T05:45:18.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "ANIRUDDHA  ADAK",
+          "title": "TerraLens: See Your Planet. Shape Its Future. 🌍",
+          "link": "https://dev.to/aniruddhaadak/terralens-see-your-planet-shape-its-future-18hc",
+          "pubDate": "Fri, 17 Apr 2026 05:45:04 +0000",
+          "dc:creator": "ANIRUDDHA  ADAK",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/aniruddhaadak/terralens-see-your-planet-shape-its-future-18hc",
+          "categories": [
+            "devchallenge",
+            "weekendchallenge",
+            "earthday",
+            "gemini"
+          ],
+          "isoDate": "2026-04-17T05:45:04.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "AI Super-App",
+          "title": "What actually makes a Super App different? It starts with mini programs.",
+          "link": "https://dev.to/ai_superapp_f24487b12839/what-actually-makes-a-super-app-different-it-starts-with-mini-programs-h7p",
+          "pubDate": "Fri, 17 Apr 2026 05:44:45 +0000",
+          "dc:creator": "AI Super-App",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/ai_superapp_f24487b12839/what-actually-makes-a-super-app-different-it-starts-with-mini-programs-h7p",
+          "categories": [
+            "superapp",
+            "miniprogram",
+            "miniapp"
+          ],
+          "isoDate": "2026-04-17T05:44:45.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Datta Kharad",
+          "title": "AI-102 vs AI-900: Which Azure AI Certification Should You Choose?",
+          "link": "https://dev.to/datta_kharad_3fd1383b5036/ai-102-vs-ai-900-which-azure-ai-certification-should-you-choose-11cg",
+          "pubDate": "Fri, 17 Apr 2026 05:43:37 +0000",
+          "dc:creator": "Datta Kharad",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/datta_kharad_3fd1383b5036/ai-102-vs-ai-900-which-azure-ai-certification-should-you-choose-11cg",
+          "categories": [
+            "ai",
+            "azure",
+            "career",
+            "learning"
+          ],
+          "isoDate": "2026-04-17T05:43:37.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Dewald Els",
+          "title": "The Unstoppable Current: Why Change Is the Only Constant You Can Count On",
+          "link": "https://dev.to/dewald-els/the-unstoppable-current-why-change-is-the-only-constant-you-can-count-on-3nda",
+          "pubDate": "Fri, 17 Apr 2026 05:42:48 +0000",
+          "dc:creator": "Dewald Els",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/dewald-els/the-unstoppable-current-why-change-is-the-only-constant-you-can-count-on-3nda",
+          "categories": [
+            "ai",
             "agents",
+            "programming",
+            "discuss"
+          ],
+          "isoDate": "2026-04-17T05:42:48.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Atlas Whoff",
+          "title": "The Prompt-Injection Bug That Took Down My Agent for 6 Hours",
+          "link": "https://dev.to/whoffagents/the-prompt-injection-bug-that-took-down-my-agent-for-6-hours-56ao",
+          "pubDate": "Fri, 17 Apr 2026 05:40:39 +0000",
+          "dc:creator": "Atlas Whoff",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/whoffagents/the-prompt-injection-bug-that-took-down-my-agent-for-6-hours-56ao",
+          "categories": [
+            "aiagents",
+            "security",
+            "claudecode",
+            "ai"
+          ],
+          "isoDate": "2026-04-17T05:40:39.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Atlas Whoff",
+          "title": "I Run 14 AI Agents 24/7 on a 16GB MacBook — Here's What Broke First",
+          "link": "https://dev.to/whoffagents/i-run-14-ai-agents-247-on-a-16gb-macbook-heres-what-broke-first-53lb",
+          "pubDate": "Fri, 17 Apr 2026 05:40:39 +0000",
+          "dc:creator": "Atlas Whoff",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/whoffagents/i-run-14-ai-agents-247-on-a-16gb-macbook-heres-what-broke-first-53lb",
+          "categories": [
+            "claudecode",
             "ai",
-            "nlp",
-            "showdev"
+            "aiagents",
+            "devops"
           ],
-          "isoDate": "2026-04-16T05:38:08.000Z",
+          "isoDate": "2026-04-17T05:40:39.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Amandeep Singh",
-          "title": "From college assignment to portfolio centerpiece. 📂",
-          "link": "https://dev.to/singhamandeep007/from-college-assignment-to-portfolio-centerpiece-12ei",
-          "pubDate": "Thu, 16 Apr 2026 05:28:54 +0000",
-          "dc:creator": "Amandeep Singh",
+          "creator": "Standupify Team",
+          "title": "Mastering Google Meet Usage for Optimized Remote Team Productivity",
+          "link": "https://dev.to/standupify/mastering-google-meet-usage-for-optimized-remote-team-productivity-2ahh",
+          "pubDate": "Fri, 17 Apr 2026 05:39:30 +0000",
+          "dc:creator": "Standupify Team",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/singhamandeep007/from-college-assignment-to-portfolio-centerpiece-12ei",
-          "isoDate": "2026-04-16T05:28:54.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Amandeep Singh",
-          "title": "How would you rate my portfolio out of 10 from a UX/UI and performance perspective? The good, the bad, and the ugly - tell me in the comments.",
-          "link": "https://dev.to/singhamandeep007/how-would-you-rate-my-portfolio-out-of-10-from-a-uxui-and-performance-perspective-the-good-the-1gc8",
-          "pubDate": "Thu, 16 Apr 2026 05:26:05 +0000",
-          "dc:creator": "Amandeep Singh",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/singhamandeep007/how-would-you-rate-my-portfolio-out-of-10-from-a-uxui-and-performance-perspective-the-good-the-1gc8",
-          "isoDate": "2026-04-16T05:26:05.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Olexandr Uvarov",
-          "title": "CSS in a Team: How I Stopped Explaining Rules and Started Enforcing Them",
-          "link": "https://dev.to/ouvarov/css-in-a-team-how-i-stopped-explaining-rules-and-started-enforcing-them-21eg",
-          "pubDate": "Thu, 16 Apr 2026 05:26:02 +0000",
-          "dc:creator": "Olexandr Uvarov",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/ouvarov/css-in-a-team-how-i-stopped-explaining-rules-and-started-enforcing-them-21eg",
+          "guid": "https://dev.to/standupify/mastering-google-meet-usage-for-optimized-remote-team-productivity-2ahh",
           "categories": [
-            "css",
-            "scss",
-            "webdev",
-            "frontend"
+            "partnerposts",
+            "googlemeetusage",
+            "googlechat",
+            "googlemeet"
           ],
-          "isoDate": "2026-04-16T05:26:02.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Dr. Gilad Yadin",
-          "title": "Unforgettable",
-          "link": "https://dev.to/yadin/unforgettable-2ibj",
-          "pubDate": "Thu, 16 Apr 2026 05:23:50 +0000",
-          "dc:creator": "Dr. Gilad Yadin",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/yadin/unforgettable-2ibj",
-          "categories": [
-            "ai",
-            "learning",
-            "law",
-            "privacy"
-          ],
-          "isoDate": "2026-04-16T05:23:50.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Suyash Thakur",
-          "title": "How We Built an Expression Engine Inside Image Templates",
-          "link": "https://dev.to/suyashthakur/how-we-built-an-expression-engine-inside-image-templates-20nl",
-          "pubDate": "Thu, 16 Apr 2026 05:22:33 +0000",
-          "dc:creator": "Suyash Thakur",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/suyashthakur/how-we-built-an-expression-engine-inside-image-templates-20nl",
-          "categories": [
-            "javascript",
-            "saas",
-            "webdev",
-            "api"
-          ],
-          "isoDate": "2026-04-16T05:22:33.000Z",
+          "isoDate": "2026-04-17T05:39:30.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
           "creator": "GeekyAnts Inc",
-          "title": "Implementing RTL (Right-to-Left) in React Native Expo - A Step-by-Step Guide",
-          "link": "https://dev.to/geekyants-inc/implementing-rtl-right-to-left-in-react-native-expo-a-step-by-step-guide-m01",
-          "pubDate": "Thu, 16 Apr 2026 05:19:17 +0000",
+          "title": "Building an Authentication System with Next.js 14 and NextAuth.js",
+          "link": "https://dev.to/geekyants-inc/building-an-authentication-system-with-nextjs-14-and-nextauthjs-1pil",
+          "pubDate": "Fri, 17 Apr 2026 05:38:55 +0000",
           "dc:creator": "GeekyAnts Inc",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/geekyants-inc/implementing-rtl-right-to-left-in-react-native-expo-a-step-by-step-guide-m01",
+          "guid": "https://dev.to/geekyants-inc/building-an-authentication-system-with-nextjs-14-and-nextauthjs-1pil",
           "categories": [
-            "reactnative",
-            "mobileapp"
+            "mobileapplication",
+            "nextjs"
           ],
-          "isoDate": "2026-04-16T05:19:17.000Z",
+          "isoDate": "2026-04-17T05:38:55.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "creator": "Ila Bandhiya",
-          "title": "Your Observability Stack Is Probably a Mess (And You're Not Alone) 📊",
-          "link": "https://dev.to/ila_bandhiya/your-observability-stack-is-probably-a-mess-and-youre-not-alone-12l2",
-          "pubDate": "Thu, 16 Apr 2026 05:18:56 +0000",
-          "dc:creator": "Ila Bandhiya",
+          "creator": "kanika bhatt",
+          "title": "We Almost Fought Over ₹1,200… Until I Built This Simple Friends Expense Calculator",
+          "link": "https://dev.to/kanika_bhatt/we-almost-fought-over-1200-until-i-built-this-simple-friends-expense-calculator-3f7k",
+          "pubDate": "Fri, 17 Apr 2026 05:37:39 +0000",
+          "dc:creator": "kanika bhatt",
           "content": "",
           "contentSnippet": "",
-          "guid": "https://dev.to/ila_bandhiya/your-observability-stack-is-probably-a-mess-and-youre-not-alone-12l2",
-          "categories": [
-            "devops",
-            "observability",
-            "ai",
-            "data"
-          ],
-          "isoDate": "2026-04-16T05:18:56.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Chidimma",
-          "title": "My First Contribution to Firefox (Mozilla): A Beginner’s Experience",
-          "link": "https://dev.to/chimdimma1/my-first-contribution-to-firefox-mozilla-a-beginners-experience-464b",
-          "pubDate": "Thu, 16 Apr 2026 05:18:53 +0000",
-          "dc:creator": "Chidimma",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/chimdimma1/my-first-contribution-to-firefox-mozilla-a-beginners-experience-464b",
-          "categories": [
-            "beginners",
-            "codenewbie",
-            "devjournal",
-            "opensource"
-          ],
-          "isoDate": "2026-04-16T05:18:53.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Santosh Ronanki",
-          "title": "Why Cursor AI Won't Replace Data Engineers (And How to Actually Use It)",
-          "link": "https://dev.to/santosh_ronanki_9438d5944/why-cursor-ai-wont-replace-data-engineers-and-how-to-actually-use-it-360j",
-          "pubDate": "Thu, 16 Apr 2026 05:16:52 +0000",
-          "dc:creator": "Santosh Ronanki",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/santosh_ronanki_9438d5944/why-cursor-ai-wont-replace-data-engineers-and-how-to-actually-use-it-360j",
-          "categories": [
-            "dataengineering",
-            "ai",
-            "webdev"
-          ],
-          "isoDate": "2026-04-16T05:16:52.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "XIAMI4XIA8478239",
-          "title": "Competitive Analysis of 10 AI Testing Tools Pricing, Core Features, and Common User Complaints",
-          "link": "https://dev.to/xiami9378389/competitive-analysis-of-15-ai-testing-toolspricing-core-features-and-common-user-complaints-5bhh",
-          "pubDate": "Thu, 16 Apr 2026 05:15:39 +0000",
-          "dc:creator": "XIAMI4XIA8478239",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/xiami9378389/competitive-analysis-of-15-ai-testing-toolspricing-core-features-and-common-user-complaints-5bhh",
-          "categories": [
-            "ai",
-            "automation",
-            "testing",
-            "tooling"
-          ],
-          "isoDate": "2026-04-16T05:15:39.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Rina Park",
-          "title": "Structuring the Database: Building an AI Task System [Floxis #2]",
-          "link": "https://dev.to/rina-park/structuring-the-database-building-an-ai-task-system-floxis-2-3g56",
-          "pubDate": "Thu, 16 Apr 2026 05:10:46 +0000",
-          "dc:creator": "Rina Park",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://dev.to/rina-park/structuring-the-database-building-an-ai-task-system-floxis-2-3g56",
+          "guid": "https://dev.to/kanika_bhatt/we-almost-fought-over-1200-until-i-built-this-simple-friends-expense-calculator-3f7k",
           "categories": [
             "webdev",
-            "database",
-            "softwareengineering",
-            "postgres"
+            "productivity",
+            "javascript",
+            "fintech"
           ],
-          "isoDate": "2026-04-16T05:10:46.000Z",
+          "isoDate": "2026-04-17T05:37:39.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Youdiowei Eteimorde",
+          "title": "Building A Voice AI Agent with OpenClaw and AssemblyAI",
+          "link": "https://dev.to/neurl_creators_org/building-a-voice-ai-agent-with-openclaw-and-assemblyai-2g68",
+          "pubDate": "Fri, 17 Apr 2026 05:37:29 +0000",
+          "dc:creator": "Youdiowei Eteimorde",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://dev.to/neurl_creators_org/building-a-voice-ai-agent-with-openclaw-and-assemblyai-2g68",
+          "categories": [
+            "ai",
+            "agents",
+            "llm",
+            "python"
+          ],
+          "isoDate": "2026-04-17T05:37:29.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -5412,7 +5421,7 @@
       "link": "https://www.digitalocean.com/blog",
       "feedUrl": "https://www.digitalocean.com/rss/blog.atom",
       "title": "DigitalOcean Blog",
-      "lastBuildDate": "2026-04-15T19:08:51.501Z"
+      "lastBuildDate": "2026-04-16T23:04:39.255Z"
     },
     "Julia Evans": {
       "items": [
@@ -9118,6 +9127,137 @@
     "Free Code Camp - News": {
       "items": [
         {
+          "creator": "\n                     Manish Shivanandhan \n                ",
+          "title": "\n                     Shadow AI Explained: Why Employees Are Using AI Behind Your Back \n                ",
+          "link": "https://www.freecodecamp.org/news/shadow-ai-explained-why-employees-are-using-ai-behind-your-back/",
+          "pubDate": "Thu, 16 Apr 2026 22:10:19 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "\n                     Manish Shivanandhan \n                ",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "69e15e4bffbb78763403e5ec",
+          "categories": [
+            "\n                         AI \n                    "
+          ],
+          "isoDate": "2026-04-16T22:10:19.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "\n                     Joel Olawanle \n                ",
+          "title": "\n                     Traditional Scraping vs AI Scraping: A Practical Guide for Developers and Data Teams \n                ",
+          "link": "https://www.freecodecamp.org/news/traditional-scraping-vs-ai-scraping/",
+          "pubDate": "Thu, 16 Apr 2026 21:37:47 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "\n                     Joel Olawanle \n                ",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "69e156abffbb787634ffa61a",
+          "categories": [
+            "\n                         web scraping \n                    ",
+            "\n                         data \n                    "
+          ],
+          "isoDate": "2026-04-16T21:37:47.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "\n                     iyiola \n                ",
+          "title": "\n                     How Database Indexes Work – A Practical Guide with PostgreSQL Examples \n                ",
+          "link": "https://www.freecodecamp.org/news/how-database-indexes-work-a-practical-guide-with-postgresql-examples/",
+          "pubDate": "Thu, 16 Apr 2026 17:27:44 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "\n                     iyiola \n                ",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "69e11c10ffbb787634dea035",
+          "categories": [
+            "\n                         Databases \n                    ",
+            "\n                         PostgreSQL \n                    ",
+            "\n                         indexing \n                    "
+          ],
+          "isoDate": "2026-04-16T17:27:44.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "\n                     Oluwatobi \n                ",
+          "title": "\n                     How to Streamline Search in Web Applications with Elasticsearch  \n                ",
+          "link": "https://www.freecodecamp.org/news/streamline-search-functionality-in-web-apps-with-elasticsearch/",
+          "pubDate": "Thu, 16 Apr 2026 16:25:38 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "\n                     Oluwatobi \n                ",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "69e10d82b67a275a9d505023",
+          "categories": [
+            "\n                         elasticsearch \n                    ",
+            "\n                         Node.js \n                    ",
+            "\n                         indexing \n                    ",
+            "\n                         Search Engines \n                    "
+          ],
+          "isoDate": "2026-04-16T16:25:38.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "\n                     Puneet Singh \n                ",
+          "title": "\n                     How to Build an Open Source Data Lake for Batch Ingestion \n                ",
+          "link": "https://www.freecodecamp.org/news/how-to-build-an-open-source-data-lake-for-batch-ingestion/",
+          "pubDate": "Thu, 16 Apr 2026 14:26:47 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "\n                     Puneet Singh \n                ",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "69e0f1a7b67a275a9d3c9122",
+          "categories": [
+            "\n                         data-engineering \n                    ",
+            "\n                         apache-airflow \n                    ",
+            "\n                         Docker \n                    ",
+            "\n                         Python \n                    ",
+            "\n                         ingestion \n                    "
+          ],
+          "isoDate": "2026-04-16T14:26:47.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "\n                     Beau Carnes \n                ",
+          "title": "\n                     OpenAI Codex Essentials – AI Assisted Agentic Development Course \n                ",
+          "link": "https://www.freecodecamp.org/news/openai-codex-essentials-ai-assisted-agentic-development-course/",
+          "pubDate": "Thu, 16 Apr 2026 13:25:17 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "\n                     Beau Carnes \n                ",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "69e0e33d94b913c91336729a",
+          "categories": [
+            "\n                         codex \n                    ",
+            "\n                         youtube \n                    "
+          ],
+          "isoDate": "2026-04-16T13:25:17.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "\n                     Beau Carnes \n                ",
+          "title": "\n                     Learn Software System Design \n                ",
+          "link": "https://www.freecodecamp.org/news/learn-software-system-design/",
+          "pubDate": "Thu, 16 Apr 2026 13:19:19 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "\n                     Beau Carnes \n                ",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "69e0e1d794b913c9133551e2",
+          "categories": [
+            "\n                         System Design \n                    ",
+            "\n                         youtube \n                    "
+          ],
+          "isoDate": "2026-04-16T13:19:19.000Z",
+          "summary": ""
+        },
+        {
           "creator": "\n                     Bhavin Sheth \n                ",
           "title": "\n                     How to Generate PDF Files in the Browser Using JavaScript (With a Real Invoice Example) \n                ",
           "link": "https://www.freecodecamp.org/news/how-to-generate-pdf-files-in-the-browser-using-javascript/",
@@ -9173,149 +9313,6 @@
           ],
           "isoDate": "2026-04-14T20:37:44.000Z",
           "summary": ""
-        },
-        {
-          "creator": "\n                     David Aniebo \n                ",
-          "title": "\n                     A Developer’s Guide to Lazy Loading in React and Next.js \n                ",
-          "link": "https://www.freecodecamp.org/news/a-developers-guide-to-lazy-loading-in-react-and-nextjs/",
-          "pubDate": "Tue, 14 Apr 2026 20:31:59 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "\n                     David Aniebo \n                ",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "69dea43f91716f3cfb762c99",
-          "categories": [
-            "\n                         React \n                    ",
-            "\n                         Next.js \n                    ",
-            "\n                         JavaScript \n                    "
-          ],
-          "isoDate": "2026-04-14T20:31:59.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "\n                     Great John \n                ",
-          "title": "\n                     The Data Quality Handbook: Data Errors, the Developer's Role, and Validation Layers Explained. \n                ",
-          "link": "https://www.freecodecamp.org/news/data-quality-handbook-data-errors-the-developer-s-role-validation-layers/",
-          "pubDate": "Tue, 14 Apr 2026 20:29:40 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "\n                     Great John \n                ",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "69dea3b491716f3cfb75fd9d",
-          "categories": [
-            "\n                         data \n                    ",
-            "\n                         Data Science \n                    ",
-            "\n                         Validation \n                    ",
-            "\n                         Testing \n                    ",
-            "\n                         handbook \n                    "
-          ],
-          "isoDate": "2026-04-14T20:29:40.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "\n                     Manish Shivanandhan \n                ",
-          "title": "\n                     United States Residential Proxy: Why Local IP Accuracy Matters for SERP, Ads, and Pricing \n                ",
-          "link": "https://www.freecodecamp.org/news/us-residential-proxy-why-local-ip-accuracy-matters-for-serp-ads-pricing/",
-          "pubDate": "Tue, 14 Apr 2026 18:19:42 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "\n                     Manish Shivanandhan \n                ",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "69de853e91716f3cfb679bdb",
-          "categories": [
-            "\n                         Proxy Server \n                    ",
-            "\n                         SEO \n                    ",
-            "\n                         networking \n                    "
-          ],
-          "isoDate": "2026-04-14T18:19:42.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "\n                     Mokshita V P \n                ",
-          "title": "\n                     How to Build a Fashion App That Helps You Organize Your Wardrobe  \n                ",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-fashion-app-to-organize-your-wardrobe/",
-          "pubDate": "Tue, 14 Apr 2026 16:26:39 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "\n                     Mokshita V P \n                ",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "69de6abf91716f3cfb5448a1",
-          "categories": [
-            "\n                         webdev \n                    ",
-            "\n                         JavaScript \n                    ",
-            "\n                         React \n                    ",
-            "\n                         full stack \n                    ",
-            "\n                         Machine Learning \n                    ",
-            "\n                         Docker \n                    ",
-            "\n                         MathJax \n                    "
-          ],
-          "isoDate": "2026-04-14T16:26:39.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "\n                     Vaibhav Gupta \n                ",
-          "title": "\n                     How to Build an Admin Dashboard Sidebar with shadcn/ui and Base UI \n                ",
-          "link": "https://www.freecodecamp.org/news/build-an-admin-dashboard-sidebar-with-shadcn-ui-and-base-ui/",
-          "pubDate": "Tue, 14 Apr 2026 16:25:08 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "\n                     Vaibhav Gupta \n                ",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "69de6a6491716f3cfb542305",
-          "categories": [
-            "\n                         shadcn \n                    ",
-            "\n                         UI \n                    ",
-            "\n                         baseui \n                    ",
-            "\n                         Tailwind CSS \n                    ",
-            "\n                         React \n                    "
-          ],
-          "isoDate": "2026-04-14T16:25:08.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "\n                     Rudrendu Paul \n                ",
-          "title": "\n                     The AI Governance Handbook: How to Build Responsible AI Systems That Actually Ship \n                ",
-          "link": "https://www.freecodecamp.org/news/the-ai-governance-handbook-build-responsible-ai-systems/",
-          "pubDate": "Mon, 13 Apr 2026 23:13:29 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "\n                     Rudrendu Paul \n                ",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "69dd7899217f5dfcbd5e4db9",
-          "categories": [
-            "\n                         AI \n                    ",
-            "\n                         Governance \n                    ",
-            "\n                         Security \n                    ",
-            "\n                         handbook \n                    "
-          ],
-          "isoDate": "2026-04-13T23:13:29.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "\n                     Osomudeya Zudonu \n                ",
-          "title": "\n                     How to Build a Local DevOps HomeLab with Docker, Kubernetes, and Ansible \n                ",
-          "link": "https://www.freecodecamp.org/news/how-to-build-a-local-devops-homelab-with-docker-kubernetes-and-ansible/",
-          "pubDate": "Mon, 13 Apr 2026 21:56:12 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "\n                     Osomudeya Zudonu \n                ",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "69dd667c217f5dfcbd55b7b4",
-          "categories": [
-            "\n                         Devops \n                    ",
-            "\n                         Homelab \n                    ",
-            "\n                         Devops articles \n                    ",
-            "\n                         Kubernetes \n                    "
-          ],
-          "isoDate": "2026-04-13T21:56:12.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.freecodecamp.org/news/rss.xml",
@@ -9331,11 +9328,32 @@
       "description": "\n             Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice. \n        ",
       "generator": "Eleventy",
       "link": "https://www.freecodecamp.org/news/",
-      "lastBuildDate": "Thu, 16 Apr 2026 03:50:37 +0000",
+      "lastBuildDate": "Fri, 17 Apr 2026 03:48:30 +0000",
       "ttl": "60"
     },
     "Github Blog": {
       "items": [
+        {
+          "creator": "Lawrence Gripper",
+          "title": "How GitHub uses eBPF to improve deployment safety",
+          "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
+          "pubDate": "Thu, 16 Apr 2026 16:00:00 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Lawrence Gripper",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://github.blog/?p=95074",
+          "categories": [
+            "Engineering",
+            "Infrastructure",
+            "Deployment",
+            "eBPF",
+            "platform engineering"
+          ],
+          "isoDate": "2026-04-16T16:00:00.000Z",
+          "summary": ""
+        },
         {
           "creator": "Cassidy Williams",
           "title": "Build a personal organization command center with GitHub Copilot CLI",
@@ -9521,27 +9539,6 @@
           ],
           "isoDate": "2026-04-06T21:53:49.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Luke Ghenco",
-          "title": "The uphill climb of making diff lines performant",
-          "link": "https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/",
-          "pubDate": "Fri, 03 Apr 2026 16:00:00 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Luke Ghenco",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://github.blog/?p=94994",
-          "categories": [
-            "Architecture & optimization",
-            "Engineering",
-            "diffs",
-            "performance engineering",
-            "pull requests"
-          ],
-          "isoDate": "2026-04-03T16:00:00.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://github.blog/feed/",
@@ -9560,7 +9557,7 @@
       "generator": "https://wordpress.org/?v=6.9.4",
       "link": "https://github.blog/",
       "language": "en-US",
-      "lastBuildDate": "Wed, 15 Apr 2026 15:56:59 +0000"
+      "lastBuildDate": "Wed, 15 Apr 2026 23:44:24 +0000"
     },
     "Mi Yau Chi": {
       "items": [
@@ -11100,7 +11097,7 @@
       "link": "https://www.cloudbees.com/blog/feed",
       "language": "en",
       "copyright": "All rights reserved 2026, CloudBees",
-      "lastBuildDate": "Thu, 16 Apr 2026 05:39:20 GMT",
+      "lastBuildDate": "Fri, 17 Apr 2026 05:04:20 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "https://overreacted.io by Dan Abramov": {
