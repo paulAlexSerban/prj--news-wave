@@ -4,18 +4,18 @@
     "Snyk Blog": {
       "items": [
         {
-          "title": "Hardcoding Security into Every Commit: The Future of Snyk Secrets",
-          "link": "https://snyk.io/blog/future-snyk-secrets/",
-          "pubDate": "Thu, 23 Apr 2026 00:00:00 GMT",
+          "title": "Qinglong task scheduler RCE vulnerabilities exploited in the wild for cryptomining",
+          "link": "https://snyk.io/blog/qinglong-task-scheduler-rce-vulnerabilities/",
+          "pubDate": "Mon, 27 Apr 2026 00:00:00 GMT",
           "enclosure": {
-            "url": "https://res.cloudinary.com/snyk/image/upload/v1671633915/wordpress-sync/feature-screenshot-mockup.jpg",
+            "url": "https://res.cloudinary.com/snyk/image/upload/v1671633728/wordpress-sync/feature-5FoCS3.jpg",
             "length": "0",
             "type": "image/jpg"
           },
           "content": "",
           "contentSnippet": "",
-          "guid": "https://snyk.io/blog/future-snyk-secrets/",
-          "isoDate": "2026-04-23T00:00:00.000Z",
+          "guid": "https://snyk.io/blog/qinglong-task-scheduler-rce-vulnerabilities/",
+          "isoDate": "2026-04-27T00:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -32,6 +32,23 @@
           "content": "",
           "contentSnippet": "",
           "guid": "https://snyk.io/blog/snyk-covers-jpmorgan-cyber-list/",
+          "isoDate": "2026-04-23T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Hardcoding Security into Every Commit: The Future of Snyk Secrets",
+          "link": "https://snyk.io/blog/future-snyk-secrets/",
+          "pubDate": "Thu, 23 Apr 2026 00:00:00 GMT",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/snyk/image/upload/v1671633915/wordpress-sync/feature-screenshot-mockup.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://snyk.io/blog/future-snyk-secrets/",
           "isoDate": "2026-04-23T00:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
@@ -70,23 +87,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "You Patched LiteLLM, But Do You Know Your AI Blast Radius?",
-          "link": "https://snyk.io/blog/litellm-ai-blast-radius/",
-          "pubDate": "Thu, 02 Apr 2026 04:00:00 GMT",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/snyk/image/upload/v1671633727/wordpress-sync/Feature-5FoCS1.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://snyk.io/blog/litellm-ai-blast-radius/",
-          "isoDate": "2026-04-02T04:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://snyk.io/blog/feed/",
@@ -98,11 +98,171 @@
       "generator": "Custom Next.js RSS generator",
       "link": "https://snyk.io",
       "language": "en-US",
-      "lastBuildDate": "Mon, 27 Apr 2026 07:34:55 GMT",
+      "lastBuildDate": "Tue, 28 Apr 2026 07:31:38 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "The Hacker News": {
       "items": [
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+          "link": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
+          "pubDate": "Tue, 28 Apr 2026 12:07:00 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4YomH2AGnUSAePfyyvEMXCbULukirvclzEJ6gnsm30Y2PApuarWfCLpKrBng3qYhhINWPwn99rVtdqKcEtbnVR9jkXkpBY-vDByDzMmZgLPPPrqyodmgqBCfR3ojF1tbyaFHQxIdr8voZgDugagnBymAchRR99uUm_0btEdWYeir8B6njw6Q1lPTcugcB/s1600/azure.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
+          "isoDate": "2026-04-28T06:37:00.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
+          "link": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
+          "pubDate": "Tue, 28 Apr 2026 11:20:00 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMPU-2lLUg__kJUnPm1HSRP0cTelgKBaXgKDq4ODhX0XTKI83sddz2F_EHiOmoxnTYIkIFYIbFh8JLAMp6lqfK39czq_e1G5Ixe-Y53_-kXBSk0fqVZV6jFpECe1JjAy3ZD3MmnJ71jpZHuPpbNRjB4x7SsmfHNUCMVyzQiST7CTc9m3qteMc4zJ2U_GXo/s1600/windows-exploit.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
+          "isoDate": "2026-04-28T05:50:00.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
+          "link": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
+          "pubDate": "Mon, 27 Apr 2026 19:49:00 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWLDpoCXOE_C970Jb9YXSPl2DIDXlL2K2ZDch28huIDzQhLoliuasxjBz3mmCWcDe2u136HN7pDJUu0XBjVkgP6lQJSQTRL4VU_jqhXNwQyb8xLdDD8-9WKQxGp7eT_7WzNpqYPplV1nvvSF5cPwsT3q88d-52g7iU_hP9pxCoU5muOhBTqnTHgGl8Scr8/s1600/Checkmarx.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
+          "isoDate": "2026-04-27T14:19:00.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More",
+          "link": "https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html",
+          "pubDate": "Mon, 27 Apr 2026 19:00:00 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1eEqmWavzJwy68cdm3DB_l6dZO3ja-RjrtStTMh8_AA5AwWVDhwqEHJIYOPo98lAQ1yDrMZL1Yl2LxeSbk25vsQQI7csJuilXZRo-frfCj9ULE507sQBgvEBM0Y_RkYAWtUteoShXMRAD70JhGRjah1cBzZCew3meQp5xP5-Jv72-ZI4veiUa-aJnMYAK/s1600/cybrecap.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html",
+          "isoDate": "2026-04-27T13:30:00.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
+          "link": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html",
+          "pubDate": "Mon, 27 Apr 2026 17:28:00 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR-gtpmKWvXoC5M5eOQM8k01yoiVjMDTYwRePtuLtpEPMevNdUs3BrVGykkop3OgF-DGCjpXB5T_AS84khCvVv7J-4W-7aE2ND0VuYbnyD8B6l1DUk_TVi96ab977o9i81hIIubY3l5F2A7_Qe4P4-qMTMzwnrvoXYC3cRhBU0X1VpG4F_MwstEGUQYHg/s1600/unnamed.png"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html",
+          "isoDate": "2026-04-27T11:58:00.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks",
+          "link": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
+          "pubDate": "Mon, 27 Apr 2026 17:24:00 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi02vvwkoYlj343usA-GYXcQHZKIceJufKYFzZNyHlsGQ6lCPD8H8bHEWtzBnJsWmnlQsGq0fBLgyKTdnOoEi83L3kQ8V3EOou_vlAmMhnMDFU5P5LxA-Sz1agVhDmFrd2qKHGnYZituJuoAEsHp0ExFR4pw6VCf9VNESl7C4q5Wkefh6_8rN2MDK96yh_a/s1600/russian-cyberattack.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html",
+          "isoDate": "2026-04-27T11:54:00.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware",
+          "link": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html",
+          "pubDate": "Mon, 27 Apr 2026 16:53:00 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhptNKAIMY9gm1kv8ULlpPvZh-F4HFaSveiiGCF8qbXkps5m4__rCDykkMAYSG4kg6r1pDv-EDRBTloxLF1yJC5hJJyfrq4J2anUCcgfYP9-nuYuPHh16pC7j0OzTqNvC2TQwbwFcna6nUQ_ZDkZt9NJRi3N3AZnt8qyVsmfans82j_uck31bzBMl4WWdRJ/s1600/vscode.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html",
+          "isoDate": "2026-04-27T11:23:00.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
+          "link": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html",
+          "pubDate": "Mon, 27 Apr 2026 12:03:00 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-cI0h0qDxREUkTFlIqeT_9-QNxJHPv6SqDQXpMs00i8A26QWukWlxtk1iwdZvnar80HiymWGDY9148_CiWIdL2xj-t9xC9KDM-8WdGALuTRxhdZqDcaZf2MG9adEpZLkLqsaA2uMP-3e_E0Ru-A5JSv0_dvEjAAniYpsdS71SCxFVlmB1NhkL20oangQz/s1600/sim-card.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html",
+          "isoDate": "2026-04-27T06:33:00.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "info@thehackernews.com (The Hacker News)",
           "title": "Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software",
@@ -942,166 +1102,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul",
-          "link": "https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html",
-          "pubDate": "Fri, 17 Apr 2026 16:17:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj84jgyS7JCiumwEWR-XKLRuLv_sljuCRx-alsYQHKikYlefpZeL1Wqh3GEALkiLdX886cZVY22LQA_ETSoYLrNdEJ4115IkJtXq5v1EMvQdvU-_xS61E89OwwSWXvE-F6Lw6_DH17w0wHHnBfUgqFxsy5cI1rTzinKIgA-X3q08jMLOOci5fkkUbCeIeId/s1600/google-ads-android.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html",
-          "isoDate": "2026-04-17T10:47:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "NIST Limits CVE Enrichment After 263% Surge in Vulnerability Submissions",
-          "link": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html",
-          "pubDate": "Fri, 17 Apr 2026 12:44:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrjR1nq2z66LZ-KZoSSgEdNs30l3Wv4kqz4R4acFd3CW2tqG0EDILlATrje1-tvZhdjnU9rSRO4cQNmlQGelsfBGGiMl_m9kxotVRlBDFyMISCJIFUPN78Aam2GAYPL0Nljz4aU5XrrWz2QuxBz-cZvY7vr2zSQJNdgrz3IWLldTPG_n_9tJx22A3TBQzZ/s1600/nist-cve.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/04/nist-limits-cve-enrichment-after-263.html",
-          "isoDate": "2026-04-17T07:14:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "Operation PowerOFF Seizes 53 DDoS Domains, Exposes 3 Million Criminal Accounts",
-          "link": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html",
-          "pubDate": "Fri, 17 Apr 2026 11:16:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgePkLgywRZdW-d26RoQHpyVUy3nKssYfrZuFEdZ-fjRzJHTpESHBPlLvUII_vjjeLVTn4G_TB_oH76mfzh5t4PoKyz_ZhXWBOnCAkssRVXvb_lAMkEdhlK4G9YE6IWvxUUDQ9KDeZSzurWEPKDoQAVozBVjwrRYtSjy6pSbenOhhctqh3NxELjQXeF7H7S/s1600/europol.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/04/operation-poweroff-seizes-53-ddos.html",
-          "isoDate": "2026-04-17T05:46:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "Apache ActiveMQ CVE-2026-34197 Added to CISA KEV Amid Active Exploitation",
-          "link": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
-          "pubDate": "Fri, 17 Apr 2026 08:52:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKAY7CueGuHevAtV544WN7RTKISrobQLFpjfi4kjdzP1I2BA3rnll69dv1kfvHYSCcU5tQISA0OOgcQVibKrl4o0AvtUyM9crfZuSb1XFH03iLtPglZeHn1e6S8urWxf_4CEH9-tCZdT9BBrvXOFygCxjO_AUmUXnzm4d37Q80fPw3lEn6Hb0_LWlP9XM5/s1600/apachemq.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/04/apache-activemq-cve-2026-34197-added-to.html",
-          "isoDate": "2026-04-17T03:22:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "Newly Discovered PowMix Botnet Hits Czech Workers Using Randomized C2 Traffic",
-          "link": "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html",
-          "pubDate": "Thu, 16 Apr 2026 23:22:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaSAtFbXFX7aYFcwPPrHEMwEZ4VJp2mJQuYo3B3Q2Zrot1co_ilMUWffYOUUFHFRO6zwHHjlMCMOJcbnc_iF69KLU_1LpMhcfFk5YV8A4cdIchhqR1NQGEvyzpHGidnbvqwq2Tg_Y77VwMCpeSSluD8sPRcusqiraqLMCvUCA-QvUv5nCuh2Ns1U2jxNR1/s1600/powmix.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/04/newly-discovered-powmix-botnet-hits.html",
-          "isoDate": "2026-04-16T17:52:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "ThreatsDay Bulletin: Defender 0-Day, SonicWall Brute-Force, 17-Year-Old Excel RCE and 15 More Stories",
-          "link": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html",
-          "pubDate": "Thu, 16 Apr 2026 18:35:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzTV_mwPjmV14aBlnHuLOX2yEZR6VGpmadgiPHtNBJV0KVNG_Oj2tnqE1cb3U9RhBXN-Mytte3jKs2n2dQwBhX2dYDETy5es4cGUkbW5bdIaV_hx8i3gWQhdaa7se1_Q8NY9t0q90EjUBNXt56_MxjT4YVV-R8D14jV3LequHu0llA84NnEK3PeU56Q54X/s1600/bull-main.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/04/threatsday-bulletin-17-year-old-excel.html",
-          "isoDate": "2026-04-16T13:05:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
-          "link": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html",
-          "pubDate": "Thu, 16 Apr 2026 16:57:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihdjDVphpsoBIBjhimILabg28ZsD4p-xNzJol1uD3SSIRBvkp-juko45B2sjKpQmJi-h2tHZf2yWAvuCOZRs3m3q4w5sj7x-MyXWosuKglLblipF_94T8f8OQ8_peVgqZTrnjxF8dPRLfv63K8zrbQYqh898b31p_2C37UO0DNAuR8cESZeo4XTFlsDs0C/s1600/cisco-flaws.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html",
-          "isoDate": "2026-04-16T11:27:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
-          "link": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
-          "pubDate": "Thu, 16 Apr 2026 15:50:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNoBvtFhZbLfNE2AsVSzuOt5V9YMzAumIA2M9c7QVbp_i-xMwDIgVtDgCIi2bCYgH_PviS8P-Ap1k-8aVmHABqLzNGE9g014MM1gnfJEJPKbKczoCjPoI6PxZ77bNlz2dSlv8XqoVFyZZqQ6SWBue3rpRegb_k62HJkfMl39GHTBIIzZOGrv_iKbxOYV8E/s1600/el.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
-          "isoDate": "2026-04-16T10:20:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
@@ -1112,7 +1112,7 @@
       "description": "Most trusted, widely-read independent cybersecurity news source for everyone; supported by hackers and IT professionals — Send TIPs to admin@thehackernews.com",
       "link": "https://thehackernews.com",
       "language": "en-us",
-      "lastBuildDate": "Mon, 27 Apr 2026 11:02:17 +0530",
+      "lastBuildDate": "Tue, 28 Apr 2026 11:24:39 +0530",
       "itunes": {}
     },
     "Krebson Security": {
@@ -1491,6 +1491,25 @@
       "items": [
         {
           "creator": "Bruce Schneier",
+          "title": "Medieval Encrypted Letter Decoded",
+          "link": "https://www.schneier.com/blog/archives/2026/04/medieval-encrypted-letter-decoded.html",
+          "pubDate": "Mon, 27 Apr 2026 11:04:41 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Bruce Schneier",
+          "comments": "https://www.schneier.com/blog/archives/2026/04/medieval-encrypted-letter-decoded.html#comments",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.schneier.com/?p=71986",
+          "categories": [
+            "Uncategorized",
+            "history of cryptography"
+          ],
+          "isoDate": "2026-04-27T11:04:41.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Bruce Schneier",
           "title": "Friday Squid Blogging: How Squid Survived Extinction Events",
           "link": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html",
           "pubDate": "Fri, 24 Apr 2026 21:03:23 +0000",
@@ -1680,27 +1699,6 @@
           ],
           "isoDate": "2026-04-16T09:41:24.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Bruce Schneier",
-          "title": "Defense in Depth, Medieval Style",
-          "link": "https://www.schneier.com/blog/archives/2026/04/defense-in-depth-medieval-style.html",
-          "pubDate": "Wed, 15 Apr 2026 10:47:55 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Bruce Schneier",
-          "comments": "https://www.schneier.com/blog/archives/2026/04/defense-in-depth-medieval-style.html#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.schneier.com/?p=71830",
-          "categories": [
-            "Uncategorized",
-            "defense",
-            "history of security",
-            "physical security"
-          ],
-          "isoDate": "2026-04-15T10:47:55.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.schneier.com/feed/",
@@ -1718,7 +1716,7 @@
       "description": "",
       "link": "https://www.schneier.com/",
       "language": "en-US",
-      "lastBuildDate": "Fri, 24 Apr 2026 21:03:53 +0000"
+      "lastBuildDate": "Mon, 27 Apr 2026 11:05:17 +0000"
     },
     "Tao Security": {
       "items": [
@@ -2455,10 +2453,27 @@
       "generator": "https://wordpress.org/?v=6.9.4",
       "link": "https://grahamcluley.com",
       "language": "en-GB",
-      "lastBuildDate": "Wed, 22 Apr 2026 22:21:42 +0000"
+      "lastBuildDate": "Mon, 27 Apr 2026 18:18:35 +0000"
     },
     "Troy Hunt": {
       "items": [
+        {
+          "creator": "Troy Hunt",
+          "title": "Weekly Update 501",
+          "link": "https://www.troyhunt.com/weekly-update-501/",
+          "pubDate": "Tue, 28 Apr 2026 05:01:42 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Troy Hunt",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "69f03c83ac29190001cb7d67",
+          "categories": [
+            "Weekly update"
+          ],
+          "isoDate": "2026-04-28T05:01:42.000Z",
+          "summary": ""
+        },
         {
           "creator": "Troy Hunt",
           "title": "Weekly Update 500",
@@ -2696,23 +2711,6 @@
           ],
           "isoDate": "2026-02-04T02:31:18.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Troy Hunt",
-          "title": "Weekly Update 488",
-          "link": "https://www.troyhunt.com/weekly-update-488/",
-          "pubDate": "Tue, 27 Jan 2026 09:50:05 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Troy Hunt",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "69788725fb29df00015981e8",
-          "categories": [
-            "Weekly update"
-          ],
-          "isoDate": "2026-01-27T09:50:05.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.troyhunt.com/rss/",
@@ -2728,11 +2726,25 @@
       "description": "Hi, I'm Troy Hunt, I write this blog, run \"Have I Been Pwned\" and am a Microsoft Regional Director and MVP who travels the world speaking at events and training technology professionals",
       "generator": "Ghost 6.34",
       "link": "https://www.troyhunt.com/",
-      "lastBuildDate": "Sat, 25 Apr 2026 06:41:51 GMT",
+      "lastBuildDate": "Tue, 28 Apr 2026 05:01:48 GMT",
       "ttl": "60"
     },
     "Daniel Miessler": {
       "items": [
+        {
+          "creator": "daniel@danielmiessler.com (Daniel Miessler)",
+          "title": "AI Is Not the Villain (or the Hero)",
+          "link": "https://danielmiessler.com/blog/ai-is-not-the-villain?utm_source=rss&utm_medium=feed&utm_campaign=website",
+          "pubDate": "Mon, 27 Apr 2026 22:30:00 GMT",
+          "author": "daniel@danielmiessler.com (Daniel Miessler)",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://danielmiessler.com/blog/ai-is-not-the-villain",
+          "isoDate": "2026-04-27T22:30:00.000Z",
+          "summary": ""
+        },
         {
           "creator": "daniel@danielmiessler.com (Daniel Miessler)",
           "title": "AI Layoffs Aren't About AI",
@@ -4118,20 +4130,6 @@
           "guid": "https://danielmiessler.com/blog/claude-code-proto-agi",
           "isoDate": "2025-07-08T06:00:00.000Z",
           "summary": ""
-        },
-        {
-          "creator": "daniel@danielmiessler.com (Daniel Miessler)",
-          "title": "This is Intelligence",
-          "link": "https://danielmiessler.com/blog/this-is-intelligence?utm_source=rss&utm_medium=feed&utm_campaign=website",
-          "pubDate": "Sun, 06 Jul 2025 10:30:00 GMT",
-          "author": "daniel@danielmiessler.com (Daniel Miessler)",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://danielmiessler.com/blog/this-is-intelligence",
-          "isoDate": "2025-07-06T10:30:00.000Z",
-          "summary": ""
         }
       ],
       "image": {
@@ -4145,7 +4143,7 @@
       "link": "https://danielmiessler.com",
       "language": "en-US",
       "copyright": "-",
-      "lastBuildDate": "Mon, 27 Apr 2026 02:55:18 GMT",
+      "lastBuildDate": "Tue, 28 Apr 2026 02:48:11 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "Architect Security": {
@@ -4388,8 +4386,64 @@
     "Dark Reading": {
       "items": [
         {
+          "creator": "Alexander Culafi",
+          "title": "UNC6692 Combines Social Engineering, Malware, Cloud Abuse",
+          "link": "https://www.darkreading.com/cloud-security/unc6692-social-engineering-malware-cloud-abuse",
+          "pubDate": "Mon, 27 Apr 2026 20:12:34 GMT",
+          "dc:creator": "Alexander Culafi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/cloud-security/unc6692-social-engineering-malware-cloud-abuse",
+          "isoDate": "2026-04-27T20:12:34.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Elizabeth Montalbano",
+          "title": "Unpatched 'PhantomRPC' Flaw in Windows Enables Privilege Escalation",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/unpatched-phantomrpc-flaw-windows-privilege-escalation",
+          "pubDate": "Mon, 27 Apr 2026 15:31:41 GMT",
+          "dc:creator": "Elizabeth Montalbano",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/vulnerabilities-threats/unpatched-phantomrpc-flaw-windows-privilege-escalation",
+          "isoDate": "2026-04-27T15:31:41.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Jai Vijayan",
+          "title": "20-Year-Old Malware Rewrites History of Cyber Sabotage",
+          "link": "https://www.darkreading.com/cyber-risk/20-year-old-malware-rewrites-history-of-cyber-sabotage",
+          "pubDate": "Mon, 27 Apr 2026 13:09:54 GMT",
+          "dc:creator": "Jai Vijayan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/cyber-risk/20-year-old-malware-rewrites-history-of-cyber-sabotage",
+          "isoDate": "2026-04-27T13:09:54.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Tara Seals",
+          "title": "Parsing Agentic Offensive Security's Existential Threat",
+          "link": "https://www.darkreading.com/cyber-risk/industrialized-exploitation-agentic-offensive-security-existential-threat",
+          "pubDate": "Mon, 27 Apr 2026 13:00:00 GMT",
+          "dc:creator": "Tara Seals",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/cyber-risk/industrialized-exploitation-agentic-offensive-security-existential-threat",
+          "isoDate": "2026-04-27T13:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Bree Fowler",
-          "title": "Helping Romance Scam Victims Require a Proactive, Empathic Approach",
+          "title": "Helping Romance Scam Victims Requires a Proactive, Empathic Approach",
           "link": "https://www.darkreading.com/cybersecurity-operations/building-teams-to-help-cyber-scam-victims",
           "pubDate": "Fri, 24 Apr 2026 22:34:13 GMT",
           "dc:creator": "Bree Fowler",
@@ -5030,62 +5084,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Nate Nelson",
-          "title": "Hims Breach Exposes the Most Sensitive Kinds of PHI",
-          "link": "https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi",
-          "pubDate": "Fri, 10 Apr 2026 20:02:30 GMT",
-          "dc:creator": "Nate Nelson",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darkreading.com/cyberattacks-data-breaches/hims-breach-exposes-sensitive-phi",
-          "isoDate": "2026-04-10T20:02:30.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Jeanette Miller-Osborn",
-          "title": "Your Next Breach Will Look Like Business as Usual",
-          "link": "https://www.darkreading.com/identity-access-management-security/your-next-breach-business-as-usual",
-          "pubDate": "Fri, 10 Apr 2026 19:21:55 GMT",
-          "dc:creator": "Jeanette Miller-Osborn",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darkreading.com/identity-access-management-security/your-next-breach-business-as-usual",
-          "isoDate": "2026-04-10T19:21:55.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "",
-          "title": "FINRA Launches Financial Intelligence Fusion Center to Combat Cybersecurity and Fraud Threats",
-          "link": "https://www.darkreading.com/threat-intelligence/finra-launches-financial-intelligence-fusion-center",
-          "pubDate": "Fri, 10 Apr 2026 15:52:28 GMT",
-          "dc:creator": "",
-          "guid": "https://www.darkreading.com/threat-intelligence/finra-launches-financial-intelligence-fusion-center",
-          "isoDate": "2026-04-10T15:52:28.000Z",
-          "content": "",
-          "content:encoded": "",
-          "contentSnippet": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "",
-          "title": "Orange Business Reimagines Enterprise Voice Communications With Trust and AI",
-          "link": "https://www.darkreading.com/endpoint-security/orange-business-enterprise-voice-comms",
-          "pubDate": "Fri, 10 Apr 2026 15:05:14 GMT",
-          "dc:creator": "",
-          "guid": "https://www.darkreading.com/endpoint-security/orange-business-enterprise-voice-comms",
-          "isoDate": "2026-04-10T15:05:14.000Z",
-          "content": "",
-          "content:encoded": "",
-          "contentSnippet": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.darkreading.com/feeds/rss.xml",
@@ -5100,11 +5098,296 @@
     "CIO": {
       "items": [
         {
-          "title": "“정답 제시 대신 질문하고 판단하라”…AI 시대 필요한 리더의 조건을 묻다",
-          "link": "https://www.cio.com/article/4163497/%ec%a0%95%eb%8b%b5-%ec%a0%9c%ec%8b%9c-%eb%8c%80%ec%8b%a0-%ec%a7%88%eb%ac%b8%ed%95%98%ea%b3%a0-%ed%8c%90%eb%8b%a8%ed%95%98%eb%9d%bcai-%ec%8b%9c%eb%8c%80-%ed%95%84%ec%9a%94.html",
-          "pubDate": "Mon, 27 Apr 2026 05:46:08 +0000",
+          "title": "오픈텍스트, 파트너 대상 애플리케이션 보안 솔루션 교육 성료",
+          "link": "https://www.cio.com/article/4164019/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ed%8c%8c%ed%8a%b8%eb%84%88-%eb%8c%80%ec%83%81-%ec%95%a0%ed%94%8c%eb%a6%ac%ec%bc%80%ec%9d%b4%ec%85%98-%eb%b3%b4%ec%95%88-%ec%86%94%eb%a3%a8%ec%85%98.html",
+          "pubDate": "Tue, 28 Apr 2026 06:00:00 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163497-0-79497000-1777269690-55221416970_f66ca393552.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2026/04/4164019-0-40766900-1777356098-shutterstock_1495419107.jpg?quality=50&strip=all",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Application Security, Big Data, Security"
+          ],
+          "isoDate": "2026-04-28T06:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "칼럼 | AI 거품론 속 진짜 승부수, 엔비디아의 장기 전략",
+          "link": "https://www.cio.com/article/4164033/%ec%b9%bc%eb%9f%bc-ai-%ea%b1%b0%ed%92%88%eb%a1%a0-%ec%86%8d-%ec%a7%84%ec%a7%9c-%ec%8a%b9%eb%b6%80%ec%88%98-%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ec%9d%98-%ec%9e%a5%ea%b8%b0-%ec%a0%84%eb%9e%b5.html",
+          "pubDate": "Tue, 28 Apr 2026 03:00:08 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2026/04/4164033-0-53619700-1777345227-4163253-0-50293700-1777300355-shutterstock_2058908708.jpg?quality=50&strip=all",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence, Data Center, High-Performance Computing"
+          ],
+          "isoDate": "2026-04-28T03:00:08.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "텐센트, 오픈AI 출신 과학자 영입 후 차세대 AI 모델 ‘Hy3’ 공개",
+          "link": "https://www.cio.com/article/4164030/%ed%85%90%ec%84%bc%ed%8a%b8-%ec%98%a4%ed%94%88ai-%ec%b6%9c%ec%8b%a0-%ea%b3%bc%ed%95%99%ec%9e%90-%ec%98%81%ec%9e%85-%ed%9b%84-%ec%b0%a8%ec%84%b8%eb%8c%80-ai-%eb%aa%a8%eb%8d%b8-hy3.html",
+          "pubDate": "Tue, 28 Apr 2026 02:49:06 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2026/04/4164030-0-43891200-1777344566-Baidu.jpg?quality=50&strip=all",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence, Generative AI"
+          ],
+          "isoDate": "2026-04-28T02:49:06.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "새로운 ‘기업의 두뇌’ AI 에이전트 확산···플랫폼 주도권 어디로 가나?",
+          "link": "https://www.cio.com/article/4164023/%ec%83%88%eb%a1%9c%ec%9a%b4-%ea%b8%b0%ec%97%85%ec%9d%98-%eb%91%90%eb%87%8c-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%99%95%ec%82%b0%c2%b7%c2%b7%c2%b7%ed%94%8c%eb%9e%ab%ed%8f%bc.html",
+          "pubDate": "Tue, 28 Apr 2026 02:26:16 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2026/04/4164023-0-24120500-1777343193-AI-agents-versus-agentic-ai-shutterstock_2639838639.jpg?quality=50&strip=all",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence"
+          ],
+          "isoDate": "2026-04-28T02:26:16.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "人の可能性を信じ、テクノロジーで未来を設計する──DNP執行役員 情報システム本部長が語るAI・DX戦略の核心",
+          "link": "https://www.cio.com/article/4157535/%e4%ba%ba%e3%81%ae%e5%8f%af%e8%83%bd%e6%80%a7%e3%82%92%e4%bf%a1%e3%81%98%e3%80%81%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%81%a7%e6%9c%aa%e6%9d%a5%e3%82%92%e8%a8%ad%e8%a8%88%e3%81%99.html",
+          "pubDate": "Mon, 27 Apr 2026 23:00:00 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2026/04/4157535-0-10402200-1777330869-DSC00028.jpg?quality=50&strip=all",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "C-Suite, Careers, CIO"
+          ],
+          "isoDate": "2026-04-27T23:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Redefining detection engineering and threat hunting with RAIDER",
+          "link": "https://www.cio.com/article/4163839/redefining-detection-engineering-and-threat-hunting-with-raider.html",
+          "pubDate": "Mon, 27 Apr 2026 15:38:50 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163839-0-55838100-1777304347-shutterstock_2552460583_7bde9f.jpg?quality=50&strip=all",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence, Cybercrime, Security"
+          ],
+          "isoDate": "2026-04-27T15:38:50.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "AWS cost drift: The operational cause nobody talks about",
+          "link": "https://www.cio.com/article/4163833/aws-cost-drift-the-operational-cause-nobody-talks-about.html",
+          "pubDate": "Mon, 27 Apr 2026 15:31:05 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163833-0-64033000-1777304067-shutterstock_2543377449.jpg?quality=50&strip=all",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence, Cloud Computing"
+          ],
+          "isoDate": "2026-04-27T15:31:05.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Converged analytics is the refinery for the age of sovereign AI and data",
+          "link": "https://www.cio.com/article/4163451/converged-analytics-is-the-refinery-for-the-age-of-sovereign-ai-and-data.html",
+          "pubDate": "Mon, 27 Apr 2026 12:07:37 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163451-0-39252500-1777291673-shutterstock_2581983849_d257cf.jpg?quality=50&strip=all",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Analytics, Artificial Intelligence, Data Management"
+          ],
+          "isoDate": "2026-04-27T12:07:37.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Why SaaS companies must become octopuses to survive AI",
+          "link": "https://www.cio.com/article/4163283/why-saas-companies-must-become-octopuses-to-survive-ai.html",
+          "pubDate": "Mon, 27 Apr 2026 11:00:00 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163283-0-95143100-1777287761-diane-picchiottino-dW0gfo__uU8-unsplash.jpg?quality=50&strip=all",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Cloud Computing, IT Leadership, IT Strategy, SaaS"
+          ],
+          "isoDate": "2026-04-27T11:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "CIOs bring AI transformation home to IT workflows",
+          "link": "https://www.cio.com/article/4163373/cios-bring-ai-transformation-home-to-it-workflows.html",
+          "pubDate": "Mon, 27 Apr 2026 10:01:00 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163373-0-55411300-1777284275-shutterstock_2546315975.jpg?quality=50&strip=all",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence, Digital Transformation, IT Operations, IT Strategy"
+          ],
+          "isoDate": "2026-04-27T10:01:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "You selected the right vendors. Now govern them like you mean it.",
+          "link": "https://www.cio.com/article/4160884/you-selected-the-right-vendors-now-govern-them-like-you-mean-it.html",
+          "pubDate": "Mon, 27 Apr 2026 10:00:00 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2026/04/4160884-0-75205100-1777284163-shutterstock_1443616970.jpg?quality=50&strip=all",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "C-Suite, Careers, CIO, IT Governance, IT Leadership, IT Management, IT Strategy, Vendor Management, Vendors and Providers"
+          ],
+          "isoDate": "2026-04-27T10:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Shadow AI is already inside your organization. Now what?",
+          "link": "https://www.cio.com/article/4163280/shadow-ai-is-already-inside-your-organization-now-what.html",
+          "pubDate": "Mon, 27 Apr 2026 10:00:00 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163280-0-42456700-1777293398-shutterstock_5799106.jpg?quality=50&strip=all",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence, Generative AI, IT Leadership, IT Management, Staff Management"
+          ],
+          "isoDate": "2026-04-27T10:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "MET Energía impulsa su transformación digital en un sector cada vez más complejo",
+          "link": "https://www.cio.com/article/4163648/met-energia-impulsa-su-transformacion-digital-en-un-sector-cada-vez-mas-complejo.html",
+          "pubDate": "Mon, 27 Apr 2026 09:53:50 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163648-0-09409000-1777283681-met-group_baar-hq_web.jpg?quality=50&strip=all",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence, Digital Transformation, Energy Industry, Enterprise Applications, Generative AI, Industry, IT Leadership"
+          ],
+          "isoDate": "2026-04-27T09:53:50.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "한국 정부·구글 딥마인드 맞손···AI 캠퍼스·인재 교류 확대",
+          "link": "https://www.cio.com/article/4163594/%ed%95%9c%ea%b5%ad-%ec%a0%95%eb%b6%80%c2%b7%ea%b5%ac%ea%b8%80-%eb%94%a5%eb%a7%88%ec%9d%b8%eb%93%9c-%eb%a7%9e%ec%86%90%c2%b7%c2%b7%c2%b7ai-%ec%ba%a0%ed%8d%bc%ec%8a%a4%c2%b7%ec%9d%b8%ec%9e%ac-%ea%b5%90.html",
+          "pubDate": "Mon, 27 Apr 2026 09:15:22 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163594-0-39027800-1777281337-shutterstock_2336779245.jpg?quality=50&strip=all",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence, Government, Industry, Markets"
+          ],
+          "isoDate": "2026-04-27T09:15:22.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "“보도자료도 AI 친화적으로”···행안부, 마크다운 도입 추진",
+          "link": "https://www.cio.com/article/4163615/%eb%b3%b4%eb%8f%84%ec%9e%90%eb%a3%8c%eb%8f%84-ai-%ec%b9%9c%ed%99%94%ec%a0%81%ec%9c%bc%eb%a1%9c%c2%b7%c2%b7%c2%b7%ed%96%89%ec%95%88%eb%b6%80-%eb%a7%88%ed%81%ac%eb%8b%a4%ec%9a%b4.html",
+          "pubDate": "Mon, 27 Apr 2026 09:08:24 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163615-0-76099900-1777281043-shutterstock_2475382741.jpg?quality=50&strip=all",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Government, Government IT, Industry, Markets"
+          ],
+          "isoDate": "2026-04-27T09:08:24.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Slow down to speed up: Why steadfast IT leadership is critical in the age of AI",
+          "link": "https://www.cio.com/article/4163277/slow-down-to-speed-up-why-steadfast-it-leadership-is-critical-in-the-age-of-ai.html",
+          "pubDate": "Mon, 27 Apr 2026 09:00:00 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163277-0-84303300-1777280583-shutterstock_1121356931-100963231-orig.jpg?quality=50&strip=all",
             "length": "0",
             "type": "image/jpeg"
           },
@@ -5113,379 +5396,94 @@
           "categories": [
             "Artificial Intelligence, IT Leadership"
           ],
-          "isoDate": "2026-04-27T05:46:08.000Z",
+          "isoDate": "2026-04-27T09:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "How ignoring digital friction erodes your competitive advantage",
-          "link": "https://www.cio.com/article/4158312/how-ignoring-digital-friction-erodes-your-competitive-advantage.html",
-          "pubDate": "Sun, 26 Apr 2026 23:01:00 +0000",
+          "title": "CIO 100 Leadership Live Los Angeles: CIOs confront the AI execution gap",
+          "link": "https://www.cio.com/article/4163369/cio-100-leadership-live-los-angeles-cios-confront-the-ai-execution-gap.html",
+          "pubDate": "Mon, 27 Apr 2026 09:00:00 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/04/4158312-0-78342900-1777244576-CIO_Article_01.png",
+            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163369-0-91139800-1777280532-cio-100-ll-los-angeles.png",
             "length": "0",
             "type": "image/png"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Business Services, Digital Transformation, IT Leadership"
+            "Careers, CIO, Foundry Events, IT Leadership"
           ],
-          "isoDate": "2026-04-26T23:01:00.000Z",
+          "isoDate": "2026-04-27T09:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "AIで得た生産性の40%が「手直し作業」で消えている",
-          "link": "https://www.cio.com/article/4160578/ai%e3%81%a7%e5%be%97%e3%81%9f%e7%94%9f%e7%94%a3%e6%80%a7%e3%81%ae40%e3%81%8c%e3%80%8c%e6%89%8b%e7%9b%b4%e3%81%97%e4%bd%9c%e6%a5%ad%e3%80%8d%e3%81%a7%e6%b6%88%e3%81%88%e3%81%a6%e3%81%84%e3%82%8b.html",
-          "pubDate": "Sun, 26 Apr 2026 23:00:00 +0000",
+          "title": "英 NCSC, 기업에 패스키 전환 촉구 “피싱 공격 차단에 효과적”",
+          "link": "https://www.cio.com/article/4163550/%e8%8b%b1-ncsc-%ea%b8%b0%ec%97%85%ec%97%90-%ed%8c%a8%ec%8a%a4%ed%82%a4-%ec%a0%84%ed%99%98-%ec%b4%89%ea%b5%ac-%ed%94%bc%ec%8b%b1-%ea%b3%b5%ea%b2%a9-%ec%b0%a8%eb%8b%a8%ec%97%90-%ed%9a%a8.html",
+          "pubDate": "Mon, 27 Apr 2026 08:26:38 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/04/4160578-0-78941200-1777244486-shutterstock_2258788699.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163550-0-41965000-1777278410-shutterstock_2228408989.jpg?quality=50&strip=all",
             "length": "0",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Artificial Intelligence, C-Suite, CIO"
+            "Access Control, Authentication, Identity and Access Management, Security"
           ],
-          "isoDate": "2026-04-26T23:00:00.000Z",
+          "isoDate": "2026-04-27T08:26:38.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "Delivering an impactful 15-minute board briefing",
-          "link": "https://www.cio.com/article/4163334/delivering-an-impactful-15-minute-board-briefing.html",
-          "pubDate": "Fri, 24 Apr 2026 18:38:47 +0000",
+          "title": "MS, 앤트로픽 ‘미토스’ 도입···보안 개발 수명주기에 생성형 AI 적용",
+          "link": "https://www.cio.com/article/4163546/ms-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%eb%af%b8%ed%86%a0%ec%8a%a4-%eb%8f%84%ec%9e%85%c2%b7%c2%b7%c2%b7%eb%b3%b4%ec%95%88-%ea%b0%9c%eb%b0%9c-%ec%88%98%eb%aa%85%ec%a3%bc%ea%b8%b0.html",
+          "pubDate": "Mon, 27 Apr 2026 08:13:44 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163334-0-62550900-1777089425-shutterstock_1226190040final.jpeg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163546-0-41444000-1777277640-shutterstock_2287651365.jpg?quality=50&strip=all",
             "length": "0",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "IT Leadership"
+            "Artificial Intelligence, Security, Software Development"
           ],
-          "isoDate": "2026-04-24T18:38:47.000Z",
+          "isoDate": "2026-04-27T08:13:44.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "Germany’s sovereign AI hope changes hands",
-          "link": "https://www.cio.com/article/4163327/germanys-sovereign-ai-hope-changes-hands.html",
-          "pubDate": "Fri, 24 Apr 2026 18:31:46 +0000",
+          "title": "구글, AI 해커 대응 위해 ‘에이전틱 보안 전략’ 전면 강화",
+          "link": "https://www.cio.com/article/4163523/%ea%b5%ac%ea%b8%80-ai-%ed%95%b4%ec%bb%a4-%eb%8c%80%ec%9d%91-%ec%9c%84%ed%95%b4-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-%eb%b3%b4%ec%95%88-%ec%a0%84%eb%9e%b5-%ec%a0%84%eb%a9%b4.html",
+          "pubDate": "Mon, 27 Apr 2026 08:03:50 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163327-0-98139000-1777055527-Datensouveranitat-als-strategischer-Erfolgsfaktor.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163523-0-67491300-1777277044-google-security-by-ty-lim-via-shutterstock-1107258977.jpg?quality=50&strip=all",
             "length": "0",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Artificial Intelligence, Generative AI, Government, Industry, Markets, Mergers and Acquisitions"
+            "Artificial Intelligence, Security, Security Software"
           ],
-          "isoDate": "2026-04-24T18:31:46.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "What Google’s “unified stack” pitch at Cloud Next ‘26 really means for CIOs",
-          "link": "https://www.cio.com/article/4163291/what-googles-unified-stack-pitch-at-cloud-next-26-really-means-for-cios.html",
-          "pubDate": "Fri, 24 Apr 2026 18:06:45 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163291-0-92665100-1777054022-dreamstime_xl_164357250-1.jpg?quality=50&strip=all",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Cloud Computing, Events, Google Cloud Next, Google Cloud Platform, IaaS, Industry"
-          ],
-          "isoDate": "2026-04-24T18:06:45.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "CIO ForwardTech & ThreatScape Spain radiografía las tendencias tecnológicas y de ciberseguridad en 2026",
-          "link": "https://www.cio.com/article/4163145/cio-forwardtech-threatscape-spain-radiografia-las-tendencias-tecnologicas-y-de-ciberseguridad-en-2026.html",
-          "pubDate": "Fri, 24 Apr 2026 11:50:22 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163145-0-99487300-1777034123-GARPRESS-0167.jpg?quality=50&strip=all",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Digital Transformation, IT Leadership, IT Strategy, Security"
-          ],
-          "isoDate": "2026-04-24T11:50:22.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "The AI architecture decision CIOs delay too long — and pay for later",
-          "link": "https://www.cio.com/article/4162668/the-ai-architecture-decision-cios-delay-too-long-and-pay-for-later.html",
-          "pubDate": "Fri, 24 Apr 2026 11:00:00 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/04/4162668-0-06273400-1777028575-enterprise-architecture_city_building_skyscraper_by-alex-wong-via-unsplash_matt-artz-via-unsplash_getty_2400x1600-100832137-orig-100914702-orig.jpg?quality=50&strip=all",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Artificial Intelligence, Enterprise Architecture, IT Leadership"
-          ],
-          "isoDate": "2026-04-24T11:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "La relación entre el CIO y el CISO, a examen: ¿por fin se ha roto la frontera entre innovación y seguridad?",
-          "link": "https://www.cio.com/article/4163110/la-relacion-entre-el-cio-y-el-ciso-a-examen-por-fin-se-ha-roto-la-frontera-entre-innovacion-y-seguridad.html",
-          "pubDate": "Fri, 24 Apr 2026 10:04:56 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163110-0-68906000-1777025210-GARPRESS-1407.jpg?quality=50&strip=all",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "IT Leadership, IT Strategy, Security"
-          ],
-          "isoDate": "2026-04-24T10:04:56.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "CIOs struggle to find clarity in their organizations’ AI strategies",
-          "link": "https://www.cio.com/article/4162949/cios-struggle-to-find-clarity-in-their-organizations-ai-strategies.html",
-          "pubDate": "Fri, 24 Apr 2026 10:01:00 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/04/4162949-0-54805000-1777025064-14398-fog-240075.jpg?quality=50&strip=all",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Artificial Intelligence, Business IT Alignment, IT Leadership, IT Strategy"
-          ],
-          "isoDate": "2026-04-24T10:01:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "IT reskilling: the pressing CIO imperative",
-          "link": "https://www.cio.com/article/4161806/it-reskilling-how-cios-ensure-their-workforces-stay-up-to-date-in-a-changing-market.html",
-          "pubDate": "Fri, 24 Apr 2026 10:00:00 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/04/4161806-0-32128300-1777024997-trent-erwin-UgA3Xvi3SkA-unsplash.jpg?quality=50&strip=all",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Artificial Intelligence, C-Suite, Careers, CIO, Digital Transformation, Diversity and Inclusion, Generative AI, IT Leadership, IT Skills and Training, IT Strategy"
-          ],
-          "isoDate": "2026-04-24T10:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Shadow AI morphs into shadow operations",
-          "link": "https://www.cio.com/article/4162664/shadow-ai-morphs-into-shadow-operations.html",
-          "pubDate": "Fri, 24 Apr 2026 10:00:00 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/04/4162664-0-89641200-1777024966-insider-threat-shadow-worker-laptop.jpg?quality=50&strip=all",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Application Security, Artificial Intelligence, DevSecOps, IT Leadership, Security"
-          ],
-          "isoDate": "2026-04-24T10:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "What is ITIL? Your guide to the IT Infrastructure Library",
-          "link": "https://www.cio.com/article/272361/infrastructure-it-infrastructure-library-itil-definition-and-solutions.html",
-          "pubDate": "Fri, 24 Apr 2026 09:00:00 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/04/272361-0-61152700-1777021397-it-infrastructure-shutterstock_313145102.jpg?quality=50&strip=all",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Data Center, IT Governance, IT Leadership, IT Strategy, ITSM"
-          ],
-          "isoDate": "2026-04-24T09:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Moving autonomous agents into production requires a universal context layer",
-          "link": "https://www.cio.com/article/4162650/moving-autonomous-agents-into-production-requires-a-universal-context-layer.html",
-          "pubDate": "Fri, 24 Apr 2026 09:00:00 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/04/4162650-0-94161300-1777021403-haci-elmas-9VDbK6auhQ4-unsplash.jpg?quality=50&strip=all",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Artificial Intelligence, Data Management, Data Quality, Generative AI"
-          ],
-          "isoDate": "2026-04-24T09:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "같은 자리, 다른 미래…임원으로 가는 IT 리더의 사고법",
-          "link": "https://www.cio.com/article/4163025/%ea%b0%99%ec%9d%80-%ec%9e%90%eb%a6%ac-%eb%8b%a4%eb%a5%b8-%eb%af%b8%eb%9e%98%ec%9e%84%ec%9b%90%ec%9c%bc%eb%a1%9c-%ea%b0%80%eb%8a%94-it-%eb%a6%ac%eb%8d%94%ec%9d%98-%ec%82%ac%ea%b3%a0%eb%b2%95.html",
-          "pubDate": "Fri, 24 Apr 2026 08:05:34 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163025-0-62535000-1777017976-shutterstock_1381372058.jpg?quality=50&strip=all",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "C-Suite, Careers, CIO, IT Leadership"
-          ],
-          "isoDate": "2026-04-24T08:05:34.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "La deuda de datos: un elemento invisible que merma el valor de la IA",
-          "link": "https://www.cio.com/article/4163016/la-deuda-de-datos-un-elemento-invisible-que-merma-el-valor-de-la-ia.html",
-          "pubDate": "Fri, 24 Apr 2026 07:31:36 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/04/4163016-0-68108800-1777015913-claudio-schwarz-fyeOxvYvIyY-unsplash.jpg?quality=50&strip=all",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Data Management, IT Leadership, IT Strategy"
-          ],
-          "isoDate": "2026-04-24T07:31:36.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "AI 시대 IT 인력의 진화… “실행보다 통제·관리 역할 커졌다”",
-          "link": "https://www.cio.com/article/4162977/ai-%ec%8b%9c%eb%8c%80-it-%ec%9d%b8%eb%a0%a5%ec%9d%98-%ec%a7%84%ed%99%94-%ec%8b%a4%ed%96%89%eb%b3%b4%eb%8b%a4-%ed%86%b5%ec%a0%9c%c2%b7%ea%b4%80%eb%a6%ac-%ec%97%ad%ed%95%a0-%ec%bb%a4.html",
-          "pubDate": "Fri, 24 Apr 2026 06:08:53 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/04/4162977-0-24268900-1777010950-agentic-AI-will-transform-IT-shutterstock_2695231673.jpg?quality=50&strip=all",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Artificial Intelligence, Careers, IT Jobs, Network Monitoring, Networking"
-          ],
-          "isoDate": "2026-04-24T06:08:53.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "The AI workplace paradox: Higher productivity, higher anxiety",
-          "link": "https://www.cio.com/article/4162946/the-ai-workplace-paradox-higher-productivity-higher-anxiety-2.html",
-          "pubDate": "Fri, 24 Apr 2026 02:39:16 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/04/4162946-0-42995500-1776998374-Overlay-dashboard-or-trader-with-stress-headache-or-burnout-from-trading-data-bad-investment-or-stocks.-Anxiety-debt-or-frustrated-man-with-digital-ui-or-ux-on-financial-loss-on-screen-at-night.jpg?quality=50&strip=all",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Artificial Intelligence, Business Operations, Careers, Employee Experience, Human Resources, IT Management"
-          ],
-          "isoDate": "2026-04-24T02:39:16.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "칼럼 | AI ROI의 진짜 변수는 기술 아닌 ‘조직 설계’",
-          "link": "https://www.cio.com/article/4161724/%ec%b9%bc%eb%9f%bc-ai-roi%ec%9d%98-%ec%a7%84%ec%a7%9c-%eb%b3%80%ec%88%98%eb%8a%94-%ea%b8%b0%ec%88%a0-%ec%95%84%eb%8b%8c-%ec%a1%b0%ec%a7%81-%ec%84%a4%ea%b3%84.html",
-          "pubDate": "Fri, 24 Apr 2026 02:15:00 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/04/4161724-0-80434600-1776997014-Startup-shutterstock_2190179109.jpg?quality=50&strip=all",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Artificial Intelligence, Emerging Technology, IT Leadership, IT Strategy, ROI and Metrics"
-          ],
-          "isoDate": "2026-04-24T02:15:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "AI 책임 보장서 발 빼는 보험사들…불확실성에 시장 재편 조짐",
-          "link": "https://www.cio.com/article/4161741/ai-%ec%b1%85%ec%9e%84-%eb%b3%b4%ec%9e%a5%ec%84%9c-%eb%b0%9c-%eb%b9%bc%eb%8a%94-%eb%b3%b4%ed%97%98%ec%82%ac%eb%93%a4%eb%b6%88%ed%99%95%ec%8b%a4%ec%84%b1%ec%97%90-%ec%8b%9c%ec%9e%a5-%ec%9e%ac.html",
-          "pubDate": "Fri, 24 Apr 2026 02:08:00 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/04/4161741-0-27179800-1776996579-ai-misfires-no-roi-shutterstock_2633982077.jpg?quality=50&strip=all",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Artificial Intelligence, Insurance Industry, Risk Management, Security"
-          ],
-          "isoDate": "2026-04-24T02:08:00.000Z",
+          "isoDate": "2026-04-27T08:03:50.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         }
       ],
-      "title": " “정답 제시 대신 질문하고 판단하라”…AI 시대 필요한 리더의 조건을 묻다 | CIO",
+      "title": "오픈텍스트, 파트너 대상 애플리케이션 보안 솔루션 교육 성료 | CIO",
       "description": "",
       "link": "https://www.cio.com",
       "language": "en",
       "copyright": "Copyright (c) 2026 FoundryCo, Inc.",
-      "lastBuildDate": "Mon, 27 Apr 2026 06:01:16 +0000",
+      "lastBuildDate": "Tue, 28 Apr 2026 06:00:00 +0000",
       "docs": "http://backend.userland.com/rss092"
     }
   }
