@@ -4,6 +4,45 @@
     "CSS Tricks": {
       "items": [
         {
+          "creator": "Daniel Schwarz",
+          "title": "What’s !important #10: HTML-in-Canvas, Hex Maps, E-ink Optimization, and More",
+          "link": "https://css-tricks.com/whats-important-10/",
+          "pubDate": "Fri, 01 May 2026 13:43:26 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Daniel Schwarz",
+          "comments": "https://css-tricks.com/whats-important-10/#comments",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://css-tricks.com/?p=394456",
+          "categories": [
+            "Articles",
+            "news"
+          ],
+          "isoDate": "2026-05-01T13:43:26.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Alvaro Montoro",
+          "title": "The Importance of Native Randomness in CSS",
+          "link": "https://css-tricks.com/the-importance-of-native-randomness-in-css/",
+          "pubDate": "Thu, 30 Apr 2026 15:26:18 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Alvaro Montoro",
+          "comments": "https://css-tricks.com/the-importance-of-native-randomness-in-css/#respond",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://css-tricks.com/?p=393373",
+          "categories": [
+            "Articles",
+            "CSS functions",
+            "random"
+          ],
+          "isoDate": "2026-04-30T15:26:18.000Z",
+          "summary": ""
+        },
+        {
           "creator": "Gabriel Shoyombo",
           "title": "contrast()",
           "link": "https://css-tricks.com/almanac/functions/c/contrast/",
@@ -32,7 +71,8 @@
           "contentSnippet": "",
           "guid": "https://css-tricks.com/?page_id=392903",
           "categories": [
-            "color"
+            "color",
+            "contrast-color()"
           ],
           "isoDate": "2026-04-29T14:57:48.000Z",
           "summary": ""
@@ -265,43 +305,6 @@
           ],
           "isoDate": "2026-04-08T18:41:44.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Juan Diego Rodríguez",
-          "title": "justify-self",
-          "link": "https://css-tricks.com/almanac/properties/j/justify-self/",
-          "pubDate": "Wed, 08 Apr 2026 18:41:38 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Juan Diego Rodríguez",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://css-tricks.com/?page_id=393035",
-          "categories": [
-            "layout"
-          ],
-          "isoDate": "2026-04-08T18:41:38.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "Saleh Mubashar",
-          "title": "Alternatives to the !important Keyword",
-          "link": "https://css-tricks.com/alternatives-to-the-important-keyword/",
-          "pubDate": "Tue, 07 Apr 2026 13:54:43 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Saleh Mubashar",
-          "comments": "https://css-tricks.com/alternatives-to-the-important-keyword/#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://css-tricks.com/?p=392696",
-          "categories": [
-            "Articles",
-            "cascade",
-            "specificity"
-          ],
-          "isoDate": "2026-04-07T13:54:43.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://css-tricks.com/feed/",
@@ -319,7 +322,7 @@
       "description": "Tips, Tricks, and Techniques on using Cascading Style Sheets.",
       "link": "https://css-tricks.com",
       "language": "en-US",
-      "lastBuildDate": "Wed, 29 Apr 2026 17:46:16 +0000"
+      "lastBuildDate": "Fri, 01 May 2026 13:43:28 +0000"
     },
     "CSS In Real Life": {
       "items": [
@@ -1942,6 +1945,18 @@
     "Dave Rupert": {
       "items": [
         {
+          "title": "The duality of language models in the browser",
+          "link": "https://daverupert.com/2026/05/small-language-models-in-the-browser/",
+          "pubDate": "Mon, 04 May 2026 00:33:00 +0000",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://daverupert.com/2026/05/small-language-models-in-the-browser/",
+          "isoDate": "2026-05-04T00:33:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "10,000-watt GPU meet 40-watt lump of meat",
           "link": "https://daverupert.com/2026/04/if-i-could-watt-10-000-florps/",
           "pubDate": "Tue, 21 Apr 2026 19:36:00 +0000",
@@ -2165,18 +2180,6 @@
           "contentSnippet": "",
           "guid": "https://daverupert.com/2026/01/twenty-twenty-five/",
           "isoDate": "2026-01-02T06:08:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Vibe Check №41",
-          "link": "https://daverupert.com/2025/12/vibe-check-41/",
-          "pubDate": "Mon, 22 Dec 2025 03:00:00 +0000",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://daverupert.com/2025/12/vibe-check-41/",
-          "isoDate": "2025-12-22T03:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -2683,6 +2686,52 @@
     },
     "Zell Wel": {
       "items": [
+        {
+          "title": "Four Ways to Deal with Claude's Reduced Usage Limits",
+          "link": "https://zellwk.com/blog/four-ways-to-deal-with-claudes-reduced-usage-limits/",
+          "pubDate": "Fri, 01 May 2026 00:00:00 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://zellwk.com/blog/four-ways-to-deal-with-claudes-reduced-usage-limits/",
+          "categories": [
+            "Ai",
+            "Claude"
+          ],
+          "isoDate": "2026-05-01T00:00:00.000Z",
+          "summary": ""
+        },
+        {
+          "title": "Worst Enemy",
+          "link": "https://zellwk.com/blog/worst-enemy/",
+          "pubDate": "Fri, 01 May 2026 00:00:00 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://zellwk.com/blog/worst-enemy/",
+          "categories": [
+            "Personal growth"
+          ],
+          "isoDate": "2026-05-01T00:00:00.000Z",
+          "summary": ""
+        },
+        {
+          "title": "Experimenting with a different way to write",
+          "link": "https://zellwk.com/blog/experimenting-with-a-different-way-to-write/",
+          "pubDate": "Wed, 29 Apr 2026 00:00:00 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://zellwk.com/blog/experimenting-with-a-different-way-to-write/",
+          "categories": [
+            "Writing"
+          ],
+          "isoDate": "2026-04-29T00:00:00.000Z",
+          "summary": ""
+        },
         {
           "title": "Disable Sounds in VSCode",
           "link": "https://zellwk.com/blog/disable-sounds-in-vscode/",
@@ -3311,7 +3360,7 @@
       "generator": "Hugo -- gohugo.io",
       "link": "https://gomakethings.com/articles",
       "language": "en-us",
-      "lastBuildDate": "Fri, 01 May 2026 02:17:10 EST"
+      "lastBuildDate": "Mon, 04 May 2026 01:30:40 EST"
     },
     "Trevor Lasn": {
       "items": [
@@ -3635,18 +3684,6 @@
           "contentSnippet": "",
           "guid": "https://www.trevorlasn.com/blog/error-iserror-javascript",
           "isoDate": "2025-05-09T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Robust Data Fetching Architecture For Complex React/Next.js Apps",
-          "link": "https://www.trevorlasn.com/blog/fetching-data-for-complex-next-and-react-apps",
-          "pubDate": "Sun, 04 May 2025 00:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.trevorlasn.com/blog/fetching-data-for-complex-next-and-react-apps",
-          "isoDate": "2025-05-04T00:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
