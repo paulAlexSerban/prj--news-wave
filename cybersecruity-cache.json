@@ -4,6 +4,23 @@
     "Snyk Blog": {
       "items": [
         {
+          "title": "Malicious node-ipc versions published to npm in suspected maintainer account compromise",
+          "link": "https://snyk.io/blog/malicious-node-ipc-versions-published-npm/",
+          "pubDate": "Fri, 15 May 2026 00:00:00 GMT",
+          "enclosure": {
+            "url": "https://res.cloudinary.com/snyk/image/upload/v1671633727/wordpress-sync/Feature-5FoCS1.jpg",
+            "length": "0",
+            "type": "image/jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://snyk.io/blog/malicious-node-ipc-versions-published-npm/",
+          "isoDate": "2026-05-15T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "TanStack Npm Packages Compromised Inside The Mini Shai Hulud Supply Chain Attack",
           "link": "https://snyk.io/blog/tanstack-npm-packages-compromised/",
           "pubDate": "Mon, 11 May 2026 05:00:00 GMT",
@@ -38,23 +55,6 @@
           "summary": ""
         },
         {
-          "title": "Don't Panic: The Thymeleaf Template Injection That Only Hurts If You Let It (CVE-2026-40478)",
-          "link": "https://snyk.io/blog/thymeleaf-injection/",
-          "pubDate": "Wed, 29 Apr 2026 00:00:00 GMT",
-          "enclosure": {
-            "url": "https://res.cloudinary.com/snyk/image/upload/v1671633728/wordpress-sync/feature-5FoCS3.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://snyk.io/blog/thymeleaf-injection/",
-          "isoDate": "2026-04-29T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
           "title": "Bridging the Gap to Autonomous Fixes: Snyk and Atlassian Unveil Intelligent Remediation for Jira",
           "link": "https://snyk.io/blog/atlassian-integration-intelligent-remediation-jira/",
           "pubDate": "Wed, 29 Apr 2026 00:00:00 GMT",
@@ -72,17 +72,17 @@
           "summary": ""
         },
         {
-          "title": "\"A Mini Shai-Hulud Has Appeared\": Bun-Based Stealer Hits SAP @cap-js and mbt npm Packages",
-          "link": "https://snyk.io/blog/bun-based-stealer-hits-sap-cap-js-mbt-npm-packages/",
+          "title": "Don't Panic: The Thymeleaf Template Injection That Only Hurts If You Let It (CVE-2026-40478)",
+          "link": "https://snyk.io/blog/thymeleaf-injection/",
           "pubDate": "Wed, 29 Apr 2026 00:00:00 GMT",
           "enclosure": {
-            "url": "https://res.cloudinary.com/snyk/image/upload/v1671633728/wordpress-sync/feature-5FoCS4.jpg",
+            "url": "https://res.cloudinary.com/snyk/image/upload/v1671633728/wordpress-sync/feature-5FoCS3.jpg",
             "length": "0",
             "type": "image/jpg"
           },
           "content": "",
           "contentSnippet": "",
-          "guid": "https://snyk.io/blog/bun-based-stealer-hits-sap-cap-js-mbt-npm-packages/",
+          "guid": "https://snyk.io/blog/thymeleaf-injection/",
           "isoDate": "2026-04-29T00:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
@@ -98,11 +98,371 @@
       "generator": "Custom Next.js RSS generator",
       "link": "https://snyk.io",
       "language": "en-US",
-      "lastBuildDate": "Fri, 15 May 2026 06:15:53 GMT",
+      "lastBuildDate": "Tue, 19 May 2026 06:26:48 GMT",
       "docs": "https://validator.w3.org/feed/docs/rss2.html"
     },
     "The Hacker News": {
       "items": [
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "GitHub Actions Supply Chain Attack Redirects Tags to Steal CI/CD Credentials",
+          "link": "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html",
+          "pubDate": "Tue, 19 May 2026 10:58:06 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgc7jpVO6HhBuEBTjkwmNjYhKlFmhhmytOqNZHYuGP-dNWrf3AoyE68yoKj77elddOX4Ps2x9jSuwhi5sE-QjK_oEjLXgQW9e6EHx6W0G7qTqYTM3fZh1AQTyrgm2o-PFBeD9ryHnC6fDmK5MYKUzBjU_pJibTilnm1d99WSQkJux6PXXRydkYW5d15Ada-/s1600/step.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html",
+          "isoDate": "2026-05-19T05:28:06.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account",
+          "link": "https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html",
+          "pubDate": "Tue, 19 May 2026 10:24:17 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpyJDg_FqUDfeOeVX8IyhBHj9HqwkGZ-hV7b998CMLiBK2uPpmuQEN1cv1xYXJzRiznN6u_oXjA0lAGWgrkUH9EqaqfOFyW85ZQiz_Cr2YrHl1uxUHqEztt_iWG1LtRfNMpYTIqhS8vKTUOdZiNAf_r_g0r7LzqsvjmCmsr7_lv9jmXvHs5s76BEQCMnql/s1600/npm-malware.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html",
+          "isoDate": "2026-05-19T04:54:17.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
+          "link": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
+          "pubDate": "Mon, 18 May 2026 22:51:18 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivxxVYex3z2F03m6RYOR72whyegN5TEzzNxZO3tTOSHNTQ4tqCeD-H-F0c3K8dInMfh1EwPQP0jtoHEA4agDOYN2sF7qxGMHnuhsWges5me7ESa8_ycNj0vHf1TeeTgqetA1yOQ5Gi6a7jsV5khO3PVNcbkrBRCTMRNRb_qPLwBUdlvZJUCDvGjtmSVuod/s1600/hackers.png"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
+          "isoDate": "2026-05-18T17:21:18.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
+          "link": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
+          "pubDate": "Mon, 18 May 2026 19:20:17 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFzN7ITW3vwaWKn1m-BGZGI1JicT1T8d5v4LZbTvOTe7m1Xj4pk1pFECjAOvxey4XzXg7vGiU5Xzifs4qkzr9cbg2iPboHfPAHHBmi3O8OIAArhJlbr52gwKMkdqrIuIK77Pq8EzCTQM1hV5MsLuTbV4GXbXzr7miv0jA6o0Bn35RgBjc2cnd6qPq2-0Di/s1600/recapss.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
+          "isoDate": "2026-05-18T13:50:17.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "How to Reduce Phishing Exposure Before It Turns into Business Disruption",
+          "link": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html",
+          "pubDate": "Mon, 18 May 2026 18:30:00 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu4cbMji6f7O37Q6sBOEkOEXWMs7Eg4ixA0RdW8AiO6cIPai9yYqLTvVVkUH9ApXP8XycVeezSCvDMXhldVsCiaA-_kr5SwWJ4EjTfkyX0RdUacOUF3plBO9C6PHCLsUGM-L-ZthpQA7mhdPmH4nLgPPQIVBWK9BZUNQf7V17Y_5jVVvZ0FNaiOsG7mvs/s1600/anyrun-main.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html",
+          "isoDate": "2026-05-18T13:00:00.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "Developer Workstations Are Now Part of the Software Supply Chain",
+          "link": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
+          "pubDate": "Mon, 18 May 2026 16:53:41 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjylLL25uQ3uU6RshKkTv9isR22Y_6_b4uJJ4koE1MqtmGs4IWdz88_aH8up_7WDxghA7-GeMbm6gpoKUXRw99Cm1ljO03H8bdcv91vvO_ch313e_JAwtYH-CewZJF2WkNrYWtcp-acMiPTvSs5aan7v2DLpEjVSBuEarfJ-eCLEHCL2WK9zjxOho_gj3k/s1600/git.gif"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
+          "isoDate": "2026-05-18T11:23:41.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
+          "link": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
+          "pubDate": "Mon, 18 May 2026 16:24:05 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2iqd3uRuOdLaM83LyZC9GOeOLeP9BnBVQQQzF7LZUeBTXfGo6e6b9c7PSC0Tkt_vhN_FUFUiDwnLXXNmzpIubE5bI0rA7dRaDhuiV35uiNTcMab7o8E_1ehn3CzUUsfno-6fYECbYzGNS1dyNof1ihn-hf4QYjLn7ZD53y_byQigukme9w-LAeBKDWXAg/s1600/patches.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
+          "isoDate": "2026-05-18T10:54:05.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+          "link": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
+          "pubDate": "Mon, 18 May 2026 14:27:34 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvmx8dRRiQKx4cT0aT1-zTuzdjfThwxmlbzb2ikeeqIXUXGdcJhRrq4BykcdBB572URpoAHQhSTSyahR3M7TyvOsLSCekQGCUFM8sTcdsxkrpRFrT41wF8EqKA5LjzYHpzUtro2136Iy55cKQ_wixFUSsFDnilkUNCvrDvJbHBKK3k_IelHt9lOmbW01_u/s1600/windows-exploits.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
+          "isoDate": "2026-05-18T08:57:34.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
+          "link": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
+          "pubDate": "Mon, 18 May 2026 14:27:26 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbN7WbW1cUkMzMJl0HPvRrQQUc5MQEE3Pvrc735aG7RGwpguum4POxa4yeQjyYIyiAYBDj_Zl6Ud8esex0AnQSG2J6TVWat57BLALA4WTi3gr5mfrLC2AHloSuvzx6fg9bTxZUvO-aA5VwHjyqbYecAWm2DnM9SRyt0M1GaqYzlBBKdgUR8BXV3xIDVnVN/s1600/npm-hacking.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
+          "isoDate": "2026-05-18T08:57:26.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
+          "link": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
+          "pubDate": "Mon, 18 May 2026 12:16:37 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis3jEEpg3n_4z5YYUwDaXETZ4KJGxCqjzrZMHUmpgvOCC7pxoSs6Rn9klL5REej9UUJJxIrOstlQDWjbTeAOUhJ7wFSoTvpLkOVx3hb5fKerxA6NkeNMDQ7bt4F-kLwEPXWZPCsVa_wXaonk9mb9CKTF4cVDToquGN57Xzw1VmszeNoEKVEvtcHMSnTCOi/s1600/fast16-stuxnet.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
+          "isoDate": "2026-05-18T06:46:37.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
+          "link": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+          "pubDate": "Sun, 17 May 2026 17:27:53 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdFtAiSRukEdQXVvEzXdQKy0O9SY7RCuqFLuAEIBe4rECuQuUS76qEXnxPuEcKIIFUysRNOGdBW2Mf2n1sh1W35aU0nCksWiW7v-20p1K7RhdPPDnxKh7kt_OmQaPrmtYPJ3larEwWr9iHeQMoRtlW767YpsXBFP5-5CQ2jTJUB_jWaMmt_29uLJvaGZE_/s1600/nginx.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+          "isoDate": "2026-05-17T11:57:53.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
+          "link": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
+          "pubDate": "Sun, 17 May 2026 12:43:33 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNcCJY0s2GwOwFeSuqVz941pWrGK3theum-FBFyYO97JnK22OamMheCtr9yEEFfHMvurI7UBgl72blFK6Hm9u358g1V9HbZOk5vocuYMvgjfYLmf2XPNsSG1IiFxlbLvnRaotutjUB5I7sVLVTf1HTozz9FoeVxA3DJOn9wAOolL-HwmATDLlAD-Mgs-tO/s1600/grafana.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
+          "isoDate": "2026-05-17T07:13:33.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
+          "link": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
+          "pubDate": "Sat, 16 May 2026 20:50:48 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYS8AhChFEeH6IwT4x1eB5VAeGfriF4VVcwINAxXVIGyap3g0CKx0R2BdI4s99cE3Q5JHr-KUVHqdhAFNfQIrCTJ6p-vq7u5naMTwb-WFjgis4vBdR29M94wAT-Dqh46zsbo4heSJOVdFRxXzR3SgHt2ZoTPPBEbB3cu4azACiFFl7jcIGNxw1d_U7eVU9/s1600/funnel.png"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
+          "isoDate": "2026-05-16T15:20:48.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
+          "link": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
+          "pubDate": "Fri, 15 May 2026 22:40:25 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8BT1AOScncZQM_A-0WBdCzTDAHGHSey48_Mywhij-TJupCdzP3s3o-MIImRtMZcoV2OqX3RjRV4COpVqkB1mrH3d_zjwvSTwCEXOq_2m80HgDo-xwAZ1KpR1h8eN9dAHGcKN_PpcE0cBsnv67FcthDycHLBJMYs8NkPszWNiQqdbhyL0YIlwVJn4NtgaR/s1600/code.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
+          "isoDate": "2026-05-15T17:10:25.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
+          "link": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
+          "pubDate": "Fri, 15 May 2026 19:05:04 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz_tK9S8jS_n5CK694-FLGjQP5_Mmpg7z9ZRiBayWsJLsuFRIm-8j1hTlhH90779FvnvhpiFKeGP9CzI5RCPsxQEnOzAIQsPzUsAJhUWtNm9iwf9C1W9DbDmqoQ_jjHhM7huYDV210OB9o1L9NPoJ0IL6R9Xc-V4JQ91Kn-b47_2ravRJ6-qlZOVrqsuAz/s1600/openclaw.png"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
+          "isoDate": "2026-05-15T13:35:04.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
+          "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
+          "pubDate": "Fri, 15 May 2026 16:30:00 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcSUDrpIZyFrHqIlIGnXfIShsEamRNviaM6TguPwmQI9KkhrIXOQbQ0WVKiOkcBGkFqKTKZmK16zPChmlcCbZHIkX3K_C0sjnyXYJjpZuJXO3OiIhUe7Ez8jCNiTxh0FGYS2-RR6HKsl9pWJVgc_uXAtHXj0hgU-mLSsOh-QHft6A92KtgWPQhk1OVPA/s1600/Attack-Surface.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
+          "isoDate": "2026-05-15T11:00:00.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
+          "link": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html",
+          "pubDate": "Fri, 15 May 2026 16:24:44 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1l4Vq20M4553fkDfGbO9VqLV9Au-6EefivLp8HT2W5QxJvgWf1mr6pg5xsbC5j3FCJzOOCJv_CImY1LjjFYIN_25ajki1iS_EVPvTyeVY7bC3ogcQFzHmE1Xyaz3cRXneilC0rWcb8dLbUapLI_jZ-uBaUkku48absoxM6TG16jS3xxtw9lhhtCvJmemK/s1600/chatgpt.jpg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html",
+          "isoDate": "2026-05-15T10:54:44.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "info@thehackernews.com (The Hacker News)",
+          "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
+          "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
+          "pubDate": "Fri, 15 May 2026 11:49:04 +0530",
+          "author": "info@thehackernews.com (The Hacker News)",
+          "enclosure": {
+            "length": "12216320",
+            "type": "image/jpeg",
+            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirN79ZRjEd5wnVbOTlJJsWjQ54cwSj2bM5NDzBSgAFO8f_9LrlIwQRI0ZogQX42iejmhgc1n2YcA91pFrVqtqNKKyAIXblcQ1Yx9LTs1TeNDbNN6JMUBXCKDK1W0IwnwvYl1dhQmcyTPHwakckKT_Kc9fAUDAJRj94g2pENrjy4UyTCCniOXI2rO-q66PC/s1600/Microsoft-Exchange.png"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
+          "isoDate": "2026-05-15T06:19:04.000Z",
+          "itunes": {},
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "creator": "info@thehackernews.com (The Hacker News)",
           "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
@@ -742,366 +1102,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
-          "link": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
-          "pubDate": "Sun, 10 May 2026 18:11:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92eUjjTTMJPizvUJGwq7Ych7nrXHwGRNt3hS9yjNGRJk5d3pdIKjeZhQDVuFp0DnKjP4qoieGWFjswm7nHDLBaxWC3DxFIfLfRjMSEXd0Ta04vcTrbCpS9PEXebUUbMBxBt0VOb-PKVk-7Cq0FjuMXl4VtKneb5a3ujCo872goPN22GBFFhReJtWsQJLK/s1600/oll.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
-          "isoDate": "2026-05-10T12:41:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
-          "link": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
-          "pubDate": "Sat, 09 May 2026 12:46:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8HLwOMzo20kbZmflPvJJmY7su6wWOWgDLV-dJNx-k76m5ivbwVoCkFrnsLXkyO4PHAyLSkPXinjK71SDmWabyOcTlKb3juZgkXTzOVuMvZk6-LUFMhoJ-UGFvv0qEby7QmYcjTWn1m1L19VTKeB7CdmKvpvIP5ifniLO92ARSLjtf8rcXIbm8AFMZei-M/s1600/cpanel-3.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
-          "isoDate": "2026-05-09T07:16:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
-          "link": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
-          "pubDate": "Fri, 08 May 2026 23:42:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWchpptUYeW4vXSUXfGq-uMzB1mr_dzsvX8XIWssIKzaWa4_eYbaLwec5Zos3xCoD0s8-LDcGI7Vj8DjFq6RtUY68HP21YudHYdsFS2xdyzQE7OPyuTlqyO2X9uwlSCRuVl9tAUwq0mvGuXlYkxjdmC7ynyAcIDpbejkR45ucf_L3VCDupSZMteOby7BUp/s1600/banking.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
-          "isoDate": "2026-05-08T18:12:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
-          "link": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
-          "pubDate": "Fri, 08 May 2026 20:38:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMXgW6K0BZvt0-jhZ_smX3Uy-nsd9wb9g7Gs7d3G7uH-HIlEcNhEt9xpaKD_62iJol_LK5Expt-6qCuvIf7llqtQclB64I9zZm_i8CIC0lMJiIz8nx6r4C-Nj4cUgd3cQEtu3_lGFa7wcmR6q9otQhCLoB1Mbnmn7NgH6-djLs_ScqanZFNC-EVOwYyO7/s1600/android-calls.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
-          "isoDate": "2026-05-08T15:08:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
-          "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
-          "pubDate": "Fri, 08 May 2026 19:31:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz_1BMhUux9JB2X26ToAMnW32GttimEIwRX1fG4_LrlZjedjkjzps_Ad-eiSX-2LlJ1FFIw3g1kvH1kKrgwETmSgTk8wal5a7AJQNIY2IH3317GaUYEj-_3tko2hxjKBc1ms0WQ7UjHHTst0aKtjFz1jOPasyD8x5U_GQW4KdhKxDPHhlmYVOY9TM6vLy_/s1600/zz-webinar.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
-          "isoDate": "2026-05-08T14:01:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
-          "link": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
-          "pubDate": "Fri, 08 May 2026 16:30:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiholjenZRIykmReErkRiguk5xd9RV4BIEEPM0nT-o3LvMvDkCTLpd3G0NpqDGEFHp-f6QyvGRMip6CBhGlllYVlp9wS3XBVoV6xW47CDka7Ig8S_aotcuNlmAv3SYgS4hJzxjLp2nrV4SzqlTXnQLG_w68Cq0Bf5hiOoV6CaN9QZliRDa-StzsvIkJAdSF/s1600/kube.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
-          "isoDate": "2026-05-08T11:00:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
-          "link": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html",
-          "pubDate": "Fri, 08 May 2026 16:00:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUaPw5V89Ez9z5x8eFLFOhwPphGqXDQVGfd2sI-pX9Q1XTcpYlWEhFiZ6o12fzAyvtCFDQ0zs4AFlHl4HJNnjWH8hUXM9r_-oBl7YMEnU1F41Ho7DL23NJbgG4M3eoqF6CTZWqFtFcw0gOB8QfkCPW1_xQ-HwmvWr3GMzEeRFbC8SLgG5LsdnopTAHDOs/s1600/ai-soc.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html",
-          "isoDate": "2026-05-08T10:30:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials",
-          "link": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html",
-          "pubDate": "Fri, 08 May 2026 14:11:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixNgyNI9ObZi3Il87CVXhEWyWgcK-O1IKhQKRs7NPrNVqTMBZRw7AZpmbk5RdsPxNPmO9IyXaq6QzYBN691HBgfE8HpwnyJuE4-vaCAwHPpb6UfeSRcrMI-GRjcX53cELs31s7ps6YkGx5bAAB67w4m9GQ7ZVWjSdnaPOFczjHlsS3967ZvBh-4ZvTBWEJ/s1600/linux-pam.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html",
-          "isoDate": "2026-05-08T08:41:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
-          "link": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html",
-          "pubDate": "Fri, 08 May 2026 10:42:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnVSDBWt4hKZ-DOrZqHWPVH0JxrpcUeup9hpMpoH5Ny8bpuJ6Lviv58aH0aK2S2IJvAugaYRhM8P9wUW3tbVCu2kFMQbG5F16kI3PvS6gmR2Px8qOxcat-tK-UHV9oSDsAv9MHjvrduyndsqhicJxX1GroDTBo8it4ANI2wKIUVauhdxbgrNBQHhdgq2SW/s1600/linux.gif"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html",
-          "isoDate": "2026-05-08T05:12:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
-          "link": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
-          "pubDate": "Thu, 07 May 2026 23:25:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-v9Rdn-UppGqdbm0oFYXNg6myRCPn8r-d4BXVN0e2r2hqrYbGPUwOKafMbwKlojjbck4C8Ez6dxZ7WcLF45PNphvCo1K4OGhXl0u9fWanVMbO62iZoWMQJrplTa6VaXfI2rhQL40PoDK0ZNh2jqDJGBc9LylbIE92LWSNEIkVUhSpkGyAfV7g-DVZlU1/s1600/ivanti.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
-          "isoDate": "2026-05-07T17:55:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
-          "link": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
-          "pubDate": "Thu, 07 May 2026 23:15:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2N74T5rZvfRcHqUhwtyI3hbxAAQnB-RQQqpiGSIJqdplaQaZcjvqLR80d3pIjwJyGtAO5V0Ji6_3w4V4Ww901x4aSGY_Id3lzqXNdGUMbprz80zXoKzHVoIBqyhVBU_LvIMyJHV5MHaMWvZuWgREFmqG4jOdBLpW4gBtgKCrnfRS4mIXemDQ9U_fRERQf/s1600/clouds.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
-          "isoDate": "2026-05-07T17:45:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
-          "link": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html",
-          "pubDate": "Thu, 07 May 2026 19:04:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA-FbTXMB7fJu_4ZxIlvKU2wHShSiMZaCQBah-p33256FjWEUsO0kd4s-LXOT_YQoS39Mj5f7nhj-ERtNF2EPNU9WG91ZWJXpl4cwYFoWz8npaMpVWzAhYjVVB-JnPyoycvPmik7Y5IsihIDXp7_mHvh4DYUz9vqkkVRYgylDqKeezcDEwqRJNs4F_2scA/s1600/paloalto-rce.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html",
-          "isoDate": "2026-05-07T13:34:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
-          "link": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html",
-          "pubDate": "Thu, 07 May 2026 17:03:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYNaH2vOiD-OgAVnO0nGCSr8j4nnvHD2n7RieJD2mDMlPev_fKoBafjhvob13LV4pOFhgMuZd6ex8zyQnCM1AyVfl6fuRG9Max2F76Ku9rWbieBvF0AtGlQd0nXlIwHDKvq5H4BJn3hGCRfE86fHs5SL05RywOADNDC9J5lG9DF8goavgxWzAh7a7isNMB/s1600/threatsday-1.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html",
-          "isoDate": "2026-05-07T11:33:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
-          "link": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html",
-          "pubDate": "Thu, 07 May 2026 16:24:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdEBtnOnAfYEV-De3NPPeeTCPWK_gSqYM7OZ0ioRJl84OvS49Fp-GJucJfc-ADDOhyTe11dUoYbkIlA1gYW5b8E6KxYIG71gNa0pU4tmqiEyfmxAEyI1A3n2ZOzfePdcm5WdqHVnFlrSwzgNlOmWKMUOHTqUjS_qUhHBEI9CpMJ_OZrUgn-yaHjTDaXJ0/s1600/main.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html",
-          "isoDate": "2026-05-07T10:54:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
-          "link": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html",
-          "pubDate": "Thu, 07 May 2026 14:50:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGun7lMQJXWH3IQiR3ml3RMzAbb1QJcWEtgqDrKTjPbvBhTsDPaCWmI1vTAnevTVPx0lg4xvPkOcpx_86_Znxdgpj-hynQXGEHqf94dvYwOy5VqqnqBWEWrJ3MEkQcLVBVt00Y8pUqVWj4W-hYYepmDmtX9PRQh87qZC7XbJCwdEaLsBY-vTsbkS0yqikd/s1600/pypi.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html",
-          "isoDate": "2026-05-07T09:20:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
-          "link": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html",
-          "pubDate": "Thu, 07 May 2026 09:45:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGJE3Tcr425AIfztOUrdhPUiEkVY8bMrHMmO-5FZ2N3cLaW9ErdLJJS3KwjzYNvLAIcVT7xpSw8wswiDIPenyZa_ki3ZrOHJFY-cXKHPu0EGnfCGXxkEAlvE6tLogT8T_lRolQ-qI-GFqlgwqpbLD1HfmDo4HkJbV9XNDh9rcGbM3Nc8ruu5I_47DBmzsy/s1600/vm2.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html",
-          "isoDate": "2026-05-07T04:15:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
-          "link": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
-          "pubDate": "Thu, 07 May 2026 01:51:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHPb4dDONnDMbu5rdNKex39FCs_4elspTEwE3dJbDsEBn1OdHrNS_0oI2V2mKCG4PjUGsBy5T4ZCec8kSdK2hTXkaq3fIIDX5XLBKfU9X4dNamC0zGfgcZ5dxPy1PNGKtAIye5IpODYmyzgMYBSRfyUcAnLhOBsHSitLujoCQABiz9b2KfYnzUhPN8rqPK/s1600/botnet-malware.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
-          "isoDate": "2026-05-06T20:21:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "info@thehackernews.com (The Hacker News)",
-          "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
-          "link": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html",
-          "pubDate": "Wed, 06 May 2026 18:30:00 +0530",
-          "author": "info@thehackernews.com (The Hacker News)",
-          "enclosure": {
-            "length": "12216320",
-            "type": "image/jpeg",
-            "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjE6bniWklmqJDwZMxQ07Yrb1XNwfkmJE8SGUazlNaXgn1tcbJkvCSjtbo31oAqPZwb9U9KQ-uDMPmQbxwzthxG9J2j65qOUZAph7AAMJOeXYKbcU8jYwIIyjc_i7YnSrOKQ3jPtHAuCs_vdlyWe6O3ViLRYgza2usaIoYA2GgWxKpGGl6u05IZG_QZmP_/s1600/teams-hacker.jpg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html",
-          "isoDate": "2026-05-06T13:00:00.000Z",
-          "itunes": {},
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://feeds.feedburner.com/TheHackersNews",
@@ -1112,11 +1112,40 @@
       "description": "Most trusted, widely-read independent cybersecurity news source for everyone; supported by hackers and IT professionals — Send TIPs to admin@thehackernews.com",
       "link": "https://thehackernews.com",
       "language": "en-us",
-      "lastBuildDate": "Fri, 15 May 2026 10:08:04 +0530",
+      "lastBuildDate": "Tue, 19 May 2026 09:59:46 +0530",
       "itunes": {}
     },
     "Krebson Security": {
       "items": [
+        {
+          "creator": "BrianKrebs",
+          "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
+          "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+          "pubDate": "Mon, 18 May 2026 20:48:21 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "BrianKrebs",
+          "comments": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/#comments",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://krebsonsecurity.com/?p=73607",
+          "categories": [
+            "A Little Sunshine",
+            "Data Breaches",
+            "Latest Warnings",
+            "The Coming Storm",
+            "AWS GovCloud",
+            "Cybersecurity & Infrastructure Security Agency",
+            "GitGuardian",
+            "GitHub",
+            "Guillaume Valadon",
+            "Nightwing",
+            "Philippe Caturegli",
+            "Seralys"
+          ],
+          "isoDate": "2026-05-18T20:48:21.000Z",
+          "summary": ""
+        },
         {
           "creator": "BrianKrebs",
           "title": "Patch Tuesday, May 2026 Edition",
@@ -1404,51 +1433,82 @@
           ],
           "isoDate": "2026-03-20T00:49:19.000Z",
           "summary": ""
-        },
-        {
-          "creator": "BrianKrebs",
-          "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
-          "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
-          "pubDate": "Wed, 11 Mar 2026 16:20:13 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "BrianKrebs",
-          "comments": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://krebsonsecurity.com/?p=73316",
-          "categories": [
-            "A Little Sunshine",
-            "Latest Warnings",
-            "Ne'er-Do-Well News",
-            "The Coming Storm",
-            "Handala",
-            "Handala Hack",
-            "Irish Examiner",
-            "Microsoft Intune",
-            "Ministry of Intelligence and Security",
-            "Palo Alto Networks",
-            "Stryker",
-            "Void Manticore",
-            "wiper attack"
-          ],
-          "isoDate": "2026-03-11T16:20:13.000Z",
-          "summary": ""
         }
       ],
-      "feedUrl": "https://krebsonsecurity.com/feed/",
+      "feedUrl": "https://krebsonsecurity.com/feed/?",
       "paginationLinks": {
-        "self": "https://krebsonsecurity.com/feed/"
+        "self": "https://krebsonsecurity.com/feed/?"
       },
       "title": "Krebs on Security",
       "description": "In-depth security news and investigation",
       "generator": "https://wordpress.org/?v=6.2.2",
       "link": "https://krebsonsecurity.com",
       "language": "en-US",
-      "lastBuildDate": "Wed, 13 May 2026 10:43:26 +0000"
+      "lastBuildDate": "Mon, 18 May 2026 23:18:00 +0000"
     },
     "Schneier on Security": {
       "items": [
+        {
+          "creator": "Bruce Schneier",
+          "title": "Zero-Day Exploit Against Windows BitLocker",
+          "link": "https://www.schneier.com/blog/archives/2026/05/zero-day-exploit-against-windows-bitlocker.html",
+          "pubDate": "Mon, 18 May 2026 11:08:13 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Bruce Schneier",
+          "comments": "https://www.schneier.com/blog/archives/2026/05/zero-day-exploit-against-windows-bitlocker.html#comments",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.schneier.com/?p=72063",
+          "categories": [
+            "Uncategorized",
+            "BitLocker",
+            "exploits",
+            "Windows",
+            "zero-day"
+          ],
+          "isoDate": "2026-05-18T11:08:13.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Bruce Schneier",
+          "title": "Friday Squid Blogging: Bigfin Squid",
+          "link": "https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html",
+          "pubDate": "Sat, 16 May 2026 01:03:31 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Bruce Schneier",
+          "comments": "https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html#comments",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.schneier.com/?p=72054",
+          "categories": [
+            "Uncategorized",
+            "squid"
+          ],
+          "isoDate": "2026-05-16T01:03:31.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Bruce Schneier",
+          "title": "Bypassing On-Camera Age-Verification Checks",
+          "link": "https://www.schneier.com/blog/archives/2026/05/bypassing-on-camera-age-verification-checks.html",
+          "pubDate": "Fri, 15 May 2026 11:06:32 +0000",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Bruce Schneier",
+          "comments": "https://www.schneier.com/blog/archives/2026/05/bypassing-on-camera-age-verification-checks.html#comments",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.schneier.com/?p=72051",
+          "categories": [
+            "Uncategorized",
+            "AI",
+            "biometrics"
+          ],
+          "isoDate": "2026-05-15T11:06:32.000Z",
+          "summary": ""
+        },
         {
           "creator": "Bruce Schneier",
           "title": "Upcoming Speaking Engagements",
@@ -1594,74 +1654,6 @@
           ],
           "isoDate": "2026-05-08T17:49:01.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Bruce Schneier",
-          "title": "Smart Glasses for the Authorities",
-          "link": "https://www.schneier.com/blog/archives/2026/05/smart-glasses-for-the-authorities.html",
-          "pubDate": "Thu, 07 May 2026 11:07:07 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Bruce Schneier",
-          "comments": "https://www.schneier.com/blog/archives/2026/05/smart-glasses-for-the-authorities.html#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.schneier.com/?p=71993",
-          "categories": [
-            "Uncategorized",
-            "biometrics",
-            "DHS",
-            "face recognition"
-          ],
-          "isoDate": "2026-05-07T11:07:07.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "Bruce Schneier",
-          "title": "Rowhammer Attack Against NVIDIA Chips",
-          "link": "https://www.schneier.com/blog/archives/2026/05/rowhammer-attack-against-nvidia-chips.html",
-          "pubDate": "Wed, 06 May 2026 10:36:59 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Bruce Schneier",
-          "comments": "https://www.schneier.com/blog/archives/2026/05/rowhammer-attack-against-nvidia-chips.html#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.schneier.com/?p=72006",
-          "categories": [
-            "Uncategorized",
-            "academic papers",
-            "cyberattack",
-            "hacking",
-            "hardware"
-          ],
-          "isoDate": "2026-05-06T10:36:59.000Z",
-          "summary": ""
-        },
-        {
-          "creator": "Bruce Schneier",
-          "title": "DarkSword Malware",
-          "link": "https://www.schneier.com/blog/archives/2026/05/darksword-malware.html",
-          "pubDate": "Tue, 05 May 2026 10:42:03 +0000",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Bruce Schneier",
-          "comments": "https://www.schneier.com/blog/archives/2026/05/darksword-malware.html#comments",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.schneier.com/?p=72012",
-          "categories": [
-            "Uncategorized",
-            "Apple",
-            "cybercrime",
-            "exploits",
-            "iOS",
-            "malware",
-            "vulnerabilities",
-            "zero-day"
-          ],
-          "isoDate": "2026-05-05T10:42:03.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.schneier.com/feed/",
@@ -1679,7 +1671,7 @@
       "description": "",
       "link": "https://www.schneier.com/",
       "language": "en-US",
-      "lastBuildDate": "Thu, 14 May 2026 16:01:38 +0000"
+      "lastBuildDate": "Mon, 18 May 2026 11:08:38 +0000"
     },
     "Tao Security": {
       "items": [
@@ -2430,6 +2422,23 @@
       "items": [
         {
           "creator": "Troy Hunt",
+          "title": "Weekly Update 504",
+          "link": "https://www.troyhunt.com/weekly-update-504/",
+          "pubDate": "Mon, 18 May 2026 03:46:55 GMT",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "dc:creator": "Troy Hunt",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "6a0a87fa07414e00010606aa",
+          "categories": [
+            "Weekly update"
+          ],
+          "isoDate": "2026-05-18T03:46:55.000Z",
+          "summary": ""
+        },
+        {
+          "creator": "Troy Hunt",
           "title": "Welcoming the Bahamian Government to Have I Been Pwned",
           "link": "https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/",
           "pubDate": "Thu, 14 May 2026 03:49:29 GMT",
@@ -2668,23 +2677,6 @@
           ],
           "isoDate": "2026-03-17T02:55:31.000Z",
           "summary": ""
-        },
-        {
-          "creator": "Troy Hunt",
-          "title": "Weekly Update 494",
-          "link": "https://www.troyhunt.com/weekly-update-494/",
-          "pubDate": "Tue, 10 Mar 2026 01:29:35 GMT",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "dc:creator": "Troy Hunt",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "69af6efa55f90d00011b621c",
-          "categories": [
-            "Weekly update"
-          ],
-          "isoDate": "2026-03-10T01:29:35.000Z",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.troyhunt.com/rss/",
@@ -2698,9 +2690,9 @@
       },
       "title": "Troy Hunt",
       "description": "Hi, I'm Troy Hunt, I write this blog, run \"Have I Been Pwned\" and am a Microsoft Regional Director and MVP who travels the world speaking at events and training technology professionals",
-      "generator": "Ghost 6.38",
+      "generator": "Ghost 6.39",
       "link": "https://www.troyhunt.com/",
-      "lastBuildDate": "Thu, 14 May 2026 21:56:25 GMT",
+      "lastBuildDate": "Mon, 18 May 2026 11:51:26 GMT",
       "ttl": "60"
     },
     "Daniel Miessler": {
@@ -4360,8 +4352,134 @@
     "Dark Reading": {
       "items": [
         {
+          "creator": "Rob Wright",
+          "title": "Microsoft Exchange Zero-Day Under Attack, No Patch Available",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch",
+          "pubDate": "Mon, 18 May 2026 21:43:51 GMT",
+          "dc:creator": "Rob Wright",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch",
+          "isoDate": "2026-05-18T21:43:51.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Jai Vijayan",
+          "title": "'Claw Chain' Vulnerabilities Threaten OpenClaw Deployments",
+          "link": "https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw",
+          "pubDate": "Mon, 18 May 2026 21:24:59 GMT",
+          "dc:creator": "Jai Vijayan",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw",
+          "isoDate": "2026-05-18T21:24:59.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Alexander Culafi",
+          "title": "Shai-Hulud Worm Clones Spread After Code Release",
+          "link": "https://www.darkreading.com/application-security/shai-hulud-worm-clones-spread-code-release",
+          "pubDate": "Mon, 18 May 2026 19:53:05 GMT",
+          "dc:creator": "Alexander Culafi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/application-security/shai-hulud-worm-clones-spread-code-release",
+          "isoDate": "2026-05-18T19:53:05.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Elizabeth Montalbano",
+          "title": "Fuel Tank Breaches Expand Scope of Iran's Cyber Offensive",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/fuel-tank-breaches-expand-scope-irans-cyber-offensive",
+          "pubDate": "Mon, 18 May 2026 15:41:55 GMT",
+          "dc:creator": "Elizabeth Montalbano",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/cyberattacks-data-breaches/fuel-tank-breaches-expand-scope-irans-cyber-offensive",
+          "isoDate": "2026-05-18T15:41:55.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Shlomie Liberow",
+          "title": "The Boring Stuff Is Dangerous Now",
+          "link": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
+          "pubDate": "Mon, 18 May 2026 13:00:00 GMT",
+          "dc:creator": "Shlomie Liberow",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
+          "isoDate": "2026-05-18T13:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Dark Reading Editorial Team",
+          "title": "Boulevard of Broken Dreams: 2 Decades of Cyber Fails",
+          "link": "https://www.darkreading.com/cyber-risk/broken-dreams-2-decades-cyber-fails",
+          "pubDate": "Mon, 18 May 2026 12:00:00 GMT",
+          "dc:creator": "Dark Reading Editorial Team",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/cyber-risk/broken-dreams-2-decades-cyber-fails",
+          "isoDate": "2026-05-18T12:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Alexander Culafi",
+          "title": "Can Laws Stop Deepfakes? South Korea Aims to Find Out",
+          "link": "https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea",
+          "pubDate": "Mon, 18 May 2026 01:00:00 GMT",
+          "dc:creator": "Alexander Culafi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea",
+          "isoDate": "2026-05-18T01:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Rob Wright",
+          "title": "Congress Puts Heat on Instructure After Canvas Outage",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks",
+          "pubDate": "Fri, 15 May 2026 20:19:20 GMT",
+          "dc:creator": "Rob Wright",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks",
+          "isoDate": "2026-05-15T20:19:20.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Kelly Jackson Higgins, Becky Bracken",
+          "title": "Cyber Pioneers Ponder Past as Prologue",
+          "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue",
+          "pubDate": "Fri, 15 May 2026 12:00:00 GMT",
+          "dc:creator": "Kelly Jackson Higgins, Becky Bracken",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue",
+          "isoDate": "2026-05-15T12:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "creator": "Robert Lemos",
-          "title": "Taiwan Incident Highlights Cybersecurity Gaps in Rail Systems",
+          "title": "Taiwan Bullet Train Hack Highlights Cybersecurity Gaps in Rail Systems",
           "link": "https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps",
           "pubDate": "Fri, 15 May 2026 01:00:00 GMT",
           "dc:creator": "Robert Lemos",
@@ -4500,20 +4618,6 @@
           "summary": ""
         },
         {
-          "creator": "Alexander Culafi",
-          "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
-          "link": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
-          "pubDate": "Wed, 13 May 2026 13:00:00 GMT",
-          "dc:creator": "Alexander Culafi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
-          "isoDate": "2026-05-13T13:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
           "creator": "Robert Lemos",
           "title": "China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm",
           "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm",
@@ -4522,6 +4626,20 @@
           "content": "",
           "contentSnippet": "",
           "guid": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm",
+          "isoDate": "2026-05-13T13:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Alexander Culafi",
+          "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
+          "link": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
+          "pubDate": "Wed, 13 May 2026 13:00:00 GMT",
+          "dc:creator": "Alexander Culafi",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
           "isoDate": "2026-05-13T13:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
@@ -4696,20 +4814,6 @@
           "summary": ""
         },
         {
-          "creator": "Nate Nelson",
-          "title": "AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems",
-          "link": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
-          "pubDate": "Thu, 07 May 2026 13:00:00 GMT",
-          "dc:creator": "Nate Nelson",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
-          "isoDate": "2026-05-07T13:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
           "creator": "Jai Vijayan",
           "title": "'TrustFall' Convention Exposes Claude Code Execution Risk",
           "link": "https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk",
@@ -4718,6 +4822,20 @@
           "content": "",
           "contentSnippet": "",
           "guid": "https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk",
+          "isoDate": "2026-05-07T13:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "creator": "Nate Nelson",
+          "title": "AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems",
+          "link": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
+          "pubDate": "Thu, 07 May 2026 13:00:00 GMT",
+          "dc:creator": "Nate Nelson",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
           "isoDate": "2026-05-07T13:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
@@ -4932,132 +5050,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "creator": "Nate Nelson",
-          "title": "76% of All Crypto Stolen in 2026 Is Now in North Korea",
-          "link": "https://www.darkreading.com/cybersecurity-analytics/crypto-stolen-2026-north-korea",
-          "pubDate": "Fri, 01 May 2026 20:34:27 GMT",
-          "dc:creator": "Nate Nelson",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darkreading.com/cybersecurity-analytics/crypto-stolen-2026-north-korea",
-          "isoDate": "2026-05-01T20:34:27.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Alexander Culafi",
-          "title": "If AI's So Smart, Why Does It Keep Deleting Production Databases?",
-          "link": "https://www.darkreading.com/cloud-security/ais-so-smart-keep-deleting-production-databases",
-          "pubDate": "Fri, 01 May 2026 14:39:55 GMT",
-          "dc:creator": "Alexander Culafi",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darkreading.com/cloud-security/ais-so-smart-keep-deleting-production-databases",
-          "isoDate": "2026-05-01T14:39:55.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "John Klossner",
-          "title": "Name That Toon: Mark of (Security) Progress",
-          "link": "https://www.darkreading.com/cybersecurity-operations/name-that-toon-mark-security-progress",
-          "pubDate": "Fri, 01 May 2026 12:00:55 GMT",
-          "dc:creator": "John Klossner",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darkreading.com/cybersecurity-operations/name-that-toon-mark-security-progress",
-          "isoDate": "2026-05-01T12:00:55.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Kelly Jackson Higgins",
-          "title": "20 Years in Cyber: Dark Reading Marks Milestone With Month of Special Coverage",
-          "link": "https://www.darkreading.com/cybersecurity-operations/20-years-cyber-dark-reading-milestone-special-coverage",
-          "pubDate": "Fri, 01 May 2026 12:00:00 GMT",
-          "dc:creator": "Kelly Jackson Higgins",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darkreading.com/cybersecurity-operations/20-years-cyber-dark-reading-milestone-special-coverage",
-          "isoDate": "2026-05-01T12:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Rob Wright",
-          "title": "TeamPCP Hits SAP Packages With 'Mini Shai-Hulud' Attack",
-          "link": "https://www.darkreading.com/cloud-security/teampcp-sap-packages-mini-shai-hulud",
-          "pubDate": "Thu, 30 Apr 2026 21:01:18 GMT",
-          "dc:creator": "Rob Wright",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darkreading.com/cloud-security/teampcp-sap-packages-mini-shai-hulud",
-          "isoDate": "2026-04-30T21:01:18.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nate Nelson",
-          "title": "Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug",
-          "link": "https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug",
-          "pubDate": "Thu, 30 Apr 2026 20:41:18 GMT",
-          "dc:creator": "Nate Nelson",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug",
-          "isoDate": "2026-04-30T20:41:18.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Becky Bracken, Kristina Beek",
-          "title": "Anthropic's Mythos Has Landed: Here's What Comes Next for Cyber",
-          "link": "https://www.darkreading.com/cybersecurity-operations/anthropic-mythos-cyber-what-comes-next",
-          "pubDate": "Thu, 30 Apr 2026 19:09:21 GMT",
-          "dc:creator": "Becky Bracken, Kristina Beek",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darkreading.com/cybersecurity-operations/anthropic-mythos-cyber-what-comes-next",
-          "isoDate": "2026-04-30T19:09:21.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Arielle Waldman",
-          "title": "Oracle Red Bull Racing Team Revs Up Automation to Boost Security",
-          "link": "https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security",
-          "pubDate": "Thu, 30 Apr 2026 13:45:58 GMT",
-          "dc:creator": "Arielle Waldman",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security",
-          "isoDate": "2026-04-30T13:45:58.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "creator": "Nate Nelson",
-          "title": "Claude Mythos Fears Startle Japan's Financial Services Sector",
-          "link": "https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector",
-          "pubDate": "Thu, 30 Apr 2026 00:00:00 GMT",
-          "dc:creator": "Nate Nelson",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector",
-          "isoDate": "2026-04-30T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "feedUrl": "https://www.darkreading.com/feeds/rss.xml",
@@ -5072,125 +5064,182 @@
     "CIO": {
       "items": [
         {
-          "title": "AI 시대 CIO, ‘생존 시험대’ 올랐다…조직 혁신·AI 역량이 성패 좌우",
-          "link": "https://www.cio.com/article/4171513/ai-%ec%8b%9c%eb%8c%80-cio-%ec%83%9d%ec%a1%b4-%ec%8b%9c%ed%97%98%eb%8c%80-%ec%98%ac%eb%9e%90%eb%8b%a4%ec%a1%b0%ec%a7%81-%ed%98%81%ec%8b%a0%c2%b7ai-%ec%97%ad%eb%9f%89.html",
-          "pubDate": "Fri, 15 May 2026 04:40:44 +0000",
+          "title": "오픈텍스트, 버티카 사업부 매각 완료…AI·정보관리 분야 집중 확대",
+          "link": "https://www.cio.com/article/4172702/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%eb%b2%84%ed%8b%b0%ec%b9%b4-%ec%82%ac%ec%97%85%eb%b6%80-%eb%a7%a4%ea%b0%81-%ec%99%84%eb%a3%8c-ai%c2%b7%ec%a0%95%eb%b3%b4%ea%b4%80%eb%a6%ac-%eb%b6%84.html",
+          "pubDate": "Tue, 19 May 2026 03:16:14 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/05/4171513-0-08302100-1778820060-AI-ROI-shutterstock_2724981019.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2026/05/4172702-0-16597400-1779160589-shutterstock_1495419107.jpg?quality=50&strip=all",
             "length": "0",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Artificial Intelligence, Business IT Alignment, C-Suite, Careers, CIO, IT Leadership, IT Strategy"
+            "Analytics, Big Data"
           ],
-          "isoDate": "2026-05-15T04:40:44.000Z",
+          "isoDate": "2026-05-19T03:16:14.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "앤트로픽, 클로드 에이전트 과금 전환…‘무제한 AI’ 시대 막 내리나",
-          "link": "https://www.cio.com/article/4171503/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%9c%a0%eb%a3%8c%ed%99%94-%ec%a0%84%ed%99%98%ec%a0%95%ec%95%a1.html",
-          "pubDate": "Fri, 15 May 2026 03:22:21 +0000",
+          "title": "엑슨모빌 ‘기초부터’ vs 리바이스 ‘1000개 에이전트’···SAP 고객 사례로 본 AI 전략",
+          "link": "https://www.cio.com/article/4172139/%ec%97%91%ec%8a%a8%eb%aa%a8%eb%b9%8c-%ea%b8%b0%ec%b4%88%eb%b6%80%ed%84%b0-vs-%eb%a6%ac%eb%b0%94%ec%9d%b4%ec%8a%a4-1000%ea%b0%9c-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8.html",
+          "pubDate": "Tue, 19 May 2026 02:27:00 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/05/4171503-0-14173200-1778815449-shutterstock_editorial_2338803257.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2026/05/4172139-0-02109900-1779159487-사진자료3-SAP-사파이어-2026-현장.jpg?quality=50&strip=all",
             "length": "0",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Artificial Intelligence, Development Tools, Software Development"
+            "SAP, Vendors and Providers"
           ],
-          "isoDate": "2026-05-15T03:22:21.000Z",
+          "isoDate": "2026-05-19T02:27:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "전통 IT 사일로 해체…비즈니스 성과 직결 구조로 진화하는 CIO 전략",
-          "link": "https://www.cio.com/article/4171091/%ec%a0%84%ed%86%b5-it-%ec%82%ac%ec%9d%bc%eb%a1%9c-%ed%95%b4%ec%b2%b4%eb%b9%84%ec%a6%88%eb%8b%88%ec%8a%a4-%ec%84%b1%ea%b3%bc-%ec%a7%81%ea%b2%b0-%ea%b5%ac%ec%a1%b0%eb%a1%9c-%ec%a7%84%ed%99%94.html",
-          "pubDate": "Fri, 15 May 2026 01:01:00 +0000",
+          "title": "글로벌 기업이 먼저 경험한 변화…AI 에이전트, 매출을 증명하다",
+          "link": "https://www.cio.com/article/4172133/%ea%b8%80%eb%a1%9c%eb%b2%8c-%ea%b8%b0%ec%97%85%ec%9d%b4-%eb%a8%bc%ec%a0%80-%ea%b2%bd%ed%97%98%ed%95%9c-%eb%b3%80%ed%99%94ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%a7%a4%ec%b6%9c%ec%9d%84.html",
+          "pubDate": "Tue, 19 May 2026 02:25:00 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/05/4171091-0-35322800-1778806967-shutterstock_2546315823.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2026/05/4172133-0-18556300-1779157634-bad-AI-behavior-shutterstock_2698872289.jpg?quality=50&strip=all",
             "length": "0",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Business IT Alignment, IT Leadership, IT Operations, IT Strategy"
+            "Artificial Intelligence, C-Suite, Careers, CIO, Emerging Technology, Industry, IT Governance, IT Leadership, IT Management, IT Strategy, Markets, Retail Industry, ROI and Metrics, Vendor Management, Vendors and Providers"
           ],
-          "isoDate": "2026-05-15T01:01:00.000Z",
+          "isoDate": "2026-05-19T02:25:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "グローバルレベルの最先端テクノロジーに触れ、社会実装できる魅力（後編）",
-          "link": "https://www.cio.com/article/4166751/%e3%82%b0%e3%83%ad%e3%83%bc%e3%83%90%e3%83%ab%e3%83%ac%e3%83%99%e3%83%ab%e3%81%ae%e6%9c%80%e5%85%88%e7%ab%af%e3%83%86%e3%82%af%e3%83%8e%e3%83%ad%e3%82%b8%e3%83%bc%e3%81%ab%e8%a7%a6%e3%82%8c%e3%80%81.html",
-          "pubDate": "Thu, 14 May 2026 23:00:00 +0000",
+          "title": "¿Eres el próximo CIO? El programa que busca a los nuevos líderes tecnológicos de España",
+          "link": "https://www.cio.com/article/4172427/eres-el-proximo-cio-el-programa-que-busca-a-los-nuevos-lideres-tecnologicos-de-espana.html",
+          "pubDate": "Mon, 18 May 2026 15:20:10 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/05/4166751-0-02793200-1778799701-DSC09608.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2026/05/4172427-0-59503200-1779118501-brooke-lark-nMffL1zjbw4-unsplash.jpg?quality=50&strip=all",
             "length": "0",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "C-Suite, Careers, CIO"
+            "Careers, IT Leadership"
           ],
-          "isoDate": "2026-05-14T23:00:00.000Z",
+          "isoDate": "2026-05-18T15:20:10.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "テックリーダーこそ採用凍結をリードすべき",
-          "link": "https://www.cio.com/article/4169104/%e3%83%86%e3%83%83%e3%82%af%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc%e3%81%93%e3%81%9d%e6%8e%a1%e7%94%a8%e5%87%8d%e7%b5%90%e3%82%92%e3%83%aa%e3%83%bc%e3%83%89%e3%81%99%e3%81%b9%e3%81%8d.html",
-          "pubDate": "Thu, 14 May 2026 23:00:00 +0000",
+          "title": "From tools to workflows: Rethinking the SDLC for the AI age",
+          "link": "https://www.cio.com/article/4171896/from-tools-to-workflows-rethinking-the-sdlc-for-the-ai-age.html",
+          "pubDate": "Mon, 18 May 2026 12:00:00 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/05/4169104-0-26807500-1778799711-vitaly-gariev-jEpZNyFSQwQ-unsplash.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2026/05/4171896-0-30218400-1779105761-shutterstock_2398704107.jpg?quality=50&strip=all",
             "length": "0",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Artificial Intelligence, C-Suite, Careers, CIO"
+            "Artificial Intelligence, Development Approaches, IT Leadership, Software Development"
           ],
-          "isoDate": "2026-05-14T23:00:00.000Z",
+          "isoDate": "2026-05-18T12:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "AI, power and the trade-off between freedom and innovation",
-          "link": "https://www.cio.com/article/4170936/ai-power-and-the-trade-off-between-freedom-and-innovation.html",
-          "pubDate": "Thu, 14 May 2026 12:00:00 +0000",
+          "title": "AI is rewriting the software development playbook",
+          "link": "https://www.cio.com/article/4171890/ai-is-rewriting-the-software-development-playbook.html",
+          "pubDate": "Mon, 18 May 2026 11:00:00 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/05/4170936-0-68278900-1778760177-shutterstock_1597207429.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2026/05/4171890-0-97342800-1779102158-mario-verduzco-Rn6n5Lh1BdA-unsplash.jpg?quality=50&strip=all",
             "length": "0",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Artificial Intelligence, Data Governance, Data Management, Government, Industry, IT Governance, IT Leadership, Laws and Regulations, Markets"
+            "Artificial Intelligence, IT Leadership, Software Development"
           ],
-          "isoDate": "2026-05-14T12:00:00.000Z",
+          "isoDate": "2026-05-18T11:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "Building an AI CoE: Why you need one and how to make it work",
-          "link": "https://www.cio.com/article/4170899/building-an-ai-coe-why-you-need-one-and-how-to-make-it-work.html",
-          "pubDate": "Thu, 14 May 2026 11:00:00 +0000",
+          "title": "Sovereign AI: Why CIOs can no longer outsource control",
+          "link": "https://www.cio.com/article/4172258/sovereign-ai-why-cios-can-no-longer-outsource-control.html",
+          "pubDate": "Mon, 18 May 2026 10:06:39 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/05/4170899-0-33378600-1778756546-shutterstock_2635605105.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2026/05/4172258-0-83774100-1779099053-shutterstock_1941541432.jpg?quality=50&strip=all",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence"
+          ],
+          "isoDate": "2026-05-18T10:06:39.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "CEOs’ top priorities for IT leaders today",
+          "link": "https://www.cio.com/article/4171959/ceos-top-priorities-for-it-leaders-today-2.html",
+          "pubDate": "Mon, 18 May 2026 10:01:00 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2026/05/4171959-0-86771000-1779098736-shutterstock_2280717447.jpg?quality=50&strip=all",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Artificial Intelligence, CIO, Digital Transformation, IT Leadership, IT Strategy"
+          ],
+          "isoDate": "2026-05-18T10:01:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "What is a data architect? Skills, salaries, and how to become a data framework master",
+          "link": "https://www.cio.com/article/190852/what-is-a-data-architect-its-data-framework-visionary.html",
+          "pubDate": "Mon, 18 May 2026 10:00:00 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2026/05/190852-0-73616600-1779098585-architecture_architectural-tools_wood-grain_compass_photo-by-jeff-sheldon-on-unsplash-100809521-orig.jpg?quality=50&strip=all",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "content": "",
+          "contentSnippet": "",
+          "categories": [
+            "Analytics, Careers, Data Architecture, Data Management, IT Skills and Training"
+          ],
+          "isoDate": "2026-05-18T10:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "The real AI bottleneck isn’t what you think",
+          "link": "https://www.cio.com/article/4171887/the-real-ai-bottleneck-isnt-what-you-think.html",
+          "pubDate": "Mon, 18 May 2026 10:00:00 +0000",
+          "enclosure": {
+            "url": "https://www.cio.com/wp-content/uploads/2026/05/4171887-0-42904700-1779098590-elwis-musa-tambuwun-kc_QALEUTV4-unsplash.jpg?quality=50&strip=all",
             "length": "0",
             "type": "image/jpeg"
           },
@@ -5199,265 +5248,208 @@
           "categories": [
             "Artificial Intelligence, Digital Transformation, IT Leadership"
           ],
-          "isoDate": "2026-05-14T11:00:00.000Z",
+          "isoDate": "2026-05-18T10:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "AI-driven layoffs aren’t making business sense",
-          "link": "https://www.cio.com/article/4171054/ai-driven-layoffs-arent-making-business-sense.html",
-          "pubDate": "Thu, 14 May 2026 10:01:00 +0000",
+          "title": "When AI moves to production, infrastructure becomes strategy",
+          "link": "https://www.cio.com/article/4172247/when-ai-moves-to-production-infrastructure-becomes-strategy.html",
+          "pubDate": "Mon, 18 May 2026 09:48:11 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/05/4171054-0-14865300-1778753091-AI-IT-hiring-shutterstock_2648601969.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2026/05/4172247-0-58507200-1779099120-ClientSuppliedBlog4_shutterstock_2618657371.jpg?quality=50&strip=all",
             "length": "0",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Artificial Intelligence, IT Leadership, ROI and Metrics"
+            "Artificial Intelligence"
           ],
-          "isoDate": "2026-05-14T10:01:00.000Z",
+          "isoDate": "2026-05-18T09:48:11.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "CIOs are put to the test as security regulations across borders recalibrate",
-          "link": "https://www.cio.com/article/4164423/cios-are-put-to-the-test-as-security-regulations-across-borders-recalibrate.html",
-          "pubDate": "Thu, 14 May 2026 10:00:00 +0000",
+          "title": "The AI deployment gap enterprises can’t afford to ignore",
+          "link": "https://www.cio.com/article/4172213/the-ai-deployment-gap-enterprises-cant-afford-to-ignore.html",
+          "pubDate": "Mon, 18 May 2026 09:17:14 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/05/4164423-0-31007600-1778753016-Europe-EU-tech-chip_shutterstock_1343083016.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2026/05/4172213-0-63754400-1779099183-shutterstock_633365168.jpg?quality=50&strip=all",
             "length": "0",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Business Operations, C-Suite, Careers, CIO, Government, Industry, Internet of Things, IoT Security, Laws and Regulations, Markets, Networking, Security, Supply Chain"
+            "Artificial Intelligence"
           ],
-          "isoDate": "2026-05-14T10:00:00.000Z",
+          "isoDate": "2026-05-18T09:17:14.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "How deepfakes are rewriting the rules of the modern workplace",
-          "link": "https://www.cio.com/article/4170894/how-deepfakes-are-rewriting-the-rules-of-the-modern-workplace.html",
-          "pubDate": "Thu, 14 May 2026 10:00:00 +0000",
+          "title": "The AI data governance gap that keeps getting worse",
+          "link": "https://www.cio.com/article/4171880/the-ai-data-governance-gap-that-keeps-getting-worse.html",
+          "pubDate": "Mon, 18 May 2026 09:00:00 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/05/4170894-0-75392200-1778752998-shutterstock_2431635551.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2026/05/4171880-0-22752300-1779094935-sammie-chaffin-Zdf3zn5XXtU-unsplash.jpg?quality=50&strip=all",
             "length": "0",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Cybercrime, Security"
+            "Artificial Intelligence, Data Governance, Data Management, IT Leadership"
           ],
-          "isoDate": "2026-05-14T10:00:00.000Z",
+          "isoDate": "2026-05-18T09:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "Decision-making speed is a hidden constraint on transformation success",
-          "link": "https://www.cio.com/article/4170885/decision-making-speed-is-a-hidden-constraint-on-transformation-success.html",
-          "pubDate": "Thu, 14 May 2026 09:00:00 +0000",
+          "title": "Los mayores errores que cometen los CIO en el consejo y cómo evitarlos",
+          "link": "https://www.cio.com/article/4172183/los-mayores-errores-que-cometen-los-cio-en-el-consejo-y-como-evitarlos.html",
+          "pubDate": "Mon, 18 May 2026 08:33:31 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/05/4170885-0-15587800-1778749361-shutterstock_1121356931-100963231-orig.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2026/05/4172183-0-51874300-1779093226-aakriti-raina-HRsi-QzS3zw-unsplash.jpg?quality=50&strip=all",
             "length": "0",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Digital Transformation, IT Leadership"
+            "IT Leadership, IT Strategy"
           ],
-          "isoDate": "2026-05-14T09:00:00.000Z",
+          "isoDate": "2026-05-18T08:33:31.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "La IA impone a los CIO expectativas que pueden determinar su éxito o su fracaso",
-          "link": "https://www.cio.com/article/4171159/la-ia-impone-a-los-cio-expectativas-que-pueden-determinar-su-exito-o-su-fracaso.html",
-          "pubDate": "Thu, 14 May 2026 08:49:49 +0000",
+          "title": "Los despidos impulsados por la IA no tienen sentido desde el punto de vista empresarial",
+          "link": "https://www.cio.com/article/4172152/los-despidos-impulsados-por-la-ia-no-tienen-sentido-desde-el-punto-de-vista-empresarial.html",
+          "pubDate": "Mon, 18 May 2026 07:59:01 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/05/4171159-0-41785100-1778748603-brett-jordan-38lLT-lopwU-unsplash.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2026/05/4172152-0-08412400-1779091318-ddp-g-u2XlUqAXA-unsplash_a8a926.jpg?quality=50&strip=all",
             "length": "0",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Artificial Intelligence, Careers, Generative AI, IT Leadership"
+            "Artificial Intelligence, Careers, Digital Transformation, Generative AI, IT Leadership"
           ],
-          "isoDate": "2026-05-14T08:49:49.000Z",
+          "isoDate": "2026-05-18T07:59:01.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "AI 솔루션 과잉 시대…메가존클라우드, FDE·AIR 스튜디오로 해법 제시",
-          "link": "https://www.cio.com/article/4171127/ai-%ec%86%94%eb%a3%a8%ec%85%98-%ea%b3%bc%ec%9e%89-%ec%8b%9c%eb%8c%80%eb%a9%94%ea%b0%80%ec%a1%b4%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-fde%c2%b7air-%ec%8a%a4%ed%8a%9c%eb%94%94%ec%98%a4%eb%a1%9c.html",
-          "pubDate": "Thu, 14 May 2026 07:04:55 +0000",
+          "title": "AWS, 베드록에 ‘프롬프트 최적화’ 기능 추가… 생성형 AI 비용 절감 지원",
+          "link": "https://www.cio.com/article/4172124/aws-%eb%b2%a0%eb%93%9c%eb%a1%9d%ec%97%90-%ed%94%84%eb%a1%ac%ed%94%84%ed%8a%b8-%ec%b5%9c%ec%a0%81%ed%99%94-%ea%b8%b0%eb%8a%a5-%ec%b6%94%ea%b0%80-%ec%83%9d%ec%84%b1%ed%98%95.html",
+          "pubDate": "Mon, 18 May 2026 06:26:58 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/05/4171127-0-02536300-1778742498-megazone_260514.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2026/05/4172124-0-33223700-1779085634-shutterstock_editorial_2291744775.jpg?quality=50&strip=all",
             "length": "0",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Artificial Intelligence, Cloud Computing, Managed Cloud Services"
+            "Amazon Web Services, Artificial Intelligence, Cloud Computing, Development Tools, Generative AI, Software Development"
           ],
-          "isoDate": "2026-05-14T07:04:55.000Z",
+          "isoDate": "2026-05-18T06:26:58.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "Casi todas las empresas invierten en IA, pero solo el 5% asegura que sus datos están preparados",
-          "link": "https://www.cio.com/article/4171118/casi-todas-las-empresas-invierten-en-ia-pero-solo-el-5-asegura-que-sus-datos-estan-preparados.html",
-          "pubDate": "Thu, 14 May 2026 06:07:55 +0000",
+          "title": "칼럼 | AI끼리 돈 주고받는다…‘머신 페이먼트’ 시대 본격 개막",
+          "link": "https://www.cio.com/article/4171519/%ec%b9%bc%eb%9f%bc-ai%eb%81%bc%eb%a6%ac-%eb%8f%88-%ec%a3%bc%ea%b3%a0%eb%b0%9b%eb%8a%94%eb%8b%a4%eb%a8%b8%ec%8b%a0-%ed%8e%98%ec%9d%b4%eb%a8%bc%ed%8a%b8-%ec%8b%9c%eb%8c%80.html",
+          "pubDate": "Mon, 18 May 2026 05:31:19 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/05/4171118-0-85393900-1778738892-zach-m-7F9PhBM1gFM-unsplash.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2026/05/4171519-0-48315100-1779082362-shutterstock_1207764520.jpg?quality=50&strip=all",
             "length": "0",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Artificial Intelligence, Generative AI, IT Leadership, IT Strategy"
+            "Artificial Intelligence, Financial Services Industry, Fintech, Industry, Markets"
           ],
-          "isoDate": "2026-05-14T06:07:55.000Z",
+          "isoDate": "2026-05-18T05:31:19.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "SAP admite una lenta acogida de sus propuestas de IA",
-          "link": "https://www.cio.com/article/4170888/sap-admite-una-lenta-acogida-de-sus-propuestas-de-ia.html",
-          "pubDate": "Thu, 14 May 2026 04:59:11 +0000",
+          "title": "에이전틱 AI 시대, 보안관제 인력 재교육 위한 8가지 원칙",
+          "link": "https://www.cio.com/article/4171516/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-%ec%8b%9c%eb%8c%80-%eb%b3%b4%ec%95%88%ea%b4%80%ec%a0%9c-%ec%9d%b8%eb%a0%a5-%ec%9e%ac%ea%b5%90%ec%9c%a1-%ec%9c%84%ed%95%9c-8%ea%b0%80%ec%a7%80-%ec%9b%90.html",
+          "pubDate": "Mon, 18 May 2026 05:10:00 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/05/4170888-0-44391800-1778734766-SAP_SAPPHIRE25ORL_15010.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2026/05/4171516-0-57804600-1779081089-shutterstock_2079730678.jpg?quality=50&strip=all",
             "length": "0",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Artificial Intelligence, Enterprise Applications, Generative AI, Vendors and Providers"
+            "Artificial Intelligence, Careers, IT Skills and Training, Security Operations Center"
           ],
-          "isoDate": "2026-05-14T04:59:11.000Z",
+          "isoDate": "2026-05-18T05:10:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "“편리함 뒤의 리스크”…오픈AI FDE 모델, CIO 통제 이슈 부상",
-          "link": "https://www.cio.com/article/4171102/%ed%8e%b8%eb%a6%ac%ed%95%a8-%eb%92%a4%ec%9d%98-%eb%a6%ac%ec%8a%a4%ed%81%ac%ec%98%a4%ed%94%88ai-fde-%eb%aa%a8%eb%8d%b8-cio-%ed%86%b5%ec%a0%9c-%ec%9d%b4%ec%8a%88-%eb%b6%80.html",
-          "pubDate": "Thu, 14 May 2026 04:56:18 +0000",
+          "title": "AIはCEOの仕事か、CIOの仕事かーAI時代のリーダーシップ論",
+          "link": "https://www.cio.com/article/4169108/ai%e3%81%afceo%e3%81%ae%e4%bb%95%e4%ba%8b%e3%81%8b%e3%80%81cio%e3%81%ae%e4%bb%95%e4%ba%8b%e3%81%8b%e3%83%bcai%e6%99%82%e4%bb%a3%e3%81%ae%e3%83%aa%e3%83%bc%e3%83%80%e3%83%bc%e3%82%b7%e3%83%83%e3%83%97.html",
+          "pubDate": "Sun, 17 May 2026 23:00:00 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/05/4171102-0-69675700-1778734594-shutterstock_2525341257.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2026/05/4169108-0-15710100-1779058884-shutterstock_2196524059.jpg?quality=50&strip=all",
             "length": "0",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Artificial Intelligence, IT Consulting Services, IT Management, Outsourcing"
+            "Artificial Intelligence, C-Suite, Careers, CIO"
           ],
-          "isoDate": "2026-05-14T04:56:18.000Z",
+          "isoDate": "2026-05-17T23:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         },
         {
-          "title": "AWS, 그래비톤 기반 레드시프트 RG 인스턴스 공개… 분석 비용 절감 겨냥",
-          "link": "https://www.cio.com/article/4171080/aws-%ea%b7%b8%eb%9e%98%eb%b9%84%ed%86%a4-%ea%b8%b0%eb%b0%98-%eb%a0%88%eb%93%9c%ec%8b%9c%ed%94%84%ed%8a%b8-rg-%ec%9d%b8%ec%8a%a4%ed%84%b4%ec%8a%a4-%ea%b3%b5%ea%b0%9c-%eb%b6%84%ec%84%9d.html",
-          "pubDate": "Thu, 14 May 2026 02:54:30 +0000",
+          "title": "What is CMMI? A model to optimize development processes",
+          "link": "https://www.cio.com/article/274530/cmmi-explained.html",
+          "pubDate": "Fri, 15 May 2026 10:00:00 +0000",
           "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/05/4171080-0-97772400-1778727286-shutterstock_editorial_2329866433.jpg?quality=50&strip=all",
+            "url": "https://www.cio.com/wp-content/uploads/2026/05/274530-0-85740300-1778839329-1024px-framework_-_zeppelin_museum_friedrichshafen_-_dsc06840-100720369-orig.jpeg?quality=50&strip=all",
             "length": "0",
             "type": "image/jpeg"
           },
           "content": "",
           "contentSnippet": "",
           "categories": [
-            "Cloud Computing, Data Management, Databases"
+            "Development Tools, Engineer, IT Governance, IT Operations, IT Strategy, Project Management, Software Development"
           ],
-          "isoDate": "2026-05-14T02:54:30.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "파이썬은 OK, 문서는 위험···AI 한계 드러낸 MS 연구",
-          "link": "https://www.cio.com/article/4171069/%ed%8c%8c%ec%9d%b4%ec%8d%ac%ec%9d%80-ok-%eb%ac%b8%ec%84%9c%eb%8a%94-%ec%9c%84%ed%97%98%c2%b7%c2%b7%c2%b7ai-%ed%95%9c%ea%b3%84-%eb%93%9c%eb%9f%ac%eb%82%b8-ms-%ec%97%b0%ea%b5%ac.html",
-          "pubDate": "Thu, 14 May 2026 02:44:00 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/05/4171069-0-26705600-1778726655-bad-AI-behavior-shutterstock_2698872289.jpg?quality=50&strip=all",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Artificial Intelligence, Development Tools, Software Development"
-          ],
-          "isoDate": "2026-05-14T02:44:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "칼럼 | AI 에이전트가 데이터 삭제하면 책임은 누구에게 있나",
-          "link": "https://www.cio.com/article/4171059/%ec%b9%bc%eb%9f%bc-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b0%80-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%82%ad%ec%a0%9c%ed%95%98%eb%a9%b4-%ec%b1%85%ec%9e%84%ec%9d%80-%eb%88%84%ea%b5%ac%ec%97%90%ea%b2%8c.html",
-          "pubDate": "Thu, 14 May 2026 02:29:34 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/05/4171059-0-85630800-1778725788-Delete-Trash-button-on-a-white-keyboard-close-up.webp",
-            "length": "0",
-            "type": "image/webp"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "Artificial Intelligence, Data Governance, Data Management, IT Governance, IT Leadership"
-          ],
-          "isoDate": "2026-05-14T02:29:34.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "지정학 리스크 속 IT 리더십 재편…CIO, 글로벌 대응 역량 시험대에 올라",
-          "link": "https://www.cio.com/article/4170700/%ec%a7%80%ec%a0%95%ed%95%99-%eb%a6%ac%ec%8a%a4%ed%81%ac-%ec%86%8d-it-%eb%a6%ac%eb%8d%94%ec%8b%ad-%ec%9e%ac%ed%8e%b8cio-%ea%b8%80%eb%a1%9c%eb%b2%8c-%eb%8c%80%ec%9d%91-%ec%97%ad%eb%9f%89.html",
-          "pubDate": "Thu, 14 May 2026 01:37:00 +0000",
-          "enclosure": {
-            "url": "https://www.cio.com/wp-content/uploads/2026/05/4170700-0-22135900-1778722729-shutterstock_2090541787.jpg?quality=50&strip=all",
-            "length": "0",
-            "type": "image/jpeg"
-          },
-          "content": "",
-          "contentSnippet": "",
-          "categories": [
-            "CIO, Compliance, Data Management, IT Leadership, IT Operations, IT Strategy"
-          ],
-          "isoDate": "2026-05-14T01:37:00.000Z",
+          "isoDate": "2026-05-15T10:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
         }
       ],
-      "title": "AI 시대 CIO, ‘생존 시험대’ 올랐다…조직 혁신·AI 역량이 성패 좌우 | CIO",
+      "title": "오픈텍스트, 버티카 사업부 매각 완료…AI·정보관리 분야 집중 확대 | CIO",
       "description": "",
       "link": "https://www.cio.com",
       "language": "en",
       "copyright": "Copyright (c) 2026 FoundryCo, Inc.",
-      "lastBuildDate": "Fri, 15 May 2026 04:40:44 +0000",
+      "lastBuildDate": "Tue, 19 May 2026 03:16:14 +0000",
       "docs": "http://backend.userland.com/rss092"
     }
   }
