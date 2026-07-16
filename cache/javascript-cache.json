@@ -205,6 +205,18 @@
     "JavaScript Weekly": {
       "items": [
         {
+          "title": "npm 12, TypeScript 7, and Bun in Rust",
+          "link": "https://javascriptweekly.com/issues/794",
+          "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://javascriptweekly.com/issues/794",
+          "isoDate": "2026-07-14T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "What's new in ECMAScript 2026 (and usable today)",
           "link": "https://javascriptweekly.com/issues/793",
           "pubDate": "Tue, 7 Jul 2026 00:00:00 +0000",
@@ -239,18 +251,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "Flow vs TypeScript in 2026",
-          "link": "https://javascriptweekly.com/issues/790",
-          "pubDate": "Tue, 16 Jun 2026 00:00:00 +0000",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://javascriptweekly.com/issues/790",
-          "isoDate": "2026-06-16T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "title": "JavaScript Weekly",
@@ -259,6 +259,210 @@
     },
     "Flavio Copes": {
       "items": [
+        {
+          "title": "Versioning reference data with effective_from dates",
+          "link": "https://flaviocopes.com/versioned-pricing-data",
+          "pubDate": "Wed, 15 Jul 2026 05:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/versioned-pricing-data",
+          "isoDate": "2026-07-15T05:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "I launched fstack",
+          "link": "https://flaviocopes.com/i-launched-fstack",
+          "pubDate": "Tue, 14 Jul 2026 09:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/i-launched-fstack",
+          "isoDate": "2026-07-14T09:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "The AI Guide for Developers",
+          "link": "https://flaviocopes.com/ai",
+          "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/ai",
+          "isoDate": "2026-07-14T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "The Alpine.js Guide",
+          "link": "https://flaviocopes.com/alpine",
+          "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/alpine",
+          "isoDate": "2026-07-14T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "The Astro Guide",
+          "link": "https://flaviocopes.com/astro",
+          "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/astro",
+          "isoDate": "2026-07-14T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "The C Guide",
+          "link": "https://flaviocopes.com/c",
+          "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/c",
+          "isoDate": "2026-07-14T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "The Command Line Guide",
+          "link": "https://flaviocopes.com/cli",
+          "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/cli",
+          "isoDate": "2026-07-14T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "The Cloudflare Guide",
+          "link": "https://flaviocopes.com/cloudflare",
+          "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/cloudflare",
+          "isoDate": "2026-07-14T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "The Go Guide",
+          "link": "https://flaviocopes.com/go",
+          "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/go",
+          "isoDate": "2026-07-14T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "The HTML Guide",
+          "link": "https://flaviocopes.com/html",
+          "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/html",
+          "isoDate": "2026-07-14T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "The htmx Guide",
+          "link": "https://flaviocopes.com/htmx",
+          "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/htmx",
+          "isoDate": "2026-07-14T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "The Laravel Guide",
+          "link": "https://flaviocopes.com/laravel",
+          "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/laravel",
+          "isoDate": "2026-07-14T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "The PHP Guide",
+          "link": "https://flaviocopes.com/php",
+          "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/php",
+          "isoDate": "2026-07-14T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "The Python Guide",
+          "link": "https://flaviocopes.com/python",
+          "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/python",
+          "isoDate": "2026-07-14T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "The SQL and Databases Guide",
+          "link": "https://flaviocopes.com/sql",
+          "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/sql",
+          "isoDate": "2026-07-14T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "The Swift Guide",
+          "link": "https://flaviocopes.com/swift",
+          "pubDate": "Tue, 14 Jul 2026 07:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/swift",
+          "isoDate": "2026-07-14T07:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Transactional email from Workers with Resend",
+          "link": "https://flaviocopes.com/resend-transactional-email-workers",
+          "pubDate": "Tue, 14 Jul 2026 05:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/resend-transactional-email-workers",
+          "isoDate": "2026-07-14T05:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "How I use the same Git work log with Codex and ChatGPT",
           "link": "https://flaviocopes.com/log-codex-chatgpt-git-commits",
@@ -411,210 +615,6 @@
           "contentSnippet": "",
           "guid": "https://flaviocopes.com/cloudflare-drop",
           "isoDate": "2026-07-09T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Temporary Cloudflare accounts: agents can now deploy without signing up",
-          "link": "https://flaviocopes.com/cloudflare-temporary-accounts",
-          "pubDate": "Thu, 09 Jul 2026 05:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/cloudflare-temporary-accounts",
-          "isoDate": "2026-07-09T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Workers Cache: a cache in front of your Cloudflare Worker",
-          "link": "https://flaviocopes.com/cloudflare-workers-cache",
-          "pubDate": "Thu, 09 Jul 2026 05:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/cloudflare-workers-cache",
-          "isoDate": "2026-07-09T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Moondream 3.1 on Workers AI: fast vision at the edge",
-          "link": "https://flaviocopes.com/moondream-workers-ai",
-          "pubDate": "Thu, 09 Jul 2026 05:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/moondream-workers-ai",
-          "isoDate": "2026-07-09T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "inferencecost.dev: what will AI inference cost you at 10k users?",
-          "link": "https://flaviocopes.com/inferencecost",
-          "pubDate": "Wed, 08 Jul 2026 22:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/inferencecost",
-          "isoDate": "2026-07-08T22:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Sitebase: all the features your website needs, in one place",
-          "link": "https://flaviocopes.com/sitebase",
-          "pubDate": "Wed, 08 Jul 2026 22:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/sitebase",
-          "isoDate": "2026-07-08T22:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "StackPlan: figure out where to deploy your app, and what it'll cost",
-          "link": "https://flaviocopes.com/stackplan",
-          "pubDate": "Wed, 08 Jul 2026 22:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/stackplan",
-          "isoDate": "2026-07-08T22:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "How the Cloudflare Pages build cache works",
-          "link": "https://flaviocopes.com/cloudflare-pages-build-cache",
-          "pubDate": "Wed, 08 Jul 2026 05:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/cloudflare-pages-build-cache",
-          "isoDate": "2026-07-08T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "The Summer of Code",
-          "link": "https://flaviocopes.com/the-summer-of-code",
-          "pubDate": "Tue, 07 Jul 2026 22:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/the-summer-of-code",
-          "isoDate": "2026-07-07T22:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "How I generate an Open Graph image for every post",
-          "link": "https://flaviocopes.com/generate-og-images-astro",
-          "pubDate": "Tue, 07 Jul 2026 05:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/generate-og-images-astro",
-          "isoDate": "2026-07-07T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "New: 90 free tools for developers",
-          "link": "https://flaviocopes.com/introducing-tools",
-          "pubDate": "Mon, 06 Jul 2026 22:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/introducing-tools",
-          "isoDate": "2026-07-06T22:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "How I added search to my static site with Pagefind",
-          "link": "https://flaviocopes.com/static-site-search-pagefind",
-          "pubDate": "Mon, 06 Jul 2026 05:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/static-site-search-pagefind",
-          "isoDate": "2026-07-06T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "How to rebuild a Cloudflare site on a schedule",
-          "link": "https://flaviocopes.com/cloudflare-scheduled-rebuilds",
-          "pubDate": "Sat, 04 Jul 2026 05:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/cloudflare-scheduled-rebuilds",
-          "isoDate": "2026-07-04T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Cloudflare Email Workers: run code when an email arrives",
-          "link": "https://flaviocopes.com/cloudflare-email-workers",
-          "pubDate": "Fri, 03 Jul 2026 05:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/cloudflare-email-workers",
-          "isoDate": "2026-07-03T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Cloudflare Turnstile: stop bots without annoying CAPTCHAs",
-          "link": "https://flaviocopes.com/cloudflare-turnstile",
-          "pubDate": "Thu, 02 Jul 2026 05:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/cloudflare-turnstile",
-          "isoDate": "2026-07-02T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Cloudflare Workers: secrets and environments",
-          "link": "https://flaviocopes.com/cloudflare-workers-secrets-environments",
-          "pubDate": "Wed, 01 Jul 2026 05:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/cloudflare-workers-secrets-environments",
-          "isoDate": "2026-07-01T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Cloudflare Workers observability: logs and traces",
-          "link": "https://flaviocopes.com/cloudflare-workers-observability",
-          "pubDate": "Tue, 30 Jun 2026 05:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/cloudflare-workers-observability",
-          "isoDate": "2026-06-30T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Cloudflare Analytics Engine: store and query metrics",
-          "link": "https://flaviocopes.com/cloudflare-analytics-engine",
-          "pubDate": "Mon, 29 Jun 2026 05:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/cloudflare-analytics-engine",
-          "isoDate": "2026-06-29T05:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -890,7 +890,7 @@
       "link": "https://blog.appsignal.com",
       "feedUrl": "https://blog.appsignal.com/feed.xml",
       "title": "AppSignal",
-      "lastBuildDate": "2026-07-10T12:00:00+00:00"
+      "lastBuildDate": "2026-07-15T12:00:00+00:00"
     },
     "Total TypeScript": {
       "items": [
@@ -1202,7 +1202,7 @@
       "description": "Friendly articles and tutorials for front-end web developers. ❤️",
       "generator": "RSS for Node",
       "link": "https://www.joshwcomeau.com/",
-      "lastBuildDate": "Tue, 14 Jul 2026 05:48:34 GMT"
+      "lastBuildDate": "Thu, 16 Jul 2026 05:54:07 GMT"
     },
     "Philip Walton": {
       "items": [
