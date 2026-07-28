@@ -260,6 +260,54 @@
     "Flavio Copes": {
       "items": [
         {
+          "title": "How to build an Astro integration",
+          "link": "https://flaviocopes.com/build-astro-integration/",
+          "pubDate": "Mon, 27 Jul 2026 09:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/build-astro-integration/",
+          "isoDate": "2026-07-27T09:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "I launched migratingto.dev: exact playbooks for moving between platforms",
+          "link": "https://flaviocopes.com/migratingto/",
+          "pubDate": "Mon, 27 Jul 2026 08:30:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/migratingto/",
+          "isoDate": "2026-07-27T08:30:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Liquid Software: When Software Can Change Its Shape",
+          "link": "https://flaviocopes.com/liquid-software/",
+          "pubDate": "Mon, 27 Jul 2026 08:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/liquid-software/",
+          "isoDate": "2026-07-27T08:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Running LLMs locally vs paying for an API: the actual math",
+          "link": "https://flaviocopes.com/local-llm-vs-api-cost/",
+          "pubDate": "Mon, 27 Jul 2026 05:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/local-llm-vs-api-cost/",
+          "isoDate": "2026-07-27T05:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "Vercel Sandbox tutorial: run untrusted code safely",
           "link": "https://flaviocopes.com/vercel-sandbox/",
           "pubDate": "Sun, 26 Jul 2026 13:00:00 GMT",
@@ -279,6 +327,18 @@
           "contentSnippet": "",
           "guid": "https://flaviocopes.com/publish-typescript-package-npm/",
           "isoDate": "2026-07-26T09:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "I launched Calculum: practical calculators for real life",
+          "link": "https://flaviocopes.com/calculum/",
+          "pubDate": "Sun, 26 Jul 2026 08:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/calculum/",
+          "isoDate": "2026-07-26T08:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
@@ -558,66 +618,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "Dynamic sitemap.xml in Astro SSR",
-          "link": "https://flaviocopes.com/dynamic-sitemap-astro-ssr/",
-          "pubDate": "Sat, 18 Jul 2026 05:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/dynamic-sitemap-astro-ssr/",
-          "isoDate": "2026-07-18T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "How I added Polar payments to an Astro app",
-          "link": "https://flaviocopes.com/polar-payments-astro/",
-          "pubDate": "Fri, 17 Jul 2026 05:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/polar-payments-astro/",
-          "isoDate": "2026-07-17T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Better Auth in Astro on Cloudflare Workers",
-          "link": "https://flaviocopes.com/better-auth-astro-cloudflare/",
-          "pubDate": "Thu, 16 Jul 2026 05:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/better-auth-astro-cloudflare/",
-          "isoDate": "2026-07-16T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Versioning reference data with effective_from dates",
-          "link": "https://flaviocopes.com/versioned-pricing-data/",
-          "pubDate": "Wed, 15 Jul 2026 05:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/versioned-pricing-data/",
-          "isoDate": "2026-07-15T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "I launched fstack",
-          "link": "https://flaviocopes.com/i-launched-fstack/",
-          "pubDate": "Tue, 14 Jul 2026 09:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/i-launched-fstack/",
-          "isoDate": "2026-07-14T09:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "title": "Flavio Copes",
@@ -626,6 +626,19 @@
     },
     "AppSignal": {
       "items": [
+        {
+          "title": "Why Your Sidekiq Jobs Are Slower Than You Think, and How AppSignal Fixes That",
+          "link": "https://blog.appsignal.com/2026/07/27/why-your-sidekiq-jobs-are-slower-than-you-think-and-how-appsignal-fixes-that.html",
+          "pubDate": "2026-07-27T00:00:00.000Z",
+          "author": "Muhammed Ali",
+          "content": "",
+          "contentSnippet": "",
+          "summary": "",
+          "id": "https://blog.appsignal.com/2026/07/27/why-your-sidekiq-jobs-are-slower-than-you-think-and-how-appsignal-fixes-that.html",
+          "isoDate": "2026-07-27T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": ""
+        },
         {
           "title": "Monitoring Your Django App Health on Fly.io",
           "link": "https://blog.appsignal.com/2026/07/22/monitoring-your-django-app-health-on-fly-io.html",
@@ -872,25 +885,12 @@
           "isoDate": "2026-04-23T00:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": ""
-        },
-        {
-          "title": "Monitoring CPU and Memory on Your VPS with AppSignal",
-          "link": "https://blog.appsignal.com/2026/04/21/monitoring-cpu-and-memory-on-your-vps-with-appsignal.html",
-          "pubDate": "2026-04-21T00:00:00.000Z",
-          "author": "Muhammed Ali",
-          "content": "",
-          "contentSnippet": "",
-          "summary": "",
-          "id": "https://blog.appsignal.com/2026/04/21/monitoring-cpu-and-memory-on-your-vps-with-appsignal.html",
-          "isoDate": "2026-04-21T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": ""
         }
       ],
       "link": "https://blog.appsignal.com",
       "feedUrl": "https://blog.appsignal.com/feed.xml",
       "title": "AppSignal",
-      "lastBuildDate": "2026-07-26T09:00:00+00:00"
+      "lastBuildDate": "2026-07-27T10:00:00+00:00"
     },
     "Total TypeScript": {
       "items": [
@@ -1188,7 +1188,7 @@
       "description": "Friendly articles and tutorials for front-end web developers. ❤️",
       "generator": "RSS for Node",
       "link": "https://www.joshwcomeau.com/",
-      "lastBuildDate": "Mon, 27 Jul 2026 06:11:14 GMT"
+      "lastBuildDate": "Tue, 28 Jul 2026 05:59:17 GMT"
     },
     "Philip Walton": {
       "items": [
