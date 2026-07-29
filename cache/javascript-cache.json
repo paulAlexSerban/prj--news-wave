@@ -205,6 +205,18 @@
     "JavaScript Weekly": {
       "items": [
         {
+          "title": "Anders Hejlsberg demos TypeScript 7's 10x speedup",
+          "link": "https://javascriptweekly.com/issues/796",
+          "pubDate": "Tue, 28 Jul 2026 00:00:00 +0000",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://javascriptweekly.com/issues/796",
+          "isoDate": "2026-07-28T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
           "title": "The coding challenge you don't want to pass",
           "link": "https://javascriptweekly.com/issues/795",
           "pubDate": "Tue, 21 Jul 2026 00:00:00 +0000",
@@ -239,18 +251,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "Will npm v12 reject your .npmrc?",
-          "link": "https://javascriptweekly.com/issues/792",
-          "pubDate": "Tue, 30 Jun 2026 00:00:00 +0000",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://javascriptweekly.com/issues/792",
-          "isoDate": "2026-06-30T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "title": "JavaScript Weekly",
@@ -259,6 +259,66 @@
     },
     "Flavio Copes": {
       "items": [
+        {
+          "title": "Terraform for developers: a complete beginner's guide",
+          "link": "https://flaviocopes.com/terraform-for-developers/",
+          "pubDate": "Tue, 28 Jul 2026 13:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/terraform-for-developers/",
+          "isoDate": "2026-07-28T13:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Canvas UI puts WebGL shaders over real, interactive HTML",
+          "link": "https://flaviocopes.com/canvas-ui/",
+          "pubDate": "Tue, 28 Jul 2026 11:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/canvas-ui/",
+          "isoDate": "2026-07-28T11:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "Build a Vite plugin from scratch",
+          "link": "https://flaviocopes.com/vite-plugin-tutorial/",
+          "pubDate": "Tue, 28 Jul 2026 09:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/vite-plugin-tutorial/",
+          "isoDate": "2026-07-28T09:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "I launched Disaster Lab: know what to do when something breaks",
+          "link": "https://flaviocopes.com/disasterlab/",
+          "pubDate": "Tue, 28 Jul 2026 07:50:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/disasterlab/",
+          "isoDate": "2026-07-28T07:50:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
+        {
+          "title": "RAG chunking explained: chunk size, overlap, and what it costs",
+          "link": "https://flaviocopes.com/rag-chunking-explained/",
+          "pubDate": "Tue, 28 Jul 2026 05:00:00 GMT",
+          "content": "",
+          "contentSnippet": "",
+          "guid": "https://flaviocopes.com/rag-chunking-explained/",
+          "isoDate": "2026-07-28T05:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": "",
+          "summary": ""
+        },
         {
           "title": "How to build an Astro integration",
           "link": "https://flaviocopes.com/build-astro-integration/",
@@ -558,66 +618,6 @@
           "content:encoded": "",
           "content:encodedSnippet": "",
           "summary": ""
-        },
-        {
-          "title": "Vercel AI SDK tutorial: build a streaming chatbot with tools",
-          "link": "https://flaviocopes.com/vercel-ai-sdk/",
-          "pubDate": "Mon, 20 Jul 2026 13:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/vercel-ai-sdk/",
-          "isoDate": "2026-07-20T13:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Build a Chrome extension from scratch with JavaScript",
-          "link": "https://flaviocopes.com/chrome-extension-tutorial/",
-          "pubDate": "Mon, 20 Jul 2026 09:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/chrome-extension-tutorial/",
-          "isoDate": "2026-07-20T09:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Don't let the LLM do the math",
-          "link": "https://flaviocopes.com/dont-let-the-llm-do-the-math/",
-          "pubDate": "Mon, 20 Jul 2026 05:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/dont-let-the-llm-do-the-math/",
-          "isoDate": "2026-07-20T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "First-party analytics with SQLite",
-          "link": "https://flaviocopes.com/first-party-analytics-sqlite/",
-          "pubDate": "Sun, 19 Jul 2026 05:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/first-party-analytics-sqlite/",
-          "isoDate": "2026-07-19T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
-        },
-        {
-          "title": "Playwright tutorial: end-to-end testing from scratch",
-          "link": "https://flaviocopes.com/playwright-e2e-testing/",
-          "pubDate": "Sun, 19 Jul 2026 05:00:00 GMT",
-          "content": "",
-          "contentSnippet": "",
-          "guid": "https://flaviocopes.com/playwright-e2e-testing/",
-          "isoDate": "2026-07-19T05:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": "",
-          "summary": ""
         }
       ],
       "title": "Flavio Copes",
@@ -626,6 +626,19 @@
     },
     "AppSignal": {
       "items": [
+        {
+          "title": "AppSignal Launch Week 2026 Recap",
+          "link": "https://blog.appsignal.com/2026/07/28/appsignal-launch-week-2026-recap.html",
+          "pubDate": "2026-07-28T00:00:00.000Z",
+          "author": "Connor James",
+          "content": "",
+          "contentSnippet": "",
+          "summary": "",
+          "id": "https://blog.appsignal.com/2026/07/28/appsignal-launch-week-2026-recap.html",
+          "isoDate": "2026-07-28T00:00:00.000Z",
+          "content:encoded": "",
+          "content:encodedSnippet": ""
+        },
         {
           "title": "Why Your Sidekiq Jobs Are Slower Than You Think, and How AppSignal Fixes That",
           "link": "https://blog.appsignal.com/2026/07/27/why-your-sidekiq-jobs-are-slower-than-you-think-and-how-appsignal-fixes-that.html",
@@ -872,25 +885,12 @@
           "isoDate": "2026-04-24T00:00:00.000Z",
           "content:encoded": "",
           "content:encodedSnippet": ""
-        },
-        {
-          "title": "What Is Wrong With PaaS Today?",
-          "link": "https://blog.appsignal.com/2026/04/23/what-is-wrong-with-paas-today.html",
-          "pubDate": "2026-04-23T00:00:00.000Z",
-          "author": "Dejan Lukić",
-          "content": "",
-          "contentSnippet": "",
-          "summary": "",
-          "id": "https://blog.appsignal.com/2026/04/23/what-is-wrong-with-paas-today.html",
-          "isoDate": "2026-04-23T00:00:00.000Z",
-          "content:encoded": "",
-          "content:encodedSnippet": ""
         }
       ],
       "link": "https://blog.appsignal.com",
       "feedUrl": "https://blog.appsignal.com/feed.xml",
       "title": "AppSignal",
-      "lastBuildDate": "2026-07-27T10:00:00+00:00"
+      "lastBuildDate": "2026-07-28T13:00:00+00:00"
     },
     "Total TypeScript": {
       "items": [
@@ -1188,7 +1188,7 @@
       "description": "Friendly articles and tutorials for front-end web developers. ❤️",
       "generator": "RSS for Node",
       "link": "https://www.joshwcomeau.com/",
-      "lastBuildDate": "Tue, 28 Jul 2026 05:59:17 GMT"
+      "lastBuildDate": "Wed, 29 Jul 2026 06:01:50 GMT"
     },
     "Philip Walton": {
       "items": [
